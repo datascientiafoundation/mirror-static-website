@@ -12,10 +12,10 @@
 
 <channel>
 	<title>DataScientia</title>
-	<atom:link href="http://localhost/es/feed/?simply_static_page=12725" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/es/feed/?simply_static_page=16035" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Unitas per Varietatem</description>
-	<lastBuildDate>Wed, 03 May 2023 15:54:47 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 May 2023 16:48:35 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
