@@ -12,7 +12,7 @@
 
 <channel>
 	<title>News &#8211; DataScientia</title>
-	<atom:link href="http://localhost/news/feed/?simply_static_page=17922" rel="self" type="application/rss+xml" />
+	<atom:link href="/news/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Unitas per Varietatem</description>
 	<lastBuildDate>Wed, 22 Feb 2023 16:16:27 +0000</lastBuildDate>
@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/05/cropped-kidf-32x32.png</url>
@@ -290,7 +290,7 @@
 
 					<description><![CDATA[English and a handful of other languages dominate the internet, but this is leaving indigenous cultures without a voice online. Now they are fighting to get their own languages on the web. Imagine your favourite social media platform does not let you post in English. Now think of a keyboard that won’t allow you to &#8230;<p class="read-more"> <a class="" href="/news/the-many-languages-missing-from-the-internet/"> <span class="screen-reader-text">The many languages missing from the internet</span> Read More »</a></p>]]></description>
 										<content:encoded><![CDATA[
-<h4> English and a handful of other languages dominate the internet, but this is leaving indigenous cultures without a voice online. Now they are fighting to get their own languages on the web. </h4>
+<h4 class="wp-block-heading"> English and a handful of other languages dominate the internet, but this is leaving indigenous cultures without a voice online. Now they are fighting to get their own languages on the web. </h4>
 
 
 
