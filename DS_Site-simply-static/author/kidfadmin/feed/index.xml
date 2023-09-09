@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/05/cropped-kidf-32x32.png</url>
@@ -41,14 +41,13 @@
 		<guid isPermaLink="false">http://dreamtwo.disi.unitn.it/?p=24</guid>
 
 					<description><![CDATA[CategoriesCategories Select Category UKC Uncategorized Wenet]]></description>
-										<content:encoded><![CDATA[<div class="fl-builder-content fl-builder-content-24 fl-builder-content-primary" data-post-id="24"><div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5b26158445fc0" data-node="5b26158445fc0">
+										<content:encoded><![CDATA[<div class="fl-builder-content fl-builder-content-24 fl-builder-content-primary" data-post-id="24"><div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5b26158445fc0 fl-row-default-height fl-row-align-center" data-node="5b26158445fc0">
 	<div class="fl-row-content-wrap">
 						<div class="fl-row-content fl-row-fixed-width fl-node-content">
 		
 <div class="fl-col-group fl-node-5b26158448837" data-node="5b26158448837">
 			<div class="fl-col fl-node-5b261584489df" data-node="5b261584489df">
-	<div class="fl-col-content fl-node-content">
-	<div class="fl-module fl-module-widget fl-node-5b26158445ebd" data-node="5b26158445ebd">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-widget fl-node-5b26158445ebd" data-node="5b26158445ebd">
 	<div class="fl-module-content fl-node-content">
 		<div class="fl-widget">
 <div class="widget widget_categories"><h2 class="widgettitle">Categories</h2><form action="/" method="get"><label class="screen-reader-text" for="categories-dropdown--1">Categories</label><select  name='cat' id='categories-dropdown--1' class='postform'>
@@ -75,7 +74,7 @@
 			</div></div>
 	</div>
 </div>
-	</div>
+</div>
 </div>
 	</div>
 		</div>

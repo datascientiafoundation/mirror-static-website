@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/05/cropped-kidf-32x32.png</url>
@@ -37,7 +37,7 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 11 Apr 2022 16:13:00 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=news#038;p=13503</guid>
+				<guid isPermaLink="false">/?post_type=news&#038;p=13503</guid>
 
 					<description><![CDATA[Started a new research to study the universality of metonymy, featured at CogSci 2022.]]></description>
 										<content:encoded><![CDATA[
@@ -55,7 +55,7 @@
 		
 		<dc:creator><![CDATA[Xiaolei Diao]]></dc:creator>
 		<pubDate>Wed, 30 Mar 2022 12:42:24 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=news#038;p=11855</guid>
+				<guid isPermaLink="false">/?post_type=news&#038;p=11855</guid>
 
 					<description><![CDATA[We are delighted to announce that&#160;ICNLSP 2022, the 5th&#160;edition of the International Conference on Natural Language and Speech Processing, hosted by DataScientia (University of Trento) for the third time, will be held online, on 16-17 December 2022. We look forward to welcoming you to&#160;ICNLSP 2022&#160;that will be an opportunity to get acquainted with the latest &#8230;<p class="read-more"> <a class="" href="/news/icnlsp-2022-fifth-international-conference-on-natural-language-and-speech-processing/"> <span class="screen-reader-text">ICNLSP 2022: Fifth International Conference on Natural Language and Speech Processing</span> Read More »</a></p>]]></description>
 										<content:encoded><![CDATA[
@@ -104,7 +104,7 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 16 Mar 2022 16:10:00 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=news#038;p=13501</guid>
+				<guid isPermaLink="false">/?post_type=news&#038;p=13501</guid>
 
 					<description><![CDATA[We are happy to announce that our paper Language Diversity: Visible to Humans, Exploitable by Machines was accepted to the Demo Track of the ACL 2022 conference. See you in Dublin!]]></description>
 										<content:encoded><![CDATA[
@@ -123,7 +123,7 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 22 Feb 2022 16:06:00 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=news#038;p=13498</guid>
+				<guid isPermaLink="false">/?post_type=news&#038;p=13498</guid>
 
 					<description><![CDATA[We are proud to announce the LiveLanguage data catalogue where we are gradually making the contents of the entire database available for download. You can access the catalogue from the menu bar but also from individual lexicon pages. In terms of UKC database improvements, we have extracted and imported over 500k words from Wiktionary, increasing our language &#8230;<p class="read-more"> <a class="" href="/news/data-download-and-major-new-datasets/"> <span class="screen-reader-text">Data download and major new datasets!</span> Read More »</a></p>]]></description>
 										<content:encoded><![CDATA[
@@ -142,7 +142,7 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 03 Jan 2022 16:02:00 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=news#038;p=13497</guid>
+				<guid isPermaLink="false">/?post_type=news&#038;p=13497</guid>
 
 					<description><![CDATA[A lot has changed since the previous update. We updated the lexical data, improving quality and extending the coverage of lexical gaps at the same time. New projects have been added to the&#160;projects page. The look and feel of the site has been improved. Last but not least, check out the cool&#160;new visualisation tools&#160;on lexical &#8230;<p class="read-more"> <a class="" href="/news/happy-new-year-we-are-proud-to-announce-major-updates-to-projects-visualisations-and-data-quality/"> <span class="screen-reader-text">Happy new year! We are proud to announce major updates to projects, visualisations, and data quality. </span> Read More »</a></p>]]></description>
 										<content:encoded><![CDATA[
@@ -160,7 +160,7 @@
 		
 		<dc:creator><![CDATA[Xiaolei Diao]]></dc:creator>
 		<pubDate>Thu, 02 Sep 2021 11:31:20 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=news#038;p=8707</guid>
+				<guid isPermaLink="false">/?post_type=news&#038;p=8707</guid>
 
 					<description><![CDATA[The fourth edition of the International Conference on Natural Language and Speech Processing&#160;ICNLSP 2021, will be organized by the university of Trento.&#160;ICNLSP&#160;aims to attract contributions related to natural language and speech processing in basic theories and applications as well. Regular and posters sessions will be organized, in addition to keynotes presented by senior international researchers.The &#8230;<p class="read-more"> <a class="" href="/news/icnlsp-2021-4th-international-conference-on-natural-language-and-speech-processing/"> <span class="screen-reader-text">ICNLSP 2021: 4th International Conference on Natural Language and Speech Processing</span> Read More »</a></p>]]></description>
 										<content:encoded><![CDATA[
@@ -230,7 +230,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 10 Aug 2021 15:57:00 +0000</pubDate>
 				<category><![CDATA[UKC]]></category>
-		<guid isPermaLink="false">/?post_type=news#038;p=13495</guid>
+		<guid isPermaLink="false">/?post_type=news&#038;p=13495</guid>
 
 					<description><![CDATA[We extended the coverage of languages, and now are displaying lexical gaps!]]></description>
 										<content:encoded><![CDATA[
@@ -250,7 +250,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 22 Feb 2021 15:54:00 +0000</pubDate>
 				<category><![CDATA[UKC]]></category>
-		<guid isPermaLink="false">/?post_type=news#038;p=13494</guid>
+		<guid isPermaLink="false">/?post_type=news&#038;p=13494</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -266,7 +266,7 @@
 		
 		<dc:creator><![CDATA[kidfadmin]]></dc:creator>
 		<pubDate>Mon, 11 May 2020 12:12:02 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=news#038;p=3777</guid>
+				<guid isPermaLink="false">/?post_type=news&#038;p=3777</guid>
 
 					<description><![CDATA[I found the lexical distance map fascinating but the closer I studied it the more things bothered me. Thus trawling through the net I found Tishchenko Cyrillic versions. So I sat down this weekend and translated, adjusted, combined and updated to create my own version here: Read more]]></description>
 										<content:encoded><![CDATA[
@@ -286,7 +286,7 @@
 		
 		<dc:creator><![CDATA[Orion]]></dc:creator>
 		<pubDate>Wed, 22 Apr 2020 11:46:29 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=news#038;p=3657</guid>
+				<guid isPermaLink="false">/?post_type=news&#038;p=3657</guid>
 
 					<description><![CDATA[English and a handful of other languages dominate the internet, but this is leaving indigenous cultures without a voice online. Now they are fighting to get their own languages on the web. Imagine your favourite social media platform does not let you post in English. Now think of a keyboard that won’t allow you to &#8230;<p class="read-more"> <a class="" href="/news/the-many-languages-missing-from-the-internet/"> <span class="screen-reader-text">The many languages missing from the internet</span> Read More »</a></p>]]></description>
 										<content:encoded><![CDATA[
