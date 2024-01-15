@@ -15,13 +15,13 @@
 	<atom:link href="/news/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Unitas per Varietatem</description>
-	<lastBuildDate>Wed, 22 Feb 2023 16:16:27 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Jan 2024 16:13:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.2.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2018/05/cropped-kidf-32x32.png</url>
@@ -39,9 +39,9 @@
 		<pubDate>Mon, 11 Apr 2022 16:13:00 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=news&#038;p=13503</guid>
 
-					<description><![CDATA[Started a new research to study the universality of metonymy, featured at CogSci 2022.]]></description>
+					<description><![CDATA[Started a new research to study the&#160;universality of metonymy, featured at&#160;CogSci 2022.]]></description>
 										<content:encoded><![CDATA[
-<p>Started a new research to study the <a rel="noreferrer noopener" href="http://ukc.disi.unitn.it/index.php/metonymy/" target="_blank">universality of metonymy</a>, featured at <a rel="noreferrer noopener" href="https://cognitivesciencesociety.org/cogsci-2022/" target="_blank">CogSci 2022</a>.</p>
+<p class="has-medium-font-size">Started a new research to study the&nbsp;<a rel="noreferrer noopener" href="http://ukc.disi.unitn.it/index.php/metonymy/" target="_blank">universality of metonymy</a>, featured at&nbsp;<a rel="noreferrer noopener" href="https://cognitivesciencesociety.org/cogsci-2022/" target="_blank">CogSci 2022</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/news/new-research-in-cognitive-science-is-using-ukc-data/feed/</wfw:commentRss>
@@ -57,7 +57,7 @@
 		<pubDate>Wed, 30 Mar 2022 12:42:24 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=news&#038;p=11855</guid>
 
-					<description><![CDATA[We are delighted to announce that&#160;ICNLSP 2022, the 5th&#160;edition of the International Conference on Natural Language and Speech Processing, hosted by DataScientia (University of Trento) for the third time, will be held online, on 16-17 December 2022. We look forward to welcoming you to&#160;ICNLSP 2022&#160;that will be an opportunity to get acquainted with the latest &#8230;<p class="read-more"> <a class="" href="/news/icnlsp-2022-fifth-international-conference-on-natural-language-and-speech-processing/"> <span class="screen-reader-text">ICNLSP 2022: Fifth International Conference on Natural Language and Speech Processing</span> Read More »</a></p>]]></description>
+					<description><![CDATA[We are delighted to announce that&#160;ICNLSP 2022, the 5th&#160;edition of the International Conference on Natural Language and Speech Processing, hosted by DataScientia (University of Trento) for the third time, will be held online, on 16-17 December 2022. We look forward to welcoming you to&#160;ICNLSP 2022&#160;that will be an opportunity to get acquainted with the latest [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>We are delighted to announce that&nbsp;<a href="https://www.icnlsp.org/2022welcome/" target="_blank" rel="noreferrer noopener">ICNLSP 2022</a>, the 5<em><sup>th</sup></em>&nbsp;edition of the International Conference on Natural Language and Speech Processing, hosted by DataScientia (University of Trento) for the third time, will be held online, on 16-17 December 2022.</p>
 
@@ -125,7 +125,7 @@
 		<pubDate>Tue, 22 Feb 2022 16:06:00 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=news&#038;p=13498</guid>
 
-					<description><![CDATA[We are proud to announce the LiveLanguage data catalogue where we are gradually making the contents of the entire database available for download. You can access the catalogue from the menu bar but also from individual lexicon pages. In terms of UKC database improvements, we have extracted and imported over 500k words from Wiktionary, increasing our language &#8230;<p class="read-more"> <a class="" href="/news/data-download-and-major-new-datasets/"> <span class="screen-reader-text">Data download and major new datasets!</span> Read More »</a></p>]]></description>
+					<description><![CDATA[We are proud to announce the LiveLanguage data catalogue where we are gradually making the contents of the entire database available for download. You can access the catalogue from the menu bar but also from individual lexicon pages. In terms of UKC database improvements, we have extracted and imported over 500k words from Wiktionary, increasing our language [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>We are proud to announce the <a rel="noreferrer noopener" href="http://www.livelanguage.eu/" target="_blank">LiveLanguage</a> data catalogue where we are gradually making the contents of the entire database available for download. You can access the catalogue from the menu bar but also from individual lexicon pages. In terms of UKC database improvements, we have extracted and imported over 500k words from Wiktionary, increasing our language coverage by hundreds of new languages. We have also improved our existing data on kinship.</p>
 ]]></content:encoded>
@@ -144,7 +144,7 @@
 		<pubDate>Mon, 03 Jan 2022 16:02:00 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=news&#038;p=13497</guid>
 
-					<description><![CDATA[A lot has changed since the previous update. We updated the lexical data, improving quality and extending the coverage of lexical gaps at the same time. New projects have been added to the&#160;projects page. The look and feel of the site has been improved. Last but not least, check out the cool&#160;new visualisation tools&#160;on lexical &#8230;<p class="read-more"> <a class="" href="/news/happy-new-year-we-are-proud-to-announce-major-updates-to-projects-visualisations-and-data-quality/"> <span class="screen-reader-text">Happy new year! We are proud to announce major updates to projects, visualisations, and data quality. </span> Read More »</a></p>]]></description>
+					<description><![CDATA[A lot has changed since the previous update. We updated the lexical data, improving quality and extending the coverage of lexical gaps at the same time. New projects have been added to the&#160;projects page. The look and feel of the site has been improved. Last but not least, check out the cool&#160;new visualisation tools&#160;on lexical [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>A lot has changed since the previous update. We updated the lexical data, improving quality and extending the coverage of lexical gaps at the same time. New projects have been added to the&nbsp;<a href="http://ukc.datascientia.eu/projects">projects page</a>. The look and feel of the site has been improved. Last but not least, check out the cool&nbsp;<a href="http://ukc.datascientia.eu/lexdist">new visualisation tools</a>&nbsp;on lexical gaps, colexification, and cognates. Data download is coming soon!</p>
 ]]></content:encoded>
@@ -162,7 +162,7 @@
 		<pubDate>Thu, 02 Sep 2021 11:31:20 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=news&#038;p=8707</guid>
 
-					<description><![CDATA[The fourth edition of the International Conference on Natural Language and Speech Processing&#160;ICNLSP 2021, will be organized by the university of Trento.&#160;ICNLSP&#160;aims to attract contributions related to natural language and speech processing in basic theories and applications as well. Regular and posters sessions will be organized, in addition to keynotes presented by senior international researchers.The &#8230;<p class="read-more"> <a class="" href="/news/icnlsp-2021-4th-international-conference-on-natural-language-and-speech-processing/"> <span class="screen-reader-text">ICNLSP 2021: 4th International Conference on Natural Language and Speech Processing</span> Read More »</a></p>]]></description>
+					<description><![CDATA[The fourth edition of the International Conference on Natural Language and Speech Processing&#160;ICNLSP 2021, will be organized by the university of Trento.&#160;ICNLSP&#160;aims to attract contributions related to natural language and speech processing in basic theories and applications as well. Regular and posters sessions will be organized, in addition to keynotes presented by senior international researchers.The [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>The fourth edition of the International Conference on Natural Language and Speech Processing&nbsp;<a href="http://icnlsp.org/icnlsp2021">ICNLSP 2021</a>, will be organized by the university of Trento.&nbsp;<a href="http://icnlsp.org/">ICNLSP</a>&nbsp;aims to attract contributions related to natural language and speech processing in basic theories and applications as well. Regular and posters sessions will be organized, in addition to keynotes presented by senior international researchers.<br>The second edition of NSURL workshop will be colocated with&nbsp;<a href="http://icnlsp.org/icnlsp2021">ICNLSP 2021</a>.</p>
 
@@ -288,7 +288,7 @@
 		<pubDate>Wed, 22 Apr 2020 11:46:29 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=news&#038;p=3657</guid>
 
-					<description><![CDATA[English and a handful of other languages dominate the internet, but this is leaving indigenous cultures without a voice online. Now they are fighting to get their own languages on the web. Imagine your favourite social media platform does not let you post in English. Now think of a keyboard that won’t allow you to &#8230;<p class="read-more"> <a class="" href="/news/the-many-languages-missing-from-the-internet/"> <span class="screen-reader-text">The many languages missing from the internet</span> Read More »</a></p>]]></description>
+					<description><![CDATA[English and a handful of other languages dominate the internet, but this is leaving indigenous cultures without a voice online. Now they are fighting to get their own languages on the web. Imagine your favourite social media platform does not let you post in English. Now think of a keyboard that won’t allow you to [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <h4 class="wp-block-heading"> English and a handful of other languages dominate the internet, but this is leaving indigenous cultures without a voice online. Now they are fighting to get their own languages on the web. </h4>
 
