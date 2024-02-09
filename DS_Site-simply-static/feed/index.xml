@@ -15,7 +15,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Unitas per Varietatem</description>
-	<lastBuildDate>Fri, 17 Feb 2023 13:58:32 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 Feb 2024 10:42:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,62 +30,5 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>home</title>
-		<link>/2018/05/26/home/</link>
-					<comments>/2018/05/26/home/#respond</comments>
-		
-		<dc:creator><![CDATA[kidfadmin]]></dc:creator>
-		<pubDate>Sat, 26 May 2018 15:59:09 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://dreamtwo.disi.unitn.it/?p=24</guid>
-
-					<description><![CDATA[CategoriesCategories Select Category UKC Uncategorized Wenet]]></description>
-										<content:encoded><![CDATA[<div class="fl-builder-content fl-builder-content-24 fl-builder-content-primary" data-post-id="24"><div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5b26158445fc0 fl-row-default-height fl-row-align-center" data-node="5b26158445fc0">
-	<div class="fl-row-content-wrap">
-						<div class="fl-row-content fl-row-fixed-width fl-node-content">
-		
-<div class="fl-col-group fl-node-5b26158448837" data-node="5b26158448837">
-			<div class="fl-col fl-node-5b261584489df" data-node="5b261584489df">
-	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-widget fl-node-5b26158445ebd" data-node="5b26158445ebd">
-	<div class="fl-module-content fl-node-content">
-		<div class="fl-widget">
-<div class="widget widget_categories"><h2 class="widgettitle">Categories</h2><form action="/" method="get"><label class="screen-reader-text" for="categories-dropdown--1">Categories</label><select  name='cat' id='categories-dropdown--1' class='postform'>
-	<option value='-1'>Select Category</option>
-	<option class="level-0" value="70">UKC</option>
-	<option class="level-0" value="1">Uncategorized</option>
-	<option class="level-0" value="138">Wenet</option>
-</select>
-</form>
-<script>
-/* <![CDATA[ */
-(function() {
-	var dropdown = document.getElementById( "categories-dropdown--1" );
-	function onCatChange() {
-		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
-			dropdown.parentNode.submit();
-		}
-	}
-	dropdown.onchange = onCatChange;
-})();
-/* ]]&gt; */
-</script>
-
-			</div></div>
-	</div>
-</div>
-</div>
-</div>
-	</div>
-		</div>
-	</div>
-</div>
-</div>]]></content:encoded>
-					
-					<wfw:commentRss>/2018/05/26/home/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
