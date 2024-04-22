@@ -14,11 +14,11 @@
 	<atom:link href="/ml/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Unitas per Varietatem</description>
-	<lastBuildDate>Mon, 08 Apr 2024 08:59:26 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Apr 2024 20:59:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.4</generator>
+	<generator>https://wordpress.org/?v=6.2.5</generator>
 </channel>
 </rss>
