@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Projects &#8211; DataScientia</title>
+	<atom:link href="/category/projects/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DataScientia Initiative website</description>
+	<lastBuildDate>Wed, 17 Jul 2024 13:27:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/05/cropped-kidf-32x32.png</url>
+	<title>Projects &#8211; DataScientia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CyCAT H2020 project for Algorithmic Transparency</title>
+		<link>/cycat-h2020-project-for-algorithmic-transparency/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 08:24:26 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=22100</guid>
+
+					<description><![CDATA[CyCAT H2020 project for Algorithmic Transparency We are happy to announce that the our group is now a partner in the CyCAT H2020 Project for next two years.  The main goal of the CyCAT is to address the emerging research &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22100" class="elementor elementor-22100">
+				<div class="elementor-element elementor-element-076e98c e-flex e-con-boxed e-con e-parent" data-id="076e98c" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c071b7c elementor-widget elementor-widget-text-editor" data-id="c071b7c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<header class="entry-header "><h1 class="entry-title">CyCAT H2020 project for Algorithmic Transparency</h1></header><div class="entry-content clear"><p>We are happy to announce that the our group is now a partner in the CyCAT H2020 Project for next two years.  The main goal of the CyCAT is to address the emerging research problem of Algorithmic Transparency, and establish a network of researchers from European countries including Cyprus, England, Israel, Italy, and Scotland.</p></div>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>From language diversity to Bias (what about under-resourced languages)</title>
+		<link>/from-language-diversity-to-bias-what-about-under-resourced-languages/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 05 Apr 2020 08:33:17 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=22112</guid>
+
+					<description><![CDATA[A talk from Fausto Giunchiglia with Title “From language diversity to Bias (what about under-resourced languages)”. In this talk, Fausto provides a general overview of the problem of under-resources languages, and of how we could deal with this problem by &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22112" class="elementor elementor-22112">
+				<div class="elementor-element elementor-element-3555ba5 e-flex e-con-boxed e-con e-parent" data-id="3555ba5" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-11b4b76 elementor-widget elementor-widget-text-editor" data-id="11b4b76" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>A talk from Fausto Giunchiglia with Title “From language diversity to Bias (what about under-resourced languages)”. In this talk, Fausto provides a general overview of the problem of under-resources languages, and of how we could deal with this problem by uniformly handling the diversity which is intrinsic in any language. Trento April 5th, 2020.<br />(duration: 59min).</p><p><button>Watch here</button></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WENET &#8211; DIVERSITY IS KEY FOR NEW, AI-BASED SOCIAL MEDIA PLATFORM</title>
+		<link>/wenet-diversity-is-key-for-new-ai-based-social-media-platform/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 11 Feb 2019 08:46:00 +0000</pubDate>
+				<category><![CDATA[Initiative]]></category>
+		<category><![CDATA[Wenet]]></category>
+		<guid isPermaLink="false">/?p=22131</guid>
+
+					<description><![CDATA[The Horizon 2020 funded WeNet research project officially started in January with a kick-off meeting in snowy Trento, Italy. WeNet is a multidisciplinary project– using computer science, sociology and engineering – that will create a platform that enables people to &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22131" class="elementor elementor-22131">
+				<div class="elementor-element elementor-element-9992fe6 e-flex e-con-boxed e-con e-parent" data-id="9992fe6" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b396f3c elementor-widget elementor-widget-text-editor" data-id="b396f3c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The Horizon 2020 funded WeNet research project officially started in January with a kick-off meeting in snowy Trento, Italy. WeNet is a multidisciplinary project– using computer science, sociology and engineering – that will create a platform that enables people to support each other in a way that transcends geographical and cultural backgrounds. Diversity is a key enabler of the WeNet platform. It will use machine-learning algorithms to build user-profiles based on behavior and other key factors. The profiles will then be matched to positively exploit the diversity of users, allowing them to help one another. By connecting people from diverse backgrounds and skillsets, WeNet will enable them to interact and incentivize them to assist one another in ways that would not formerly have been possible. The WeNet platform will be the basis of a series of studies within universities worldwide with diverse student populations to improve students&#8217; quality of life inside and outside the academic environment, taking into consideration ethical and privacy guidelines. WeNet will start with a number of Smart University pilots to exploit diversity case studies. These will be extended by further engaging 5 new pilot sites that will be found via the Open Call funding system. For ensuring the long-term sustainability of the research infrastructure, a non-profit organization will be created, which will be in charge of managing the infrastructure and managing the community. This highly skilled consortium, led by the University of Trento, is composed of 15 partners from Europe and Israel, India, Mongolia, Paraguay, Mexico and China. The complementarity of the consortium partners is one of the greatest added values of WeNet, which includes highly rated universities and SMEs.</p><p><button>Download press release</button></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

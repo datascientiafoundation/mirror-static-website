@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Events &#8211; DataScientia</title>
+	<atom:link href="/events/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DataScientia Initiative website</description>
+	<lastBuildDate>Fri, 19 Jul 2024 12:35:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/05/cropped-kidf-32x32.png</url>
+	<title>Events &#8211; DataScientia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The 2024 DataScientia Event: Community, Projects and Education</title>
+		<link>/events/the-2024-datascientia-event-community-projects-and-education/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 19 Jul 2024 08:39:48 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=tp_event&#038;p=22480</guid>
+
+					<description><![CDATA[DataScientia to host its annual workshop at University of Trento (Italy) with partner universities across the world, from Europe, to Asia, to Africa and South America. Every year, DataScientia invites all partners to an event to share past experiences and &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22480" class="elementor elementor-22480">
+				<div class="elementor-element elementor-element-7ca1b80a e-flex e-con-boxed e-con e-parent" data-id="7ca1b80a" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-10b515da elementor-widget elementor-widget-text-editor" data-id="10b515da" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<h4><strong>DataScientia to host its annual workshop at University of Trento (Italy) with partner universities across the world, from Europe, to Asia, to Africa and South America.</strong></h4><p>Every year, DataScientia invites all partners to an event to share past experiences and plan new initiatives. This year&#8217;s focus is on the creation of the DataScientia Community, aiming to strengthen exchanges between partners and encourage new users to join the<br />journey. The event will also feature the presentation of new initiatives in Education, including the Everyday AI project promoted by the Open University of Cyprus and Jahna Otterbacher, designed to train non-experts in understanding and using AI consciously.<br />Furthermore, discussions will cover projects related to the collection and management of language data (this year, more than 2000 languages have been mapped!) led by Gabor Bella from IMT Atlantique, and a study on people&#8217;s lifestyles and behaviors.</p><h2>Program Details</h2><p>Coming Soon&#8230;</p><h2>Speakers</h2><p>Details coming soon&#8230;</p><h2>Event Location:</h2><p>The meeting will take place at the historical Department of Sociology and Social Research.</p><p><strong>Address:</strong> <a href="https://www.google.com/maps/place/Department+of+Sociology+and+Social+Research/@46.0666143,11.1195116,15z/data=!4m6!3m5!1s0x4782714b964d0889:0x7ce5b46aca708cfe!8m2!3d46.0666143!4d11.1195116!16s%2Fg%2F11j00sxmgd?entry=ttu">Via Giuseppe Verdi, 26, 38122 Trento TN</a></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2b48f8a elementor-widget elementor-widget-google_maps" data-id="2b48f8a" data-element_type="widget" data-widget_type="google_maps.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
+.elementor-widget-google_maps .elementor-widget-container{overflow:hidden}.elementor-widget-google_maps .elementor-custom-embed{line-height:0}.elementor-widget-google_maps iframe{height:300px}</style>		<div class="elementor-custom-embed">
+			<iframe loading="lazy"
+					src="https://maps.google.com/maps?q=Via%20Giuseppe%20Verdi%2C%2026%2C%2038122%20Trento%20TN&#038;t=m&#038;z=16&#038;output=embed&#038;iwloc=near"
+					title="Via Giuseppe Verdi, 26, 38122 Trento TN"
+					aria-label="Via Giuseppe Verdi, 26, 38122 Trento TN"
+			></iframe>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1bdc19c elementor-widget elementor-widget-spacer" data-id="1bdc19c" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container{height:100%;width:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty,.e-con>.elementor-widget-spacer.elementor-widget-empty{position:relative;min-height:22px;min-width:22px}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon,.e-con>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon{position:absolute;top:0;bottom:0;left:0;right:0;margin:auto;padding:0;width:22px;height:22px}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6739e4a elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6739e4a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-424301d" data-id="424301d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-782fa1d elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="782fa1d" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading "><h3 class="title">Event Organizers </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ebf93e5 elementor-widget thim-widget-gallery-images" data-id="ebf93e5" data-element_type="widget" data-widget_type="thim-gallery-images.default">
+				<div class="elementor-widget-container">
+			<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><a target=_self href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX1%252BDcXIyZtw79M5coIPrOahzxcVvxuYXb3B6q1bbWqLQSqeOGncqVEOy"><img decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/download-2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/download-2-150x150.jpg 150w, /wp-content/uploads/2024/07/download-2-100x100.jpg 100w, /wp-content/uploads/2024/07/download-2.jpg 288w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Matteo Busso <br><small>Event Coordinator</small></h4></a></div><div class="item"><a target=_self href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX18cXQdG0cmoMJgSOEzc8%252BHOTi5YtB60OWNQBcCp7zWbEFYcn4X8f9xb"><img decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/download-3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/download-3-150x150.jpg 150w, /wp-content/uploads/2024/07/download-3-300x300.jpg 300w, /wp-content/uploads/2024/07/download-3-100x100.jpg 100w, /wp-content/uploads/2024/07/download-3.jpg 312w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Ali Hamza <br> <small>Community Event Coordinator</small></h4></a></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-899298e elementor-widget elementor-widget-spacer" data-id="899298e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+		<div class="elementor-element elementor-element-997f8a3 e-flex e-con-boxed e-con e-parent" data-id="997f8a3" data-element_type="container">
+					<div class="e-con-inner">
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

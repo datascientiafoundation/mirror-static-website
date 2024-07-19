@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; DataScientia</title>
+	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DataScientia Initiative website</description>
+	<lastBuildDate>Wed, 17 Jul 2024 13:30:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/05/cropped-kidf-32x32.png</url>
+	<title>admin &#8211; DataScientia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DataScientia Workshop Meeting</title>
+		<link>/datascientia-workshop-meeting/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 17 Apr 2023 13:00:13 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">/?p=21552</guid>
+
+					<description><![CDATA[On April 17-18 the DataScientia community launch event was held in Trento (organised by the Department of Information Engineering and Computer Science and Department of Sociology and Social Research). DataScientia is a Citizen Science project initiated by UniTrento, which involves &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="21552" class="elementor elementor-21552">
+				<div class="elementor-element elementor-element-ac3e555 e-flex e-con-boxed e-con e-parent" data-id="ac3e555" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-378748d elementor-widget elementor-widget-text-editor" data-id="378748d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>On April 17-18 the DataScientia community launch event was held in Trento (organised by the Department of Information Engineering and Computer Science and Department of Sociology and Social Research). DataScientia is a Citizen Science project initiated by UniTrento, which involves partner universities across the world, from Europe, to Asia, to Africa and South America. Among the involved institutions there are ECIU partners DCU and AAU. The community aims at involving people who are interested in contributing to, learning about, and influencing the future Data-driven Artificial Intelligence (AI) technological evolution, for themselves and for society.</p><p><button>Learn More</button></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CyCAT H2020 project for Algorithmic Transparency</title>
+		<link>/cycat-h2020-project-for-algorithmic-transparency/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 08:24:26 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=22100</guid>
+
+					<description><![CDATA[CyCAT H2020 project for Algorithmic Transparency We are happy to announce that the our group is now a partner in the CyCAT H2020 Project for next two years.  The main goal of the CyCAT is to address the emerging research &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22100" class="elementor elementor-22100">
+				<div class="elementor-element elementor-element-076e98c e-flex e-con-boxed e-con e-parent" data-id="076e98c" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c071b7c elementor-widget elementor-widget-text-editor" data-id="c071b7c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<header class="entry-header "><h1 class="entry-title">CyCAT H2020 project for Algorithmic Transparency</h1></header><div class="entry-content clear"><p>We are happy to announce that the our group is now a partner in the CyCAT H2020 Project for next two years.  The main goal of the CyCAT is to address the emerging research problem of Algorithmic Transparency, and establish a network of researchers from European countries including Cyprus, England, Israel, Italy, and Scotland.</p></div>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>From language diversity to Bias (what about under-resourced languages)</title>
+		<link>/from-language-diversity-to-bias-what-about-under-resourced-languages/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 05 Apr 2020 08:33:17 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=22112</guid>
+
+					<description><![CDATA[A talk from Fausto Giunchiglia with Title “From language diversity to Bias (what about under-resourced languages)”. In this talk, Fausto provides a general overview of the problem of under-resources languages, and of how we could deal with this problem by &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22112" class="elementor elementor-22112">
+				<div class="elementor-element elementor-element-3555ba5 e-flex e-con-boxed e-con e-parent" data-id="3555ba5" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-11b4b76 elementor-widget elementor-widget-text-editor" data-id="11b4b76" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>A talk from Fausto Giunchiglia with Title “From language diversity to Bias (what about under-resourced languages)”. In this talk, Fausto provides a general overview of the problem of under-resources languages, and of how we could deal with this problem by uniformly handling the diversity which is intrinsic in any language. Trento April 5th, 2020.<br />(duration: 59min).</p><p><button>Watch here</button></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>When Social Networks Become ‘Diversity-Aware’ Research Platforms</title>
+		<link>/when-social-networks-become-diversity-aware-research-platforms/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 03 Jan 2020 08:42:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=22122</guid>
+
+					<description><![CDATA[PYMNTS interviews Dr. Fausto Giunchiglia, project coordinator for WeNet project.Bigger, better, faster – those are often the guiding principles for innovation, disruption and change in the digital and mobile worlds. What about smarter, and more diverse? Read article]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22122" class="elementor elementor-22122">
+				<div class="elementor-element elementor-element-a50a6ae e-flex e-con-boxed e-con e-parent" data-id="a50a6ae" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-75ca7fe elementor-widget elementor-widget-text-editor" data-id="75ca7fe" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>PYMNTS interviews Dr. Fausto Giunchiglia, project coordinator for WeNet project.<br /><strong>Bigger, better, faster</strong> – those are often the guiding principles for innovation, disruption and change in the digital and mobile worlds.</p><p>What about <strong>smarter, and more diverse?</strong></p><p><button>Read article</button></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop on NLP Solutions for Under Resourced Languages</title>
+		<link>/workshop-on-nlp-solutions-for-under-resourced-languages/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 12 Sep 2019 09:12:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">/?p=22235</guid>
+
+					<description><![CDATA[The 3rd International Conference on Natural Language and Speech Processing was held on 12-13 September 2019, at the Department of Computer Science and Information Engineering of the University of Trento, Trento. The conference was an opportunity and a forum for researchers and &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22235" class="elementor elementor-22235">
+				<div class="elementor-element elementor-element-e6ad2ff e-flex e-con-boxed e-con e-parent" data-id="e6ad2ff" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f0acc49 elementor-widget elementor-widget-text-editor" data-id="f0acc49" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span lang="EN-US">The 3rd International Conference on Natural Language and Speech Processing</span><span lang="EN-US"> was held on 12-13 September 2019, at the Department of Computer Science and Information Engineering of the University of Trento, Trento. </span>The conference was an opportunity and a forum for researchers and students to exchange ideas and discuss research and trends in the field of Natural Language Processing and Speech Processing. The total number of submitted papers was 46 papers, where 20 of them with an acceptance rate of 43 % were accepted. <span lang="EN-US">The presented papers covered various topics dealing with both speech and text:  building resources, text summarization, spoken language understanding, etc. </span>The program included two keynotes. The first one, entitled “Detecting the fake news before they were even written”, was presented by Dr. Preslav Nakov from Qatar Computing Research Institute (QCRI),Qatar.  The second keynote “One world – seven thousand languages” was  presented by Prof.  Fausto Giunchiglia from University of Trento, Italy. The conference was preceded by the workshop on NLP Solutions for Under Resourced Languages (NSURL). <span lang="EN-US">The workshop is concerned with solving NLP problems for low-resourced languages.</span></p><p><button>Know more</button></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NSURL 2019 The First Workshop on NLP Solutions for Under Resourced Languages</title>
+		<link>/nsurl-2019-the-first-workshop-on-nlp-solutions-for-under-resourced-languages/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 11 Sep 2019 08:56:00 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">/?p=22172</guid>
+
+					<description><![CDATA[The workshop aims to draw the attention of researchers in the under resourced languages  communities and encourage them to cooperate and intensify efforts to provide solutions and  resources for such under resourced languages. To achieve this goal, the workshop offers the possibility for researchers &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22172" class="elementor elementor-22172">
+				<div class="elementor-element elementor-element-14db7c6 e-flex e-con-boxed e-con e-parent" data-id="14db7c6" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-d001f62 elementor-widget elementor-widget-text-editor" data-id="d001f62" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The <span class="il">workshop</span> aims to draw the attention of researchers in the under resourced languages  communities and encourage them to cooperate and intensify efforts to provide solutions and  resources for such under resourced languages. To achieve this goal, the <span class="il">workshop</span> offers the possibility for researchers to organize competitions for solving NLP tasks. These tasks are usually provided with training and test data by the task organizers to allow participating solutions to be evaluated and compared with other solutions. The number of shared tasks for this year are 8 tasks for 5 languages (<a href="http://nsurl.org/tasks/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=http://nsurl.org/tasks/&amp;source=gmail&amp;ust=1550082038134000&amp;usg=AFQjCNE8CLaSA7VuabgSJ2fnypLDtYMy3w">http://nsurl.org/tasks/</a>).  Task description papers and the participating solutions including the performance evaluations will be published in the <span class="il">workshop</span>proceedings. In addition, we invite submissions on topics that include but are not limited to  the following:</p><p><b>Low level NLP solutions</b>:    </p><ul><li>POS-tagging</li><li>Tokenization</li><li>Named entity recognition</li><li>Morphological analysis</li><li>Chunking</li><li>Disambiguation</li></ul><p><b>Resources for low level NLP</b>:</p><ul><li>Dictionaries</li><li>Annotated data</li><li>Corpora</li></ul><p><b>Important dates</b>:<br /><b>Submission deadline</b>: 30 June 2019<br /><b>Notification of acceptance</b>: 22 July 2019<br /><b>Camera-ready paper due</b>: 12 August 2019<br /><b><span class="il">Workshop</span> dates</b>: 11,12 September 2019<br /><b>Submission page</b>: <a href="https://easychair.org/conferences/?conf=nsurl2019" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://easychair.org/conferences/?conf%3Dnsurl2019&amp;source=gmail&amp;ust=1550082038134000&amp;usg=AFQjCNFtzxCOiSBH6f5t5RWm1DxpDDkbww">https://easychair.org/<wbr />conferences/?conf=nsurl2019</a></p><p><b>Website: <a href="http://nsurl.org/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=http://nsurl.org/&amp;source=gmail&amp;ust=1550082038134000&amp;usg=AFQjCNHbZHoCUOVZgjePEWRroBp2_bKE3g">http://nsurl.org/</a></b></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WENET &#8211; DIVERSITY IS KEY FOR NEW, AI-BASED SOCIAL MEDIA PLATFORM</title>
+		<link>/wenet-diversity-is-key-for-new-ai-based-social-media-platform/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 11 Feb 2019 08:46:00 +0000</pubDate>
+				<category><![CDATA[Initiative]]></category>
+		<category><![CDATA[Wenet]]></category>
+		<guid isPermaLink="false">/?p=22131</guid>
+
+					<description><![CDATA[The Horizon 2020 funded WeNet research project officially started in January with a kick-off meeting in snowy Trento, Italy. WeNet is a multidisciplinary project– using computer science, sociology and engineering – that will create a platform that enables people to &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22131" class="elementor elementor-22131">
+				<div class="elementor-element elementor-element-9992fe6 e-flex e-con-boxed e-con e-parent" data-id="9992fe6" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b396f3c elementor-widget elementor-widget-text-editor" data-id="b396f3c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The Horizon 2020 funded WeNet research project officially started in January with a kick-off meeting in snowy Trento, Italy. WeNet is a multidisciplinary project– using computer science, sociology and engineering – that will create a platform that enables people to support each other in a way that transcends geographical and cultural backgrounds. Diversity is a key enabler of the WeNet platform. It will use machine-learning algorithms to build user-profiles based on behavior and other key factors. The profiles will then be matched to positively exploit the diversity of users, allowing them to help one another. By connecting people from diverse backgrounds and skillsets, WeNet will enable them to interact and incentivize them to assist one another in ways that would not formerly have been possible. The WeNet platform will be the basis of a series of studies within universities worldwide with diverse student populations to improve students&#8217; quality of life inside and outside the academic environment, taking into consideration ethical and privacy guidelines. WeNet will start with a number of Smart University pilots to exploit diversity case studies. These will be extended by further engaging 5 new pilot sites that will be found via the Open Call funding system. For ensuring the long-term sustainability of the research infrastructure, a non-profit organization will be created, which will be in charge of managing the infrastructure and managing the community. This highly skilled consortium, led by the University of Trento, is composed of 15 partners from Europe and Israel, India, Mongolia, Paraguay, Mexico and China. The complementarity of the consortium partners is one of the greatest added values of WeNet, which includes highly rated universities and SMEs.</p><p><button>Download press release</button></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Not-for-profit cause launched for studying language diversity using artificial intelligence</title>
+		<link>/not-for-profit-cause-launched-for-studying-language-diversity-using-artificial-intelligence/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 04 Feb 2019 08:53:00 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Initiative]]></category>
+		<guid isPermaLink="false">/?p=22152</guid>
+
+					<description><![CDATA[Led by the University of Trento in Northern Italy, in collaboration with six other partner institutions from Europe, China, India, Mongolia, Mexico, South Africa and South America, researchers from these institutions have announced the launch of the new initiative DataScientia &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22152" class="elementor elementor-22152">
+				<div class="elementor-element elementor-element-d939b28 e-flex e-con-boxed e-con e-parent" data-id="d939b28" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-96701e6 elementor-widget elementor-widget-text-editor" data-id="96701e6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Led by the University of Trento in Northern Italy, in collaboration with six other partner institutions from Europe, China, India, Mongolia, Mexico, South Africa and South America, researchers from these institutions have announced the launch of the new initiative DataScientia aiming at studying and connecting the diversity and unity of the world’s languages, with a special focus of under-resourced languages. The consortium of founding members includes Italy’s University of Trento, the National University of Mongolia, India’s Amrita University, China’s Jilin University, Paraguay’s Catholic University “Nuestra Señora de la Asunción”, South Africa’s Tshwane University of Technology, and UK’s Heriot-Watt University. The consortium will be working on several world languages including Italian, Gaelic, Spanish, Tamil, Malayalam, Hindi, African, Guarani and Mongolian. The workshop detailing this multi-community and multi-disciplinary project, held on January 29-30, 2019 at Trento, Italy, covered various enabling disciplines and technologies ranging from Artificial Intelligence and Computational Linguistics to linguistics, philosophy and social sciences.The DataScientia consortium has already set up projects for the development of various systems, among them: the Universal Knowledge Core (UKC) which allows the integration of the lexicons of the languages used to describe the world as perceived by the various cultures and languages, an engine for corpora collection, the SCROLL framework for multilingual Natural Language Processing, the data integration platform Digital University and a service provision platform based on behavioural patterns called Smart University.Prof. Fausto Giunchiglia from the University of Trento, who started this initiative, said: “This is a very important event which lays the basis for a new generation of research initiatives. The development of a single multilingual resource which integrates the world languages, its evolution in time, and its use for the study of the diversity and unity of languages, can be done meaningfully only with the participation of the people and Universities coming from and representing the relevant cultures. To succeed, we must develop this initiative as a win-win project where everybody brings their own culture and gets back the knowledge of how it relates to that of the others.” The consortium aim is to create a non-profit organisation which will ensure the long term sustainability of the project. While doing this, it will also engage and partner with many other University and groups for furthering this unity through diversity initiative.</p><p><button>Download press release</button></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The many languages missing from the internet</title>
+		<link>/the-many-languages-missing-from-the-internet/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2018 09:01:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=22189</guid>
+
+					<description><![CDATA[English and a handful of other languages dominate the internet, but this is leaving indigenous cultures without a voice online. Now they are fighting to get their own languages on the web. Imagine your favourite social media platform does not &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22189" class="elementor elementor-22189">
+				<div class="elementor-element elementor-element-323d885 e-flex e-con-boxed e-con e-parent" data-id="323d885" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b37b5bc elementor-widget elementor-widget-text-editor" data-id="b37b5bc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<header class="entry-header "><p class="entry-title"><strong>English and a handful of other languages dominate the internet, but this is leaving indigenous cultures without a voice online. Now they are fighting to get their own languages on the web.</strong></p></header><div class="page" title="Page 2"><div class="layoutArea"><div class="column"><div class="page" title="Page 2"><div class="layoutArea"><div class="column"><p>Imagine your favourite social media platform does not let you post in English. Now think of a keyboard that won’t allow you to type in your own words. You would have two options: either switch to another language or remain digitally silent.</p><p>This is the reality for most people that speak indigenous languages and dialects.</p><p>There are nearly <a href="https://www.linguisticsociety.org/content/how-many-languages-are-there-world">7,000 languages and dialects</a> in the world, yet only 7% are reflected in published online material, according to Whose knowledge?, a campaign that aims to <a href="https://whoseknowledge.org/wp-content/uploads/2018/11/DTI-2018-Summary-Report.pdf">make visible the knowledge of marginalised communities online</a>.</p></div></div></div></div></div></div>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Abdelhakim Fraihat&#8217;s visit to Tshwane University of Technology- Pretoria (2018-10-01)</title>
+		<link>/abdelhakim-fraihats-visit-to-tshwane-university-of-technology-pretoria-2018-10-01/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 01 Oct 2018 09:15:00 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">/?p=22246</guid>
+
+					<description><![CDATA[Abdelhakim Fraihat from University of Trento visited Tshwane University of Technology and conducted a five days research training workshop programme on the topic &#8220;Computational Linguistics: Lexical Semantics and Natural Language Processing.&#8221; program info]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22246" class="elementor elementor-22246">
+				<div class="elementor-element elementor-element-bcf0f35 e-flex e-con-boxed e-con e-parent" data-id="bcf0f35" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-85c4573 elementor-widget elementor-widget-text-editor" data-id="85c4573" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Abdelhakim Fraihat from University of Trento visited Tshwane University of Technology and conducted a five days research training workshop programme on the topic &#8220;Computational Linguistics: Lexical Semantics and Natural Language Processing.&#8221;</p><p><button>program info</button></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

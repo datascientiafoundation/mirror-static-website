@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog &#8211; DataScientia</title>
+	<atom:link href="/category/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DataScientia Initiative website</description>
+	<lastBuildDate>Wed, 17 Jul 2024 13:28:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/05/cropped-kidf-32x32.png</url>
+	<title>Blog &#8211; DataScientia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>When Social Networks Become ‘Diversity-Aware’ Research Platforms</title>
+		<link>/when-social-networks-become-diversity-aware-research-platforms/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 03 Jan 2020 08:42:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=22122</guid>
+
+					<description><![CDATA[PYMNTS interviews Dr. Fausto Giunchiglia, project coordinator for WeNet project.Bigger, better, faster – those are often the guiding principles for innovation, disruption and change in the digital and mobile worlds. What about smarter, and more diverse? Read article]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22122" class="elementor elementor-22122">
+				<div class="elementor-element elementor-element-a50a6ae e-flex e-con-boxed e-con e-parent" data-id="a50a6ae" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-75ca7fe elementor-widget elementor-widget-text-editor" data-id="75ca7fe" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>PYMNTS interviews Dr. Fausto Giunchiglia, project coordinator for WeNet project.<br /><strong>Bigger, better, faster</strong> – those are often the guiding principles for innovation, disruption and change in the digital and mobile worlds.</p><p>What about <strong>smarter, and more diverse?</strong></p><p><button>Read article</button></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop on NLP Solutions for Under Resourced Languages</title>
+		<link>/workshop-on-nlp-solutions-for-under-resourced-languages/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 12 Sep 2019 09:12:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">/?p=22235</guid>
+
+					<description><![CDATA[The 3rd International Conference on Natural Language and Speech Processing was held on 12-13 September 2019, at the Department of Computer Science and Information Engineering of the University of Trento, Trento. The conference was an opportunity and a forum for researchers and &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22235" class="elementor elementor-22235">
+				<div class="elementor-element elementor-element-e6ad2ff e-flex e-con-boxed e-con e-parent" data-id="e6ad2ff" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f0acc49 elementor-widget elementor-widget-text-editor" data-id="f0acc49" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span lang="EN-US">The 3rd International Conference on Natural Language and Speech Processing</span><span lang="EN-US"> was held on 12-13 September 2019, at the Department of Computer Science and Information Engineering of the University of Trento, Trento. </span>The conference was an opportunity and a forum for researchers and students to exchange ideas and discuss research and trends in the field of Natural Language Processing and Speech Processing. The total number of submitted papers was 46 papers, where 20 of them with an acceptance rate of 43 % were accepted. <span lang="EN-US">The presented papers covered various topics dealing with both speech and text:  building resources, text summarization, spoken language understanding, etc. </span>The program included two keynotes. The first one, entitled “Detecting the fake news before they were even written”, was presented by Dr. Preslav Nakov from Qatar Computing Research Institute (QCRI),Qatar.  The second keynote “One world – seven thousand languages” was  presented by Prof.  Fausto Giunchiglia from University of Trento, Italy. The conference was preceded by the workshop on NLP Solutions for Under Resourced Languages (NSURL). <span lang="EN-US">The workshop is concerned with solving NLP problems for low-resourced languages.</span></p><p><button>Know more</button></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The many languages missing from the internet</title>
+		<link>/the-many-languages-missing-from-the-internet/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2018 09:01:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=22189</guid>
+
+					<description><![CDATA[English and a handful of other languages dominate the internet, but this is leaving indigenous cultures without a voice online. Now they are fighting to get their own languages on the web. Imagine your favourite social media platform does not &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22189" class="elementor elementor-22189">
+				<div class="elementor-element elementor-element-323d885 e-flex e-con-boxed e-con e-parent" data-id="323d885" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b37b5bc elementor-widget elementor-widget-text-editor" data-id="b37b5bc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<header class="entry-header "><p class="entry-title"><strong>English and a handful of other languages dominate the internet, but this is leaving indigenous cultures without a voice online. Now they are fighting to get their own languages on the web.</strong></p></header><div class="page" title="Page 2"><div class="layoutArea"><div class="column"><div class="page" title="Page 2"><div class="layoutArea"><div class="column"><p>Imagine your favourite social media platform does not let you post in English. Now think of a keyboard that won’t allow you to type in your own words. You would have two options: either switch to another language or remain digitally silent.</p><p>This is the reality for most people that speak indigenous languages and dialects.</p><p>There are nearly <a href="https://www.linguisticsociety.org/content/how-many-languages-are-there-world">7,000 languages and dialects</a> in the world, yet only 7% are reflected in published online material, according to Whose knowledge?, a campaign that aims to <a href="https://whoseknowledge.org/wp-content/uploads/2018/11/DTI-2018-Summary-Report.pdf">make visible the knowledge of marginalised communities online</a>.</p></div></div></div></div></div></div>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fausto&#8217;s Talk- Pretoria</title>
+		<link>/faustos-talk-pretoria/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 27 Jun 2018 09:18:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">/?p=22251</guid>
+
+					<description><![CDATA[On 27th of June 2018, Prof. Fausto Giunchiglia from University of Trento is addressing a keynote on the topic: &#8220;One world &#8211; seven thousand languages&#8221;.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22251" class="elementor elementor-22251">
+				<div class="elementor-element elementor-element-eb74d7e e-flex e-con-boxed e-con e-parent" data-id="eb74d7e" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-240324d elementor-widget elementor-widget-text-editor" data-id="240324d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							On 27th of June 2018, Prof. Fausto Giunchiglia from University of Trento is addressing a keynote on the topic: &#8220;One world &#8211; seven thousand languages&#8221;.
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
