@@ -12,7 +12,7 @@
 	<atom:link href="/events/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Mon, 22 Jul 2024 13:43:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Jul 2024 14:14:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -43,15 +43,15 @@
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.23.0 - 15-07-2024 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<h4><strong>DataScientia to host its annual workshop at University of Trento (Italy) with partner universities across the world, from Europe, to Asia, to Africa and South America.</strong></h4>
-Every year, DataScientia invites all partners to an event to share past experiences and plan new initiatives. This year&#8217;s focus is on the creation of the DataScientia Community, aiming to strengthen exchanges between partners and encourage new users to join the
-journey. The event will also feature the presentation of new initiatives in Education, including the Everyday AI project promoted by the Open University of Cyprus and Jahna Otterbacher, designed to train non-experts in understanding and using AI consciously.
-Furthermore, discussions will cover projects related to the collection and management of language data (this year, more than 2000 languages have been mapped!) led by Gabor Bella from IMT Atlantique, and a study on people&#8217;s lifestyles and behaviors.
+<p>Every year, DataScientia invites all partners to an event to share past experiences and plan new initiatives. This year&#8217;s focus is on the creation of the DataScientia Community, aiming to strengthen exchanges between partners and encourage new users to join the<br>
+journey. The event will also feature the presentation of new initiatives in Education, including the Everyday AI project promoted by the Open University of Cyprus and Jahna Otterbacher, designed to train non-experts in understanding and using AI consciously.<br>
+Furthermore, discussions will cover projects related to the collection and management of language data (this year, more than 2000 languages have been mapped!) led by Gabor Bella from IMT Atlantique, and a study on people&#8217;s lifestyles and behaviors.</p>
 <h2>Program Details</h2>
 <table>
 <tbody>
 <tr>
 <td colspan="5">
-<p class="title-tb" style="text-align: center;"><b>Workshop Meeting </b></p>
+<p class="title-tb" style="text-align: center;"><b>Workshop Meeting&nbsp;</b></p>
 <p class="title-tb" style="text-align: center;"><b>27</b><b>th</b><b> September Friday – Day1</b></p>
 </td>
 </tr>
@@ -63,7 +63,7 @@ Furthermore, discussions will cover projects related to the collection and manag
 <td>
 <p class="head" style="text-align: center;"><b>Description</b></p>
 </td>
-<td class="head"><b>Duration</b><b>
+<td class="head"><b>Duration</b><b><br>
 </b><b>(min)</b></td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ Furthermore, discussions will cover projects related to the collection and manag
 <tr>
 <td><span style="font-weight: 400;">T03</span></td>
 <td><span style="font-weight: 400;">11:15</span></td>
-<td><span style="font-weight: 400;">Introduction to DataScientia </span></td>
+<td><span style="font-weight: 400;">Introduction to DataScientia&nbsp;</span></td>
 <td><span style="font-weight: 400;">1h</span></td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ Furthermore, discussions will cover projects related to the collection and manag
 <tbody>
 <tr>
 <td colspan="4">
-<p class="title-tb" style="text-align: center;"><b>Workshop Meeting </b></p>
+<p class="title-tb" style="text-align: center;"><b>Workshop Meeting&nbsp;</b></p>
 <p class="title-tb" style="text-align: center;"><b>28</b><b>th</b><b> September Saturday– Day2</b></p>
 </td>
 </tr>
@@ -136,7 +136,7 @@ Furthermore, discussions will cover projects related to the collection and manag
 <td>
 <p class="head" style="text-align: center;"><b>Description</b></p>
 </td>
-<td class="head" colspan="2"><b>Duration</b><b>
+<td class="head" colspan="2"><b>Duration</b><b><br>
 </b><b>(min)</b></td>
 </tr>
 <tr>
@@ -209,7 +209,7 @@ Furthermore, discussions will cover projects related to the collection and manag
 <td>
 <p class="head" style="text-align: center;"><b>Description</b></p>
 </td>
-<td class="head"><b>Duration</b><b>
+<td class="head"><b>Duration</b><b><br>
 </b><b>(min)</b></td>
 </tr>
 <tr>
@@ -239,30 +239,22 @@ Furthermore, discussions will cover projects related to the collection and manag
 </tbody>
 </table>
 <h2>Speakers</h2>
-Details coming soon&#8230;
+<p>Details coming soon&#8230;</p>
 <h2>Practical information</h2>
 <h4>Accomodation:</h4>
-<span style="font-weight: 400;">The choice of hotels in Trento is quite large. Here some options:</span>
-
-<span style="font-weight: 400;"> </span><a href="https://www.unitn.it/en/ateneo/69096/hotel-rates-offered-to-the-university-of-trento"><span style="font-weight: 400;">https://www.unitn.it/en/ateneo/69096/hotel-rates-offered-to-the-university-of-trento</span></a><span style="font-weight: 400;"> </span>
-
-<span style="font-weight: 400;">Please, notice that the prices quoted are for people invited by the University of Trento. Therefore, you will have to say that you have been invited to participate in the WeNet workshop, coordinated by prof. Giunchiglia and held at the University of Trento.</span>
+<p><span style="font-weight: 400;">The choice of hotels in Trento is quite large. Here some options:</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span><a href="https://www.unitn.it/en/ateneo/69096/hotel-rates-offered-to-the-university-of-trento"><span style="font-weight: 400;">https://www.unitn.it/en/ateneo/69096/hotel-rates-offered-to-the-university-of-trento</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Please, notice that the prices quoted are for people invited by the University of Trento. Therefore, you will have to say that you have been invited to participate in the WeNet workshop, coordinated by prof. Giunchiglia and held at the University of Trento.</span></p>
 <h4>Breaks and lunch:</h4>
-<span style="font-weight: 400;">Both breaks and lunches will be carried out independently by the participants. Concerning breaks, there are several bars close to the Department. </span>
-
-<span style="font-weight: 400;">As for lunches, we suggest the restaurant &#8220;Ca&#8217; dei Gobj&#8221; (</span><a href="http://www.cadeigobj.it/"><span style="font-weight: 400;">http://www.cadeigobj.it/</span></a><span style="font-weight: 400;"> ), located in: Via del Simonino, 14, 38122 Trento TN</span>
+<p><span style="font-weight: 400;">Both breaks and lunches will be carried out independently by the participants. Concerning breaks, there are several bars close to the Department.&nbsp;</span></p>
+<p><span style="font-weight: 400;">As for lunches, we suggest the restaurant &#8220;Ca&#8217; dei Gobj&#8221; (</span><a href="http://www.cadeigobj.it/"><span style="font-weight: 400;">http://www.cadeigobj.it/</span></a><span style="font-weight: 400;"> ), located in: Via del Simonino, 14, 38122 Trento TN</span></p>
 <h4>Social dinner:</h4>
-<b>Date/Time:</b><span style="font-weight: 400;"> Saturday, September 28</span><span style="font-weight: 400;">th</span><span style="font-weight: 400;"> @ 8:00pm</span>
-
-<b>Restaurant: </b><span style="font-weight: 400;">Orso Grigio (</span><a href="https://www.orso-grigio.it/"><span style="font-weight: 400;">https://www.orso-grigio.it/</span></a><span style="font-weight: 400;">)</span>
-
-<b>Address: </b><span style="font-weight: 400;">Via degli Orti, 19, 38122 Trento TN</span>
+<p><b>Date/Time:</b><span style="font-weight: 400;"> Saturday, September 28</span><span style="font-weight: 400;">th</span><span style="font-weight: 400;"> @ 8:00pm</span></p>
+<p><b>Restaurant: </b><span style="font-weight: 400;">Orso Grigio (</span><a href="https://www.orso-grigio.it/"><span style="font-weight: 400;">https://www.orso-grigio.it/</span></a><span style="font-weight: 400;">)</span></p><p><b>Address: </b><span style="font-weight: 400;">Via degli Orti, 19, 38122 Trento TN</span></p>
 <h2>Event Location:</h2>
-<span style="font-weight: 400;">The meeting will take place at the historical Department of Sociology and Social Research, </span><b>Meeting Room (Sala Riunioni) 2</b><b>nd</b><b> Floor</b><span style="font-weight: 400;">.  </span>
-
-<span style="font-weight: 400;">The public event will be held in </span><b>Aula Kessler, 2</b><b>nd</b><b> Floor</b><span style="font-weight: 400;">. The venue is in Trento city centre, 10-minute walk from central station.</span>.
-
-<strong>Address:</strong> <a href="https://www.google.com/maps/place/Department+of+Sociology+and+Social+Research/@46.0666143,11.1195116,15z/data=!4m6!3m5!1s0x4782714b964d0889:0x7ce5b46aca708cfe!8m2!3d46.0666143!4d11.1195116!16s%2Fg%2F11j00sxmgd?entry=ttu">Via Giuseppe Verdi, 26, 38122 Trento TN</a>						</div>
+<p><span style="font-weight: 400;">The meeting will take place at the historical Department of Sociology and Social Research, </span><b>Meeting Room (Sala Riunioni) 2</b><b>nd</b><b> Floor</b><span style="font-weight: 400;">.&nbsp; </span></p>
+<p><span style="font-weight: 400;">The public event will be held in </span><b>Aula Kessler, 2</b><b>nd</b><b> Floor</b><span style="font-weight: 400;">. The venue is in Trento city centre, 10-minute walk from central station.</span>.</p>
+<p><strong>Address:</strong> <a href="https://www.google.com/maps/place/Department+of+Sociology+and+Social+Research/@46.0666143,11.1195116,15z/data=!4m6!3m5!1s0x4782714b964d0889:0x7ce5b46aca708cfe!8m2!3d46.0666143!4d11.1195116!16s%2Fg%2F11j00sxmgd?entry=ttu">Via Giuseppe Verdi, 26, 38122 Trento TN</a></p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-2b48f8a elementor-widget elementor-widget-google_maps" data-id="2b48f8a" data-element_type="widget" data-widget_type="google_maps.default">
 				<div class="elementor-widget-container">
@@ -298,6 +290,146 @@ Details coming soon&#8230;
 				<div class="elementor-element elementor-element-ebf93e5 elementor-widget thim-widget-gallery-images" data-id="ebf93e5" data-element_type="widget" data-widget_type="thim-gallery-images.default">
 				<div class="elementor-widget-container">
 			<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><a target=_self href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX1%252BDcXIyZtw79M5coIPrOahzxcVvxuYXb3B6q1bbWqLQSqeOGncqVEOy"><img decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/download-2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/download-2-150x150.jpg 150w, /wp-content/uploads/2024/07/download-2-100x100.jpg 100w, /wp-content/uploads/2024/07/download-2.jpg 288w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Matteo Busso <br><small>Event Coordinator</small></h4></a></div><div class="item"><a target=_self href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX18cXQdG0cmoMJgSOEzc8%252BHOTi5YtB60OWNQBcCp7zWbEFYcn4X8f9xb"><img decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/download-3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/download-3-150x150.jpg 150w, /wp-content/uploads/2024/07/download-3-300x300.jpg 300w, /wp-content/uploads/2024/07/download-3-100x100.jpg 100w, /wp-content/uploads/2024/07/download-3.jpg 312w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Ali Hamza <br> <small>Community Event Coordinator</small></h4></a></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-899298e elementor-widget elementor-widget-spacer" data-id="899298e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+		<div class="elementor-element elementor-element-997f8a3 e-flex e-con-boxed e-con e-parent" data-id="997f8a3" data-element_type="container">
+					<div class="e-con-inner">
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Data Quality and Interoperability: A Methodology for Knowledge Graph Construction</title>
+		<link>/events/data-quality-and-interoperability-kg-construction/</link>
+		
+		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2024 08:30:54 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=tp_event&#038;p=22791</guid>
+
+					<description><![CDATA[Data Quality and Interoperability: A Methodology for Knowledge Graph Construction Interesting moments at the #15 meetup of Mongol Data Club, in Ulaanbaatar. Simone Bocca was the invited speaker to discuss about Knowledge Graphs, data quality and interoperability. It led to &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22791" class="elementor elementor-22791">
+				<div class="elementor-element elementor-element-7ca1b80a e-flex e-con-boxed e-con e-parent" data-id="7ca1b80a" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-10b515da elementor-widget elementor-widget-text-editor" data-id="10b515da" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h4><strong>Data Quality and Interoperability: A Methodology for Knowledge Graph Construction</strong></h4><p>Interesting moments at the #15 meetup of <a href="http://www.dataclub.mn/">Mongol Data Club</a>, in Ulaanbaatar. Simone Bocca was the invited speaker to discuss about Knowledge Graphs, data quality and interoperability. It led to lots of questions on how to adopt interoperable KGs with different sectors and companies.</p><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s"><span class="html-span xexx8yu x4uap5 x18d9i69 xkhd6sd x1hl2dhg x16tdsg8 x1vvkbs x3nfvp2 x1j61x8r x1fcty0u xdj266r xat24cr xgzva0m xhhsvwb xxymvpz xlup9mm x1kky2od"><img decoding="async" class="xz74otr" src="https://static.xx.fbcdn.net/images/emoji.php/v9/te0/1/16/1f31f.png" alt="&#x1f31f;" width="16" height="16" /> </span>We are thrilled to announce our next Data Club Meetup, featuring a special guest presentation from a talented PhD student Simone Bocca, from the <a href="https://www.unitn.it/en">University of Trento</a>! </div><div> </div><div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s"><span class="html-span xexx8yu x4uap5 x18d9i69 xkhd6sd x1hl2dhg x16tdsg8 x1vvkbs x3nfvp2 x1j61x8r x1fcty0u xdj266r xat24cr xgzva0m xhhsvwb xxymvpz xlup9mm x1kky2od"><img loading="lazy" decoding="async" class="xz74otr" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tc1/1/16/1f50d.png" alt="&#x1f50d;" width="16" height="16" /></span> Our guest is highly experienced in Knowledge Graphs and Data Quality, bringing a wealth of knowledge and expertise to share with our community.</div><h2>Program Details</h2><p><span class="html-span xexx8yu x4uap5 x18d9i69 xkhd6sd x1hl2dhg x16tdsg8 x1vvkbs x3nfvp2 x1j61x8r x1fcty0u xdj266r xat24cr xgzva0m xhhsvwb xxymvpz xlup9mm x1kky2od"><img loading="lazy" decoding="async" class="xz74otr" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t5c/1/16/1f5d3.png" alt="&#x1f5d3;" width="16" height="16" /></span>  <strong>Date:</strong> April 30th<br class="html-br" /><span class="html-span xexx8yu x4uap5 x18d9i69 xkhd6sd x1hl2dhg x16tdsg8 x1vvkbs x3nfvp2 x1j61x8r x1fcty0u xdj266r xat24cr xgzva0m xhhsvwb xxymvpz xlup9mm x1kky2od"><img loading="lazy" decoding="async" class="xz74otr" src="https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1/16/1f552.png" alt="&#x1f552;" width="16" height="16" /> </span><strong> Time:</strong> 08:30AM- 10:30AM<br class="html-br" /><span class="html-span xexx8yu x4uap5 x18d9i69 xkhd6sd x1hl2dhg x16tdsg8 x1vvkbs x3nfvp2 x1j61x8r x1fcty0u xdj266r xat24cr xgzva0m xhhsvwb xxymvpz xlup9mm x1kky2od"><img loading="lazy" decoding="async" class="xz74otr" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t2d/1/16/1f4cd.png" alt="&#x1f4cd;" width="16" height="16" /></span>  <strong>Location:</strong> Coffee Namu Mongolia</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2b48f8a elementor-widget elementor-widget-google_maps" data-id="2b48f8a" data-element_type="widget" data-widget_type="google_maps.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-custom-embed">
+			<iframe loading="lazy"
+					src="https://maps.google.com/maps?q=Parisian%20street%2042%201st%20khoroo%2C%20Ulaanbaatar%2014230%2C%20Mongolia&#038;t=m&#038;z=16&#038;output=embed&#038;iwloc=near"
+					title="Parisian street 42 1st khoroo, Ulaanbaatar 14230, Mongolia"
+					aria-label="Parisian street 42 1st khoroo, Ulaanbaatar 14230, Mongolia"
+			></iframe>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1bdc19c elementor-widget elementor-widget-spacer" data-id="1bdc19c" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6739e4a elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6739e4a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-424301d" data-id="424301d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-782fa1d elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="782fa1d" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading "><h3 class="title">Speaker(s) </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ebf93e5 elementor-widget thim-widget-gallery-images" data-id="ebf93e5" data-element_type="widget" data-widget_type="thim-gallery-images.default">
+				<div class="elementor-widget-container">
+			<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><a target=_self href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX19LBhVDTZHbw0JZDePC%252BDslWM%252BCMFAaPYcM40N971STBGPp%252B6CZAEVJ"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/unnamed-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/unnamed-150x150.jpg 150w, /wp-content/uploads/2024/07/unnamed-300x300.jpg 300w, /wp-content/uploads/2024/07/unnamed-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Simone Bocca<br><small>Guest Speaker</small></h4></a></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-899298e elementor-widget elementor-widget-spacer" data-id="899298e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+		<div class="elementor-element elementor-element-997f8a3 e-flex e-con-boxed e-con e-parent" data-id="997f8a3" data-element_type="container">
+					<div class="e-con-inner">
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DataScientia Workshop Meeting 2023</title>
+		<link>/events/datascientia-workshop-meeting-2023/</link>
+		
+		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
+		<pubDate>Tue, 18 Apr 2023 09:00:47 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=tp_event&#038;p=22830</guid>
+
+					<description><![CDATA[DataScientia Workshop Meeting 2023 The DataScientia Workshop, held from April 17th to April 19th, combined in-person and online participation to explore various aspects of the DataScientia community, its services, and future projects. The event opened with a welcome address and &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="22830" class="elementor elementor-22830">
+				<div class="elementor-element elementor-element-7ca1b80a e-flex e-con-boxed e-con e-parent" data-id="7ca1b80a" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-10b515da elementor-widget elementor-widget-text-editor" data-id="10b515da" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h4><strong>DataScientia Workshop Meeting 2023</strong></h4><div><p>The DataScientia Workshop, held from April 17th to April 19th, combined in-person and online participation to explore various aspects of the DataScientia community, its services, and future projects. The event opened with a welcome address and a round-table introduction where participants shared their backgrounds and interests. This was followed by an overview of DataScientia, highlighting its goals and initiatives.</p><p>In the afternoon, attendees delved into case studies, starting with the Digital University project and the UKC project. Additional presentations included discussions on SU2 and WeNet, and a session on Everyday AI in education.</p><p>The second day began with an introduction to the day&#8217;s talks. Presentations included an overview of the DataScientia community and its services, a discussion on the DataScientia ecosystem, and an outline of the next steps for the community, including website development, memoranda of understanding, and joint project calls.</p><p>In the afternoon, pilot projects were presented, beginning with the Digital University project and LiveLanguage services. Discussions also covered LivePeople, focusing on long-term habits and iLog analysis, and Everyday AI in education. The day ended with group discussions and a social dinner.</p><p>The final day featured a special fireside chat on diversity, AI, and the human factor. Conducted in Italian with simultaneous English translation, this session required prior registration and provided a platform for discussing the intersection of AI technology and human diversity.</p><p>Overall, the workshop facilitated a comprehensive exploration of DataScientia’s initiatives, fostering collaboration and knowledge sharing among participants.</p></div><h4><span style="color: var(--thim-font-title-color); font-family: var(--thim-font-title-font-family); font-size: var(--thim-font-h2-font-size); font-weight: var(--thim-font-title-variant); text-transform: var(--thim-font-h2-text-transform,uppercase); text-align: var(--text-align);">Event Location:</span></h4><p><span style="font-weight: 400;">The meeting took place at the historical Department of Sociology and Social Research, </span><b>Meeting Room (Sala Riunioni) 2</b><b>nd</b><b> Floor</b><span style="font-weight: 400;">.  </span></p><p><span style="font-weight: 400;">The public event will be held in </span><b>Aula Kessler, 2</b><b>nd</b><b> Floor</b><span style="font-weight: 400;">. The venue is in Trento city centre, 10-minute walk from central station.</span>.</p><p><strong>Address:</strong> <a href="https://www.google.com/maps/place/Department+of+Sociology+and+Social+Research/@46.0666143,11.1195116,15z/data=!4m6!3m5!1s0x4782714b964d0889:0x7ce5b46aca708cfe!8m2!3d46.0666143!4d11.1195116!16s%2Fg%2F11j00sxmgd?entry=ttu">Via Giuseppe Verdi, 26, 38122 Trento TN</a></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2b48f8a elementor-widget elementor-widget-google_maps" data-id="2b48f8a" data-element_type="widget" data-widget_type="google_maps.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-custom-embed">
+			<iframe loading="lazy"
+					src="https://maps.google.com/maps?q=Via%20Giuseppe%20Verdi%2C%2026%2C%2038122%20Trento%20TN&#038;t=m&#038;z=16&#038;output=embed&#038;iwloc=near"
+					title="Via Giuseppe Verdi, 26, 38122 Trento TN"
+					aria-label="Via Giuseppe Verdi, 26, 38122 Trento TN"
+			></iframe>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1bdc19c elementor-widget elementor-widget-spacer" data-id="1bdc19c" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6739e4a elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6739e4a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-424301d" data-id="424301d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-782fa1d elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="782fa1d" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading "><h3 class="title">Event Organizers </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ebf93e5 elementor-widget thim-widget-gallery-images" data-id="ebf93e5" data-element_type="widget" data-widget_type="thim-gallery-images.default">
+				<div class="elementor-widget-container">
+			<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><a target=_self href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX1%252BDcXIyZtw79M5coIPrOahzxcVvxuYXb3B6q1bbWqLQSqeOGncqVEOy"><img decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/download-2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/download-2-150x150.jpg 150w, /wp-content/uploads/2024/07/download-2-100x100.jpg 100w, /wp-content/uploads/2024/07/download-2.jpg 288w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Matteo Busso <br><small>Event Coordinator</small></h4></a></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-899298e elementor-widget elementor-widget-spacer" data-id="899298e" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
