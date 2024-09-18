@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>/wp-content/uploads/2018/05/cropped-kidf-32x32.png</url>
+	<url>/wp-content/uploads/2020/03/DS-fav-icon-32x32.png</url>
 	<title>Projects &#8211; DataScientia</title>
 	<link>/</link>
 	<width>32</width>
@@ -42,8 +42,7 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-c071b7c elementor-widget elementor-widget-text-editor" data-id="c071b7c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.23.0 - 05-08-2024 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<header class="entry-header "><h1 class="entry-title">CyCAT H2020 project for Algorithmic Transparency</h1></header><div class="entry-content clear"><p>We are happy to announce that the our group is now a partner in the CyCAT H2020 Project for next two years.  The main goal of the CyCAT is to address the emerging research problem of Algorithmic Transparency, and establish a network of researchers from European countries including Cyprus, England, Israel, Italy, and Scotland.</p></div>						</div>
+							<header class="entry-header "><h1 class="entry-title">CyCAT H2020 project for Algorithmic Transparency</h1></header><div class="entry-content clear"><p>We are happy to announce that the our group is now a partner in the CyCAT H2020 Project for next two years.  The main goal of the CyCAT is to address the emerging research problem of Algorithmic Transparency, and establish a network of researchers from European countries including Cyprus, England, Israel, Italy, and Scotland.</p></div>						</div>
 				</div>
 					</div>
 				</div>
