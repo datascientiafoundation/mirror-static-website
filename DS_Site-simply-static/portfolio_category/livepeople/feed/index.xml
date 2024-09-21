@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LivePeople &#8211; DataScientia</title>
+	<atom:link href="/portfolio_category/livepeople/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DataScientia Initiative website</description>
+	<lastBuildDate>Fri, 20 Sep 2024 15:32:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/03/DS-fav-icon-32x32.png</url>
+	<title>LivePeople &#8211; DataScientia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Big-Thick Data</title>
+		<link>/projects/su2osm/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2016 04:46:23 +0000</pubDate>
+				<guid isPermaLink="false">http://educationwp.thimpress.com/thim-2/?post_type=portfolio&#038;p=4430</guid>
+
+					<description><![CDATA[Project Description Smart devices, such as smartphones and smartwatches, collect vast amounts of big data, including GPS, Bluetooth, Wi-Fi, and accelerometer data, mainly in the form of sensor data. This type of data is often categorized as a specific kind &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="4430" class="elementor elementor-4430">
+				<div class="elementor-element elementor-element-795d3001 e-flex e-con-boxed e-con e-parent" data-id="795d3001" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-d938976 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="d938976" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-center"><h3 class="title">Project Description </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-60d02ece elementor-widget elementor-widget-text-editor" data-id="60d02ece" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h2><img fetchpriority="high" decoding="async" class="wp-image-23451 alignleft" src="/wp-content/uploads/2016/03/Copy-of-EAI3-300x300.png" alt="" width="256" height="256" srcset="/wp-content/uploads/2016/03/Copy-of-EAI3-300x300.png 300w, /wp-content/uploads/2016/03/Copy-of-EAI3-1024x1024.png 1024w, /wp-content/uploads/2016/03/Copy-of-EAI3-150x150.png 150w, /wp-content/uploads/2016/03/Copy-of-EAI3-768x768.png 768w, /wp-content/uploads/2016/03/Copy-of-EAI3-600x600.png 600w, /wp-content/uploads/2016/03/Copy-of-EAI3-100x100.png 100w, /wp-content/uploads/2016/03/Copy-of-EAI3.png 1080w" sizes="(max-width: 256px) 100vw, 256px" /></h2><p>Smart devices, such as smartphones and smartwatches, collect vast amounts of big data, including GPS, Bluetooth, Wi-Fi, and accelerometer data, mainly in the form of sensor data. This type of data is often categorized as a specific kind of big data. While big data has been extensively utilized in predicting various aspects of human behavior, such as in the fields of Human Activity Recognition, Health Monitoring, and Autonomous Vehicles, it has a major limitation in that it it is not thick, that is, it does not carry information about the context within which it was generated, hence often used with ambiguous meanings.</p><p>To ensure data is self-explanatory and meaningful, it is necessary to explicitly represent the context, encompassing what was accomplished by a person, how and why, and in which overall situation. Context becomes necessary when using the same dataset for multiple prediction tasks, as the same sensor value may convey different meanings in varying contextual scenarios. Furthermore, context is crucial for understanding human behaviour, particularly in social or personal life, which is always context-sensitive. To address the problem of big data de-contextualization, we turn to the notion of Big-Thick Data. Big-Thick Data is big data complemented with thick data, that is, observational data about context.</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2e38e9b e-flex e-con-boxed e-con e-parent" data-id="2e38e9b" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-77712fd e-grid e-con-full e-con e-child" data-id="77712fd" data-element_type="container">
+				<div class="elementor-element elementor-element-a344a94 elementor-widget elementor-widget-text-editor" data-id="a344a94" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h3>Project Goal</h3><p>This project aims to integrate various data, e.g., sensors, answers to machine questions, and self-reports, into Big-Thick Data as highly contextualized data by modeling Observation Contexts. We first define the two main components of Observation Contexts, Personal Context and Reference Context, which encode the world from a person&#8217;s subjective view and an objective all-encompassing view of a third-party observer. Then the observation context is built by composing (a part of) the objective reference context and with (parts of) one or more subjective personal contexts based on shared identifying information, e.g., names, identifiers, spatio-temporal coordinates. The unification process is flexible depending on the specific purpose, thus allowing for different types of questions about the users’ behavior and the surrounding world, also for multiple different answers to the same question.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4014329 elementor-widget elementor-widget-thim-single-images" data-id="4014329" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-widget-container">
+			<div class="single-image template-layout-2 svg-hover"><img decoding="async" width="1836" height="865" src="/wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569.jpeg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569.jpeg 1836w, /wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569-300x141.jpeg 300w, /wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569-1024x482.jpeg 1024w, /wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569-768x362.jpeg 768w, /wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569-1536x724.jpeg 1536w, /wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569-600x283.jpeg 600w" sizes="(max-width: 1836px) 100vw, 1836px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info">Image Credits: <a href="http://eduardomagrani.com/">Eduardo Magrani</a></span></div></div>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6f7bfcd e-flex e-con-boxed e-con e-parent" data-id="6f7bfcd" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-62149d6 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="62149d6" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading"><h3 class="title">The Solution </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c7fd419 elementor-widget elementor-widget-text-editor" data-id="c7fd419" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>We integrate Big-Thick Data as highly contextualized data by modeling Observation Contexts. Observation Contexts are based on two main components: one or more users’ Personal Contexts and a Reference Context. A personal context encodes a person&#8217;s subjective view of the world, e.g., where she is, what she is doing, who she is with, and her mood. We model personal contexts, in time, as Personal Big-Thick Data obtained by integrating Personal Big-Data, e.g., sensor or social media data, with user provided descriptions of the current situation, e.g., human answers to machine questions and human self-reports. A reference context provides a user-independent objective all-encompassing view of a third-party observer. It keeps track of the environment within which users are operating, defined in terms of a reference observation period and a reference location, e.g., one day and the city of Trento. The reference context can be built out of any type of spatio-temporal (big) data, e.g., OpenStreetMap (OSM) or the Italian Spatial Data portal.</p><p>The observation context is built by composing (a part of) the objective reference context and with (parts of) one or more subjective personal contexts based on shared identifying information, e.g., names, identifiers, spatio-temporal coordinates. We call this process Context Unification. Context unification is a flexible process depending on the specific purpose, thus allowing for different types of questions about the users’ behaviour and the world around them and, also, for multiple different answers to the same question.</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-20e239b e-flex e-con-boxed e-con e-parent" data-id="20e239b" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f70e1d6 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="f70e1d6" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading"><h4 class="title">Case Study:   <span class="thim-color">SmartUnitn-2 and OpenStreetMap Integration</span></h4><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-327367c elementor-widget elementor-widget-text-editor" data-id="327367c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The case study is to integrate SmartUnitn-Two (SU2) dataset and OpenStreetMap (OSM) dataset from Geofabrik, as SU2OSM Big-Thick Data. The SU2 dataset describes sequences of personal contexts from 158 students of University of Trento over four weeks. The OSM dataset represents a reference context in Trentino. The integrated SU2OSM dataset unifies the personal contexts with the reference context, which represents the personal daily lives of these students.</p><h5>Datasets Used:</h5><ul><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Time%20Diaries/">2018-SU2-Trento-Time Diaries</a></li><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Location%20Event/">2018-SU2-Trento-Location Event</a></li><li><a href="https://download.geofabrik.de/europe/italy/nord-est.html">OpenStreetMap (OSM) dataset</a> in North-East of Italy from Geofabrik, ( nord-est-latest-free.shp.zip )</li></ul><h5>Output Datasets:</h5><ul><li>su2osm dataset</li></ul><p> </p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d659f9b e-flex e-con-boxed e-con e-parent" data-id="d659f9b" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-eddafb9 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="eddafb9" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading"><h4 class="title">Acknowledgements </h4><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d5d307d elementor-widget elementor-widget-text-editor" data-id="d5d307d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The first and most important thanks goes to <a href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX1%252BDcXIyZtw79M5coIPrOahzxcVvxuYXb3B6q1bbWqLQSqeOGncqVEOy">Matteo Busso</a> for inventing the term big-thick data. The work described in this project could be done thanks to the amazing group of colleagues in the <a href="http://knowdive.disi.unitn.it/">KnowDive</a> Group: Mayukh Bagchi, Simone Bocca, Andrea Bontempelli, <a href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX18cXQdG0cmoMJgSOEzc8%252BHOTi5YtB60OWNQBcCp7zWbEFYcn4X8f9xb">Ali Hamza</a>, Leonardo Havier Malcotti, Ivan Kayongo, Alessio Zamboni, Haonan Zhao, Andrea Bontempelli, etc. This research has received funding from the European Union’s Horizon 2020 FET Proactive project “<a href="https://www.internetofus.eu/">WeNet – The Internet of us</a>”, grant agreement No 823783.</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-fdf50aa e-flex e-con-boxed e-con e-parent" data-id="fdf50aa" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7cbc9d9 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="7cbc9d9" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading"><h4 class="title">Publications and Research </h4><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a2c1aa4 elementor-widget elementor-widget-text-editor" data-id="a2c1aa4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>Key Paper:</strong><br />Giunchiglia, F., &amp; Li, X. (2024). Big-Thick Data generation via reference and personal context unification. <em>ECAI 2024: 26th European Conference on Artificial Intelligence</em>.<br />Available at: <a href="https://arxiv.org/abs/2409.05883" target="_new" rel="noopener">https://arxiv.org/abs/2409.05883</a></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-72bd489 e-flex e-con-boxed e-con e-parent" data-id="72bd489" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3d23a81 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="3d23a81" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading"><h4 class="title">Project Team </h4><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3893d18 elementor-widget thim-widget-gallery-images" data-id="3893d18" data-element_type="widget" data-widget_type="thim-gallery-images.default">
+				<div class="elementor-widget-container">
+			<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><img decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-150x150.jpg 150w, /wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-300x300.jpg 300w, /wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Fausto Giunchiglia<br><small>Project Coordinator <br>Professor at University of Trento</small></h4></div><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/09/Xiaoyue-Li-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/09/Xiaoyue-Li-150x150.jpg 150w, /wp-content/uploads/2024/09/Xiaoyue-Li-300x300.jpg 300w, /wp-content/uploads/2024/09/Xiaoyue-Li-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Xiaoyue Li<br><small>Researcher <br>University of Trento</small></h4></div></div>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-84602cc e-flex e-con-boxed e-con e-parent" data-id="84602cc" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-bf2ee34 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="bf2ee34" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cpath d=&#039;M0,6c6,0,6,13,12,13S18,6,24,6&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
