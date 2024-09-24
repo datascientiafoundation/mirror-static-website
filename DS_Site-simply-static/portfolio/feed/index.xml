@@ -12,7 +12,7 @@
 	<atom:link href="/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Fri, 20 Sep 2024 15:32:53 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Sep 2024 12:31:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -83,7 +83,7 @@
 				</div>
 				<div class="elementor-element elementor-element-327367c elementor-widget elementor-widget-text-editor" data-id="327367c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>The case study is to integrate SmartUnitn-Two (SU2) dataset and OpenStreetMap (OSM) dataset from Geofabrik, as SU2OSM Big-Thick Data. The SU2 dataset describes sequences of personal contexts from 158 students of University of Trento over four weeks. The OSM dataset represents a reference context in Trentino. The integrated SU2OSM dataset unifies the personal contexts with the reference context, which represents the personal daily lives of these students.</p><h5>Datasets Used:</h5><ul><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Time%20Diaries/">2018-SU2-Trento-Time Diaries</a></li><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Location%20Event/">2018-SU2-Trento-Location Event</a></li><li><a href="https://download.geofabrik.de/europe/italy/nord-est.html">OpenStreetMap (OSM) dataset</a> in North-East of Italy from Geofabrik, ( nord-est-latest-free.shp.zip )</li></ul><h5>Output Datasets:</h5><ul><li>su2osm dataset</li></ul><p> </p>						</div>
+							<p>The case study is to integrate SmartUnitn-Two (SU2) dataset and OpenStreetMap (OSM) dataset from Geofabrik, as SU2OSM Big-Thick Data. The SU2 dataset describes sequences of personal contexts from 158 students of University of Trento over four weeks. The OSM dataset represents a reference context in Trentino. The integrated SU2OSM dataset unifies the personal contexts with the reference context, which represents the personal daily lives of these students.</p><h5>Project Community Webpage:</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/8b227ff7-803e-4f7b-8765-75ea2b7a8113">SU2OSM Case Study Webpage &#8211;  DataScientia Community</a></li></ul><h5>Datasets Used:</h5><ul><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Time%20Diaries/">2018-SU2-Trento-Time Diaries</a></li><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Location%20Event/">2018-SU2-Trento-Location Event</a></li><li><a href="https://download.geofabrik.de/europe/italy/nord-est.html">OpenStreetMap (OSM) dataset</a> in North-East of Italy from Geofabrik, ( nord-est-latest-free.shp.zip )</li></ul><h5>Output Datasets:</h5><ul><li>su2osm dataset webpage (<span style="color: #999999;"><em>coming soon</em></span>)</li></ul>						</div>
 				</div>
 					</div>
 				</div>
