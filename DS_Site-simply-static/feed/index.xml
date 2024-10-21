@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Wed, 17 Jul 2024 13:30:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Oct 2024 17:04:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,96 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gábor Bella to The Guardian on AI Translators</title>
+		<link>/gabor-bella-to-the-guardian-on-ai-translators/</link>
+					<comments>/gabor-bella-to-the-guardian-on-ai-translators/#respond</comments>
+		
+		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
+		<pubDate>Tue, 08 Oct 2024 09:54:17 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[LiveLanguage]]></category>
+		<guid isPermaLink="false">/?p=22992</guid>
+
+					<description><![CDATA[On September 7, 2023, The Guardian published an article about the risks and limitations of AI translation tools used by U.S. migration agencies. Illustration: Nicole Rifkin/The Guardian The newspaper features insights from Garbor Bella, a member of our Data Scientia &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="22992" class="elementor elementor-22992">
+				<div class="elementor-element elementor-element-94a6cba e-flex e-con-boxed e-con e-parent" data-id="94a6cba" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-761fd81 elementor-widget elementor-widget-text-editor" data-id="761fd81" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>On September 7, 2023, The Guardian published an article about the risks and limitations of AI translation tools used by U.S. migration agencies.</strong></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c80ce0b e-con-full e-flex e-con e-parent" data-id="c80ce0b" data-element_type="container">
+				<div class="elementor-element elementor-element-152e4cb elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="152e4cb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img fetchpriority="high" decoding="async" width="640" height="384" src="/wp-content/uploads/2024/08/1500-1-1.avif" class="attachment-medium_large size-medium_large wp-image-23002" alt="" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-cf57c06 elementor-widget elementor-widget-text-editor" data-id="cf57c06" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="color: #707070;font-family: GuardianTextSans, 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;font-size: 14px">Illustration: Nicole Rifkin/The Guardian</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1db6bb5 elementor-widget elementor-widget-text-editor" data-id="1db6bb5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The newspaper features insights from Garbor Bella, a member of our Data Scientia community. According to the scholar, these tools fall short of capturing linguistic diversity and interpreting cultural nuances crucial for accurate translation.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d7cbabd e-con-full e-flex e-con e-parent" data-id="d7cbabd" data-element_type="container">
+				<div class="elementor-element elementor-element-47a744f elementor-widget__width-initial elementor-view-default elementor-widget elementor-widget-icon" data-id="47a744f" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg aria-hidden="true" class="e-font-icon-svg e-fas-quote-left" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c0701a9 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="c0701a9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><i><span style="font-weight: 400">&nbsp; &nbsp;Language is more than a series of words and their meanings; it’s a means to express cultural identity, and it’s how many communities make sense of the world.</span></i></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3a57837 elementor-widget__width-initial elementor-position-top elementor-widget elementor-widget-image-box" data-id="3a57837" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="277" height="300" src="/wp-content/uploads/2024/08/unnamed11-277x300.png" class="attachment-medium size-medium wp-image-22999" alt="" srcset="/wp-content/uploads/2024/08/unnamed11-277x300.png 277w, /wp-content/uploads/2024/08/unnamed11.png 290w" sizes="(max-width: 277px) 100vw, 277px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">Bella Garbor</p></div></div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a50071c e-flex e-con-boxed e-con e-parent" data-id="a50071c" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-2fd043d elementor-widget elementor-widget-text-editor" data-id="2fd043d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400">Despite these obstacles, Garbor Bella remains optimistic about AI language translators. He believes language diversity can help overcome these challenges and promote equal opportunities. The researcher believes it can be implemented through data catalogs based on cross-lingual lexical semantics. Catalogs can be created by engaging professionals and native speakers worldwide. </span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a327826 e-flex e-con-boxed e-con e-parent" data-id="a327826" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3b9461e elementor-widget elementor-widget-text-editor" data-id="3b9461e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>Keywords:</strong> language, translation, AI-powered translators, artificial intelligence, linguistic diversity, catalog, culture, migration, cross-lingual lexical semantics, interview</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2b0c339 e-con-full e-flex e-con e-parent" data-id="2b0c339" data-element_type="container">
+		<div class="elementor-element elementor-element-915e88c e-con-full e-flex e-con e-child" data-id="915e88c" data-element_type="container">
+				<div class="elementor-element elementor-element-a267003 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="a267003" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-widget-container">
+			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9bf20b5 e-con-full e-flex e-con e-child" data-id="9bf20b5" data-element_type="container">
+				<div class="elementor-element elementor-element-c2ddc9f elementor-widget elementor-widget-text-editor" data-id="c2ddc9f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong style="color: var( --e-global-color-secondary );font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
+				</div>
+				</div>
+				</div>
+				</div>]]></content:encoded>
+					
+					<wfw:commentRss>/gabor-bella-to-the-guardian-on-ai-translators/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>DataScientia Workshop Meeting</title>
 		<link>/datascientia-workshop-meeting/</link>
 		
@@ -238,30 +328,6 @@
 				<div class="elementor-element elementor-element-b37b5bc elementor-widget elementor-widget-text-editor" data-id="b37b5bc" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<header class="entry-header "><p class="entry-title"><strong>English and a handful of other languages dominate the internet, but this is leaving indigenous cultures without a voice online. Now they are fighting to get their own languages on the web.</strong></p></header><div class="page" title="Page 2"><div class="layoutArea"><div class="column"><div class="page" title="Page 2"><div class="layoutArea"><div class="column"><p>Imagine your favourite social media platform does not let you post in English. Now think of a keyboard that won’t allow you to type in your own words. You would have two options: either switch to another language or remain digitally silent.</p><p>This is the reality for most people that speak indigenous languages and dialects.</p><p>There are nearly <a href="https://www.linguisticsociety.org/content/how-many-languages-are-there-world">7,000 languages and dialects</a> in the world, yet only 7% are reflected in published online material, according to Whose knowledge?, a campaign that aims to <a href="https://whoseknowledge.org/wp-content/uploads/2018/11/DTI-2018-Summary-Report.pdf">make visible the knowledge of marginalised communities online</a>.</p></div></div></div></div></div></div>						</div>
-				</div>
-					</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Abdelhakim Fraihat&#8217;s visit to Tshwane University of Technology- Pretoria (2018-10-01)</title>
-		<link>/abdelhakim-fraihats-visit-to-tshwane-university-of-technology-pretoria-2018-10-01/</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 01 Oct 2018 09:15:00 +0000</pubDate>
-				<category><![CDATA[Events]]></category>
-		<guid isPermaLink="false">/?p=22246</guid>
-
-					<description><![CDATA[Abdelhakim Fraihat from University of Trento visited Tshwane University of Technology and conducted a five days research training workshop programme on the topic &#8220;Computational Linguistics: Lexical Semantics and Natural Language Processing.&#8221; program info]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="22246" class="elementor elementor-22246">
-				<div class="elementor-element elementor-element-bcf0f35 e-flex e-con-boxed e-con e-parent" data-id="bcf0f35" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-85c4573 elementor-widget elementor-widget-text-editor" data-id="85c4573" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Abdelhakim Fraihat from University of Trento visited Tshwane University of Technology and conducted a five days research training workshop programme on the topic &#8220;Computational Linguistics: Lexical Semantics and Natural Language Processing.&#8221;</p><p><button>program info</button></p>						</div>
 				</div>
 					</div>
 				</div>
