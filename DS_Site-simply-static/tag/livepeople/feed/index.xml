@@ -12,7 +12,7 @@
 	<atom:link href="/tag/livepeople/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Thu, 28 Nov 2024 14:43:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Dec 2024 12:34:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>LivePeople Insights at the NSA</title>
-		<link>/livepeople-insights-at-the-nsa/</link>
+		<link>/news/livepeople-insights-at-the-nsa/</link>
 		
 		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
 		<pubDate>Thu, 28 Nov 2024 13:11:00 +0000</pubDate>
@@ -84,7 +84,7 @@
 			</item>
 		<item>
 		<title>Data Quality &#038; Interoperability Talk at Data Club</title>
-		<link>/data-quality-interoperability-talk-at-data-club/</link>
+		<link>/news/data-quality-interoperability-talk-at-data-club/</link>
 		
 		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
 		<pubDate>Thu, 28 Nov 2024 10:47:33 +0000</pubDate>
