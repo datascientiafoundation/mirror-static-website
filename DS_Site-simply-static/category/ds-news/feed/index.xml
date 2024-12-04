@@ -12,7 +12,7 @@
 	<atom:link href="/category/ds-news/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Mon, 02 Dec 2024 14:24:29 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Dec 2024 14:20:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,44 +28,6 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Global Partners Share Their Experiences at DataScientia 2024</title>
-		<link>/global-partners-share-their-experiences-at-datascientia-2024/</link>
-					<comments>/global-partners-share-their-experiences-at-datascientia-2024/#respond</comments>
-		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Mon, 02 Dec 2024 14:23:53 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">/?p=25865</guid>
-
-					<description><![CDATA[  The DataScientia Event: Community, Projects, and Education 2024, held in Trento from September 27th to September 29th, successfully brought together a diverse group of participants from 65 countries worldwide.  As summarized in the [event recap], the program featured various &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="25865" class="elementor elementor-25865">
-				<div class="elementor-element elementor-element-10931750 e-flex e-con-boxed e-con e-parent" data-id="10931750" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-5ee75342 elementor-widget elementor-widget-text-editor" data-id="5ee75342" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container"><p> </p><p><b>The DataScientia Event: Community, Projects, and Education 2024, held in Trento from September 27th to September 29th, successfully brought together a diverse group of participants from 65 countries worldwide. </b></p></div>
-				</div>
-				<div class="elementor-element elementor-element-c6ffec7 elementor-widget elementor-widget-text-editor" data-id="c6ffec7" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400">As summarized in the </span><span style="font-weight: 400">[event recap]</span><span style="font-weight: 400">, the program featured various engaging presentations from </span><span style="font-weight: 400">[the agenda]</span><span style="font-weight: 400">. These included innovative projects in AI, inspiring speeches, interactive discussion sessions, and hands-on workshops. They provided participants with opportunities to exchange knowledge and explore potential collaborations.</span></p>
-<p><span style="font-weight: 400">Reflecting on DataScientia’s commitment to diversity, we have gathered valuable insights from attendees about their experiences at the event. </span></p>
-<p><span style="font-weight: 400">We had the chance to speak with Professor </span><span style="font-weight: 400">[O. Olugbara]</span><span style="font-weight: 400">, the Executive Dean and Professor of Computer Science at Durban University of Technology, after the event’s third day. He expressed his appreciation for the event and shared his inspiration for hosting a similar event in 2026 in South Africa to present the projects they are working on.</span></p>
-<p><span style="font-weight: 400">Professor Olugbara expressed his enjoyment of the event, stating that it was well-organized and engaging, demonstrating its commitment. He emphasized the importance of academics and researchers staying updated with field trends. </span><i><span style="font-weight: 400">&#8220;In my area of computer science, particularly in shared intelligence, this program aligns perfectly with my interests,”</span></i><span style="font-weight: 400"> Olugbara remarked.</span></p>
-<p><span style="font-weight: 400">He enthusiastically shared their exciting data science, AI, and big data projects, facilitated by collaborating with the University of Toronto. “There are also plans to launch an innovative ICT program focused on data science,” says Olugbara. </span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-2393f0c e-flex e-con-boxed e-con e-parent" data-id="2393f0c" data-element_type="container">
-					<div class="e-con-inner">
-					</div>
-				</div>
-				</div>]]></content:encoded>
-					
-					<wfw:commentRss>/global-partners-share-their-experiences-at-datascientia-2024/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Talk on LiveData at the Сonference in Mongolia</title>
 		<link>/news/talk-on-livedata-mongolia/</link>
 		
