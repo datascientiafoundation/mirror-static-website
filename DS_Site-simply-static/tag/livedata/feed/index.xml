@@ -12,7 +12,7 @@
 	<atom:link href="/tag/livedata/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Mon, 02 Dec 2024 14:20:02 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Dec 2024 16:39:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -102,17 +102,17 @@
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-7548d72 e-con-full e-flex e-con e-parent" data-id="7548d72" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:24384,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/10\/cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-6ece560 e-con-full e-flex e-con e-child" data-id="6ece560" data-element_type="container">
-				<div class="elementor-element elementor-element-edd4213 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="edd4213" data-element_type="widget" data-widget_type="thim-single-images.default">
+		<div class="elementor-element elementor-element-fdc01c8 e-con-full e-flex e-con e-parent" data-id="fdc01c8" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:26098,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-8e88861 e-con-full e-flex e-con e-child" data-id="8e88861" data-element_type="container">
+				<div class="elementor-element elementor-element-4617e66 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="4617e66" data-element_type="widget" data-widget_type="thim-single-images.default">
 				<div class="elementor-widget-container">
 			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
 				</div>
 				</div>
-		<div class="elementor-element elementor-element-1bb51b9 e-con-full e-flex e-con e-child" data-id="1bb51b9" data-element_type="container">
-				<div class="elementor-element elementor-element-b4e2b5a elementor-widget elementor-widget-text-editor" data-id="b4e2b5a" data-element_type="widget" data-widget_type="text-editor.default">
+		<div class="elementor-element elementor-element-98aafca e-con-full e-flex e-con e-child" data-id="98aafca" data-element_type="container">
+				<div class="elementor-element elementor-element-7fddbb4 elementor-widget elementor-widget-text-editor" data-id="7fddbb4" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><span style="color: #003366;"><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></span></p>						</div>
+							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
 				</div>
 				</div>
 				</div>
@@ -145,19 +145,16 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-99b1a87 elementor-widget elementor-widget-text-editor" data-id="99b1a87" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>The event was organised in collaboration with Datascientia to engage students, faculty, and data enthusiasts in data learning and innovation services. </p><p>Besides, the seminar featured a keynote presentation by Simone Bocca focusing on learning for data services.</p><p>Simone Bocca shared DataScientia insights and his views on future research and development.</p>						</div>
+							<p>The event was organised in collaboration with DataScientia to engage students, faculty, and data enthusiasts in data learning and innovation services. <span style="color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); font-size: var(--thim-font-body-font-size);">Besides, the seminar featured a keynote presentation by Simone Bocca focusing on learning for data services. </span><span style="color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); font-size: var(--thim-font-body-font-size);">Simone Bocca shared DataScientia insights and his views on future research and development.</span></p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-558a480 elementor-widget elementor-widget-image" data-id="558a480" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img decoding="async" width="640" height="427" src="/wp-content/uploads/2024/09/F2n2YofXQAInMlO-768x512.jpg" class="attachment-medium_large size-medium_large wp-image-23026" alt="" srcset="/wp-content/uploads/2024/09/F2n2YofXQAInMlO-768x512.jpg 768w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO-300x200.jpg 300w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO-1024x683.jpg 1024w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO-1536x1025.jpg 1536w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO-600x400.jpg 600w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO.jpg 2048w" sizes="(max-width: 640px) 100vw, 640px" />													</div>
+										<figure class="wp-caption">
+										<img decoding="async" width="300" height="200" src="/wp-content/uploads/2024/09/F2n2YofXQAInMlO-300x200.jpg" class="attachment-medium size-medium wp-image-23026" alt="" srcset="/wp-content/uploads/2024/09/F2n2YofXQAInMlO-300x200.jpg 300w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO-1024x683.jpg 1024w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO-768x512.jpg 768w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO-1536x1025.jpg 1536w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO-600x400.jpg 600w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" />											<figcaption class="widget-image-caption wp-caption-text">Illustration: Data Scientia; Simone Bocca with his lecture</figcaption>
+										</figure>
+							</div>
 				</div>
 					</div>
-				</div>
-		<div class="elementor-element elementor-element-9a298c0 e-con-full e-flex e-con e-parent" data-id="9a298c0" data-element_type="container">
-				<div class="elementor-element elementor-element-94eb097 elementor-widget elementor-widget-text-editor" data-id="94eb097" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="color: #707070;font-family: GuardianTextSans, 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;font-size: 14px">Illustration: Data Scientia; Simone Bocca with his lecture</span></p>						</div>
-				</div>
 				</div>
 		<div class="elementor-element elementor-element-60293ec e-con-full e-flex e-con e-parent" data-id="60293ec" data-element_type="container">
 				<div class="elementor-element elementor-element-8d3d1e4 elementor-widget elementor-widget-text-editor" data-id="8d3d1e4" data-element_type="widget" data-widget_type="text-editor.default">
@@ -189,27 +186,25 @@
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-d2013c3 e-flex e-con-boxed e-con e-parent" data-id="d2013c3" data-element_type="container">
-					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-d2013c3 e-con-full e-flex e-con e-parent" data-id="d2013c3" data-element_type="container">
 				<div class="elementor-element elementor-element-2424207 elementor-widget elementor-widget-text-editor" data-id="2424207" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<p><strong>Keywords:</strong> data science, innovation, education, seminar, data learning, presentation, research</p>						</div>
 				</div>
-		<div class="elementor-element elementor-element-413e053 e-con-full e-flex e-con e-child" data-id="413e053" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:24384,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/10\/cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-ff16bc8 e-con-full e-flex e-con e-child" data-id="ff16bc8" data-element_type="container">
-				<div class="elementor-element elementor-element-ad90382 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="ad90382" data-element_type="widget" data-widget_type="thim-single-images.default">
+				</div>
+		<div class="elementor-element elementor-element-53d5c50 e-con-full e-flex e-con e-parent" data-id="53d5c50" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:26098,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-7cbbfe8 e-con-full e-flex e-con e-child" data-id="7cbbfe8" data-element_type="container">
+				<div class="elementor-element elementor-element-3eebae2 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="3eebae2" data-element_type="widget" data-widget_type="thim-single-images.default">
 				<div class="elementor-widget-container">
 			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
 				</div>
 				</div>
-		<div class="elementor-element elementor-element-9cdc299 e-con-full e-flex e-con e-child" data-id="9cdc299" data-element_type="container">
-				<div class="elementor-element elementor-element-1cc5d85 elementor-widget elementor-widget-text-editor" data-id="1cc5d85" data-element_type="widget" data-widget_type="text-editor.default">
+		<div class="elementor-element elementor-element-324288e e-con-full e-flex e-con e-child" data-id="324288e" data-element_type="container">
+				<div class="elementor-element elementor-element-1d246c2 elementor-widget elementor-widget-text-editor" data-id="1d246c2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><span style="color: #003366;"><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></span></p>						</div>
+							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
 				</div>
 				</div>
-				</div>
-					</div>
 				</div>
 				</div>]]></content:encoded>
 					
@@ -272,15 +267,15 @@
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-3804948 e-con-full e-flex e-con e-parent" data-id="3804948" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:24384,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/10\/cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-8501c9d e-con-full e-flex e-con e-child" data-id="8501c9d" data-element_type="container">
-				<div class="elementor-element elementor-element-64ae51b elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="64ae51b" data-element_type="widget" data-widget_type="thim-single-images.default">
+		<div class="elementor-element elementor-element-44857cd e-con-full e-flex e-con e-parent" data-id="44857cd" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:26098,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-de155fd e-con-full e-flex e-con e-child" data-id="de155fd" data-element_type="container">
+				<div class="elementor-element elementor-element-6258d5f elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="6258d5f" data-element_type="widget" data-widget_type="thim-single-images.default">
 				<div class="elementor-widget-container">
 			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
 				</div>
 				</div>
-		<div class="elementor-element elementor-element-8b070cd e-con-full e-flex e-con e-child" data-id="8b070cd" data-element_type="container">
-				<div class="elementor-element elementor-element-7a18992 elementor-widget elementor-widget-text-editor" data-id="7a18992" data-element_type="widget" data-widget_type="text-editor.default">
+		<div class="elementor-element elementor-element-d71234d e-con-full e-flex e-con e-child" data-id="d71234d" data-element_type="container">
+				<div class="elementor-element elementor-element-71718b8 elementor-widget elementor-widget-text-editor" data-id="71718b8" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
 				</div>
@@ -316,7 +311,7 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-0d1cba5 elementor-widget elementor-widget-thim-single-images" data-id="0d1cba5" data-element_type="widget" data-widget_type="thim-single-images.default">
 				<div class="elementor-widget-container">
-			<div class="single-image template-base"><img loading="lazy" decoding="async" width="1499" height="945" src="/wp-content/uploads/2024/09/1714572170234-1.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2024/09/1714572170234-1.jpg 1499w, /wp-content/uploads/2024/09/1714572170234-1-300x189.jpg 300w, /wp-content/uploads/2024/09/1714572170234-1-1024x646.jpg 1024w, /wp-content/uploads/2024/09/1714572170234-1-768x484.jpg 768w, /wp-content/uploads/2024/09/1714572170234-1-600x378.jpg 600w" sizes="(max-width: 1499px) 100vw, 1499px" /></div>		</div>
+			<div class="single-image template-base"><img loading="lazy" decoding="async" width="400" height="300" src="/wp-content/uploads/2024/09/1714572170234-1-400x300.jpg" class="attachment-course_thumbnail size-course_thumbnail" alt="" /></div>		</div>
 				</div>
 					</div>
 				</div>
@@ -324,7 +319,7 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-1e3c866 elementor-widget elementor-widget-text-editor" data-id="1e3c866" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><span style="color: #707070;font-family: GuardianTextSans, 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;font-size: 14px">Illustration: Data Scientia</span></p>						</div>
+							<p><span style="color: #707070; font-family: GuardianTextSans, 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 14px;">Illustration: DataScientia</span></p>						</div>
 				</div>
 					</div>
 				</div>
@@ -344,15 +339,15 @@
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-f0f9f5d e-con-full e-flex e-con e-parent" data-id="f0f9f5d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:24384,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/10\/cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-51ab97f e-con-full e-flex e-con e-child" data-id="51ab97f" data-element_type="container">
-				<div class="elementor-element elementor-element-831267e elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="831267e" data-element_type="widget" data-widget_type="thim-single-images.default">
+		<div class="elementor-element elementor-element-e33ca32 e-con-full e-flex e-con e-parent" data-id="e33ca32" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:26098,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-2054060 e-con-full e-flex e-con e-child" data-id="2054060" data-element_type="container">
+				<div class="elementor-element elementor-element-80a2c08 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="80a2c08" data-element_type="widget" data-widget_type="thim-single-images.default">
 				<div class="elementor-widget-container">
 			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
 				</div>
 				</div>
-		<div class="elementor-element elementor-element-b45fa6c e-con-full e-flex e-con e-child" data-id="b45fa6c" data-element_type="container">
-				<div class="elementor-element elementor-element-867a156 elementor-widget elementor-widget-text-editor" data-id="867a156" data-element_type="widget" data-widget_type="text-editor.default">
+		<div class="elementor-element elementor-element-c24550c e-con-full e-flex e-con e-child" data-id="c24550c" data-element_type="container">
+				<div class="elementor-element elementor-element-ff15d97 elementor-widget elementor-widget-text-editor" data-id="ff15d97" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
 				</div>

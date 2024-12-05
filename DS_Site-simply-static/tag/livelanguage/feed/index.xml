@@ -12,7 +12,7 @@
 	<atom:link href="/tag/livelanguage/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Mon, 02 Dec 2024 12:40:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Dec 2024 16:39:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -95,17 +95,17 @@
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-2b0c339 e-con-full e-flex e-con e-parent" data-id="2b0c339" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:24384,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/10\/cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-915e88c e-con-full e-flex e-con e-child" data-id="915e88c" data-element_type="container">
-				<div class="elementor-element elementor-element-a267003 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="a267003" data-element_type="widget" data-widget_type="thim-single-images.default">
+		<div class="elementor-element elementor-element-3363e1a e-con-full e-flex e-con e-parent" data-id="3363e1a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:26098,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-2d24d22 e-con-full e-flex e-con e-child" data-id="2d24d22" data-element_type="container">
+				<div class="elementor-element elementor-element-e068d9f elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="e068d9f" data-element_type="widget" data-widget_type="thim-single-images.default">
 				<div class="elementor-widget-container">
 			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
 				</div>
 				</div>
-		<div class="elementor-element elementor-element-9bf20b5 e-con-full e-flex e-con e-child" data-id="9bf20b5" data-element_type="container">
-				<div class="elementor-element elementor-element-c2ddc9f elementor-widget elementor-widget-text-editor" data-id="c2ddc9f" data-element_type="widget" data-widget_type="text-editor.default">
+		<div class="elementor-element elementor-element-a298b6d e-con-full e-flex e-con e-child" data-id="a298b6d" data-element_type="container">
+				<div class="elementor-element elementor-element-1ebf7ab elementor-widget elementor-widget-text-editor" data-id="1ebf7ab" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><span style="color: #003366;"><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></span></p>						</div>
+							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
 				</div>
 				</div>
 				</div>
