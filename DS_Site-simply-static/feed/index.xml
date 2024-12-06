@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Thu, 05 Dec 2024 22:11:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Dec 2024 16:16:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,190 +28,6 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Talk on LiveData at the Сonference in Mongolia</title>
-		<link>/news/talk-on-livedata-mongolia/</link>
-		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Thu, 28 Nov 2024 13:45:18 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[LiveData]]></category>
-		<guid isPermaLink="false">/?p=23048</guid>
-
-					<description><![CDATA[On May 23, 2024, Simone Bocca from a DataScientia took part in the the 11th Mongolian Information Technology Conference MMT-2024 that took place in Ulaanbaatar.&#160; The conference aimed to engage scholars and stakeholders to exchange knowledge in cyber security and &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="23048" class="elementor elementor-23048">
-				<div class="elementor-element elementor-element-2feee4c e-flex e-con-boxed e-con e-parent" data-id="2feee4c" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-4d082c1 elementor-widget elementor-widget-text-editor" data-id="4d082c1" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><b>On May 23, 2024, Simone Bocca from a DataScientia took part in the the 11th Mongolian Information Technology Conference MMT-2024 that took place in Ulaanbaatar.&nbsp;</b></p>
-<p><span style="font-weight: 400">The conference aimed to engage scholars and stakeholders to exchange knowledge in cyber security and data protection. It opened a call for scientific papers which were presented during the event. The conference aimed to discuss the challenges and perspectives of digital transformation in the information and communication fields in Mongolia.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-3097b6a e-flex e-con-boxed e-con e-parent" data-id="3097b6a" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-7167041 elementor-widget elementor-widget-thim-single-images" data-id="7167041" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-base"><img fetchpriority="high" decoding="async" width="1280" height="720" src="/wp-content/uploads/2024/09/GOqUQEMXAAA5at0.jpeg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2024/09/GOqUQEMXAAA5at0.jpeg 1280w, /wp-content/uploads/2024/09/GOqUQEMXAAA5at0-300x169.jpeg 300w, /wp-content/uploads/2024/09/GOqUQEMXAAA5at0-1024x576.jpeg 1024w, /wp-content/uploads/2024/09/GOqUQEMXAAA5at0-768x432.jpeg 768w, /wp-content/uploads/2024/09/GOqUQEMXAAA5at0-600x338.jpeg 600w" sizes="(max-width: 1280px) 100vw, 1280px" /></div>		</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-172101f e-flex e-con-boxed e-con e-parent" data-id="172101f" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-f0e7c4a elementor-widget elementor-widget-text-editor" data-id="f0e7c4a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="color: #707070;font-family: GuardianTextSans, 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;font-size: 14px">Illustration: Data Scientia; Simone Bocca with his lecture</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-a42fb08 e-flex e-con-boxed e-con e-parent" data-id="a42fb08" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-a80531f elementor-widget elementor-widget-text-editor" data-id="a80531f" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">Simone Bocca along with Amarsanaa Ganbold and Tsolmon Zundui were invited to participate and present their research paper</span><b> ‘LiveData &#8211; A Worldwide Data Mesh for Stratified Data. A data distribution network architecture for high</b> <b>quality and interoperable data’</b><span style="font-weight: 400;"> at the </span><span style="font-weight: 400;">National University of Mongolia. <br /></span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);"><br />During the presentation, the researchers emphasised that data has multiple layers of diversity that can represent the wide range of knowledge in the world. However, its heterogeneity also makes it challenging to fully capture this diversity. To address this, they proposed using Diversity Aware Knowledge Graphs, which structure data into distinct layers.<br /></span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);"><br />Additionally, the researchers developed the iTelos methodology for creating these graphs, which reuses existing resources to reduce costs and promote a circular data economy. Lastly, Simone Bocca and Tsolmon Zundui encouraged the knowledge community to cooperate and use a diversity aware approach.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-9866837 e-flex e-con-boxed e-con e-parent" data-id="9866837" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-1f918ff elementor-widget elementor-widget-text-editor" data-id="1f918ff" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Abstract of the paper:</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-c893bf5 e-con-full e-flex e-con e-parent" data-id="c893bf5" data-element_type="container">
-				<div class="elementor-element elementor-element-64077d9 elementor-widget elementor-widget-text-editor" data-id="64077d9" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><em>Data reuse is beneficial for integrating information into new applications, especially when data are scarce. However, it is limited by the data distribution infrastructures for producing and sharing high-quality, interoperable data. However, data reuse requires dealing with data heterogeneity, which is always present in data coming from different sources. This heterogeneity can occur in many contexts, such as differences in the languages used for the data, how the information is organised, and the types and formats of the datasets. </em></p><p><em>Another issue is the reuse of data across countries, where geographical and cultural differences are more distinct.  In this paper, we propose LiveData, a cross-country data distribution network handling high-quality and diversity-aware data. It consists of different nodes that work together to create and share new types of data. Here, diversity in data serves as a useful feature to meet users&#8217; needs. This paper explains how LiveData architecture and nodes of data types work. The system is being used in a project to share and integrate data between the University of Trento in Italy and the National University of Mongolia.</em></p>						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-d14a24b e-flex e-con-boxed e-con e-parent" data-id="d14a24b" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-0862eed elementor-widget elementor-widget-text-editor" data-id="0862eed" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400">The research paper can be accessed through </span><a href="https://ictfocus.org/index.php/focuse"><span style="font-weight: 400">ICTFOCUS </span></a></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-fd12337 e-flex e-con-boxed e-con e-parent" data-id="fd12337" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-93431d5 elementor-widget elementor-widget-text-editor" data-id="93431d5" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Keywords:</strong> data reuse, diversity, knowledge graphs, research, circular data economy, diversity-aware data</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-fdc01c8 e-con-full e-flex e-con e-parent" data-id="fdc01c8" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:26098,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-8e88861 e-con-full e-flex e-con e-child" data-id="8e88861" data-element_type="container">
-				<div class="elementor-element elementor-element-4617e66 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="4617e66" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-98aafca e-con-full e-flex e-con e-child" data-id="98aafca" data-element_type="container">
-				<div class="elementor-element elementor-element-7fddbb4 elementor-widget elementor-widget-text-editor" data-id="7fddbb4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
-				</div>
-				</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Data Services Learning Lecture in Mozambique</title>
-		<link>/news/data-services-learning-lecture-in-mozambique/</link>
-		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Thu, 28 Nov 2024 13:31:40 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[LiveData]]></category>
-		<guid isPermaLink="false">/?p=23018</guid>
-
-					<description><![CDATA[The Palincune incubator at Universidade Zambeze in Beira, in collaboration with the Inovacao Circular project team managed by the Consortium of the Association in Mozambique (CAM), recently hosted a seminar that brought together minds passionate about data science and innovation.  &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="23018" class="elementor elementor-23018">
-				<div class="elementor-element elementor-element-a90a909 e-flex e-con-boxed e-con e-parent" data-id="a90a909" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-fb3eaef elementor-widget elementor-widget-text-editor" data-id="fb3eaef" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>The Palincune incubator at Universidade Zambeze in Beira, in collaboration with the Inovacao Circular project team managed by the Consortium of the Association in Mozambique (CAM), recently hosted a seminar that brought together minds passionate about data science and innovation. </strong></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-1169b83 e-grid e-con-boxed e-con e-parent" data-id="1169b83" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-99b1a87 elementor-widget elementor-widget-text-editor" data-id="99b1a87" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The event was organised in collaboration with DataScientia to engage students, faculty, and data enthusiasts in data learning and innovation services. <span style="color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); font-size: var(--thim-font-body-font-size);">Besides, the seminar featured a keynote presentation by Simone Bocca focusing on learning for data services. </span><span style="color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); font-size: var(--thim-font-body-font-size);">Simone Bocca shared DataScientia insights and his views on future research and development.</span></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-558a480 elementor-widget elementor-widget-image" data-id="558a480" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-										<figure class="wp-caption">
-										<img decoding="async" width="300" height="200" src="/wp-content/uploads/2024/09/F2n2YofXQAInMlO-300x200.jpg" class="attachment-medium size-medium wp-image-23026" alt="" srcset="/wp-content/uploads/2024/09/F2n2YofXQAInMlO-300x200.jpg 300w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO-1024x683.jpg 1024w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO-768x512.jpg 768w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO-1536x1025.jpg 1536w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO-600x400.jpg 600w, /wp-content/uploads/2024/09/F2n2YofXQAInMlO.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" />											<figcaption class="widget-image-caption wp-caption-text">Illustration: Data Scientia; Simone Bocca with his lecture</figcaption>
-										</figure>
-							</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-60293ec e-con-full e-flex e-con e-parent" data-id="60293ec" data-element_type="container">
-				<div class="elementor-element elementor-element-8d3d1e4 elementor-widget elementor-widget-text-editor" data-id="8d3d1e4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The event was organised in collaboration with Datascientia to engage students, faculty, and data enthusiasts in data learning and innovation services. Besides, the seminar featured a keynote presentation by Simone Bocca focusing on learning for data services. Simone Bocca shared DataScientia insights and his views on future research and development.</p>						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-b25766b e-flex e-con-boxed e-con e-parent" data-id="b25766b" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-4238a4f elementor-widget elementor-widget-thim-single-images" data-id="4238a4f" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-base"><img loading="lazy" decoding="async" width="2048" height="1366" src="/wp-content/uploads/2024/09/F2n2Y_AXMAAsJV1.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2024/09/F2n2Y_AXMAAsJV1.jpg 2048w, /wp-content/uploads/2024/09/F2n2Y_AXMAAsJV1-300x200.jpg 300w, /wp-content/uploads/2024/09/F2n2Y_AXMAAsJV1-1024x683.jpg 1024w, /wp-content/uploads/2024/09/F2n2Y_AXMAAsJV1-768x512.jpg 768w, /wp-content/uploads/2024/09/F2n2Y_AXMAAsJV1-1536x1025.jpg 1536w, /wp-content/uploads/2024/09/F2n2Y_AXMAAsJV1-600x400.jpg 600w" sizes="(max-width: 2048px) 100vw, 2048px" /></div>		</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-69d03cf e-flex e-con-boxed e-con e-parent" data-id="69d03cf" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-9ea1ee1 elementor-widget elementor-widget-text-editor" data-id="9ea1ee1" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="color: #707070;font-family: GuardianTextSans, 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;font-size: 14px">Illustration: Data Scientia; seminar&#8217;s participants</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-f26f634 e-flex e-con-boxed e-con e-parent" data-id="f26f634" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-21f7c85 elementor-widget elementor-widget-text-editor" data-id="21f7c85" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var(--thim-font-body-font-size);">This seminar marks a commitment of Data Scientia and Universidade Zambeze to build a community of professionals to advance education and innovation in data science.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-d2013c3 e-con-full e-flex e-con e-parent" data-id="d2013c3" data-element_type="container">
-				<div class="elementor-element elementor-element-2424207 elementor-widget elementor-widget-text-editor" data-id="2424207" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Keywords:</strong> data science, innovation, education, seminar, data learning, presentation, research</p>						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-53d5c50 e-con-full e-flex e-con e-parent" data-id="53d5c50" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:26098,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-7cbbfe8 e-con-full e-flex e-con e-child" data-id="7cbbfe8" data-element_type="container">
-				<div class="elementor-element elementor-element-3eebae2 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="3eebae2" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-324288e e-con-full e-flex e-con e-child" data-id="324288e" data-element_type="container">
-				<div class="elementor-element elementor-element-1d246c2 elementor-widget elementor-widget-text-editor" data-id="1d246c2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
-				</div>
-				</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>LivePeople Insights at the NSA</title>
 		<link>/news/livepeople-insights-at-the-nsa/</link>
 		
@@ -227,23 +43,7 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-a3218c2 elementor-widget elementor-widget-text-editor" data-id="a3218c2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><strong><img loading="lazy" decoding="async" class="size-medium wp-image-25666 alignright" src="/wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254-300x266.jpg" alt="" width="300" height="266" srcset="/wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254-300x266.jpg 300w, /wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254-1024x907.jpg 1024w, /wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254-768x680.jpg 768w, /wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254-1536x1360.jpg 1536w, /wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254-600x531.jpg 600w, /wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254.jpg 1971w" sizes="(max-width: 300px) 100vw, 300px" />The pilot project LivePeople was featured as a case study in the &#8216;National School of Administration Course of Experts in Data Science for Public Administration,&#8217; led by Professor Nereo Zamaro, Research Director of ISTAT.</strong> </p><p>The project was chosen due to its exceptional strategy in gathering and analysing behaviour data. Matteo Busso, the project&#8217;s coordinator, was invited to share his knowledge.</p><p><span style="color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); font-size: var(--thim-font-body-font-size);">During a two-hour testimony, Matteo Busso presented the DataScientia LivePeople Catalog and innovative methods that the research team develops and uses. He elaborated on how LivePeople Catalog represents a large amount of data in the field of human behaviour and social interactions. Matteo Busso explained the catalogue&#8217;s features and services designed to collect, manage, and disseminate complex data on individuals&#8217; behaviours and lifestyles.</span></p><p>The testimony offered useful insights on using complex data for public policy. It highlighted the importance of data science in improving public administration. Lastly, it proved the relevance of LivePeople research for social impact initiatives.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-f9bda7a e-flex e-con-boxed e-con e-parent" data-id="f9bda7a" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-cb6c624 elementor-widget elementor-widget-text-editor" data-id="cb6c624" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400">Learn more about </span><a href="https://livepeople.datascientia.eu/home"><span style="font-weight: 400">LivePeople Catalog.</span></a></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-e7632f5 e-flex e-con-boxed e-con e-parent" data-id="e7632f5" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-ec66ad7 elementor-widget elementor-widget-text-editor" data-id="ec66ad7" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Keywords:</strong> data reuse, diversity, knowledge graphs, research, circular data economy, diversity-aware data</p>						</div>
+							<p><strong><img fetchpriority="high" decoding="async" class="alignright wp-image-25666 size-medium" src="/wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254-300x266.jpg" alt="" width="300" height="266" srcset="/wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254-300x266.jpg 300w, /wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254-1024x907.jpg 1024w, /wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254-768x680.jpg 768w, /wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254-1536x1360.jpg 1536w, /wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254-600x531.jpg 600w, /wp-content/uploads/2024/11/IMG_E5037-scaled-e1732800163254.jpg 1971w" sizes="(max-width: 300px) 100vw, 300px" />The pilot project LivePeople was featured as a case study in the &#8216;National School of Administration Course of Experts in Data Science for Public Administration,&#8217; led by Professor Nereo Zamaro, Research Director of ISTAT.</strong> </p><p>The project was chosen due to its exceptional strategy in gathering and analysing behaviour data. Matteo Busso, the project&#8217;s coordinator, was invited to share his knowledge.</p><p><span style="color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); font-size: var(--thim-font-body-font-size);">During a two-hour testimony, Matteo Busso presented the DataScientia LivePeople Catalog and innovative methods that the research team develops and uses. He elaborated on how LivePeople Catalog represents a large amount of data in the field of human behaviour and social interactions. Matteo Busso explained the catalogue&#8217;s features and services designed to collect, manage, and disseminate complex data on individuals&#8217; behaviours and lifestyles.</span></p><p>The testimony offered useful insights on using complex data for public policy. It highlighted the importance of data science in improving public administration. Lastly, it proved the relevance of LivePeople research for social impact initiatives.</p><p><span style="font-weight: 400;">Learn more about </span><a href="https://livepeople.datascientia.eu/home"><span style="font-weight: 400;">LivePeople Catalog.</span></a></p><p><strong>Keywords:</strong> data reuse, diversity, knowledge graphs, research, circular data economy, diversity-aware data</p>						</div>
 				</div>
 					</div>
 				</div>
@@ -267,58 +67,85 @@
 		
 			</item>
 		<item>
+		<title>Talk on LiveData at the Сonference in Mongolia</title>
+		<link>/news/talk-on-livedata-mongolia/</link>
+		
+		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
+		<pubDate>Thu, 23 May 2024 00:00:18 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[LiveData]]></category>
+		<guid isPermaLink="false">/?p=23048</guid>
+
+					<description><![CDATA[On May 23, 2024, Simone Bocca from a DataScientia took part in the the 11th Mongolian Information Technology Conference MMT-2024 that took place in Ulaanbaatar.  The conference aimed to engage scholars and stakeholders to exchange knowledge in cyber security and &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="23048" class="elementor elementor-23048">
+				<div class="elementor-element elementor-element-2feee4c e-flex e-con-boxed e-con e-parent" data-id="2feee4c" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-4d082c1 elementor-widget elementor-widget-text-editor" data-id="4d082c1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><b>On May 23, 2024, Simone Bocca from a DataScientia took part in the the 11th Mongolian Information Technology Conference MMT-2024 that took place in Ulaanbaatar. </b></p><p><span style="font-weight: 400;">The conference aimed to engage scholars and stakeholders to exchange knowledge in cyber security and data protection. It opened a call for scientific papers which were presented during the event. The conference aimed to discuss the challenges and perspectives of digital transformation in the information and communication fields in Mongolia.</span></p><figure id="attachment_23049" aria-describedby="caption-attachment-23049" style="width: 320px" class="wp-caption alignright"><img decoding="async" class="wp-image-23049" src="/wp-content/uploads/2024/09/GOqUQEMXAAA5at0-1024x576.jpeg" alt="" width="320" height="180" srcset="/wp-content/uploads/2024/09/GOqUQEMXAAA5at0-1024x576.jpeg 1024w, /wp-content/uploads/2024/09/GOqUQEMXAAA5at0-300x169.jpeg 300w, /wp-content/uploads/2024/09/GOqUQEMXAAA5at0-768x432.jpeg 768w, /wp-content/uploads/2024/09/GOqUQEMXAAA5at0-600x338.jpeg 600w, /wp-content/uploads/2024/09/GOqUQEMXAAA5at0.jpeg 1280w" sizes="(max-width: 320px) 100vw, 320px" /><figcaption id="caption-attachment-23049" class="wp-caption-text">Illustration: Data Scientia; Simone Bocca during his talk</figcaption></figure><p><span style="font-weight: 400;">Simone Bocca along with Amarsanaa Ganbold and Tsolmon Zundui were invited to participate and present their research paper</span><b> ‘LiveData &#8211; A Worldwide Data Mesh for Stratified Data. A data distribution network architecture for high</b> <b>quality and interoperable data’</b><span style="font-weight: 400;"> at the </span><span style="font-weight: 400;">National University of Mongolia. </span></p><p><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">During the presentation, the researchers emphasised that data has multiple layers of diversity that can represent the wide range of knowledge in the world. However, its heterogeneity also makes it challenging to fully capture this diversity. To address this, they proposed using Diversity Aware Knowledge Graphs, which structure data into distinct layers.<br /></span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);"><br />Additionally, the researchers developed the iTelos methodology for creating these graphs, which reuses existing resources to reduce costs and promote a circular data economy. Lastly, Simone Bocca and Tsolmon Zundui encouraged the knowledge community to cooperate and use a diversity aware approach.</span></p><p><strong>Abstract of the paper:</strong></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c893bf5 e-con-full e-flex e-con e-parent" data-id="c893bf5" data-element_type="container">
+				<div class="elementor-element elementor-element-64077d9 elementor-widget elementor-widget-text-editor" data-id="64077d9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><em>Data reuse is beneficial for integrating information into new applications, especially when data are scarce. However, it is limited by the data distribution infrastructures for producing and sharing high-quality, interoperable data. However, data reuse requires dealing with data heterogeneity, which is always present in data coming from different sources. This heterogeneity can occur in many contexts, such as differences in the languages used for the data, how the information is organised, and the types and formats of the datasets. </em></p><p><em>Another issue is the reuse of data across countries, where geographical and cultural differences are more distinct.  In this paper, we propose LiveData, a cross-country data distribution network handling high-quality and diversity-aware data. It consists of different nodes that work together to create and share new types of data. Here, diversity in data serves as a useful feature to meet users&#8217; needs. This paper explains how LiveData architecture and nodes of data types work. The system is being used in a project to share and integrate data between the University of Trento in Italy and the National University of Mongolia.</em></p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d14a24b e-flex e-con-boxed e-con e-parent" data-id="d14a24b" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-0862eed elementor-widget elementor-widget-text-editor" data-id="0862eed" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">The research paper can be accessed through </span><a href="https://ictfocus.org/index.php/focuse"><span style="font-weight: 400;">ICTFOCUS </span></a></p><p><strong>Keywords:</strong> data reuse, diversity, knowledge graphs, research, circular data economy, diversity-aware data</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-fdc01c8 e-con-full e-flex e-con e-parent" data-id="fdc01c8" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:26098,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-8e88861 e-con-full e-flex e-con e-child" data-id="8e88861" data-element_type="container">
+				<div class="elementor-element elementor-element-4617e66 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="4617e66" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-widget-container">
+			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-98aafca e-con-full e-flex e-con e-child" data-id="98aafca" data-element_type="container">
+				<div class="elementor-element elementor-element-7fddbb4 elementor-widget elementor-widget-text-editor" data-id="7fddbb4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
+				</div>
+				</div>
+				</div>
+				</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Hackum Students Club: Hackathon</title>
 		<link>/news/hackum-students-club-hackathon/</link>
 		
 		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Thu, 28 Nov 2024 12:53:31 +0000</pubDate>
+		<pubDate>Mon, 13 May 2024 00:00:31 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[LiveData]]></category>
 		<guid isPermaLink="false">/?p=23013</guid>
 
 					<description><![CDATA[Our partner the National University in Mongolia (NUM) and Hackum Students Club organised Hackathon ‘Coding for Humanity. The Hackathon allowed data enthusiasts to use their creativity skills for data-driven projects.  Throughout the Hackathon, participants utilised data provided by NUM and &#8230; ]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="23013" class="elementor elementor-23013">
-				<div class="elementor-element elementor-element-0eed86a e-flex e-con-boxed e-con e-parent" data-id="0eed86a" data-element_type="container">
+				<div class="elementor-element elementor-element-27ea910 e-grid e-con-boxed e-con e-parent" data-id="27ea910" data-element_type="container">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-5d61f36 elementor-widget elementor-widget-text-editor" data-id="5d61f36" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-bc8b1e9 elementor-widget elementor-widget-text-editor" data-id="bc8b1e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><strong>Our partner the National University in Mongolia (NUM) and Hackum Students Club organised Hackathon ‘Coding for Humanity. The Hackathon allowed data enthusiasts to use their creativity skills for data-driven projects. </strong></p><p><span style="font-weight: 400">Throughout the Hackathon, participants utilised data provided by NUM and DataScientia to develop open data applications. Their enthusiasm for data science was evident through their innovative solutions and demonstration of their skills. The Hackathon also served as a platform for students to collaborate with peers, and work on projects with the potential for real-world impact.</span></p>						</div>
+							<p><strong>Our partner the National University in Mongolia (NUM) and Hackum Students Club organised Hackathon ‘Coding for Humanity. The Hackathon allowed data enthusiasts to use their creativity skills for data-driven projects. </strong></p><p><span style="font-weight: 400;">Throughout the Hackathon, participants utilised data provided by NUM and DataScientia to develop open data applications. Their enthusiasm for data science was evident through their innovative solutions and demonstration of their skills. The Hackathon also served as a platform for students to collaborate with peers, and work on projects with the potential for real-world impact.</span></p><p><strong>We look forward to seeing how these applications evolve and contribute to the broader data science community!</strong></p><p><strong>Keywords:</strong> hackathon, community, data science, innovation, solutions, team work, creativity, coding</p>						</div>
 				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-27ea910 e-grid e-con-boxed e-con e-parent" data-id="27ea910" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-3ea789c elementor-widget elementor-widget-thim-single-images" data-id="3ea789c" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-element elementor-element-d68a28c elementor-widget__width-inherit elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="d68a28c" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;autoplay_speed&quot;:4000,&quot;effect&quot;:&quot;fade&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
 				<div class="elementor-widget-container">
-			<div class="single-image template-base"><img loading="lazy" decoding="async" width="1080" height="720" src="/wp-content/uploads/2024/09/GNel7wZWoAAGJri.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2024/09/GNel7wZWoAAGJri.jpg 1080w, /wp-content/uploads/2024/09/GNel7wZWoAAGJri-300x200.jpg 300w, /wp-content/uploads/2024/09/GNel7wZWoAAGJri-1024x683.jpg 1024w, /wp-content/uploads/2024/09/GNel7wZWoAAGJri-768x512.jpg 768w, /wp-content/uploads/2024/09/GNel7wZWoAAGJri-600x400.jpg 600w" sizes="(max-width: 1080px) 100vw, 1080px" /></div>		</div>
+					<div class="elementor-image-carousel-wrapper swiper" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 2"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2024/09/GNel7wZWoAAGJri.jpg" alt="Illustration: Data Scientia; Hackathon&#039;s participants" /><figcaption class="elementor-image-carousel-caption">Illustration: Data Scientia; Hackathon's participants</figcaption></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 2"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2024/09/GNel89lXkAA8JKx.jpg" alt="Illustration: Data Scientia; Hackathon&#039;s participants" /><figcaption class="elementor-image-carousel-caption">Illustration: Data Scientia; Hackathon's participants</figcaption></figure></div>			</div>
+							
+									<div class="swiper-pagination"></div>
+									</div>
 				</div>
-				<div class="elementor-element elementor-element-d4f957c elementor-widget elementor-widget-thim-single-images" data-id="d4f957c" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-base"><img loading="lazy" decoding="async" width="1080" height="720" src="/wp-content/uploads/2024/09/GNel89lXkAA8JKx.jpg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2024/09/GNel89lXkAA8JKx.jpg 1080w, /wp-content/uploads/2024/09/GNel89lXkAA8JKx-300x200.jpg 300w, /wp-content/uploads/2024/09/GNel89lXkAA8JKx-1024x683.jpg 1024w, /wp-content/uploads/2024/09/GNel89lXkAA8JKx-768x512.jpg 768w, /wp-content/uploads/2024/09/GNel89lXkAA8JKx-600x400.jpg 600w" sizes="(max-width: 1080px) 100vw, 1080px" /></div>		</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-3efdb2c e-flex e-con-boxed e-con e-parent" data-id="3efdb2c" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-bc84b8a elementor-widget elementor-widget-text-editor" data-id="bc84b8a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="color: #707070;font-family: GuardianTextSans, 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;font-size: 14px">Illustration: Data Scientia; Hackathon&#8217;s participants</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-ce912c9 e-flex e-con-boxed e-con e-parent" data-id="ce912c9" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-9354ddc elementor-widget elementor-widget-text-editor" data-id="9354ddc" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>We look forward to seeing how these applications evolve and contribute to the broader data science community!</strong></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-6b52c0e e-flex e-con-boxed e-con e-parent" data-id="6b52c0e" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-29ac54c elementor-widget elementor-widget-text-editor" data-id="29ac54c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Keywords:</strong> hackathon, community, data science, innovation, solutions, team work, creativity, coding</p>						</div>
 				</div>
 					</div>
 				</div>
@@ -346,7 +173,7 @@
 		<link>/news/data-quality-interoperability-talk-at-data-club/</link>
 		
 		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Thu, 28 Nov 2024 10:47:33 +0000</pubDate>
+		<pubDate>Tue, 30 Apr 2024 08:00:33 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[LiveData]]></category>
 		<category><![CDATA[LivePeople]]></category>
@@ -358,39 +185,7 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-0daaaad elementor-widget elementor-widget-text-editor" data-id="0daaaad" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><b>On Tuesday 30h April 2024, Simone Bocca from the Data Scentia Community gave a presentation as a guest speaker to Data Club’s Meetups in Ulaanbaatar, Mongolia.</b></p><p style="margin-bottom: 1em">Data for digital and other services has gained significant attention in Mongolia, which has prioritised digital transformation as a key development area since 2020. Simone Bocca shared his extensive expertise with a presentation on ‘<strong><em>Data Quality and Interoperability: Methodology for Knowledge Graph Construction’</em></strong> during the 15th series of Meetups. The presentation attracted data enthusiasts and was followed by a lively discussion.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-bdcdb6e e-flex e-con-boxed e-con e-parent" data-id="bdcdb6e" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-0d1cba5 elementor-widget elementor-widget-thim-single-images" data-id="0d1cba5" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-base"><img loading="lazy" decoding="async" width="400" height="300" src="/wp-content/uploads/2024/09/1714572170234-1-400x300.jpg" class="attachment-course_thumbnail size-course_thumbnail" alt="" /></div>		</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-de36b3d e-flex e-con-boxed e-con e-parent" data-id="de36b3d" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-1e3c866 elementor-widget elementor-widget-text-editor" data-id="1e3c866" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="color: #707070; font-family: GuardianTextSans, 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 14px;">Illustration: DataScientia</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-58b9076 e-flex e-con-boxed e-con e-parent" data-id="58b9076" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-e4b07d4 elementor-widget elementor-widget-text-editor" data-id="e4b07d4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The testimony offered useful insights on using complex data for public policy, highlighted the importance of data science in improving public administration, and proved the relevance of LivePeople research for social impact initiatives. </p><p>During the meetup, Simone Bocca addressed the pressing issue of creating new data by reusing existing data to reduce the cost of the data creation process. He proposes using existing data to create Knowledge Graphs, representing the local information diversity related to real-world persons, objects, or events.<span style="font-weight: 400"><br /></span></p><p>It stores this information in a graph format, making it easy to see relationships between them. According to him, diversity offers an opportunity to save relevant data and expand it for better efficiency. The Knowledge Graph, in turn, helps to organise and link information between itself, which makes it easier to integrate and reuse. </p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-8fb04e1 e-flex e-con-boxed e-con e-parent" data-id="8fb04e1" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-9d38c13 elementor-widget elementor-widget-text-editor" data-id="9d38c13" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Keywords:</strong> digital transformation, knowledge graphs, data reuse, data quality, data interoperability, presentation </p>						</div>
+							<p><b>On Tuesday 30h April 2024, Simone Bocca from the Data Scentia Community gave a presentation as a guest speaker to Data Club’s Meetups in Ulaanbaatar, Mongolia.</b></p><p>Data for digital and other services has gained significant attention in Mongolia, which has prioritised digital transformation as a key development area since 2020. Simone Bocca shared his extensive expertise with a presentation on ‘<strong><em>Data Quality and Interoperability: Methodology for Knowledge Graph Construction’</em></strong> during the 15th series of Meetups. The presentation attracted data enthusiasts and was followed by a lively discussion. </p><figure id="attachment_23009" aria-describedby="caption-attachment-23009" style="width: 300px" class="wp-caption alignright"><img loading="lazy" decoding="async" class="wp-image-23009 size-medium" src="/wp-content/uploads/2024/09/1714572170234-1-300x189.jpg" alt="" width="300" height="189" srcset="/wp-content/uploads/2024/09/1714572170234-1-300x189.jpg 300w, /wp-content/uploads/2024/09/1714572170234-1-1024x646.jpg 1024w, /wp-content/uploads/2024/09/1714572170234-1-768x484.jpg 768w, /wp-content/uploads/2024/09/1714572170234-1-600x378.jpg 600w, /wp-content/uploads/2024/09/1714572170234-1.jpg 1499w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-23009" class="wp-caption-text">Illustration: DataScientia</figcaption></figure><p> <span style="color: var( --e-global-color-text ); font-size: var(--thim-font-body-font-size);">The testimony offered useful insights on using complex data for public policy, highlighted the importance of data science in improving public administration, and proved the relevance of LivePeople research for social impact initiatives. </span></p><p>During the meetup, Simone Bocca addressed the pressing issue of creating new data by reusing existing data to reduce the cost of the data creation process. He proposes using existing data to create Knowledge Graphs, representing the local information diversity related to real-world persons, objects, or events.</p><p>It stores this information in a graph format, making it easy to see relationships between them. According to him, diversity offers an opportunity to save relevant data and expand it for better efficiency. The Knowledge Graph, in turn, helps to organise and link information between itself, which makes it easier to integrate and reuse. </p><p><strong>Keywords:</strong> digital transformation, knowledge graphs, data reuse, data quality, data interoperability, presentation </p>						</div>
 				</div>
 					</div>
 				</div>
@@ -418,7 +213,7 @@
 		<link>/news/gabor-bella-to-the-guardian-on-ai-translators/</link>
 		
 		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Tue, 08 Oct 2024 09:54:17 +0000</pubDate>
+		<pubDate>Thu, 07 Sep 2023 00:00:17 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[LiveLanguage]]></category>
 		<guid isPermaLink="false">/?p=22992</guid>
@@ -490,6 +285,61 @@
 				</div>
 		<div class="elementor-element elementor-element-a298b6d e-con-full e-flex e-con e-child" data-id="a298b6d" data-element_type="container">
 				<div class="elementor-element elementor-element-1ebf7ab elementor-widget elementor-widget-text-editor" data-id="1ebf7ab" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
+				</div>
+				</div>
+				</div>
+				</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Data Services Learning Lecture in Mozambique</title>
+		<link>/news/data-services-learning-lecture-in-mozambique/</link>
+		
+		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
+		<pubDate>Fri, 11 Aug 2023 00:00:40 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[LiveData]]></category>
+		<guid isPermaLink="false">/?p=23018</guid>
+
+					<description><![CDATA[The Palincune incubator at Universidade Zambeze in Beira, in collaboration with the Inovacao Circular project team managed by the Consortium of the Association in Mozambique (CAM), recently hosted a seminar that brought together minds passionate about data science and innovation.  &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="23018" class="elementor elementor-23018">
+				<div class="elementor-element elementor-element-a90a909 e-flex e-con-boxed e-con e-parent" data-id="a90a909" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-fb3eaef elementor-widget elementor-widget-text-editor" data-id="fb3eaef" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>The Palincune incubator at Universidade Zambeze in Beira, in collaboration with the Inovacao Circular project team managed by the Consortium of the Association in Mozambique (CAM), recently hosted a seminar that brought together minds passionate about data science and innovation. </strong></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-1169b83 e-con-full e-grid e-con e-parent" data-id="1169b83" data-element_type="container">
+				<div class="elementor-element elementor-element-99b1a87 elementor-widget elementor-widget-text-editor" data-id="99b1a87" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The event was organised in collaboration with DataScientia to engage students, faculty, and data enthusiasts in data learning and innovation services. <span style="color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); font-size: var(--thim-font-body-font-size);">Besides, the seminar featured a keynote presentation by Simone Bocca focusing on learning for data services. </span><span style="color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); font-size: var(--thim-font-body-font-size);">Simone Bocca shared DataScientia insights and his views on future research and development.</span></p><p>The event was organised in collaboration with Datascientia to engage students, faculty, and data enthusiasts in data learning and innovation services. Besides, the seminar featured a keynote presentation by Simone Bocca focusing on learning for data services. Simone Bocca shared DataScientia insights and his views on future research and development.</p><p><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var(--thim-font-body-font-size);">This seminar marks a commitment of Data Scientia and Universidade Zambeze to build a community of professionals to advance education and innovation in data science.</span></p><p><strong>Keywords:</strong> data science, innovation, education, seminar, data learning, presentation, research</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-8294483 elementor-widget__width-inherit elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="8294483" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;autoplay_speed&quot;:4000,&quot;effect&quot;:&quot;fade&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 2"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2024/09/F2n2YofXQAInMlO-768x512.jpg" alt="Data Scientia; Simone Bocca during his talk" /><figcaption class="elementor-image-carousel-caption">Data Scientia; Simone Bocca during his talk</figcaption></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 2"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/wp-content/uploads/2024/09/F2n2Y_AXMAAsJV1-768x512.jpg" alt="Participants of the DataScientia Seminar" /><figcaption class="elementor-image-carousel-caption">Participants of the DataScientia Seminar</figcaption></figure></div>			</div>
+							
+									<div class="swiper-pagination"></div>
+									</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-53d5c50 e-con-full e-flex e-con e-parent" data-id="53d5c50" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:26098,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-7cbbfe8 e-con-full e-flex e-con e-child" data-id="7cbbfe8" data-element_type="container">
+				<div class="elementor-element elementor-element-3eebae2 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="3eebae2" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-widget-container">
+			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-324288e e-con-full e-flex e-con e-child" data-id="324288e" data-element_type="container">
+				<div class="elementor-element elementor-element-1d246c2 elementor-widget elementor-widget-text-editor" data-id="1d246c2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
 				</div>
