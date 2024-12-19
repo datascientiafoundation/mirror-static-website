@@ -12,7 +12,7 @@
 	<atom:link href="/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Mon, 21 Oct 2024 11:59:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Dec 2024 14:27:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,235 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>LingoGap</title>
+		<link>/projects/lingogap/</link>
+		
+		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 13:07:54 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=portfolio#038;p=26510</guid>
+
+					<description><![CDATA[Project Description Motivation The rise of deep learning, particularly large language models, has gained significant attention in NLP, but lexical-semantic resources (LSRs) remain crucial for tasks like machine translation and word sense disambiguation. However, many LSRs, such as wordnets, are &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="26510" class="elementor elementor-26510">
+				<div class="elementor-element elementor-element-795d3001 e-flex e-con-boxed e-con e-parent" data-id="795d3001" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-d938976 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="d938976" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-center"><h3 class="title">Project Description </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-60d02ece elementor-widget elementor-widget-text-editor" data-id="60d02ece" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><img fetchpriority="high" decoding="async" class="size-medium wp-image-26511 alignleft" src="/wp-content/uploads/2024/12/LingoGap-300x300.jpg" alt="" width="300" height="300" srcset="/wp-content/uploads/2024/12/LingoGap-300x300.jpg 300w, /wp-content/uploads/2024/12/LingoGap-150x150.jpg 150w, /wp-content/uploads/2024/12/LingoGap-100x100.jpg 100w, /wp-content/uploads/2024/12/LingoGap.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></p><h3><span style="font-weight: 400;"><strong>Motivation</strong></span></h3><p><span style="font-weight: 400;">The rise of deep learning, particularly large language models, has gained significant attention in NLP, but lexical-semantic resources (LSRs) remain crucial for tasks like machine translation and word sense disambiguation. However, many LSRs, such as wordnets, are heavily biased toward English due to reliance on the Princeton WordNet for translations. This bias results in incomplete or inaccurate resources for non-English languages, underrepresenting culture-specific concepts without direct English equivalents. Consequently, NLP systems face limitations in fully capturing linguistic diversity and the richness of human language.</span></p><p><span style="font-weight: 400;">Lexical untranslatability, or cross-lingual lexical gaps, poses a significant challenge in NLP as some words lack direct equivalents across languages. For example, the Arabic word خالة (&#8220;mother&#8217;s sister&#8221;) has no English counterpart, while &#8220;sibling&#8221; has no precise equivalent in Arabic or other languages like Italian. These gaps affect machine translation and lexical resource quality, as seen in Google Translate&#8217;s flawed Arabic أنجب ابن عمه توأما rendering of &#8220;</span><i><span style="font-weight: 400;">his cousin gave birth to a twin</span></i><span style="font-weight: 400;">&#8220;, where it incorrectly implies a male giving birth due to the lack of an Arabic equivalent for &#8220;cousin&#8221;. The issue is more pronounced in low-resource languages, which are often underrepresented in multilingual lexical resources, further deepening linguistic disparities.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2e38e9b e-flex e-con-boxed e-con e-parent" data-id="2e38e9b" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-77712fd e-grid e-con-full e-con e-child" data-id="77712fd" data-element_type="container">
+				<div class="elementor-element elementor-element-a344a94 elementor-widget elementor-widget-text-editor" data-id="a344a94" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h3>The Problem</h3><p><span style="font-weight: 400;">The development of diversity-aware datasets for multilingual lexical resources in NLP faces persistent challenges. Despite the critical need to address cross-lingual lexical gaps, there remains no systematic method for identifying these gaps, resulting in a scarcity of large-scale resources for lexical untranslatability. While progress has been achieved in specific domains such as kinship and color terminology, most fields remain underexplored, particularly for low-resource languages. These languages often lack comprehensive lexical databases, and automated approaches fail to capture their complexity, further exacerbating the digital divide in NLP applications. Moreover, most efforts are unidirectional, focusing predominantly on translations from English to other languages. This approach not only limits cross-linguistic understanding but also perpetuates English-centric biases, prioritizing English frameworks and neglecting the unique linguistic and cultural concepts of non-English languages.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4014329 elementor-widget elementor-widget-thim-single-images" data-id="4014329" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-widget-container">
+			<div class="single-image template-layout-2 svg-hover"><img decoding="async" width="400" height="489" src="/wp-content/uploads/2024/12/lingo-gap-illustration-400x489.png" class="attachment-400x size-400x" alt="" srcset="/wp-content/uploads/2024/12/lingo-gap-illustration-400x489.png 400w, /wp-content/uploads/2024/12/lingo-gap-illustration-245x300.png 245w, /wp-content/uploads/2024/12/lingo-gap-illustration-600x734.png 600w, /wp-content/uploads/2024/12/lingo-gap-illustration-500x612.png 500w, /wp-content/uploads/2024/12/lingo-gap-illustration-300x367.png 300w, /wp-content/uploads/2024/12/lingo-gap-illustration.png 632w" sizes="(max-width: 400px) 100vw, 400px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info">Illustration by Hadi Khalilia</span></div></div>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6f7bfcd e-flex e-con-boxed e-con e-parent" data-id="6f7bfcd" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-62149d6 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="62149d6" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading"><h3 class="title">The Solution </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c7fd419 elementor-widget elementor-widget-text-editor" data-id="c7fd419" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">This project introduces a systematic approach for creating diversity-aware datasets through a novel crowdsourcing method—a bottom-up approach that engages native speakers from the general public. Crowd workers compare lexemes between two languages, focusing on domains rich in lexical diversity, such as kinship and food. The LingoGap crowdsourcing website facilitates these comparisons via microtasks that identify equivalent terms, language-specific terms, and lexical gaps across languages.</span></p><p><span style="font-weight: 400;">This methodology enables bidirectional exploration of lexical diversity between any two languages—from the source language (SL) to the target language (TL) and vice versa. Unlike traditional methods, it does not rely on English as an intermediate (pivot) language, thereby avoiding biases that can distort linguistic diversity. By capturing lexical gaps and equivalent terms across languages, including low-resource ones, this scalable method provides a viable alternative to conventional approaches. It generates high-quality, diversity-rich data and supports application across diverse language pairs, contingent on the availability of bilingual native speakers.</span></p><figure id="attachment_26575" aria-describedby="caption-attachment-26575" style="width: 700px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-26575" src="/wp-content/uploads/2024/12/lingo-gap-solution-img-300x152.png" alt="" width="700" height="354" srcset="/wp-content/uploads/2024/12/lingo-gap-solution-img-300x152.png 300w, /wp-content/uploads/2024/12/lingo-gap-solution-img-768x389.png 768w, /wp-content/uploads/2024/12/lingo-gap-solution-img-600x304.png 600w, /wp-content/uploads/2024/12/lingo-gap-solution-img.png 1020w" sizes="(max-width: 700px) 100vw, 700px" /><figcaption id="caption-attachment-26575" class="wp-caption-text">Figure 1.1</figcaption></figure><p><span style="font-weight: 400;">The initial inputs to our crowdsourcing methodology are an ordered source–target language pair and a specified semantic field. An overview of the crowdsourcing method is depicted in Figure 1.1. It includes three main steps:</span></p><ol><li><strong><i>Task generation:</i></strong><span style="font-weight: 400;"> A semi-automated process that generates two lists of lexical entries, one for each language, where each entry is a tuple (word, gloss), i.e., a term and its definition.</span></li><li><strong><i> Crowdsourcing:</i></strong><span style="font-weight: 400;"> This step utilizes the LingoGap crowdsourcing website to compare lexical entries from the SL with corresponding TL entries. Native speakers assess these entries to determine translation equivalence or identify lexical gaps. </span>LingoGap involves two primary roles: the task requester and the crowd worker. The task requester is responsible for the following critical functions: (1) constructing input datasets for both the SL and TL within the SF, (2) designing and creating crowdsourcing tasks, (3) overseeing task execution to ensure the quality of contributions, and (4) validating and exporting the finalized crowdsourced data. Additionally, the crowd worker’s role involves contributing to these tasks by identifying equivalent terms and lexical gaps in the TL.</li><li><strong><i>Validation:</i></strong><span> Lexical entries and gaps are evaluated automatically, followed by expert-based verification.</span></li></ol><h3>LingoGap Tool</h3><p><span style="font-weight: 400;">Researchers can access the LingoGap website using the following links:</span></p><ol><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Task Creation:</strong> Researchers (requesters) can create crowdsourcing tasks using this link: </span><a href="http://lingogap.disi.unitn.it/admin.jsp"><span style="font-weight: 400;">http://lingogap.disi.unitn.it/admin.jsp</span></a><span style="font-weight: 400;">.</span></li><li style="font-weight: 400;" aria-level="1"><strong>Task Participation:</strong> Crowdworkers can complete crowdsourcing tasks via this link: <a href="http://lingogap.disi.unitn.it/"><span>http://lingogap.disi.unitn.it/</span></a><span>.</span></li></ol><h4>How it works?</h4><p><span style="font-weight: 400;">Step-by-step guidelines for using LingoGap are provided in this document, accessible via the following link: </span><a href="https://github.com/HadiPTUK/lingogap_instruction"><span style="font-weight: 400;">https://github.com/HadiPTUK/lingogap_instruction</span></a></p><p><em><span style="font-weight: 400;">Note: For assistance with importing source and target lists, uploading guidelines, or exporting the resulting data, please contact Hadi Khalilia, the project manager, via email at: </span><a href="mailto:hadi.khalilia@unitn.it"><span style="font-weight: 400;">hadi.khalilia@unitn.it</span></a><span style="font-weight: 400;">.</span></em></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-be47b00 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="be47b00" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-20e239b e-flex e-con-boxed e-con e-parent" data-id="20e239b" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f70e1d6 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="f70e1d6" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading"><h3 class="title">Case Studies </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-327367c elementor-widget elementor-widget-text-editor" data-id="327367c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Case studies are mainly divided into two categories: </p><ol><li><span style="font-weight: 400;"><strong><em>Bilingual Experiments:</em></strong> We conducted these experiments between language pairs in two semantic domains: kinship and food terminology.  </span></li><li><b>Monolingual Experiments: </b>These experiments explore linguistic diversity by comparing language-independent concepts, such as kinship terms, with domain-specific words from a particular language.</li></ol>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-57bf0f4 e-flex e-con-boxed e-con e-parent" data-id="57bf0f4" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-dc643d3 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="dc643d3" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-center"><h3 class="title">Bilingual Experiments </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-52976d9 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="52976d9" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-center"><h4 class="title">Case Study 1:   <span class="thim-color">English vs Arabic ( Food )</span></h4></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-686c25c elementor-widget elementor-widget-text-editor" data-id="686c25c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">This study focused on the food domain and involved two experiments, each representing a different direction. The first experiment involved crowdsourcing lexical diversity from English to Arabic, identifying gaps and equivalent words in Arabic. The second experiment explored the reverse direction, from Arabic to English, identifying lexical gaps and equivalent terms in English.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c90e694 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="c90e694" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="918" height="754" src="/wp-content/uploads/2024/12/lingo-gap-table.png" class="attachment-full size-full wp-image-26667" alt="" srcset="/wp-content/uploads/2024/12/lingo-gap-table.png 918w, /wp-content/uploads/2024/12/lingo-gap-table-300x246.png 300w, /wp-content/uploads/2024/12/lingo-gap-table-768x631.png 768w, /wp-content/uploads/2024/12/lingo-gap-table-600x493.png 600w" sizes="(max-width: 918px) 100vw, 918px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-a9b7f0a elementor-widget elementor-widget-text-editor" data-id="a9b7f0a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/aef86b5b-5742-4529-9c46-71b5142f91bd">English to Arabic</a></li><li><a href="https://ds.datascientia.eu/community/public/projects/db9ec453-4775-43d6-a89a-85a9600b9781">Arabic to English</a></li></ul>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d2b0769 e-flex e-con-boxed e-con e-parent" data-id="d2b0769" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b0b6bb9 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="b0b6bb9" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-center"><h4 class="title">Case Study 2:   <span class="thim-color">Indonesian vs Banjarese ( Food )</span></h4></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b07891a elementor-widget elementor-widget-text-editor" data-id="b07891a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">This study focused on the food domain and involved two experiments, each representing a different direction. The first experiment involved crowdsourcing lexical diversity from Indonesian to Banjarese, identifying gaps and equivalent words in Banjarese. The second experiment explored the reverse direction, from Banjarese to Indonesian, identifying lexical gaps and equivalent terms in Indonesian.</span></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/c3d242b7-4ddc-419f-bffd-38d9f9760a05">Indonesian to Banjarese</a></li><li><a href="https://ds.datascientia.eu/community/public/projects/eacdb797-f8bf-45d4-8909-a4fd50ae8910">Banjarese to Indonesian</a></li></ul>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-5b7168a e-flex e-con-boxed e-con e-parent" data-id="5b7168a" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-dcdc81b thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="dcdc81b" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-center"><h4 class="title">Case Study 3:   <span class="thim-color">English vs Persian ( Kinship )</span></h4></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8000e80 elementor-widget elementor-widget-text-editor" data-id="8000e80" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">This study focused on the kinship domain and involved two experiments, each representing a different direction. The first experiment involved crowdsourcing lexical diversity from English to Persian, identifying gaps and equivalent words in Persian. The second experiment explored the reverse direction, from Persian to English, identifying lexical gaps and equivalent terms in English.</span></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/bedff19e-40ec-42d0-9600-1cd1014cf09b">English to Persian</a></li><li><a href="https://ds.datascientia.eu/community/public/projects/34e04eb6-c776-4e54-a0e6-465a72f6031f">Persian to English</a></li></ul>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-402bb30 e-flex e-con-boxed e-con e-parent" data-id="402bb30" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-069c4d6 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="069c4d6" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-center"><h4 class="title">Case Study 4:   <span class="thim-color">Arabic vs Persian ( Kinship )</span></h4></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-146b73a elementor-widget elementor-widget-text-editor" data-id="146b73a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">This study focused on the kinship domain and involved two experiments, each representing a different direction. The first experiment involved crowdsourcing lexical diversity from Arabic to Persian, identifying gaps and equivalent words in Persian. The second experiment explored the reverse direction, from Persian to Arabic, identifying lexical gaps and equivalent terms in Arabic.</span></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/65467d7d-35fa-4756-a840-83c1eb6abad6">Arabic to Persian</a></li><li><a href="https://ds.datascientia.eu/community/public/projects/44cb6bef-54f0-47cd-80b5-86e25a86f4ab">Persian to Arabic</a></li></ul>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e1052e0 e-flex e-con-boxed e-con e-parent" data-id="e1052e0" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f591e82 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="f591e82" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-center"><h4 class="title">Case Study 5:   <span class="thim-color">English vs Turkish ( Kinship )</span></h4></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-919ec90 elementor-widget elementor-widget-text-editor" data-id="919ec90" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">This study focused on the kinship domain and involved two experiments, each representing a different direction. The first experiment involved crowdsourcing lexical diversity from English to Turkish, identifying gaps and equivalent words in Turkish. The second experiment explored the reverse direction, from Turkish to English, identifying lexical gaps and equivalent terms in English.</span></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/c9d0a079-56de-4878-a164-ebe75c61910f">English to Turkish</a></li><li><a href="https://ds.datascientia.eu/community/public/projects/74f2f22a-ef58-4a8a-ae19-6aa7e55c5da0">Turkish to English</a></li></ul>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c6629f3 e-flex e-con-boxed e-con e-parent" data-id="c6629f3" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c3e6802 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="c3e6802" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-center"><h3 class="title">Monolingual Experiments </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0339680 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="0339680" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-center"><h4 class="title">Case Study 1:   <span class="thim-color">Kinship concepts vs. Turkish</span></h4></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-37c45fe elementor-widget elementor-widget-text-editor" data-id="37c45fe" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">This experiment is a monolingual study that explores lexicalisations and lexical gaps by comparing language-independent kinship concepts with Turkish kinship terms. First, the kinship concepts were formalized using the UKC’s concept hierarchy, which includes the following subdomains: grandparents, grandchildren, siblings, uncles and aunts, nephews and nieces, and cousins. Second, a dataset of kinship concepts, comprising 197 kinship concepts defined in English, was collected from the UKC using the Exporter tool, a built-in UKC management service designed to extract data efficiently. For the Turkish dataset, which contains 38 terms, we employed a semantic filtering method based on a Python script to extract kinship terms from KeNet (the Turkish WordNet).</span></p><p><span style="font-weight: 400;">Four native Turkish speakers, proficient in English and selected through high-quality crowd selection criteria, participated as volunteers. They were assigned seven crowdsourcing tasks, each focusing on the kinship concepts of a specific subdomain, except for the “cousins” subdomain. For the “cousins” subdomain, two tasks were conducted due to its large number of concepts (56 concepts) included in this subdomain. The overall results of this experiment include the identification of 164 lexical gaps, 33 equivalent words, and four new kinship concepts in Turkish, with an average Alpha score of 0.88.</span></p><h5>Related Experiment</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/95718721-14dd-4c6e-a3c3-ab7a3e2cf4bc"><span style="font-weight: 400;">Kinship concepts vs. Turkish</span></a></li></ul>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-5d8c066 e-flex e-con-boxed e-con e-parent" data-id="5d8c066" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-23826db thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="23826db" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-center"><h4 class="title">Case Study 2:   <span class="thim-color">Kinship concepts vs. Persian</span></h4></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b512206 elementor-widget elementor-widget-text-editor" data-id="b512206" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">This experiment is a monolingual study that explores lexicalisations and lexical gaps by comparing language-independent kinship concepts with Persian kinship terms. First, the kinship concepts were formalized using the UKC’s concept hierarchy, which includes the following subdomains: grandparents, grandchildren, siblings, uncles and aunts, nephews and nieces, and cousins. Second, a dataset of kinship concepts, comprising 197 kinship concepts defined in English, was collected from the UKC using the Exporter tool, a built-in UKC management service designed to extract data efficiently. For the Persian dataset, which contains 38 terms, we employed a semantic filtering method based on a Python script to extract kinship terms from FarsNet (the Persian WordNet).</span></p><p><span style="font-weight: 400;">Three native Persian speakers, proficient in English and selected through high-quality crowd selection criteria, participated as volunteers. They were assigned seven crowdsourcing tasks, each focusing on the kinship concepts of a specific subdomain, except for the “cousins” subdomain. For the “cousins” subdomain, two tasks were conducted due to its large number of concepts (56 concepts) included in this subdomain. The overall results of this experiment include the identification of 163 lexical gaps and 34 equivalent words in Persian, with an average Alpha score of 0.85.</span></p><h5>Related Experiment</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/6ca5612a-1bd8-4b1d-b69e-2a4e32ce3521"><span style="font-weight: 400;">Kinship concepts vs. Persian</span></a></li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-172c8d5 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="172c8d5" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d659f9b e-flex e-con-boxed e-con e-parent" data-id="d659f9b" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-eddafb9 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="eddafb9" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading"><h4 class="title">Acknowledgements </h4><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d5d307d elementor-widget elementor-widget-text-editor" data-id="d5d307d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">We sincerely thank Prof. Rusma Noortyani and Shandy Darma for coordinating the Indonesian-Banjarese experiments, Kubra Korkmaz for coordinating the Turkish experiments, and Arya Torabi for overseeing the Persian experiments. Their dedication and efforts were essential to the success of this project.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-fdf50aa e-flex e-con-boxed e-con e-parent" data-id="fdf50aa" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7cbc9d9 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="7cbc9d9" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading"><h4 class="title">Publications and Research </h4><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a2c1aa4 elementor-widget elementor-widget-text-editor" data-id="a2c1aa4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: left;"><strong>Key Paper:</strong><br /><span style="font-weight: 400;">Hadi Khalilia, Jahna Otterbacher, et al. Crowdsourcing Lexical Diversity. 2024. arXiv: 2410.23133 [cs.CL]. url: </span><a href="https://arxiv.org/abs/2410.23133"><span style="font-weight: 400;">https://arxiv.org/abs/2410.23133</span></a><span style="font-weight: 400;"> (cit. on pp. 1–3, 6, 29, 30).</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-72bd489 e-flex e-con-boxed e-con e-parent" data-id="72bd489" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3d23a81 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="3d23a81" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading"><h4 class="title">Project Team </h4><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f361520 elementor-widget thim-widget-gallery-images" data-id="f361520" data-element_type="widget" data-widget_type="thim-gallery-images.default">
+				<div class="elementor-widget-container">
+			<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-150x150.jpg 150w, /wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-300x300.jpg 300w, /wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Fausto Giunchiglia<br><small>Professor<br>University of Trento</small></h4></div><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/12/hadi-e1734618457703-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/12/hadi-e1734618457703-150x150.jpg 150w, /wp-content/uploads/2024/12/hadi-e1734618457703-300x300.jpg 300w, /wp-content/uploads/2024/12/hadi-e1734618457703-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Hadi Mahmoud Yousef Khalilia<br><small>Ph.D Student<br>University of Trento</small></h4></div></div>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-84602cc e-flex e-con-boxed e-con e-parent" data-id="84602cc" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-bf2ee34 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="bf2ee34" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cpath d=&#039;M0,6c6,0,6,13,12,13S18,6,24,6&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>SmartUnitn 2</title>
 		<link>/projects/su2/</link>
 		
@@ -45,7 +274,7 @@
 				</div>
 				<div class="elementor-element elementor-element-ba6fe4b elementor-widget elementor-widget-text-editor" data-id="ba6fe4b" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><img fetchpriority="high" decoding="async" class="alignleft" src="/wp-content/uploads/2024/10/su2-300x300.png" alt="" width="300" height="300" /><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">In the Italian university system, academic performance is an </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">important issue that influences students&#8217; drop-out, the time </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">length of acquiring a degree, and the chance of finding a </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">(good) job. Empirical research has shown that student time </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">management between academics and other daily activities is </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">an important aspect that impacts students&#8217; performance. </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">However, students&#8217; time allocation received little interest in </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">sociological research, partially due to surveys usually asking </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">students to report the total amount of time they spend on any </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">given activity. These tools suffer from different problems that </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">may affect the quality of time use data, e.g., data availability </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">and reliability.  </span></p><p>With the rise of the people-centric sensing paradigm, wherein <span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">sensors embedded in smart devices are used to collect </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">massive continuous data streams involving the behavior of </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">humans and social networks. These datasets offer unique </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">opportunities to investigate university students&#8217; diversity and </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">daily routines from a multi-layered perspective.</span></p>						</div>
+							<p><img loading="lazy" decoding="async" class="alignleft" src="/wp-content/uploads/2024/10/su2-300x300.png" alt="" width="300" height="300" /><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">In the Italian university system, academic performance is an </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">important issue that influences students&#8217; drop-out, the time </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">length of acquiring a degree, and the chance of finding a </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">(good) job. Empirical research has shown that student time </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">management between academics and other daily activities is </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">an important aspect that impacts students&#8217; performance. </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">However, students&#8217; time allocation received little interest in </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">sociological research, partially due to surveys usually asking </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">students to report the total amount of time they spend on any </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">given activity. These tools suffer from different problems that </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">may affect the quality of time use data, e.g., data availability </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">and reliability.  </span></p><p>With the rise of the people-centric sensing paradigm, wherein <span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">sensors embedded in smart devices are used to collect </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">massive continuous data streams involving the behavior of </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">humans and social networks. These datasets offer unique </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">opportunities to investigate university students&#8217; diversity and </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">daily routines from a multi-layered perspective.</span></p>						</div>
 				</div>
 					</div>
 				</div>
@@ -69,7 +298,7 @@
 				</div>
 				<div class="elementor-element elementor-element-8f05a8d elementor-widget elementor-widget-text-editor" data-id="8f05a8d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><img decoding="async" class="size-medium wp-image-23925 alignright" src="/wp-content/uploads/2024/10/su2solution-300x145.jpg" alt="" width="300" height="145" srcset="/wp-content/uploads/2024/10/su2solution-300x145.jpg 300w, /wp-content/uploads/2024/10/su2solution.jpg 485w" sizes="(max-width: 300px) 100vw, 300px" /></p><p>The dataset collection experiments were conducted based on an ontological representation of the situational context and a set of reference standards, e.g., HETUS and the Big Five. The overall data collection process includes two stages. The first was to collect synchronic data through a set of three standard close-ended questionnaires, which allowed the collection of self-reported general data on material on social practices. The second was to collect diachronic data via a smartphone app called iLog, which allowed us to observe the students’ daily routines.</p><p>The first two weeks were dedicated to the sample recruitment. This was performed by sending two initial questionnaires, i.e., an invitation and an assessment of habits. The remaining month was dedicated to collecting data through the iLog app installed on the student smartphones. A help-desk was active during the data collection period to solve students&#8217; problems.</p>						</div>
+							<p><img loading="lazy" decoding="async" class="size-medium wp-image-23925 alignright" src="/wp-content/uploads/2024/10/su2solution-300x145.jpg" alt="" width="300" height="145" srcset="/wp-content/uploads/2024/10/su2solution-300x145.jpg 300w, /wp-content/uploads/2024/10/su2solution.jpg 485w" sizes="(max-width: 300px) 100vw, 300px" /></p><p>The dataset collection experiments were conducted based on an ontological representation of the situational context and a set of reference standards, e.g., HETUS and the Big Five. The overall data collection process includes two stages. The first was to collect synchronic data through a set of three standard close-ended questionnaires, which allowed the collection of self-reported general data on material on social practices. The second was to collect diachronic data via a smartphone app called iLog, which allowed us to observe the students’ daily routines.</p><p>The first two weeks were dedicated to the sample recruitment. This was performed by sending two initial questionnaires, i.e., an invitation and an assessment of habits. The remaining month was dedicated to collecting data through the iLog app installed on the student smartphones. A help-desk was active during the data collection period to solve students&#8217; problems.</p>						</div>
 				</div>
 					</div>
 				</div>
@@ -85,7 +314,7 @@
 				</div>
 				<div class="elementor-element elementor-element-6dff101 elementor-widget elementor-widget-text-editor" data-id="6dff101" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<h4><img decoding="async" class="size-medium wp-image-23947 alignright" src="/wp-content/uploads/2024/10/su2statistics-300x289.jpg" alt="" width="300" height="289" srcset="/wp-content/uploads/2024/10/su2statistics-300x289.jpg 300w, /wp-content/uploads/2024/10/su2statistics.jpg 485w" sizes="(max-width: 300px) 100vw, 300px" /></h4><h4>Statistics about Output Dataset</h4><p>The SU2 project collect the personal data about the everyday life from 318 students at University of Trento by i-Log applications installed on their smartphones. Then the SU2 dataset filtered out the personal data from 158 university students.</p><p>The SU2 Dataset contains:</p><ul><li>synchronic data about profile, e.g., demographics, routines, personality.</li><li>diachronic data over a period of four weeks, including data from 34 sensors, both hardware and software, e.g., Accelerometer Event, Battery Charge Event, Cellular Network, which are associated to around 100+ thousand self-reported annotations from participants.</li></ul>						</div>
+							<h4><img loading="lazy" decoding="async" class="size-medium wp-image-23947 alignright" src="/wp-content/uploads/2024/10/su2statistics-300x289.jpg" alt="" width="300" height="289" srcset="/wp-content/uploads/2024/10/su2statistics-300x289.jpg 300w, /wp-content/uploads/2024/10/su2statistics.jpg 485w" sizes="(max-width: 300px) 100vw, 300px" /></h4><h4>Statistics about Output Dataset</h4><p>The SU2 project collect the personal data about the everyday life from 318 students at University of Trento by i-Log applications installed on their smartphones. Then the SU2 dataset filtered out the personal data from 158 university students.</p><p>The SU2 Dataset contains:</p><ul><li>synchronic data about profile, e.g., demographics, routines, personality.</li><li>diachronic data over a period of four weeks, including data from 34 sensors, both hardware and software, e.g., Accelerometer Event, Battery Charge Event, Cellular Network, which are associated to around 100+ thousand self-reported annotations from participants.</li></ul>						</div>
 				</div>
 					</div>
 				</div>
