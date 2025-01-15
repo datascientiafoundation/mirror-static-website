@@ -12,7 +12,7 @@
 	<atom:link href="/tag/livelanguage/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Fri, 06 Dec 2024 15:50:26 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jan 2025 13:59:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,533 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>LiveLanguage at LREC 2024: Arabic WordNet</title>
+		<link>/livelanguage-at-lrec-2024-arabic-wordnet/</link>
+					<comments>/livelanguage-at-lrec-2024-arabic-wordnet/#respond</comments>
+		
+		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 12:00:40 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[LiveLanguage]]></category>
+		<guid isPermaLink="false">/?p=26163</guid>
+
+					<description><![CDATA[Hadi Khalilia from DataScientia attended the 2024 Joint International Conference on Computational Linguistics, Language Resources, and Evaluation (LREC-COLING 2024), which took place in Torino for three days. The conference brought together linguistic experts who study language from diverse perspectives. Discussions &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="26163" class="elementor elementor-26163">
+				<div class="elementor-element elementor-element-4cf3f12 e-flex e-con-boxed e-con e-parent" data-id="4cf3f12" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-0da4a39 elementor-widget elementor-widget-text-editor" data-id="0da4a39" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-26951" src="/wp-content/uploads/2025/01/DS-QUOTES-9.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2025/01/DS-QUOTES-9.png 1584w, /wp-content/uploads/2025/01/DS-QUOTES-9-300x75.png 300w, /wp-content/uploads/2025/01/DS-QUOTES-9-1024x256.png 1024w, /wp-content/uploads/2025/01/DS-QUOTES-9-768x192.png 768w, /wp-content/uploads/2025/01/DS-QUOTES-9-1536x384.png 1536w, /wp-content/uploads/2025/01/DS-QUOTES-9-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-89c86b8 elementor-widget elementor-widget-text-editor" data-id="89c86b8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Hadi Khalilia from DataScientia attended <b>the 2024 Joint International Conference on Computational Linguistics, Language Resources, and Evaluation</b> (LREC-COLING 2024), which took place in Torino for three days.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6cf0c25 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="6cf0c25" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7d48507 elementor-widget elementor-widget-text-editor" data-id="7d48507" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-size: var(--thim-font-body-font-size)">The conference brought together linguistic experts who study language from diverse perspectives. Discussions covered various topics, including computational linguistics, speech, multimodality, and natural language processing. The conference’s main focus was evaluating and developing resources to support work in these areas.</span></p><p>The event was supported by the ELRA Language Resources Association (ELRA) and the International Committee on Computational Linguistics (ICCL), two major international players in computational linguistics.</p><p><span data-preserver-spaces="true">Hadi Khalilia presented the LiveLanguage initiative to enhance ArabicWordNet (AWN) by closing lexical gaps and expanding synsets. A key reference was the paper <strong><em>“Advancing the Arabic WordNet: Elevating Content Quality,”</em></strong> in which DataScientia researchers introduced the updated AWN V3 version. The LiveLanguage methodology expanded and corrected lemmas, added new glosses, and provided example sentences.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-66d940b e-con-full e-flex e-con e-parent" data-id="66d940b" data-element_type="container">
+				<div class="elementor-element elementor-element-57bb88d elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="57bb88d" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7d521ef elementor-widget elementor-widget-text-editor" data-id="7d521ef" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><b>Here below the paper’s abstract:</b></p><p><i style="font-size: var(--thim-font-body-font-size)">High-quality WordNets are crucial for achieving high-quality results in NLP (Natural Language Processing) applications that rely on such resources. However, the wordnets of most languages suffer from serious issues of correctness and completeness with respect to the words and word meanings they define, such as incorrect lemmas, missing glosses and example sentences, or an inadequate, Western-centric representation of the morphology and the semantics of the language. Previous efforts have largely focused on increasing lexical coverage while ignoring other qualitative aspects.</i></p><p><i><span style="font-weight: 400">In this paper, we focus on the Arabic language and introduce a major revision of the Arabic WordNet that addresses multiple dimensions of lexico-semantic resource quality. As a result, we updated more than 58% of the synsets of the existing Arabic WordNet by adding missing information and correcting errors. In order to address issues of language diversity and untranslatability, we also extended the wordnet structure by new elements: phrasets and lexical gaps.</span></i></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-0b97b2b elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="0b97b2b" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-25c6f9c e-flex e-con-boxed e-con e-parent" data-id="25c6f9c" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-4c81f02 elementor-widget elementor-widget-text-editor" data-id="4c81f02" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400">The full paper is available </span><a href="https://arxiv.org/abs/2403.20215v1"><span style="font-weight: 400">here</span></a>.</p>
+<p><b>Keywords:</b><span style="font-weight: 400"> </span><span style="font-weight: 400">WordNet, NLP, language, Arabic language, diversity, wordnet, phraset, lexical semantics.</span><span style="font-weight: 400"><br></span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f904602 e-flex e-con-boxed e-con e-parent" data-id="f904602" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-d97f02b e-con-full e-flex e-con e-child" data-id="d97f02b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-1eb1ed7 e-con-full e-flex e-con e-child" data-id="1eb1ed7" data-element_type="container">
+				<div class="elementor-element elementor-element-530a272 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="530a272" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-widget-container">
+			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e46f135 e-con-full e-flex e-con e-child" data-id="e46f135" data-element_type="container">
+				<div class="elementor-element elementor-element-2adbe53 elementor-widget elementor-widget-text-editor" data-id="2adbe53" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-ba32eaa e-flex e-con-boxed e-con e-parent" data-id="ba32eaa" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-76a7663 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="76a7663" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>]]></content:encoded>
+					
+					<wfw:commentRss>/livelanguage-at-lrec-2024-arabic-wordnet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DataScientia for The Guardian on AI Translators</title>
+		<link>/datascientia-for-the-guardian-on-ai-translators/</link>
+					<comments>/datascientia-for-the-guardian-on-ai-translators/#respond</comments>
+		
+		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 11:50:44 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[LiveLanguage]]></category>
+		<guid isPermaLink="false">/?p=27046</guid>
+
+					<description><![CDATA[On September 7, 2023, The Guardian published an article about the risks and limitations of AI translation tools used by U.S. migration agencies. The newspaper features insights from Gárbor Bella, a member of our Data Scientia community. According to scholars, &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="27046" class="elementor elementor-27046">
+				<div class="elementor-element elementor-element-f2d9400 e-flex e-con-boxed e-con e-parent" data-id="f2d9400" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c0f49ac elementor-widget elementor-widget-text-editor" data-id="c0f49ac" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><img decoding="async" class="size-large wp-image-27052 aligncenter" src="/wp-content/uploads/2025/01/DS-QUOTES-26-1024x256.png" alt="" width="640" height="160" srcset="/wp-content/uploads/2025/01/DS-QUOTES-26-1024x256.png 1024w, /wp-content/uploads/2025/01/DS-QUOTES-26-300x75.png 300w, /wp-content/uploads/2025/01/DS-QUOTES-26-768x192.png 768w, /wp-content/uploads/2025/01/DS-QUOTES-26-1536x384.png 1536w, /wp-content/uploads/2025/01/DS-QUOTES-26-600x150.png 600w, /wp-content/uploads/2025/01/DS-QUOTES-26.png 1584w" sizes="(max-width: 640px) 100vw, 640px" /></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-3a2fd664 e-flex e-con-boxed e-con e-parent" data-id="3a2fd664" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b65ed90 elementor-widget elementor-widget-text-editor" data-id="b65ed90" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>On September 7, 2023, The Guardian published<strong> an article about the risks and limitations of AI translation tools</strong> used by U.S. migration agencies.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6bb1750e elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="6bb1750e" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4b9cce0 e-flex e-con-boxed e-con e-parent" data-id="4b9cce0" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8b0dcd6 elementor-widget elementor-widget-text-editor" data-id="8b0dcd6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The newspaper features insights from Gárbor Bella, a member of our Data Scientia community. According to scholars, these tools fall short of capturing linguistic diversity and interpreting cultural nuances, which are crucial for accurate translation.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f99e713 elementor-widget elementor-widget-text-editor" data-id="f99e713" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-27048" src="/wp-content/uploads/2025/01/DS-QUOTES-23.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2025/01/DS-QUOTES-23.png 1584w, /wp-content/uploads/2025/01/DS-QUOTES-23-300x75.png 300w, /wp-content/uploads/2025/01/DS-QUOTES-23-1024x256.png 1024w, /wp-content/uploads/2025/01/DS-QUOTES-23-768x192.png 768w, /wp-content/uploads/2025/01/DS-QUOTES-23-1536x384.png 1536w, /wp-content/uploads/2025/01/DS-QUOTES-23-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-5238a7a3 e-flex e-con-boxed e-con e-parent" data-id="5238a7a3" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-9044dc1 elementor-widget elementor-widget-text-editor" data-id="9044dc1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400">Despite these obstacles, Gárbor Bella remains optimistic about AI language translators. He believes language diversity can help overcome these challenges and promote equal opportunities. The researcher believes it can be implemented through data catalogs based on cross-lingual lexical semantics. Catalogs can be created by engaging professionals and native speakers worldwide.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-14062302 e-flex e-con-boxed e-con e-parent" data-id="14062302" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-446220f1 elementor-widget elementor-widget-text-editor" data-id="446220f1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400">Read more in the Guardian in the article <a href="https://www.theguardian.com/us-news/2023/sep/07/asylum-seekers-ai-translation-apps">“Lost in AI translation: growing reliance on language apps jeopardizes some asylum applications.”</a></span></p><p><span style="font-weight: 400"><strong>Keywords: </strong>language, translation, AI-powered translators, artificial intelligence, linguistic diversity, catalog, culture, migration, cross-lingual lexical semantics, intervie</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-309f1c0a e-flex e-con-boxed e-con e-parent" data-id="309f1c0a" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-901f600 e-con-full e-flex e-con e-child" data-id="901f600" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-63da58ae e-con-full e-flex e-con e-child" data-id="63da58ae" data-element_type="container">
+				<div class="elementor-element elementor-element-565229bd elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="565229bd" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-widget-container">
+			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5f8d8b2c e-con-full e-flex e-con e-child" data-id="5f8d8b2c" data-element_type="container">
+				<div class="elementor-element elementor-element-2f057af elementor-widget elementor-widget-text-editor" data-id="2f057af" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-69fa6b5c e-flex e-con-boxed e-con e-parent" data-id="69fa6b5c" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3885915e elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3885915e" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>]]></content:encoded>
+					
+					<wfw:commentRss>/datascientia-for-the-guardian-on-ai-translators/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DataScientia Event 2024: How was it?</title>
+		<link>/datascientia-event-2024-how-was-it/</link>
+					<comments>/datascientia-event-2024-how-was-it/#respond</comments>
+		
+		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 11:40:36 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[LiveData]]></category>
+		<category><![CDATA[LiveKnowledge]]></category>
+		<category><![CDATA[LiveLanguage]]></category>
+		<category><![CDATA[LivePeople]]></category>
+		<guid isPermaLink="false">/?p=26716</guid>
+
+					<description><![CDATA[The Data Scientia Event 2024 has successfully concluded and took place at the University of Trento in the Department of Sociology in Italy. The Department, located in the city’s historic heart and surrounded by mountains, served as the venue for &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="26716" class="elementor elementor-26716">
+				<div class="elementor-element elementor-element-19bbe957 e-flex e-con-boxed e-con e-parent" data-id="19bbe957" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-74a61f69 elementor-widget elementor-widget-text-editor" data-id="74a61f69" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The <strong><a href="https://datascientia.disi.unitn.it/events/the-2024-datascientia-event-community-projects-and-education/">Data Scientia Event 2024</a></strong> has successfully concluded and took place at the University of Trento in the Department of Sociology in Italy. The Department, located in the city’s historic heart and surrounded by mountains, served as the venue for the gathering. We are eager to share our key takeaways from the event.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-74c8fd3 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="74c8fd3" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-55684463 e-flex e-con-boxed e-con e-parent" data-id="55684463" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7c8ed88e elementor-widget elementor-widget-text-editor" data-id="7c8ed88e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400">The DataScientia Event: Community, Projects, and Education 2024 successfully united international participants from diverse backgrounds to collaborate on AI development. The Data Scientia event brought together</span><b> 65 participants</b><span style="font-weight: 400"> from diverse academic backgrounds, representing regions including </span><b>Central Asia, Africa, South Asia, Europe, East Asia, the Middle East, and South America</b><span style="font-weight: 400">. Participants included professors, PhD candidates, researchers, and industry professionals from countries such as </span><b>Kazakhstan, South Africa, India, Spain, Cyprus, Turkey, France, Uzbekistan, Mozambique, China, Uganda, Taiwan, Mongolia, Qatar, Palestine, Iran, Paraguay, and Italy</b><span style="font-weight: 400">.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4d58768 elementor-widget elementor-widget-text-editor" data-id="4d58768" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-26935" src="/wp-content/uploads/2025/01/Blue-Modern-Dance-Channel-Youtube-Banner-3.png" alt="" width="2560" height="1440" srcset="/wp-content/uploads/2025/01/Blue-Modern-Dance-Channel-Youtube-Banner-3.png 2560w, /wp-content/uploads/2025/01/Blue-Modern-Dance-Channel-Youtube-Banner-3-300x169.png 300w, /wp-content/uploads/2025/01/Blue-Modern-Dance-Channel-Youtube-Banner-3-1024x576.png 1024w, /wp-content/uploads/2025/01/Blue-Modern-Dance-Channel-Youtube-Banner-3-768x432.png 768w, /wp-content/uploads/2025/01/Blue-Modern-Dance-Channel-Youtube-Banner-3-1536x864.png 1536w, /wp-content/uploads/2025/01/Blue-Modern-Dance-Channel-Youtube-Banner-3-2048x1152.png 2048w, /wp-content/uploads/2025/01/Blue-Modern-Dance-Channel-Youtube-Banner-3-600x338.png 600w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-5e7d84c4 e-flex e-con-boxed e-con e-parent" data-id="5e7d84c4" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-58d3643c elementor-widget elementor-widget-text-editor" data-id="58d3643c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400">The event invited the Data Scientia Community to discuss past, ongoing, and future projects and initiatives. It also welcomed anyone interested in learning about Data Scientia’s collaborative projects and educational initiatives. Therefore, the main focus was reinforcing and expanding Data Scientia&#8217;s partnerships. </span></p><p><span style="font-weight: 400">The three-day Data Scientia event consisted of a dynamic series of presentations, workshops, and discussions. </span><span style="font-weight: 400">The event agenda </span><span style="font-weight: 400">included innovative projects in </span><b>education</b><span style="font-weight: 400">, </span><b>data collection</b><span style="font-weight: 400">, </span><b>language,</b> and <b>data management</b><span style="font-weight: 400">.  It</span> featured engaging discussions, beneficial workshops, and valuable exchanges of experience, strengthening existing collaborations while encouraging new visitors to join the community. </p><p><span style="font-weight: 400">We would like to thank everyone who contributed to this event. Our appreciation goes to the speakers who presented their projects and led workshops and the participants who traveled worldwide to attend the Data Scientia event. Together, we are shaping the future of AI, data science, language, knowledge representation, and education.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-57fe8a1d elementor-widget elementor-widget-text-editor" data-id="57fe8a1d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><b>We believe that the Data Scientia community will grow and, through our united efforts, create a better future for everyone.&nbsp;The Data Scientia always welcomes innovative ideas, and we are open to new collaborations to grow.<br><br>Follow our news to join our next DataScientia event and other projects!</b></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-17f65e7f elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="17f65e7f" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-37a16e27 e-flex e-con-boxed e-con e-parent" data-id="37a16e27" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3c82fa7c elementor-widget elementor-widget-text-editor" data-id="3c82fa7c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><b style="font-family: var( --e-global-typography-text-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">Keywords: </b><span style="font-weight: 400">collaboration, partnership, diversity, </span><span style="font-weight: 400">education, data collection, and language data management.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-25d95b4 e-flex e-con-boxed e-con e-parent" data-id="25d95b4" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-724ecc4f e-con-full e-flex e-con e-child" data-id="724ecc4f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-58abcd80 e-con-full e-flex e-con e-child" data-id="58abcd80" data-element_type="container">
+				<div class="elementor-element elementor-element-179b7cf7 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="179b7cf7" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-widget-container">
+			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-43f08744 e-con-full e-flex e-con e-child" data-id="43f08744" data-element_type="container">
+				<div class="elementor-element elementor-element-3e5a3c5c elementor-widget elementor-widget-text-editor" data-id="3e5a3c5c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-46ebc512 e-flex e-con-boxed e-con e-parent" data-id="46ebc512" data-element_type="container">
+					<div class="e-con-inner">
+					</div>
+				</div>
+				</div>]]></content:encoded>
+					
+					<wfw:commentRss>/datascientia-event-2024-how-was-it/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LiveLanguage Kinship Study Featured in Frontiers</title>
+		<link>/livelanguage-kinship-study-featured-in-frontiers/</link>
+					<comments>/livelanguage-kinship-study-featured-in-frontiers/#respond</comments>
+		
+		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 11:31:30 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[LiveLanguage]]></category>
+		<guid isPermaLink="false">/?p=26184</guid>
+
+					<description><![CDATA[On November 20, 2023, the journal Frontiers in Psychology published an article titled “Lexical Diversity in Kinship Across Languages and Dialects” by members of DataScientia who specialize in creating high-quality, diversity-aware lexical databases for natural language processing and machine translation. &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="26184" class="elementor elementor-26184">
+				<div class="elementor-element elementor-element-d2f3edf e-grid e-con-full e-con e-parent" data-id="d2f3edf" data-element_type="container">
+				<div class="elementor-element elementor-element-2b33e11 elementor-widget elementor-widget-thim-ekits-site-logo" data-id="2b33e11" data-element_type="widget" data-widget_type="thim-ekits-site-logo.default">
+				<div class="elementor-widget-container">
+			
+		<div class="thim-ekit-site-logo">
+							<a href="/" rel="home">
+					<img loading="lazy" decoding="async" width="400" height="163" src="/wp-content/uploads/2024/09/H_logo-DS-17.png" class="attachment-full size-full wp-image-23262" alt="" srcset="/wp-content/uploads/2024/09/H_logo-DS-17.png 400w, /wp-content/uploads/2024/09/H_logo-DS-17-300x122.png 300w" sizes="(max-width: 400px) 100vw, 400px" />				</a>
+					</div>
+
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c61d562 elementor-widget elementor-widget-image" data-id="c61d562" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="640" height="361" src="/wp-content/uploads/2024/12/frontiers-in-psychology-logo-733x414-1.png" class="attachment-medium_large size-medium_large wp-image-26186" alt="" srcset="/wp-content/uploads/2024/12/frontiers-in-psychology-logo-733x414-1.png 733w, /wp-content/uploads/2024/12/frontiers-in-psychology-logo-733x414-1-300x169.png 300w, /wp-content/uploads/2024/12/frontiers-in-psychology-logo-733x414-1-600x339.png 600w" sizes="(max-width: 640px) 100vw, 640px" />													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5d07a9e e-flex e-con-boxed e-con e-parent" data-id="5d07a9e" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-9e59463 elementor-widget elementor-widget-text-editor" data-id="9e59463" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<div>On November 20, 2023, the journal <em>Frontiers in Psychology</em> published an article titled<strong> “Lexical Diversity in Kinship Across Languages and Dialects”</strong> by members of DataScientia who specialize in creating high-quality, diversity-aware lexical databases for natural language processing and machine translation. The article’s authors are Hadi Khalilia, Gábor Bella, Fausto Giunchiglia, Abed Alhakim Freihat, and Shandy Darma.</div>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c6ba248 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="c6ba248" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-34922a23 e-flex e-con-boxed e-con e-parent" data-id="34922a23" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-38908871 elementor-widget elementor-widget-text-editor" data-id="38908871" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-size: var(--thim-font-body-font-size)" data-preserver-spaces="true">The paper was published as part of the research on </span><em style="font-size: var(--thim-font-body-font-size)"><span data-preserver-spaces="true">The Adaptive Value of Languages: Non-Linguistic Causes of Language Diversity</span></em><span style="font-size: var(--thim-font-body-font-size)" data-preserver-spaces="true">. The goal was to explore how natural environments or human-made influences might shape some features of language structure. Due to the tasks&#8217; complexity, researchers from various fields, including linguistics, psychology, biology, sociology, and anthropology, were invited to contribute.</span></p><p><span style="font-size: var(--thim-font-body-font-size)" data-preserver-spaces="true">The paper was dedicated to finding specific concepts and gaps across various languages and dialects. The scholars proposed a </span><span style="font-size: var(--thim-font-body-font-size)" data-preserver-spaces="true">unique</span><span style="font-size: var(--thim-font-body-font-size)" data-preserver-spaces="true"> method to capture linguistic diversity based on systematic data collection of specific narrowed areas rather than the general topic.</span></p><div class="f8cklo4 content fncon9x" role="main" data-role="scroll" data-overflow-top="true" data-overflow-bottom="true"><div class="fjfog7z"><article class="f1gwpiu7" data-card="true" aria-live="polite" data-testid="result-31" data-card-type="prompt-result" data-active="true"><div class="f1yzq0lr">This method is designed to represent concepts specific to different languages and dialects while also addressing gaps in vocabulary. It<span style="font-size: var(--thim-font-body-font-size)"> has already been tested in two studies on kinship terms in Arabic dialects and the Indonesian language.</span></div></article></div></div>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c8de190 e-con-full e-flex e-con e-parent" data-id="c8de190" data-element_type="container">
+				<div class="elementor-element elementor-element-517adae8 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="517adae8" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-62b30896 elementor-widget elementor-widget-text-editor" data-id="62b30896" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><b>Here below the paper’s abstract:</b></p><p><i><span style="font-weight: 400">Languages are known to describe the world in diverse ways. Across lexicons, diversity is pervasive, appearing through phenomena such as lexical gaps and untranslatability. However, in computational resources, such as multilingual lexical databases, diversity is hardly ever represented. In this paper, we introduce a method to enrich computational lexicons with content relating to linguistic diversity. </span></i></p><p><i><span style="font-weight: 400">The method is verified through two large-scale case studies on kinship terminology, a domain known to be diverse across languages and cultures: one case study deals with seven Arabic dialects, while the other one with three Indonesian languages. Our results, made available as browseable and downloadable computational resources, extend prior linguistics research on kinship terminology, and provide insight into the extent of diversity even within linguistically and culturally close communities.</span></i></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2810011a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="2810011a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-55375d5d e-flex e-con-boxed e-con e-parent" data-id="55375d5d" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-541d3e3d elementor-widget elementor-widget-text-editor" data-id="541d3e3d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400">Read the full paper on Frontiers in </span><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1229697/full"><span style="font-weight: 400">Psychology</span></a>.</p><p><span style="font-weight: 400"><strong>Keywords:</strong> linguistic diversity, lexical gaps, untranslatability, computational lexicons, multilingual lexical databases, kinship terminology, Arabic dialects,  semantic diversity, cross-cultural analysis, terminology databases.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-7fecbd7d e-flex e-con-boxed e-con e-parent" data-id="7fecbd7d" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-4136e1ed e-con-full e-flex e-con e-child" data-id="4136e1ed" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-3c859bea e-con-full e-flex e-con e-child" data-id="3c859bea" data-element_type="container">
+				<div class="elementor-element elementor-element-3a91f858 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="3a91f858" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-widget-container">
+			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-afbcd8f e-con-full e-flex e-con e-child" data-id="afbcd8f" data-element_type="container">
+				<div class="elementor-element elementor-element-5672837b elementor-widget elementor-widget-text-editor" data-id="5672837b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>]]></content:encoded>
+					
+					<wfw:commentRss>/livelanguage-kinship-study-featured-in-frontiers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What role will AI play in shaping our future?</title>
+		<link>/what-role-will-ai-play-in-shaping-our-future/</link>
+					<comments>/what-role-will-ai-play-in-shaping-our-future/#respond</comments>
+		
+		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2024 09:53:50 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[LiveData]]></category>
+		<category><![CDATA[LiveLanguage]]></category>
+		<category><![CDATA[LivePeople]]></category>
+		<guid isPermaLink="false">/?p=26474</guid>
+
+					<description><![CDATA[The recent breakthrough in artificial intelligence (AI) stands as one of the most significant technological advancements of our time. With the rapid development of AI tools such as chatbots, AI editors, image generators, and various plugins, many people have already &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="26474" class="elementor elementor-26474">
+				<div class="elementor-element elementor-element-74a09d41 e-flex e-con-boxed e-con e-parent" data-id="74a09d41" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-405b0cdb elementor-widget elementor-widget-text-editor" data-id="405b0cdb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><b>The recent breakthrough in artificial intelligence (AI) stands as one of the most significant technological advancements of our time. With the rapid development of AI tools such as chatbots, AI editors, image generators, and various plugins, many people have already had the opportunity to test and explore these exciting innovations. AI’s transformative impact shines brightly in the digital and virtual reality realms.</b></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1b347d2 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1b347d2" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-cfbbee7 e-flex e-con-boxed e-con e-parent" data-id="cfbbee7" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8215fe8 elementor-widget elementor-widget-text-editor" data-id="8215fe8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="color: var( --e-global-color-primary )">Fausto Giunchiglia, the founder of Data Scientia, shares his vision for AI and the empowering strategies scientists can adopt to harness this technology for the greater good of humanity. </span><span style="color: var( --e-global-color-primary )">He focuses on AI’s impact in the real world rather than its applications on the web</span><span style="color: var( --e-global-color-primary )">. </span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-64cc9c35 e-flex e-con-boxed e-con e-parent" data-id="64cc9c35" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-47f1fec elementor-widget elementor-widget-text-editor" data-id="47f1fec" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-26714" src="/wp-content/uploads/2024/12/3.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2024/12/3.png 1584w, /wp-content/uploads/2024/12/3-300x75.png 300w, /wp-content/uploads/2024/12/3-1024x256.png 1024w, /wp-content/uploads/2024/12/3-768x192.png 768w, /wp-content/uploads/2024/12/3-1536x384.png 1536w, /wp-content/uploads/2024/12/3-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-96106af elementor-widget elementor-widget-text-editor" data-id="96106af" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>For him, AI is not only about the virtual world; AI should be integrated into all aspects of our lives. AI should improve people&#8217;s lives and bring joy to our lives. To illustrate, AI can enhance our enjoyment of cooking by finding recipes or helping us select the best restaurants. In sports, AI can assist with exercise routines like jogging. It can also enrich our cultural experiences by offering deeper insights into ancient civilizations and enhancing our understanding of the past through virtual tourism.</p>
+<p>The scholar points out that while 20 years ago these experiences were primarily physical, many have now transitioned to digital formats. Today, we have digital heritage and virtual experiences that were previously unimaginable, providing new ways to connect with the world.</p>
+<p><b>But what comes next? Given the increasing digitalization of our everyday activities, how can we further enjoy our lives and the real world?</b></p>
+<p>Fausto envisions AI as a tool to build better lives by fostering connections with friends and family and enhancing our overall quality of life. AI has the potential to assist in numerous ways, from planning events to enriching cultural experiences. For instance, AI can tailor the experience to your interests and provide personalized insights if you&#8217;re exploring a museum or learning about a new culture. AI also has applications in the culinary world, helping us understand and appreciate different foods and enhancing our present experiences. Looking to the future, AI’s role will only grow as current achievements will soon become part of our past.</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e6b7723 e-flex e-con-boxed e-con e-parent" data-id="e6b7723" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ef889b2 elementor-widget elementor-widget-text-editor" data-id="ef889b2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-26715" src="/wp-content/uploads/2024/12/4.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2024/12/4.png 1584w, /wp-content/uploads/2024/12/4-300x75.png 300w, /wp-content/uploads/2024/12/4-1024x256.png 1024w, /wp-content/uploads/2024/12/4-768x192.png 768w, /wp-content/uploads/2024/12/4-1536x384.png 1536w, /wp-content/uploads/2024/12/4-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-40d57b3 e-flex e-con-boxed e-con e-parent" data-id="40d57b3" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-39e4338 elementor-widget elementor-widget-text-editor" data-id="39e4338" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Central to Fausto’s vision is the concept of <strong>person-centered data</strong>. This type of data, which people share about their lives, is highly personal and not typically posted on social media. It includes intimate information about oneself and one’s family that is kept private. By utilizing this personal data, AI can significantly improve our lives and the lives of our loved onesIn conclusion, AI should focus on what is important for the future of humanity. <strong>Data Scientia strives to bring this vision to life by harnessing the power of AI to enhance the quality of life for all people.</strong></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2db71fa5 e-flex e-con-boxed e-con e-parent" data-id="2db71fa5" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5fe75869 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="5fe75869" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6c255b9c elementor-widget elementor-widget-text-editor" data-id="6c255b9c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400"><strong>Keywords: </strong>AI, technology, virtual tourism, digital heritage, foundational models, machine learning,  digitalization, private data, AI tools, AI applications, human-centric AI, data privacy.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-22cb4eb7 e-flex e-con-boxed e-con e-parent" data-id="22cb4eb7" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-7a423653 e-con-full e-flex e-con e-child" data-id="7a423653" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-50d3eda6 e-con-full e-flex e-con e-child" data-id="50d3eda6" data-element_type="container">
+				<div class="elementor-element elementor-element-5ce98f3 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="5ce98f3" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-widget-container">
+			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f7b89eb e-con-full e-flex e-con e-child" data-id="f7b89eb" data-element_type="container">
+				<div class="elementor-element elementor-element-659d5e3f elementor-widget elementor-widget-text-editor" data-id="659d5e3f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>]]></content:encoded>
+					
+					<wfw:commentRss>/what-role-will-ai-play-in-shaping-our-future/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Gábor Bella to The Guardian on AI Translators</title>
 		<link>/news/gabor-bella-to-the-guardian-on-ai-translators/</link>
 		
@@ -50,7 +577,7 @@
 		<div class="elementor-element elementor-element-c80ce0b e-con-full e-flex e-con e-parent" data-id="c80ce0b" data-element_type="container">
 				<div class="elementor-element elementor-element-152e4cb elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="152e4cb" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img fetchpriority="high" decoding="async" width="640" height="384" src="/wp-content/uploads/2024/08/1500-1-1.avif" class="attachment-medium_large size-medium_large wp-image-23002" alt="" />													</div>
+													<img loading="lazy" decoding="async" width="640" height="384" src="/wp-content/uploads/2024/08/1500-1-1.avif" class="attachment-medium_large size-medium_large wp-image-23002" alt="" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-cf57c06 elementor-widget elementor-widget-text-editor" data-id="cf57c06" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -76,7 +603,7 @@
 				</div>
 				<div class="elementor-element elementor-element-3a57837 elementor-widget__width-initial elementor-position-top elementor-widget elementor-widget-image-box" data-id="3a57837" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="277" height="300" src="/wp-content/uploads/2024/08/unnamed11-277x300.png" class="attachment-medium size-medium wp-image-22999" alt="" srcset="/wp-content/uploads/2024/08/unnamed11-277x300.png 277w, /wp-content/uploads/2024/08/unnamed11.png 290w" sizes="(max-width: 277px) 100vw, 277px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">Bella Garbor</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="277" height="300" src="/wp-content/uploads/2024/08/unnamed11-277x300.png" class="attachment-medium size-medium wp-image-22999" alt="" srcset="/wp-content/uploads/2024/08/unnamed11-277x300.png 277w, /wp-content/uploads/2024/08/unnamed11.png 290w" sizes="(max-width: 277px) 100vw, 277px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">Bella Garbor</p></div></div>		</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-a50071c e-flex e-con-boxed e-con e-parent" data-id="a50071c" data-element_type="container">

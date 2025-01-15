@@ -12,7 +12,7 @@
 	<atom:link href="/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Sun, 29 Dec 2024 17:19:14 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Jan 2025 12:50:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>DiversityOne</title>
+		<link>/projects/diversityone/</link>
+		
+		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2025 12:46:45 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=portfolio#038;p=27199</guid>
+
+					<description><![CDATA[Project details to be added soon&#8230;]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="27199" class="elementor elementor-27199">
+				<div class="elementor-element elementor-element-b7737e9 e-flex e-con-boxed e-con e-parent" data-id="b7737e9" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-0949b18 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="0949b18" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading"><h3 class="title">Project details to be added soon... </h3></div>		</div>
+				</div>
+					</div>
+				</div>
+				</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Expert-sourcing lexical diversity</title>
 		<link>/projects/expert-sourcing-lexical-diversity/</link>
 		
