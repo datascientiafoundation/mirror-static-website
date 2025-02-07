@@ -12,7 +12,7 @@
 	<atom:link href="/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Fri, 07 Feb 2025 11:12:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Feb 2025 12:20:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,7 +35,7 @@
 		<pubDate>Wed, 15 Jan 2025 12:46:45 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=portfolio#038;p=27199</guid>
 
-					<description><![CDATA[Description DiversityOne is one of the largest and most geographically diverse datasets for studying everyday life behavior through smartphone sensors and self-reports. Key statistics Questionnaires from 18K+ participants Intensive longitudinal survey of 4 weeks Data from both the Global North &#8230; ]]></description>
+					<description><![CDATA[Description DiversityOne is one of the largest and most geographically diverse datasets for studying everyday life behavior through smartphone sensors and self-reports. Key statistics Questionnaires from 18K+ participants &#160; Intensive longitudinal survey of 4 weeks Data from both the Global &#8230; ]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="27199" class="elementor elementor-27199">
 				<div class="elementor-element elementor-element-f8532ed e-flex e-con-boxed e-con e-parent" data-id="f8532ed" data-element_type="container">
 					<div class="e-con-inner">
@@ -795,7 +795,7 @@
 				</div>
 				<div class="elementor-element elementor-element-d62cd13 elementor-widget elementor-widget-text-editor" data-id="d62cd13" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>The case study SU2 project (as well as the SU project) is to collect everyday life data from students of different degrees to understand how their spatio-temporal organization affects their academic performances.</p><h5>Project Community Webpage:</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/56b68b9f-dd48-4f1b-9faa-195d7f66f1c3">SU2 Case Study Webpage &#8211;  DataScientia Community</a></li></ul><h5>Output Datasets:</h5><ul><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento/">2018-Smart Unitn 2-Trento</a></li></ul>						</div>
+							<p>The case study SU2 project (as well as the SU project) is to collect everyday life data from students of different degrees to understand how their spatio-temporal organization affects their academic performances.</p><h5>Project Community Webpage:</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/56b68b9f-dd48-4f1b-9faa-195d7f66f1c3">SU2 Case Study Webpage &#8211;  DataScientia Community</a></li></ul><h5>Output Datasets:</h5><ul><li><a href="http://livepeople.datascientia.eu/datasets/?collection_name=smartunitn2">2018-Smart Unitn 2-Trento</a></li></ul>						</div>
 				</div>
 				<div class="elementor-element elementor-element-6dff101 elementor-widget elementor-widget-text-editor" data-id="6dff101" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -912,7 +912,7 @@
 				</div>
 				<div class="elementor-element elementor-element-327367c elementor-widget elementor-widget-text-editor" data-id="327367c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>The case study is to integrate SmartUnitn-Two (SU2) dataset and OpenStreetMap (OSM) dataset from Geofabrik, as SU2OSM Big-Thick Data. The SU2 dataset describes sequences of personal contexts from 158 students of University of Trento over four weeks. The OSM dataset represents a reference context in Trentino. The integrated SU2OSM dataset unifies the personal contexts with the reference context, which represents the personal daily lives of these students.</p><h5>Project Community Webpage:</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/8b227ff7-803e-4f7b-8765-75ea2b7a8113">SU2OSM Case Study Webpage &#8211;  DataScientia Community</a></li></ul><h5>Datasets Used:</h5><ul><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Time%20Diaries/">2018-SU2-Trento-Time Diaries</a></li><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Location%20Event/">2018-SU2-Trento-Location Event</a></li><li><a href="https://download.geofabrik.de/europe/italy/nord-est.html">OpenStreetMap (OSM) dataset</a> in North-East of Italy from Geofabrik, ( nord-est-latest-free.shp.zip )</li></ul><h5>Output Datasets:</h5><ul><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-OSM-Trento-Time%20Diaries/">2024-SU2OSM-Trento-Big Thick Data</a></li></ul>						</div>
+							<p>The case study is to integrate SmartUnitn-Two (SU2) dataset and OpenStreetMap (OSM) dataset from Geofabrik, as SU2OSM Big-Thick Data. The SU2 dataset describes sequences of personal contexts from 158 students of University of Trento over four weeks. The OSM dataset represents a reference context in Trentino. The integrated SU2OSM dataset unifies the personal contexts with the reference context, which represents the personal daily lives of these students.</p><h5>Project Community Webpage:</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/8b227ff7-803e-4f7b-8765-75ea2b7a8113">SU2OSM Case Study Webpage &#8211;  DataScientia Community</a></li></ul><h5>Datasets Used:</h5><ul><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SmartUnitn2-Trento-Time%20Diaries/">2018-SU2-Trento-Time Diaries</a></li><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SmartUnitn2-Trento-Location%20RD/">2018-SU2-Trento-Location Event</a></li><li><a href="https://download.geofabrik.de/europe/italy/nord-est.html">OpenStreetMap (OSM) dataset</a> in North-East of Italy from Geofabrik, ( nord-est-latest-free.shp.zip )</li></ul><h5>Output Datasets:</h5><ul><li><a href="http://livepeople.datascientia.eu/datasets/?collection_name=smartunitn2osm">2024-SU2OSM-Trento-Big Thick Data</a></li></ul>						</div>
 				</div>
 					</div>
 				</div>
