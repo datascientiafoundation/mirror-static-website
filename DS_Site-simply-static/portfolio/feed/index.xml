@@ -12,7 +12,7 @@
 	<atom:link href="/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Wed, 15 Jan 2025 12:50:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Feb 2025 10:20:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,13 +35,279 @@
 		<pubDate>Wed, 15 Jan 2025 12:46:45 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=portfolio#038;p=27199</guid>
 
-					<description><![CDATA[Project details to be added soon&#8230;]]></description>
+					<description><![CDATA[Description DiversityOne is one of the largest and most geographically diverse datasets for studying everyday life behavior through smartphone sensors and self-reports. Key statistics Questionnaires from 18K+ participants Intensive longitudinal survey of 4 weeks Data from both the Global North &#8230; ]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="27199" class="elementor elementor-27199">
-				<div class="elementor-element elementor-element-b7737e9 e-flex e-con-boxed e-con e-parent" data-id="b7737e9" data-element_type="container">
+				<div class="elementor-element elementor-element-f8532ed e-flex e-con-boxed e-con e-parent" data-id="f8532ed" data-element_type="container">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-0949b18 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="0949b18" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-element elementor-element-094ee8a thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="094ee8a" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
-			<div class="sc_heading"><h3 class="title">Project details to be added soon... </h3></div>		</div>
+			<div class="sc_heading text-left"><h3 class="title">Description </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-88e3361 elementor-widget elementor-widget-text-editor" data-id="88e3361" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><em>DiversityOne is one of the largest and most geographically diverse datasets for studying everyday life behavior through smartphone sensors and self-reports.</em></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-b43df7f thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="b43df7f" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-center"><h3 class="title">Key statistics </h3><span class="line"></span></div>		</div>
+				</div>
+		<div class="elementor-element elementor-element-5c8d868 e-con-full e-grid e-con e-child" data-id="5c8d868" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-592339d e-grid e-con-full e-con e-child" data-id="592339d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-1c52e00 e-con-full e-flex e-con e-child" data-id="1c52e00" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-f05a06a elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="f05a06a" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="tk tk-users1"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+				
+									<p class="elementor-icon-box-description">
+						<b>Questionnaires </b>from 18K+ participants					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a62d27e e-con-full e-flex e-con e-child" data-id="a62d27e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-6b5fe27 elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="6b5fe27" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fab-wpforms" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M448 75.2v361.7c0 24.3-19 43.2-43.2 43.2H43.2C19.3 480 0 461.4 0 436.8V75.2C0 51.1 18.8 32 43.2 32h361.7c24 0 43.1 18.8 43.1 43.2zm-37.3 361.6V75.2c0-3-2.6-5.8-5.8-5.8h-9.3L285.3 144 224 94.1 162.8 144 52.5 69.3h-9.3c-3.2 0-5.8 2.8-5.8 5.8v361.7c0 3 2.6 5.8 5.8 5.8h361.7c3.2.1 5.8-2.7 5.8-5.8zM150.2 186v37H76.7v-37h73.5zm0 74.4v37.3H76.7v-37.3h73.5zm11.1-147.3l54-43.7H96.8l64.5 43.7zm210 72.9v37h-196v-37h196zm0 74.4v37.3h-196v-37.3h196zm-84.6-147.3l64.5-43.7H232.8l53.9 43.7zM371.3 335v37.3h-99.4V335h99.4z"></path></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+				
+									<p class="elementor-icon-box-description">
+						<b>Intensive longitudinal survey</b> of 4 weeks					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-438c1b4 e-con-full e-flex e-con e-child" data-id="438c1b4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-1330d77 elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="1330d77" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="tk tk-alternate-map-marked"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+				
+									<p class="elementor-icon-box-description">
+						Data from both the <b>Global North</b> and the <b>Global South</b>					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-bd891d9 e-grid e-con-full e-con e-child" data-id="bd891d9" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-cbed2e4 e-con-full e-flex e-con e-child" data-id="cbed2e4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-e2ad2d9 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="e2ad2d9" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="tk tk-world"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+				
+									<p class="elementor-icon-box-description">
+						Passive smartphone <b>sensor data</b> and <b>self-reports</b> from 782 participants across eight universities in eight different countries					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-74d3945 e-con-full e-flex e-con e-child" data-id="74d3945" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-695bd48 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="695bd48" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<i aria-hidden="true" class="tk tk-phone1"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+				
+									<p class="elementor-icon-box-description">
+						Raw sensor data from <b>26 modalities</b>					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-3b91fa2 e-con-full e-flex e-con e-parent" data-id="3b91fa2" data-element_type="container">
+		<div class="elementor-element elementor-element-6e4f190 e-con-full e-grid e-con e-child" data-id="6e4f190" data-element_type="container">
+				<div class="elementor-element elementor-element-6f14e58 elementor-widget elementor-widget-text-editor" data-id="6f14e58" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h4>Possible research directions, but not limited to:</h4><ul><li>developing machine learning models across multiple domains, such as behavior recognition</li><li>multimodal time-series modeling</li><li>model generalization and domain adaptation across countries</li><li>social practices understanding</li><li>explore the diversity of daily activities in various cultural contexts</li><li>cross-cultural studies</li></ul>						</div>
+				</div>
+		<div class="elementor-element elementor-element-3115670 e-grid e-con-full e-con e-child" data-id="3115670" data-element_type="container">
+		<div class="elementor-element elementor-element-459bf7e e-con-full e-flex e-con e-child" data-id="459bf7e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-676a021 elementor-button-success elementor-widget elementor-widget-button" data-id="676a021" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="http://arxiv.org/abs/2502.03347">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="tk tk-alternate-external-link"></i>			</span>
+									<span class="elementor-button-text">DiversityOne Paper</span>
+					</span>
+					</a>
+				</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2abe63c e-con-full e-flex e-con e-child" data-id="2abe63c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-6eafed5 elementor-button-info elementor-widget elementor-widget-button" data-id="6eafed5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://livepeople.disi.unitn.it/datasets/?collection_name=diversityone">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="tk tk-alternate-external-link"></i>			</span>
+									<span class="elementor-button-text">Dataset Catalog</span>
+					</span>
+					</a>
+				</div>
+						</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4ded360 e-flex e-con-boxed e-con e-parent" data-id="4ded360" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e2b498b thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="e2b498b" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-left"><h3 class="title">Dataset Description </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8ee1579 elementor-widget elementor-widget-text-editor" data-id="8ee1579" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The DiversityOne dataset was collected through a collaborative effort involving universities across eight different countries, encompassing both the Global North and Global South. This extensive data collection includes intensive longitudinal surveys and passive smartphone sensor data from diverse cultural contexts, providing a unique resource for cross-cultural studies and behavioral research.</p><p style="text-align: center;"><strong>Countries and Universities</strong></p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-39164a7 e-con-full e-grid e-con e-child" data-id="39164a7" data-element_type="container">
+				<div class="elementor-element elementor-element-6e2ac04 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="6e2ac04" data-element_type="widget" data-widget_type="thim-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img fetchpriority="high" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_China.png" alt="Flag_of_China" title="Flag_of_China"  width="1024" height="682"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">China</h3></div><div class="desc-icon-box"><div class="desc-content">Jilin University (JLU)</div></div></div></div></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8765a47 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="8765a47" data-element_type="widget" data-widget_type="thim-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img decoding="async" src="/wp-content/uploads/2025/01/Flag_of_Denmark.svg.png" alt="Flag_of_Denmark.svg" title="Flag_of_Denmark.svg"  width="1280" height="969"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Denmark</h3></div><div class="desc-icon-box"><div class="desc-content">Aalborg University (AAU)</div></div></div></div></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7b44ccc iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="7b44ccc" data-element_type="widget" data-widget_type="thim-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img decoding="async" src="/wp-content/uploads/2025/01/Flag_of_India.png" alt="Flag_of_India" title="Flag_of_India"  width="2560" height="1707"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">India </h3></div><div class="desc-icon-box"><div class="desc-content">Amrita Vishwa Vidyapeetham (AMRITA)</div></div></div></div></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1f73b04 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="1f73b04" data-element_type="widget" data-widget_type="thim-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_Italy_1946–2003.png" alt="Flag_of_Italy_(1946–2003)" title="Flag_of_Italy_(1946–2003)"  width="1200" height="800"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Italy</h3></div><div class="desc-icon-box"><div class="desc-content">University of Trento (UNITN)</div></div></div></div></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-62e1971 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="62e1971" data-element_type="widget" data-widget_type="thim-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_Mexico.png" alt="Flag_of_Mexico" title="Flag_of_Mexico"  width="1280" height="732"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Mexico</h3></div><div class="desc-icon-box"><div class="desc-content">Instituto Potosino de Investigación Científica y Tecnológica (IPICYT)</div></div></div></div></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ffd17b7 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="ffd17b7" data-element_type="widget" data-widget_type="thim-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_Mongolia.svg.png" alt="Flag_of_Mongolia.svg" title="Flag_of_Mongolia.svg"  width="1280" height="640"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Mongolia</h3></div><div class="desc-icon-box"><div class="desc-content">National University of Mongolia (NUM)</div></div></div></div></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8d1f0a4 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="8d1f0a4" data-element_type="widget" data-widget_type="thim-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Paraguay_flag.png" alt="Paraguay_flag" title="Paraguay_flag"  width="825" height="496"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Paraguay</h3></div><div class="desc-icon-box"><div class="desc-content">Universidad Católica “Nuestra Señora de la Asunción” (UC)</div></div></div></div></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ad26118 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="ad26118" data-element_type="widget" data-widget_type="thim-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_the_United_Kingdom.png" alt="Flag_of_the_United_Kingdom" title="Flag_of_the_United_Kingdom"  width="1500" height="750"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">United Kingdom</h3></div><div class="desc-icon-box"><div class="desc-content">London School of Economics and Political Science (LSE)</div></div></div></div></div></div>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4b2c863 e-flex e-con-boxed e-con e-parent" data-id="4b2c863" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3b9e815 thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="3b9e815" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-left"><h6 class="title">The overall <span class="thim-color">data collection protocol</span> is presented in the following figure: </h6></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-df551e9 elementor-widget elementor-widget-text-editor" data-id="df551e9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> </p><p style="text-align: center;"><img loading="lazy" decoding="async" class="aligncenter wp-image-27414" src="/wp-content/uploads/2025/01/protocol.svg" alt="" width="724" height="213" /></p><p style="text-align: center;"><em><b>Figure 1: Data collection protocol</b></em></p><p> </p><ul><li><strong>1st Questionnaire</strong>: it was sent to all students of the participating universities. It implements standard scales for measuring personality traits (Big Five Inventory) and attitudes toward values (Basic Values Survey). See the <a href="https://livepeople.disi.unitn.it/datasets/?collection_name=diversityone&amp;data_type_facet=synchronic-interactions">list</a> on the data catalog website.</li><li><strong>2nd Questionnaire</strong>: participants joining the smartphone data collection answered questions about social practices and from Jungian Scale for Personality Types and Human Values Survey scales.</li><li><strong>1st Data collection phase</strong>: the intensive longitudinal survey observes human behaviors over time. Participants installed the <a href="https://datascientia.disi.unitn.it/ilog/">ILog</a> app on their smartphone. The app collects self-reports (every 30 minutes and additional morning and evening questions) and passive sensor data.</li><li><strong>2nd Data collection phase</strong>: as in the 1st phase, but self-reports are asked every hour.</li><li><strong>3rd Questionnaire</strong>: it collects feedback about the data collection and the Multiple Intelligence Scale.</li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f6d54be elementor-widget elementor-widget-text-editor" data-id="f6d54be" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<table class="table-striped table-hover caption-top table"><caption><strong>Table 1:</strong> Number of participants for each of the three questionnaires and data collection. “iLog signed” and “iLog data” columns show the total number of students who logged into the iLog app and those who actively contributed with data, respectively. Additionally, demographic information of the participants involved in the iLog data collection is reported.</caption><colgroup> <col style="width: 12%;" /> <col style="width: 10%;" /> <col style="width: 8%;" /> <col style="width: 8%;" /> <col style="width: 8%;" /> <col style="width: 14%;" /> <col style="width: 12%;" /> <col style="width: 13%;" /> <col style="width: 10%;" /> </colgroup><thead><tr class="header"><th>Country</th><th>Acronym</th><th>1st QU</th><th>2nd QU</th><th>3rd QU</th><th>iLog signed</th><th>iLog data</th><th>μ Age (σ)</th><th>% women</th></tr></thead><tbody><tr class="odd"><td>China</td><td>JLU</td><td>1,007</td><td>69</td><td>41</td><td>54</td><td>44</td><td>19.4 (2.2)</td><td>61</td></tr><tr class="even"><td>Denmark</td><td>AAU</td><td>412</td><td>16</td><td>15</td><td>27</td><td>20</td><td>28.2 (6.3)</td><td>58</td></tr><tr class="odd"><td>India</td><td>AMRITA</td><td>4,183</td><td>141</td><td>38</td><td>64</td><td>45</td><td>21.4 (2.9)</td><td>29</td></tr><tr class="even"><td>Italy</td><td>UNITN</td><td>5,692</td><td>287</td><td>215</td><td>263</td><td>241</td><td>22.1 (3.2)</td><td>56</td></tr><tr class="odd"><td>Mexico</td><td>IPICYT</td><td>40</td><td>9</td><td>11</td><td>21</td><td>21</td><td>25.2 (4.1)</td><td>33</td></tr><tr class="even"><td>Mongolia</td><td>NUM</td><td>3,972</td><td>214</td><td>152</td><td>231</td><td>201</td><td>20.0 (3.1)</td><td>65</td></tr><tr class="odd"><td>Paraguay</td><td>UC</td><td>1,342</td><td>33</td><td>25</td><td>43</td><td>28</td><td>23.3 (5.1)</td><td>61</td></tr><tr class="even"><td>UK</td><td>LSE</td><td>1,980</td><td>143</td><td>45</td><td>88</td><td>66</td><td>24.6 (5.0)</td><td>66</td></tr><tr class="odd"><td><strong>Total</strong></td><td> </td><td><strong>18,628</strong></td><td><strong>912</strong></td><td><strong>542</strong></td><td><strong>782</strong></td><td><strong>666</strong></td><td> </td><td> </td></tr></tbody></table>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4e35f2c thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="4e35f2c" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-left"><h3 class="title">Studies based on DiversityOne </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-29ad1c0 elementor-widget elementor-widget-text-editor" data-id="29ad1c0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<section><section><h3 data-anchor-id="section">2024</h3><ul><li>Meegahapola et al. 2024. <strong>M3BAT: Unsupervised Domain Adaptation for Multimodal Mobile Sensing with Multi-Branch Adversarial Training</strong>. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. <i> <a href="https://doi.org/10.48550/arXiv.2404.17391">Paper accessible h<span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif;"><span style="font-weight: var( --e-global-typography-text-font-weight );">ere</span></span></a>. </i><br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> social context</span>, <span style="color: #ff6600;">mood</span></li><li>Mäder et al. 2024. <strong>Learning About Social Context from Smartphone Data: Generalization Across Countries and Daily Life Moments</strong>. In Proceedings of the CHI Conference on Human Factors in Computing Systems. <a style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); font-size: var(--thim-font-body-font-size);" href="https://doi.org/10.48550/arXiv.2306.00919"><i>Paper accessible here</i></a>. <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> social context</span></li></ul></section><section><h3 data-anchor-id="section-1">2023</h3><ul><li>Meegahapola et al. 2023. <strong>Generalization and personalization of mobile sensing-based mood inference models: an analysis of college students in eight countries</strong>. Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies. <i><a href="https://publications.idiap.ch/attachments/papers/2022/Meegahapola_IMWUT_2022.pdf">Paper accessible here</a>.</i> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> mood</span></li><li>Assi et al. 2023. <strong>Complex daily activities, country-level diversity, and smartphone sensing: A study in Denmark, Italy, Mongolia, Paraguay, and UK</strong>. In Proceedings of the 2023 CHI conference on human factors in computing systems. <a href="https://arxiv.org/abs/2302.08591"><i>Paper accessible here.</i></a> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> daily activities</span></li><li>Kammoun et al. 2023. <strong>Understanding the Social Context of Eating with Multimodal Smartphone Sensing: The Role of Country Diversity</strong>. In Proceedings of the 25th International Conference on Multimodal Interaction. <i><a href="https://arxiv.org/abs/2306.00709">Paper accessible here</a>.</i> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> social context</span></li><li>Girardini et al. 2023. <strong>Adaptation of student behavioural routines during Covid-19: a multimodal approach</strong>. EPJ Data Science. <i><a href="https://doi.org/10.1140/epjds/s13688-023-00429-y">Paper accessible here</a>.</i> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> daily routines</span></li></ul></section><section><h3 data-anchor-id="section-2">2022</h3><ul><li>Bouton-Bessac et al. 2022. <strong>Your Day in Your Pocket: Complex Activity Recognition from Smartphone Accelerometers</strong>. In International Conference on Pervasive Computing Technologies for Healthcare. <a href="https://arxiv.org/abs/2301.06993"><i>Paper accessible here.</i></a> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> daily activities</span></li></ul></section></section>						</div>
+				</div>
+				<div class="elementor-element elementor-element-bf95429 thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="bf95429" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-left"><h3 class="title">Related links </h3><span class="line"></span></div>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-ec980d4 e-flex e-con-boxed e-con e-parent" data-id="ec980d4" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-9b344b0 elementor-widget elementor-widget-text-editor" data-id="9b344b0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<ul><li>The dataset is the result of the European project ‘<em>Wenet &#8211; The internet of US</em>’. <a href="https://doi.org/10.3030/823783">See the project on Cordis</a>, <a href="https://internetofus.eu/">Project website</a></li><li>Datascientia projects: <a href="https://ds.datascientia.eu/community/public/projects/923b2c1c-166c-4f53-a274-c9d6eaa5ad4f">China</a>, <a href="https://ds.datascientia.eu/community/public/projects/3720e313-356e-4b7c-830e-be5cc7dbb3b3">Denmark</a>, <a href="https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c">India</a>, <a href="https://ds.datascientia.eu/community/public/projects/e464583f-32eb-44c1-a455-91503b02b303">Italy</a>, <a href="https://ds.datascientia.eu/community/public/projects/0dcf26af-cb8f-4f61-b0c5-802a1a1febbd">Mexico</a>, <a href="https://ds.datascientia.eu/community/public/projects/f6bfbca4-fbe7-488f-bcf1-a66ac1f5a93a">Mongolia</a>, <a href="https://ds.datascientia.eu/community/public/projects/6b8e2fb9-30d9-4fdb-9116-0cc7cc00ba3e">Paraguay</a>, <a href="https://ds.datascientia.eu/community/public/projects/ff8fb8d9-ecfd-4c39-bc09-c80eb4d90399">UK</a></li></ul><section id="news" class="level2"><h3 class="anchored" data-anchor-id="news">News</h3><ul><li><strong>2025-02-05</strong>: We are planning a Datathon using DiversityOne dataset in September. Stay tuned. We will post the details in the next few weeks.</li><li><strong>2025-02-03</strong>: The dataset paper has been accepted on UbiComp/Imwut.</li></ul></section><section id="contacts" class="level2"><h3 class="anchored" data-anchor-id="contacts">Contacts</h3><p><a href="https://datascientia.eu/contact/">Contact us</a> for any questions or issues related to the datasets.</p></section>						</div>
+				</div>
+				<div class="elementor-element elementor-element-ca66e53 thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="ca66e53" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-left"><h3 class="title">Acknowledgments </h3><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-82d2b85 elementor-widget elementor-widget-text-editor" data-id="82d2b85" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>This research has received funding from the European Union’s Horizon 2020 FET Proactive project <a href="https://doi.org/10.3030/823783">“WeNet &#8211; The Internet of us”, grant agreement No. 823783</a>. We deeply thank all the volunteers across the world for their participation in the study. We thank the anonymous reviewers for their valuable feedback. We acknowledge the use of ChatGPT and Grammarly as tools for grammar refinement. University of Trento, Jilin University, National University of Mongolia and Universidad Católica “Nuestra Señora de la Asunción” have participated to the work described in this paper as part of the <a href="https://datascientia.eu/">DataScientia initiative</a>.</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-66c5e12 e-flex e-con-boxed e-con e-parent" data-id="66c5e12" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-25906f8 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="25906f8" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cpath d=&#039;M0,6c6,0,6,13,12,13S18,6,24,6&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
 				</div>
 					</div>
 				</div>
@@ -68,7 +334,7 @@
 				</div>
 				<div class="elementor-element elementor-element-60d02ece elementor-widget elementor-widget-text-editor" data-id="60d02ece" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><img fetchpriority="high" decoding="async" class="size-medium wp-image-26790 alignleft" src="/wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity-300x300.jpeg" alt="" width="300" height="300" srcset="/wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity-300x300.jpeg 300w, /wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity-150x150.jpeg 150w, /wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity-100x100.jpeg 100w, /wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity.jpeg 500w" sizes="(max-width: 300px) 100vw, 300px" /></p><h3><span style="font-weight: 400;"><strong>Motivation</strong></span></h3><p><span style="font-weight: 400;">The rise of deep learning, particularly large language models, has gained significant attention in NLP, but lexical-semantic resources (LSRs) remain crucial for tasks like machine translation and word sense disambiguation. However, many LSRs, such as wordnets, are heavily biased toward English due to reliance on the Princeton WordNet for translations. This bias results in incomplete or inaccurate resources for non-English languages, underrepresenting culture-specific concepts without direct English equivalents. Consequently, NLP systems face limitations in fully capturing linguistic diversity and the richness of human language.</span></p><p><span style="font-weight: 400;">Lexical untranslatability, or cross-lingual lexical gaps, represents a significant challenge in NLP, as certain words lack direct equivalents in other languages. For instance, Google Translate has erroneously rendered the phrase “do not give cider to your child” into Arabic as لا تعطي عصير التفاح لطفلك, which translates back to “do not give apple juice to your child”. This mistranslation arises from the absence of a precise term for “cider” in Arabic, exposing a lexical gap. Similarly, the Arabic term الاحمران, meaning “bread and meat”, has been mistranslated into English as “red wine”, illustrating another instance of untranslatability caused by the lack of a corresponding term in English. This issue is especially pronounced in low-resource languages, which are often underrepresented in multilingual lexical databases, exacerbating linguistic inequities.</span></p>						</div>
+							<p><img loading="lazy" decoding="async" class="size-medium wp-image-26790 alignleft" src="/wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity-300x300.jpeg" alt="" width="300" height="300" srcset="/wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity-300x300.jpeg 300w, /wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity-150x150.jpeg 150w, /wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity-100x100.jpeg 100w, /wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity.jpeg 500w" sizes="(max-width: 300px) 100vw, 300px" /></p><h3><span style="font-weight: 400;"><strong>Motivation</strong></span></h3><p><span style="font-weight: 400;">The rise of deep learning, particularly large language models, has gained significant attention in NLP, but lexical-semantic resources (LSRs) remain crucial for tasks like machine translation and word sense disambiguation. However, many LSRs, such as wordnets, are heavily biased toward English due to reliance on the Princeton WordNet for translations. This bias results in incomplete or inaccurate resources for non-English languages, underrepresenting culture-specific concepts without direct English equivalents. Consequently, NLP systems face limitations in fully capturing linguistic diversity and the richness of human language.</span></p><p><span style="font-weight: 400;">Lexical untranslatability, or cross-lingual lexical gaps, represents a significant challenge in NLP, as certain words lack direct equivalents in other languages. For instance, Google Translate has erroneously rendered the phrase “do not give cider to your child” into Arabic as لا تعطي عصير التفاح لطفلك, which translates back to “do not give apple juice to your child”. This mistranslation arises from the absence of a precise term for “cider” in Arabic, exposing a lexical gap. Similarly, the Arabic term الاحمران, meaning “bread and meat”, has been mistranslated into English as “red wine”, illustrating another instance of untranslatability caused by the lack of a corresponding term in English. This issue is especially pronounced in low-resource languages, which are often underrepresented in multilingual lexical databases, exacerbating linguistic inequities.</span></p>						</div>
 				</div>
 					</div>
 				</div>
@@ -97,7 +363,7 @@
 				</div>
 				<div class="elementor-element elementor-element-c7fd419 elementor-widget elementor-widget-text-editor" data-id="c7fd419" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">This project introduces a systematic approach for creating diversity-aware datasets through an expert-driven method—a top-down method that draws on the expertise of language specialists.</span><span style="font-weight: 400;"> T</span><span style="font-weight: 400;">he expert-driven method, widely used for creating small-scale datasets of lexical gaps in domains such as kinship and color, is extended in this study to cover a wider range of languages, enabling the generation of large-scale, diversity-aware datasets. This approach employs two human translators working from a source language (SL) to a target language (TL) to systematically identify lexical gaps, followed by validation from a target language specialist. Inputs for this method include an SL word list with definitions and a linguistic resource, such as a dictionary. </span><span style="font-weight: 400;">A</span><span style="font-weight: 400;">n overview of the expert-driven method is depicted in</span><span style="font-weight: 400;"> Figure 2</span><span style="font-weight: 400;">.</span></p><p><img decoding="async" class="aligncenter wp-image-26812 size-full" src="/wp-content/uploads/2024/12/expert-lang-diversity-f2.png" alt="" width="777" height="384" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f2.png 777w, /wp-content/uploads/2024/12/expert-lang-diversity-f2-300x148.png 300w, /wp-content/uploads/2024/12/expert-lang-diversity-f2-768x380.png 768w, /wp-content/uploads/2024/12/expert-lang-diversity-f2-600x297.png 600w" sizes="(max-width: 777px) 100vw, 777px" /></p><p style="text-align: center;">Figure 2: Methodology macro-steps and data sources</p><p><span style="font-weight: 400;">The process consists of four main steps:</span></p><ol><li><b> Contribution task generation:</b><span style="font-weight: 400;"> This step involves collecting SL data from the Universal Knowledge Core (UKC), a high-quality, diversity-aware multilingual lexicon that encompasses millions of words and meanings from over 2,300 languages. The data is then prepared in a spreadsheet file to be provided for translation into the TL. Each SL entry comprises a tuple (word, gloss), representing a term and its definition. Additionally, the data is formalized based on the UKC concept hierarchy.</span></li><li><b> Contribution collection:</b><span style="font-weight: 400;"> The actual contribution effort is carried out by a native speaker in the TL language. For each SL word in the spreadsheet, the translator determines whether it has an equivalent meaning in the TL or constitutes a lexical gap.</span></li><li><b> Lexicon-level validation:</b><span style="font-weight: 400;"> Provided words and gaps are evaluated and corrected by a language expert.</span></li><li><b>Concept-level validation:</b> New concepts and unclear contributions (i.e., words on the borderline) are verified by a lexico-semantic expert.</li></ol>						</div>
+							<p><span style="font-weight: 400;">This project introduces a systematic approach for creating diversity-aware datasets through an expert-driven method—a top-down method that draws on the expertise of language specialists.</span><span style="font-weight: 400;"> T</span><span style="font-weight: 400;">he expert-driven method, widely used for creating small-scale datasets of lexical gaps in domains such as kinship and color, is extended in this study to cover a wider range of languages, enabling the generation of large-scale, diversity-aware datasets. This approach employs two human translators working from a source language (SL) to a target language (TL) to systematically identify lexical gaps, followed by validation from a target language specialist. Inputs for this method include an SL word list with definitions and a linguistic resource, such as a dictionary. </span><span style="font-weight: 400;">A</span><span style="font-weight: 400;">n overview of the expert-driven method is depicted in</span><span style="font-weight: 400;"> Figure 2</span><span style="font-weight: 400;">.</span></p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26812 size-full" src="/wp-content/uploads/2024/12/expert-lang-diversity-f2.png" alt="" width="777" height="384" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f2.png 777w, /wp-content/uploads/2024/12/expert-lang-diversity-f2-300x148.png 300w, /wp-content/uploads/2024/12/expert-lang-diversity-f2-768x380.png 768w, /wp-content/uploads/2024/12/expert-lang-diversity-f2-600x297.png 600w" sizes="(max-width: 777px) 100vw, 777px" /></p><p style="text-align: center;">Figure 2: Methodology macro-steps and data sources</p><p><span style="font-weight: 400;">The process consists of four main steps:</span></p><ol><li><b> Contribution task generation:</b><span style="font-weight: 400;"> This step involves collecting SL data from the Universal Knowledge Core (UKC), a high-quality, diversity-aware multilingual lexicon that encompasses millions of words and meanings from over 2,300 languages. The data is then prepared in a spreadsheet file to be provided for translation into the TL. Each SL entry comprises a tuple (word, gloss), representing a term and its definition. Additionally, the data is formalized based on the UKC concept hierarchy.</span></li><li><b> Contribution collection:</b><span style="font-weight: 400;"> The actual contribution effort is carried out by a native speaker in the TL language. For each SL word in the spreadsheet, the translator determines whether it has an equivalent meaning in the TL or constitutes a lexical gap.</span></li><li><b> Lexicon-level validation:</b><span style="font-weight: 400;"> Provided words and gaps are evaluated and corrected by a language expert.</span></li><li><b>Concept-level validation:</b> New concepts and unclear contributions (i.e., words on the borderline) are verified by a lexico-semantic expert.</li></ol>						</div>
 				</div>
 				<div class="elementor-element elementor-element-be47b00 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="be47b00" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -129,7 +395,7 @@
 				</div>
 				<div class="elementor-element elementor-element-a9b7f0a elementor-widget elementor-widget-text-editor" data-id="a9b7f0a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><img decoding="async" class="aligncenter wp-image-26811 size-large" src="/wp-content/uploads/2024/12/expert-lang-diversity-f3-1024x846.jpg" alt="" width="640" height="529" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f3-1024x846.jpg 1024w, /wp-content/uploads/2024/12/expert-lang-diversity-f3-300x248.jpg 300w, /wp-content/uploads/2024/12/expert-lang-diversity-f3-768x634.jpg 768w, /wp-content/uploads/2024/12/expert-lang-diversity-f3-600x496.jpg 600w, /wp-content/uploads/2024/12/expert-lang-diversity-f3.jpg 1500w" sizes="(max-width: 640px) 100vw, 640px" /></p><p style="text-align: center;">Figure 3: Structural elements in the UKC lexical database</p><p>This study led to the collection of 180 words, 1,108 lexical gaps, and 16 new concepts identified in the Arabic dialects. Detailed statistics on the collected words and gaps are presented in the following table. The new kinship concepts were integrated into the UKC by restructuring the supra-lingual concept layer within the domain hierarchy. For instance, the sibling hierarchy was expanded to include five new concepts related to brotherhood and five related to sisterhood. In the Arabic-Egyptian lexicon, as depicted in Figure 4, terms such as أخ في الرضاعة “breastfeeding brother” were added under a newly established concept for a brother. Additionally, أخ لأب “paternal brother” and أخ لأم “maternal brother” were linked to the half-brother concept. The newly introduced concepts and lexicalizations are represented as white nodes connected by blue lines.</p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26809" src="/wp-content/uploads/2024/12/expert-lang-diversity-t1.png" alt="" width="400" height="167" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-t1.png 594w, /wp-content/uploads/2024/12/expert-lang-diversity-t1-300x125.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26810 size-large" src="/wp-content/uploads/2024/12/expert-lang-diversity-f4-843x1024.jpg" alt="" width="640" height="777" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f4-843x1024.jpg 843w, /wp-content/uploads/2024/12/expert-lang-diversity-f4-247x300.jpg 247w, /wp-content/uploads/2024/12/expert-lang-diversity-f4-768x933.jpg 768w, /wp-content/uploads/2024/12/expert-lang-diversity-f4-600x729.jpg 600w, /wp-content/uploads/2024/12/expert-lang-diversity-f4.jpg 967w" sizes="(max-width: 640px) 100vw, 640px" /></p><p style="text-align: center;">Figure 4: Structural elements in the UKC database after merging new concepts.</p><p>The resulting lexical units and gaps were incorporated into the UKC lexicons and made accessible through the UKC website, which provides system users with online browsing, source materials, and data visualization tools. This data was also integrated into the Arabic UKC, an ongoing project focused on developing a UKC instance for Arabic dialects. Figure 5 illustrates the concept exploration functionality with an example of the term أبله “elder sister”.</p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26807 size-full" src="/wp-content/uploads/2024/12/expert-lang-diversity-f5.png" alt="" width="1600" height="493" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f5.png 1600w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-300x92.png 300w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-1024x316.png 1024w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-768x237.png 768w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-1536x473.png 1536w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-600x185.png 600w" sizes="(max-width: 1600px) 100vw, 1600px" /></p><p style="text-align: center;">Figure 5: Homepage of the Arabic UKC ongoing project.</p><p>Figure 6 shows the overlaps between pairs of Arabic dialects over the kinship domain.</p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26808" src="/wp-content/uploads/2024/12/expert-lang-diversity-f6.jpg" alt="" width="400" height="380" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f6.jpg 451w, /wp-content/uploads/2024/12/expert-lang-diversity-f6-300x285.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p><p style="text-align: center;">Figure 6: The overlap (percentage of shared lexicalizations) for Arabic dialects.</p><p><span style="font-weight: 400;">Further details about the collected data are provided in this link: (</span><a href="https://github.com/HadiPTUK/kinship_dialect"><span style="font-weight: 400;">https://github.com/HadiPTUK/kinship_dialect</span></a><span style="font-weight: 400;">).</span></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/f402520c-aaf2-40cc-9736-93a1b1ff02c8">Lexical Diversity in Kinship: Arabic Dialects</a></li></ul>						</div>
+							<p><img loading="lazy" decoding="async" class="aligncenter wp-image-26811 size-large" src="/wp-content/uploads/2024/12/expert-lang-diversity-f3-1024x846.jpg" alt="" width="640" height="529" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f3-1024x846.jpg 1024w, /wp-content/uploads/2024/12/expert-lang-diversity-f3-300x248.jpg 300w, /wp-content/uploads/2024/12/expert-lang-diversity-f3-768x634.jpg 768w, /wp-content/uploads/2024/12/expert-lang-diversity-f3-600x496.jpg 600w, /wp-content/uploads/2024/12/expert-lang-diversity-f3.jpg 1500w" sizes="(max-width: 640px) 100vw, 640px" /></p><p style="text-align: center;">Figure 3: Structural elements in the UKC lexical database</p><p>This study led to the collection of 180 words, 1,108 lexical gaps, and 16 new concepts identified in the Arabic dialects. Detailed statistics on the collected words and gaps are presented in the following table. The new kinship concepts were integrated into the UKC by restructuring the supra-lingual concept layer within the domain hierarchy. For instance, the sibling hierarchy was expanded to include five new concepts related to brotherhood and five related to sisterhood. In the Arabic-Egyptian lexicon, as depicted in Figure 4, terms such as أخ في الرضاعة “breastfeeding brother” were added under a newly established concept for a brother. Additionally, أخ لأب “paternal brother” and أخ لأم “maternal brother” were linked to the half-brother concept. The newly introduced concepts and lexicalizations are represented as white nodes connected by blue lines.</p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26809" src="/wp-content/uploads/2024/12/expert-lang-diversity-t1.png" alt="" width="400" height="167" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-t1.png 594w, /wp-content/uploads/2024/12/expert-lang-diversity-t1-300x125.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26810 size-large" src="/wp-content/uploads/2024/12/expert-lang-diversity-f4-843x1024.jpg" alt="" width="640" height="777" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f4-843x1024.jpg 843w, /wp-content/uploads/2024/12/expert-lang-diversity-f4-247x300.jpg 247w, /wp-content/uploads/2024/12/expert-lang-diversity-f4-768x933.jpg 768w, /wp-content/uploads/2024/12/expert-lang-diversity-f4-600x729.jpg 600w, /wp-content/uploads/2024/12/expert-lang-diversity-f4.jpg 967w" sizes="(max-width: 640px) 100vw, 640px" /></p><p style="text-align: center;">Figure 4: Structural elements in the UKC database after merging new concepts.</p><p>The resulting lexical units and gaps were incorporated into the UKC lexicons and made accessible through the UKC website, which provides system users with online browsing, source materials, and data visualization tools. This data was also integrated into the Arabic UKC, an ongoing project focused on developing a UKC instance for Arabic dialects. Figure 5 illustrates the concept exploration functionality with an example of the term أبله “elder sister”.</p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26807 size-full" src="/wp-content/uploads/2024/12/expert-lang-diversity-f5.png" alt="" width="1600" height="493" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f5.png 1600w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-300x92.png 300w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-1024x316.png 1024w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-768x237.png 768w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-1536x473.png 1536w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-600x185.png 600w" sizes="(max-width: 1600px) 100vw, 1600px" /></p><p style="text-align: center;">Figure 5: Homepage of the Arabic UKC ongoing project.</p><p>Figure 6 shows the overlaps between pairs of Arabic dialects over the kinship domain.</p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26808" src="/wp-content/uploads/2024/12/expert-lang-diversity-f6.jpg" alt="" width="400" height="380" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f6.jpg 451w, /wp-content/uploads/2024/12/expert-lang-diversity-f6-300x285.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p><p style="text-align: center;">Figure 6: The overlap (percentage of shared lexicalizations) for Arabic dialects.</p><p><span style="font-weight: 400;">Further details about the collected data are provided in this link: (</span><a href="https://github.com/HadiPTUK/kinship_dialect"><span style="font-weight: 400;">https://github.com/HadiPTUK/kinship_dialect</span></a><span style="font-weight: 400;">).</span></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/f402520c-aaf2-40cc-9736-93a1b1ff02c8">Lexical Diversity in Kinship: Arabic Dialects</a></li></ul>						</div>
 				</div>
 					</div>
 				</div>
