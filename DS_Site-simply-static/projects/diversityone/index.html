@@ -11,7 +11,7 @@
     <link rel="pingback" href="/xmlrpc.php">
 	<script type="text/javascript" id="lpData">
 /* <![CDATA[ */
-var lpData = {"site_url":"","user_id":"0","theme":"eduma","lp_rest_url":"\/wp-json\/","nonce":"db09f4069e","is_course_archive":"","courses_url":"","urlParams":{"simply_static_page":"65478"},"lp_version":"4.2.7.3","lp_rest_load_ajax":"\/wp-json\/lp\/v1\/load_content_via_ajax\/","ajaxUrl":"\/wp-admin\/admin-ajax.php","coverImageRatio":"5.16","toast":{"gravity":"bottom","position":"center","duration":3000,"close":1,"stopOnFocus":1,"classPrefix":"lp-toast"},"i18n":[]};
+var lpData = {"site_url":"","user_id":"0","theme":"eduma","lp_rest_url":"\/wp-json\/","nonce":"3e741569ab","is_course_archive":"","courses_url":"","urlParams":{"simply_static_page":"66761"},"lp_version":"4.2.7.3","lp_rest_load_ajax":"\/wp-json\/lp\/v1\/load_content_via_ajax\/","ajaxUrl":"\/wp-admin\/admin-ajax.php","coverImageRatio":"5.16","toast":{"gravity":"bottom","position":"center","duration":3000,"close":1,"stopOnFocus":1,"classPrefix":"lp-toast"},"i18n":[]};
 /* ]]> */
 </script>
 		<style id="learn-press-custom-css">:root {
@@ -138,7 +138,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 	SR7.E				??= {};
 	SR7.E.gAddons		??= {};
 	SR7.E.php 			??= {};
-	SR7.E.nonce			= '1ba5698af7';
+	SR7.E.nonce			= 'fb45f83e13';
 	SR7.E.ajaxurl		= 'http://datascientia.local/wp-admin/admin-ajax.php';
 	SR7.E.resturl		= 'http://datascientia.local/wp-json/';
 	SR7.E.slug_path		= 'revslider/revslider.php';
@@ -566,7 +566,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 				</div>
 				<div class="elementor-element elementor-element-88e3361 elementor-widget elementor-widget-text-editor" data-id="88e3361" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><em>DiversityOne is one of the largest and most geographically diverse datasets for studying everyday life behavior through smartphone sensors and self-reports.</em></p>						</div>
+							<p><em>DiversityOne is one of the largest and most geographically diverse datasets for studying everyday life behavior of college students through smartphone sensors and self-reports.</em></p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-b43df7f thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="b43df7f" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
@@ -866,11 +866,218 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 				</div>
 				<div class="elementor-element elementor-element-f6d54be elementor-widget elementor-widget-text-editor" data-id="f6d54be" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<table class="table-striped table-hover caption-top table">
+							<p>The collected sensors are repoted in the following table.</p>
+<table class="table-striped table-hover caption-top table">
+<caption>List of sensors. The type column reports HW for hardware sensors, and SW for software sensors. The dataset paper describes each sensor.</caption>
+<colgroup>
+<col style="width: 14%">
+<col style="width: 5%">
+<col style="width: 6%">
+<col style="width: 38%">
+<col style="width: 34%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Category</th>
+<th>No</th>
+<th>Type</th>
+<th>Name</th>
+<th>Frequency</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Connectivity</td>
+<td>1</td>
+<td>SW</td>
+<td>Bluetooth Devices</td>
+<td>Once every minute</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>2</td>
+<td>SW</td>
+<td>Cellular network info</td>
+<td>Once every minute</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>3</td>
+<td>SW</td>
+<td>WIFI Network Connected to</td>
+<td>On change</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>4</td>
+<td>SW</td>
+<td>WIFI Networks Available</td>
+<td>Once every minute</td>
+</tr>
+<tr class="odd">
+<td>Environment</td>
+<td>5</td>
+<td>HW</td>
+<td>Light</td>
+<td>Up to 10 samples per second</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>6</td>
+<td>HW</td>
+<td>Pressure</td>
+<td>Up to 10 samples per second</td>
+</tr>
+<tr class="odd">
+<td>Motion</td>
+<td>7</td>
+<td>HW</td>
+<td>Accelerometer</td>
+<td>Up to 10 samples per second</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>8</td>
+<td>HW</td>
+<td>Gyroscope</td>
+<td>Up to 10 samples per second</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>9</td>
+<td>SW</td>
+<td>Movement Activity</td>
+<td>Once every 30 seconds</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>10</td>
+<td>SW</td>
+<td>Step Counter</td>
+<td>Up to 10 samples per second</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>11</td>
+<td>SW</td>
+<td>Step Detection</td>
+<td>On change</td>
+</tr>
+<tr class="even">
+<td>Position</td>
+<td>12</td>
+<td>HW</td>
+<td>Location</td>
+<td>Once every minute</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>13</td>
+<td>HW</td>
+<td>Magnetic Field</td>
+<td>Up to 10 samples per second</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>14</td>
+<td>SW</td>
+<td>Proximity</td>
+<td>Up to 10 samples per second</td>
+</tr>
+<tr class="odd">
+<td>App usage</td>
+<td>15</td>
+<td>SW</td>
+<td>Headset Status [ON/OFF]</td>
+<td>On change</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>16</td>
+<td>SW</td>
+<td>Music Playback</td>
+<td>On change</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>17</td>
+<td>SW</td>
+<td>Notifications</td>
+<td>On change</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>18</td>
+<td>SW</td>
+<td>Running Applications</td>
+<td>Once every 5 seconds</td>
+</tr>
+<tr class="odd">
+<td>Device usage</td>
+<td>19</td>
+<td>SW</td>
+<td>Airplane Mode [ON/OFF]</td>
+<td>On change</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>20</td>
+<td>SW</td>
+<td>Battery Charge [ON/OFF]</td>
+<td>On change</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>21</td>
+<td>SW</td>
+<td>Battery Level</td>
+<td>On change</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>22</td>
+<td>SW</td>
+<td>Doze Mode [ON/OFF]</td>
+<td>On change</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>23</td>
+<td>SW</td>
+<td>Ring mode [Silent/Normal]</td>
+<td>On change</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>24</td>
+<td>SW</td>
+<td>Touch event</td>
+<td>On change</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>25</td>
+<td>SW</td>
+<td>Screen Status [ON/OFF]</td>
+<td>On change</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>26</td>
+<td>SW</td>
+<td>User Presence</td>
+<td>On change</td>
+</tr>
+</tbody>
+</table>
+
+&nbsp;
+<table class="table-striped table-hover caption-top table">
 <caption>
 <strong>Table 1:</strong> Number of participants for each of the three questionnaires and data collection. “iLog signed” and “iLog data” columns show the total number of students who logged into the iLog app and those who actively contributed with data, respectively. Additionally, demographic information of the participants involved in the iLog data collection is reported.</caption>
 <colgroup> <col style="width: 12%;"> <col style="width: 10%;"> <col style="width: 8%;"> <col style="width: 8%;"> <col style="width: 8%;"> <col style="width: 14%;"> <col style="width: 12%;"> <col style="width: 13%;"> <col style="width: 10%;"> </colgroup>
-<thead><tr class="header">
+<thead>
+<tr class="header">
 <th>Country</th>
 <th>Acronym</th>
 <th>1st QU</th>
@@ -880,7 +1087,8 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 <th>iLog data</th>
 <th>μ Age (σ)</th>
 <th>% women</th>
-</tr></thead>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
 <td>China</td>
@@ -972,14 +1180,14 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 </tr>
 <tr class="odd">
 <td><strong>Total</strong></td>
-<td> </td>
+<td></td>
 <td><strong>18,628</strong></td>
 <td><strong>912</strong></td>
 <td><strong>542</strong></td>
 <td><strong>782</strong></td>
 <td><strong>666</strong></td>
-<td> </td>
-<td> </td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>						</div>
@@ -1497,7 +1705,7 @@ var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":fa
 <script type="text/javascript" src="/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.25.10" id="elementor-frontend-modules-js"></script>
 <script type="text/javascript" id="elementor-frontend-js-before">
 /* <![CDATA[ */
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1024,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1023,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":true},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":1440,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"3.25.10","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_optimized_control_loading":true,"e_onboarding":true,"e_css_smooth_scroll":true,"home_screen":true,"nested-elements":true,"editor_v2":true,"link-in-bio":true,"floating-buttons":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"e6116d82e1"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_tablet_extra","viewport_widescreen"],"viewport_widescreen":1440,"viewport_tablet":1023,"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":27199,"title":"DiversityOne%20%E2%80%93%20DataScientia","excerpt":"","featuredImage":"\/wp-content\/uploads\/2025\/01\/diversityOne.png"}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1024,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1023,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":true},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":1440,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"3.25.10","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_optimized_control_loading":true,"e_onboarding":true,"e_css_smooth_scroll":true,"home_screen":true,"nested-elements":true,"editor_v2":true,"link-in-bio":true,"floating-buttons":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"d2d83af401"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_tablet_extra","viewport_widescreen"],"viewport_widescreen":1440,"viewport_tablet":1023,"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":27199,"title":"DiversityOne%20%E2%80%93%20DataScientia","excerpt":"","featuredImage":"\/wp-content\/uploads\/2025\/01\/diversityOne.png"}};
 /* ]]> */
 </script>
 <script type="text/javascript" src="/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.10" id="elementor-frontend-js"></script>
@@ -1506,7 +1714,7 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 <script type="text/javascript" id="wp-api-fetch-js-after">
 /* <![CDATA[ */
 wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "http://datascientia.local/wp-json/" ) );
-wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "db09f4069e" );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "3e741569ab" );
 wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
 wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
 wp.apiFetch.nonceEndpoint = "http://datascientia.local/wp-admin/admin-ajax.php?action=rest-nonce";
