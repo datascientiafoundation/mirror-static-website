@@ -12,7 +12,7 @@
 	<atom:link href="/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Tue, 11 Feb 2025 10:54:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Feb 2025 19:47:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -592,11 +592,26 @@
 				</div>
 				<div class="elementor-element elementor-element-32fd962 thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="32fd962" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
-			<div class="sc_heading text-left"><h2 class="title">How to <span class="thim-color">cite</span> </h2><span class="line"></span></div>		</div>
+			<div class="sc_heading text-left"><h2 class="title">How to <span class="thim-color">get the Dataset</span> </h2><span class="line"></span></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-29ad1c0 elementor-widget elementor-widget-text-editor" data-id="29ad1c0" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><span>@article{</span><wbr /><span>busso2025diversityone,</span><br /><span>  title = {{{DiversityOne}}: {{A Multi-Country Smartphone Sensor Dataset}} for {{Everyday Life Behavior Modeling}}},</span><br /><span>  author = {Busso, Matteo and Bontempelli, Andrea and Javier Malcotti, Leonardo and Meegahapola, Lakmal and Kun, Peter and Diwakar, Shyam and Nutakki, Chaitanya and Rodas Britez, Marcelo and Xu, Hao and Song, Donglei and Ruiz-Correa, Salvador and Mendoza-Lara, Andrea-Rebeca and Gaskell, George and Stares, Sally and Bidoglia, Miriam and Ganbold, Amarsanaa and Chagnaa, Altangerel and Cernuzzi, Luca and Hume, Alethia and Chenu-Abente, Ronald and Alia Asiku, Roy and Kayongo, Ivan and Gatica-Perez, Daniel and De Götzen, Amalia and Bison, Ivano and Giunchiglia, Fausto},</span><br /><span>  journal={Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies},</span><br /><span>  year={2025},</span><br /><span>  publisher={ACM New York, NY, USA}</span><br /><span>}</span><br /><br /><span>Matteo Busso, Andrea Bontempelli, Leonardo Javier Malcotti, Lakmal Meegahapola, Peter Kun, Shyam Diwakar, Chaitanya Nutakki, Marcelo Rodas Britez,Hao Xu, Donglei Song, Salvador Ruiz-Correa, Andrea-Rebeca Mendoza-Lara, George Gaskell, Sally Stares, Miriam Bidoglia, Amarsanaa Ganbold, Altangerel Chagnaa, Luca Cernuzzi, Alethia Hume, Ronald Chenu-Abente, Roy Alia Asiku, Ivan Kayongo, Daniel Gatica-Perez, Amalia De Götzen, Ivano Bison, and Fausto Giunchiglia. (2025). DiversityOne: A Multi-Country Smartphone Sensor Dataset for Everyday Life Behavior Modeling. Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies.</span></p>						</div>
+							<p>1.<strong> </strong><strong>Explore the Data Catalog</strong> – Browse the <a href="https://livepeople.disi.unitn.it/datasets/?collection_name=diversityone" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://livepeople.disi.unitn.it/datasets/?collection_name%3Ddiversityone&amp;source=gmail&amp;ust=1739475349431000&amp;usg=AOvVaw1ICc7QHlKPH06xrkJF4gct">data catalog</a> to identify the datasets relevant to your research.<br />2.<strong> </strong><strong>Submit a Request</strong> – Fill out the request form, specifying your research purpose and selecting the desired datasets. The request form link is available on each dataset’s catalog webpage in the <em>Download Request</em> section.<br />3. <strong>Receive Approval &amp; Download</strong> – Once your request is approved, you will receive an email with instructions on how to download the dataset.</p><p>Additional information can be found on the <a href="https://livepeople.disi.unitn.it/faq" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://livepeople.disi.unitn.it/faq&amp;source=gmail&amp;ust=1739475349431000&amp;usg=AOvVaw36OsG5cs-0raQqhp6vSWRl">catalog</a>. For any issue or question, please feel free to contact us at <a href="mailto:datadistribution.knowdive@unitn.it" target="_blank" rel="noopener">datadistribution.knowdive@unitn.it</a>.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5f710c0 thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="5f710c0" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+			<div class="sc_heading text-left"><h2 class="title">How to <span class="thim-color">cite</span> </h2><span class="line"></span></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c70a4e9 elementor-widget elementor-widget-text-editor" data-id="c70a4e9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><code>@article{<wbr />busso2025diversityone,<br />
+title = {{{DiversityOne}}: {{A Multi-Country Smartphone Sensor Dataset}} for {{Everyday Life Behavior Modeling}}},<br />
+author = {Busso, Matteo and Bontempelli, Andrea and Javier Malcotti, Leonardo and Meegahapola, Lakmal and Kun, Peter and Diwakar, Shyam and Nutakki, Chaitanya and Rodas Britez, Marcelo and Xu, Hao and Song, Donglei and Ruiz-Correa, Salvador and Mendoza-Lara, Andrea-Rebeca and Gaskell, George and Stares, Sally and Bidoglia, Miriam and Ganbold, Amarsanaa and Chagnaa, Altangerel and Cernuzzi, Luca and Hume, Alethia and Chenu-Abente, Ronald and Alia Asiku, Roy and Kayongo, Ivan and Gatica-Perez, Daniel and De Götzen, Amalia and Bison, Ivano and Giunchiglia, Fausto},<br />
+journal={Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies},<br />
+year={2025},<br />
+publisher={ACM New York, NY, USA}<br />
+}<br />
+</code></p><p>Matteo Busso, Andrea Bontempelli, Leonardo Javier Malcotti, Lakmal Meegahapola, Peter Kun, Shyam Diwakar, Chaitanya Nutakki, Marcelo Rodas Britez,Hao Xu, Donglei Song, Salvador Ruiz-Correa, Andrea-Rebeca Mendoza-Lara, George Gaskell, Sally Stares, Miriam Bidoglia, Amarsanaa Ganbold, Altangerel Chagnaa, Luca Cernuzzi, Alethia Hume, Ronald Chenu-Abente, Roy Alia Asiku, Ivan Kayongo, Daniel Gatica-Perez, Amalia De Götzen, Ivano Bison, and Fausto Giunchiglia. (2025). DiversityOne: A Multi-Country Smartphone Sensor Dataset for Everyday Life Behavior Modeling. Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies.</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-4c00c03 thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="4c00c03" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
