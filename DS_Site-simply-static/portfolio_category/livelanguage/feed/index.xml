@@ -12,7 +12,7 @@
 	<atom:link href="/portfolio_category/livelanguage/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Sun, 16 Mar 2025 20:23:17 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Mar 2025 17:55:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -396,7 +396,7 @@
 				<div class="elementor-element elementor-element-5b3369c elementor-widget elementor-widget-text-editor" data-id="5b3369c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<p>This experiment is a monolingual study that explores lexicalisations and lexical gaps by comparing language-independent kinship concepts with Maba kinship terms. First, the kinship concepts were formalized using the UKC’s concept hierarchy, which includes the following subdomains: grandparents, grandchildren, siblings, uncles and aunts, nephews and nieces, and cousins. Second, a dataset of kinship concepts, comprising 197 kinship concepts defined in English, was collected from the UKC using the Exporter tool, a built-in UKC management service designed to extract data efficiently. For the Maba dataset, which comprises 20 kinship terms, we employed a fieldwork-based data collection method, gathering terms directly from native Maba speakers.</p>
-<p>Three native Maba speakers, proficient in English and selected through high-quality crowd selection criteria, participated as volunteers. They were assigned seven crowdsourcing tasks, each focusing on the kinship concepts of a specific subdomain, except for the “cousins” subdomain. For the “cousins” subdomain, two tasks were conducted due to its large number of concepts (56 concepts) included in this subdomain. The overall results of this experiment include the identification of 177 lexical gaps and 20 equivalent words in Maba, with an average Alpha score of 0.87. Further details about the crowdsourced lexicalisations and lexical gaps in Maba are provided in the link below.</p>
+<p>Three native Maba speakers, proficient in English and selected through high-quality crowd selection criteria, participated as volunteers. They were assigned seven crowdsourcing tasks, each focusing on the kinship concepts of a specific subdomain, except for the “cousins” subdomain. For the “cousins” subdomain, two tasks were conducted due to its large number of concepts (56 concepts) included in this subdomain. The overall results of this experiment include the identification of 177 lexical gaps and 20 equivalent words in Maba, with an average Alpha score of 0.90. Further details about the crowdsourced lexicalisations and lexical gaps in Maba are provided in the link below.</p>
 <p><a href="https://github.com/HadiPTUK/generated_datasets/blob/main/Crowdsourced%20Maba%20kinship%20with%20a%20comparison%20with%20kinship%20concepts.csv">https://github.com/HadiPTUK/generated_datasets/blob/main/Crowdsourced%20Maba%20kinship%20with%20a%20comparison%20with%20kinship%20concepts.csv</a></p>
 <h5><strong>Related Experiment</strong></h5>
 <ul>
