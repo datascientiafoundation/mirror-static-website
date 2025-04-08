@@ -12,7 +12,7 @@
 	<atom:link href="/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Thu, 20 Mar 2025 17:55:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Apr 2025 18:48:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -185,6 +185,21 @@
 						<span class="elementor-button-icon">
 				<i aria-hidden="true" class="tk tk-alternate-external-link"></i>			</span>
 									<span class="elementor-button-text">DiversityOne Paper</span>
+					</span>
+					</a>
+				</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-cff64d3 e-con-full e-flex e-con e-child" data-id="cff64d3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-6e66bc8 elementor-button-info elementor-widget elementor-widget-button" data-id="6e66bc8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://ds.datascientia.eu/marketplace/welcome">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="tk tk-alternate-external-link"></i>			</span>
+									<span class="elementor-button-text">Request Datasets</span>
 					</span>
 					</a>
 				</div>
@@ -596,7 +611,7 @@
 				</div>
 				<div class="elementor-element elementor-element-29ad1c0 elementor-widget elementor-widget-text-editor" data-id="29ad1c0" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>1.<strong> </strong><strong>Explore the Data Catalog</strong> – Browse the <a href="https://livepeople.disi.unitn.it/datasets/?collection_name=diversityone" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://livepeople.disi.unitn.it/datasets/?collection_name%3Ddiversityone&amp;source=gmail&amp;ust=1739475349431000&amp;usg=AOvVaw1ICc7QHlKPH06xrkJF4gct">data catalog</a> to identify the datasets relevant to your research.<br />2.<strong> </strong><strong>Submit a Request</strong> – Fill out the request form, specifying your research purpose and selecting the desired datasets. The request form link is available on each dataset’s catalog webpage in the <em>Download Request</em> section.<br />3. <strong>Receive Approval &amp; Download</strong> – Once your request is approved, you will receive an email with instructions on how to download the dataset.</p><p>Additional information can be found on the <a href="https://livepeople.disi.unitn.it/faq" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://livepeople.disi.unitn.it/faq&amp;source=gmail&amp;ust=1739475349431000&amp;usg=AOvVaw36OsG5cs-0raQqhp6vSWRl">catalog</a>. For any issue or question, please feel free to contact us at <a href="mailto:datadistribution.knowdive@unitn.it" target="_blank" rel="noopener">datadistribution.knowdive@unitn.it</a>.</p>						</div>
+							<p>1.<strong> </strong><strong>Explore the Data Catalog</strong> – Browse the <a href="https://livepeople.disi.unitn.it/datasets/?collection_name=diversityone" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://livepeople.disi.unitn.it/datasets/?collection_name%3Ddiversityone&amp;source=gmail&amp;ust=1739475349431000&amp;usg=AOvVaw1ICc7QHlKPH06xrkJF4gct">data catalog</a> to identify the datasets relevant to your research.<br />2.<strong> </strong><strong>Submit a Request</strong> – <strong><a href="https://ds.datascientia.eu/marketplace/welcome">Visit the DataScientia Marketplace</a></strong> to submit your research proposal and request access to datasets. Fill out the request form, specifying your research purpose and selecting the desired datasets. The request form link is available on each dataset’s catalog webpage in the <em>Download Request</em> section.<br />3. <strong>Receive Approval &amp; Download</strong> – Once your request is approved, you will receive an email with instructions on how to download the dataset.</p><p>Additional information can be found on the <a href="https://livepeople.disi.unitn.it/faq" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://livepeople.disi.unitn.it/faq&amp;source=gmail&amp;ust=1739475349431000&amp;usg=AOvVaw36OsG5cs-0raQqhp6vSWRl">catalog</a>. For any issue or question, please feel free to contact us at <a href="mailto:datadistribution.knowdive@unitn.it" target="_blank" rel="noopener">datadistribution.knowdive@unitn.it</a>.</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-5f710c0 thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="5f710c0" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
