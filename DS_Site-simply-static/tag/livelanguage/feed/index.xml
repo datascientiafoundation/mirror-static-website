@@ -12,7 +12,7 @@
 	<atom:link href="/tag/livelanguage/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Mon, 03 Mar 2025 18:12:49 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Jun 2025 15:05:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,192 +28,84 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>LiveLanguage Kinship Study Featured in Frontiers</title>
-		<link>/livelanguage-kinship-study-featured-in-frontiers/</link>
+		<title>Gitex Africa 2025: AU-EU Innovation Networking Café</title>
+		<link>/gitex-africa-2025-au-eu-innovation-networking-cafe/</link>
+					<comments>/gitex-africa-2025-au-eu-innovation-networking-cafe/#respond</comments>
 		
 		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 11:31:30 +0000</pubDate>
+		<pubDate>Mon, 14 Apr 2025 13:21:41 +0000</pubDate>
 				<category><![CDATA[News]]></category>
 		<category><![CDATA[LiveLanguage]]></category>
-		<guid isPermaLink="false">/?p=26184</guid>
+		<guid isPermaLink="false">/?p=27803</guid>
 
-					<description><![CDATA[On November 20, 2023, the journal Frontiers in Psychology published an article titled “Lexical Diversity in Kinship Across Languages and Dialects” by members of DataScientia who specialize in creating high-quality, diversity-aware lexical databases for natural language processing and machine translation. &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="26184" class="elementor elementor-26184">
-				<div class="elementor-element elementor-element-d2f3edf e-grid e-con-full e-con e-parent" data-id="d2f3edf" data-element_type="container">
-				<div class="elementor-element elementor-element-2b33e11 elementor-widget elementor-widget-thim-ekits-site-logo" data-id="2b33e11" data-element_type="widget" data-widget_type="thim-ekits-site-logo.default">
-				<div class="elementor-widget-container">
-			
-		<div class="thim-ekit-site-logo">
-							<a href="/" rel="home">
-					<img fetchpriority="high" decoding="async" width="400" height="163" src="/wp-content/uploads/2024/09/H_logo-DS-17.png" class="attachment-full size-full wp-image-23262" alt="" srcset="/wp-content/uploads/2024/09/H_logo-DS-17.png 400w, /wp-content/uploads/2024/09/H_logo-DS-17-300x122.png 300w" sizes="(max-width: 400px) 100vw, 400px" />				</a>
-					</div>
-
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-c61d562 elementor-widget elementor-widget-image" data-id="c61d562" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img decoding="async" width="640" height="361" src="/wp-content/uploads/2024/12/frontiers-in-psychology-logo-733x414-1.png" class="attachment-medium_large size-medium_large wp-image-26186" alt="" srcset="/wp-content/uploads/2024/12/frontiers-in-psychology-logo-733x414-1.png 733w, /wp-content/uploads/2024/12/frontiers-in-psychology-logo-733x414-1-300x169.png 300w, /wp-content/uploads/2024/12/frontiers-in-psychology-logo-733x414-1-600x339.png 600w" sizes="(max-width: 640px) 100vw, 640px" />													</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-5d07a9e e-con-full e-flex e-con e-parent" data-id="5d07a9e" data-element_type="container">
-				<div class="elementor-element elementor-element-c6ba248 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="c6ba248" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-9e59463 elementor-widget elementor-widget-text-editor" data-id="9e59463" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<div><p>On November 20, 2023, the journal <em>Frontiers in Psychology</em> published an article titled<strong> “Lexical Diversity in Kinship Across Languages and Dialects”</strong> by members of DataScientia who specialize in creating high-quality, diversity-aware lexical databases for natural language processing and machine translation. The article’s authors are Hadi Khalilia, Gábor Bella, Fausto Giunchiglia, Abed Alhakim Freihat, and Shandy Darma.</p><p>The research work is <span style="color: var( --e-global-color-primary )"><span style="margin: 0px;padding: 0px">part of <u>DataScientia&#8217;s initiative,</u></span> </span><strong style="color: var( --e-global-color-primary )">LiveLanguage</strong><span style="color: var( --e-global-color-primary )">, which prioritises the role of human contributors from </span><span style="color: var( --e-global-color-primary )">various communities, including linguists, AI engineers, and educators to manage diversity-aware data. Using this method, DataScientia memebers expanded </span><span style="color: var( --e-global-color-primary )">an </span><strong style="color: var( --e-global-color-primary )" data-start="261" data-end="277">open dataset</strong><span style="color: var( --e-global-color-primary )"> integrated into <b>our </b></span><strong style="color: var( --e-global-color-primary )" data-start="298" data-end="326">Universal Knowledge Core with</strong><span style="color: var( --e-global-color-primary )"> </span><strong style="color: var( --e-global-color-primary )" data-start="107" data-end="147">223 kin terms and 1,619 lexical gaps</strong><span style="color: var( --e-global-color-primary )"> across seven Arabic dialects and three Indonesian languages. </span></p></div>						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-34922a23 e-flex e-con-boxed e-con e-parent" data-id="34922a23" data-element_type="container">
+					<description><![CDATA[We are excited to announce that Margherita Trestini, Managing Director of our joint venture with Apodissi, represented DataScientia at GITEX Africa 2025 in Marrakech, Morocco, on April 15. Speaking on behalf of Prof. Fausto Giunchiglia, she presented DataScientia’s latest research &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="27803" class="elementor elementor-27803">
+				<div class="elementor-element elementor-element-edfeffe e-flex e-con-boxed e-con e-parent" data-id="edfeffe" data-element_type="container">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-38908871 elementor-widget elementor-widget-text-editor" data-id="38908871" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-efd192b elementor-widget elementor-widget-text-editor" data-id="efd192b" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>The paper was published as part of the research on <i>The Adaptive Value of Languages: Non-Linguistic Causes of Language Diversity.</i> The goal was to explore how natural environments or human-made influences might shape some features of language structure. Due to the tasks&#8217; complexity, researchers from various fields, including linguistics, psychology, biology, sociology, and anthropology, were invited to contribute.</p><p>The paper was dedicated to finding specific concepts and gaps across various languages and dialects. The scholars proposed a unique method to capture linguistic diversity based on systematic data collection of specific narrowed areas rather than the general topic.</p><p>This method is designed to represent concepts specific to different languages and dialects while also addressing gaps in vocabulary. It has already been tested in two studies on kinship terms in Arabic dialects and the Indonesian language.</p>						</div>
+									<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-27805" src="/wp-content/uploads/2025/04/Fausto_Morocco.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2025/04/Fausto_Morocco.png 1584w, /wp-content/uploads/2025/04/Fausto_Morocco-300x75.png 300w, /wp-content/uploads/2025/04/Fausto_Morocco-1024x256.png 1024w, /wp-content/uploads/2025/04/Fausto_Morocco-768x192.png 768w, /wp-content/uploads/2025/04/Fausto_Morocco-1536x384.png 1536w, /wp-content/uploads/2025/04/Fausto_Morocco-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>								</div>
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-c8de190 e-con-full e-flex e-con e-parent" data-id="c8de190" data-element_type="container">
-				<div class="elementor-element elementor-element-517adae8 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="517adae8" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-62b30896 elementor-widget elementor-widget-text-editor" data-id="62b30896" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><b>Here below the paper’s abstract:</b></p><p><i><span style="font-weight: 400">Languages are known to describe the world in diverse ways. Across lexicons, diversity is pervasive, appearing through phenomena such as lexical gaps and untranslatability. However, in computational resources, such as multilingual lexical databases, diversity is hardly ever represented. In this paper, we introduce a method to enrich computational lexicons with content relating to linguistic diversity. </span></i></p><p><i><span style="font-weight: 400">The method is verified through two large-scale case studies on kinship terminology, a domain known to be diverse across languages and cultures: one case study deals with seven Arabic dialects, while the other one with three Indonesian languages. Our results, made available as browseable and downloadable computational resources, extend prior linguistics research on kinship terminology, and provide insight into the extent of diversity even within linguistically and culturally close communities.</span></i></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-2810011a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="2810011a" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-55375d5d e-flex e-con-boxed e-con e-parent" data-id="55375d5d" data-element_type="container">
+		<div class="elementor-element elementor-element-5b35f255 e-flex e-con-boxed e-con e-parent" data-id="5b35f255" data-element_type="container">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-541d3e3d elementor-widget elementor-widget-text-editor" data-id="541d3e3d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-3081693b elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3081693b" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400">Read the full paper on Frontiers in </span><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1229697/full"><span style="font-weight: 400">Psychology</span></a>.<br />The<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1229697/full"> link </a>to download the <b>PDF </b>of the article.</p><p><span style="font-weight: 400"><strong>Keywords:</strong> linguistic diversity, lexical gaps, untranslatability, computational lexicons, multilingual lexical databases, kinship terminology, Arabic dialects,  semantic diversity, cross-cultural analysis, terminology databases.</span></p>						</div>
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4e8a64e7 elementor-widget elementor-widget-text-editor" data-id="4e8a64e7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><b>We are excited to announce that Margherita Trestini, Managing Director of our joint venture with </b><a href="https://apodissi.com/"><b>Apodissi</b></a><b>, represented DataScientia at </b><a style="font-weight: bold" href="https://gitexafrica.com/">GITEX Africa 2025</a><b> in Marrakech, Morocco, on April 15. Speaking on behalf of Prof. Fausto Giunchiglia, she presented DataScientia’s latest research and innovations in AI alongside other technology leaders and innovative thinkers from around the world. </b></p><p><span style="font-weight: 400">At Gitex, they exchange new ideas and solutions that help shape Africa’s future and drive economic growth and progress. Margherita Trestini was also part of a distinguished panel of speakers and discussed DataScientia’s vision for AI innovation through global partnerships. She introduced DataScientia’s work and initiatives in Africa at the <strong>Networking Café during the 4th Workshop on the AU-EU Innovation Agenda</strong>.</span></p><p><span style="font-weight: 400">DataScientia collaborates with Africa through initiatives that develop sustainable, multilingual, and diversity-aware African Indigenous Language Resources and Technology Infrastructure, available as a service. We support African communities in preserving, innovating, and expanding their linguistic and cultural heritage through technology. Our community aims to empower a new generation of African researchers, innovators, and entrepreneurs to lead the research, innovation, and commercialisation of African Indigenous Language Technologies (AfrILs).</span></p><p>We are grateful for the opportunity to communicate to a broader audience how DataScientia bolsters partnership with Africa for human-centred AI innovation on such an impactful platform as Gitex 2025. DataScientia is committed to supporting African innovation in the long term, and we are excited to witness how our members remain dedicated to contributing to worldwide technological advancement for society. We always welcome new members who are willing to join our efforts.</p><p><b>Follow our newsletter to get updates on our initiatives!</b></p>								</div>
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-7fecbd7d e-flex e-con-boxed e-con e-parent" data-id="7fecbd7d" data-element_type="container">
+		<div class="elementor-element elementor-element-4ccaea32 e-flex e-con-boxed e-con e-parent" data-id="4ccaea32" data-element_type="container">
 					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-4136e1ed e-con-full e-flex e-con e-child" data-id="4136e1ed" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-3c859bea e-con-full e-flex e-con e-child" data-id="3c859bea" data-element_type="container">
-				<div class="elementor-element elementor-element-3a91f858 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="3a91f858" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-element elementor-element-22cc7914 elementor-widget elementor-widget-text-editor" data-id="22cc7914" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
+									<p><b>Keywords:</b><span style="font-weight: 400"> innovation, collaboration, AI, global partnerships, human-centered AI, DataScientia, Gitex Africa 2025, African Indigenous Language Resources, AfriDataScientia, Multilingual Technology, Diversity-Aware Technology, Sustainable Technology, Language Preservation, Cultural Heritage,Indigenous Language Technologies (AfrILs).</span></p>								</div>
 				</div>
+					</div>
 				</div>
-		<div class="elementor-element elementor-element-afbcd8f e-con-full e-flex e-con e-child" data-id="afbcd8f" data-element_type="container">
-				<div class="elementor-element elementor-element-5672837b elementor-widget elementor-widget-text-editor" data-id="5672837b" data-element_type="widget" data-widget_type="text-editor.default">
+		<div class="elementor-element elementor-element-17bbf93b e-flex e-con-boxed e-con e-parent" data-id="17bbf93b" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-16cde6f8 e-con-full e-flex e-con e-child" data-id="16cde6f8" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-1ae61249 e-con-full e-flex e-con e-child" data-id="1ae61249" data-element_type="container">
+				<div class="elementor-element elementor-element-6d1f5609 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="6d1f5609" data-element_type="widget" data-widget_type="thim-single-images.default">
 				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
+					<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>				</div>
 				</div>
 				</div>
+		<div class="elementor-element elementor-element-1c71de49 e-con-full e-flex e-con e-child" data-id="1c71de49" data-element_type="container">
+				<div class="elementor-element elementor-element-1e92b46e elementor-widget elementor-widget-text-editor" data-id="1e92b46e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>								</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-58f22f1 e-flex e-con-boxed e-con e-parent" data-id="58f22f1" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7eb6926a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="7eb6926a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
 				</div>
 					</div>
 				</div>
 				</div>]]></content:encoded>
 					
-		
-		
-			</item>
-		<item>
-		<title>Gábor Bella to The Guardian on AI Translators</title>
-		<link>/news/gabor-bella-to-the-guardian-on-ai-translators/</link>
-		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Thu, 07 Sep 2023 00:00:17 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[LiveLanguage]]></category>
-		<guid isPermaLink="false">/?p=22992</guid>
-
-					<description><![CDATA[On September 7, 2023, The Guardian published an article about the risks and limitations of AI translation tools used by U.S. migration agencies. Illustration: Nicole Rifkin/The Guardian The newspaper features insights from Garbor Bella, a member of our Data Scientia &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="22992" class="elementor elementor-22992">
-				<div class="elementor-element elementor-element-94a6cba e-flex e-con-boxed e-con e-parent" data-id="94a6cba" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-761fd81 elementor-widget elementor-widget-text-editor" data-id="761fd81" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>On September 7, 2023, The Guardian published an article about the risks and limitations of AI translation tools used by U.S. migration agencies.</strong></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-c80ce0b e-con-full e-flex e-con e-parent" data-id="c80ce0b" data-element_type="container">
-				<div class="elementor-element elementor-element-152e4cb elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="152e4cb" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="640" height="384" src="/wp-content/uploads/2024/08/1500-1-1.avif" class="attachment-medium_large size-medium_large wp-image-23002" alt="" />													</div>
-				</div>
-				<div class="elementor-element elementor-element-cf57c06 elementor-widget elementor-widget-text-editor" data-id="cf57c06" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="color: #707070;font-family: GuardianTextSans, 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;font-size: 14px">Illustration: Nicole Rifkin/The Guardian</span></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-1db6bb5 elementor-widget elementor-widget-text-editor" data-id="1db6bb5" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The newspaper features insights from Garbor Bella, a member of our Data Scientia community. According to the scholar, these tools fall short of capturing linguistic diversity and interpreting cultural nuances crucial for accurate translation.</p>						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-d7cbabd e-con-full e-flex e-con e-parent" data-id="d7cbabd" data-element_type="container">
-				<div class="elementor-element elementor-element-47a744f elementor-widget__width-initial elementor-view-default elementor-widget elementor-widget-icon" data-id="47a744f" data-element_type="widget" data-widget_type="icon.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-wrapper">
-			<div class="elementor-icon">
-			<svg aria-hidden="true" class="e-font-icon-svg e-fas-quote-left" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>			</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-c0701a9 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="c0701a9" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><i><span style="font-weight: 400">&nbsp; &nbsp;Language is more than a series of words and their meanings; it’s a means to express cultural identity, and it’s how many communities make sense of the world.</span></i></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-3a57837 elementor-widget__width-initial elementor-position-top elementor-widget elementor-widget-image-box" data-id="3a57837" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="277" height="300" src="/wp-content/uploads/2024/08/unnamed11-277x300.png" class="attachment-medium size-medium wp-image-22999" alt="" srcset="/wp-content/uploads/2024/08/unnamed11-277x300.png 277w, /wp-content/uploads/2024/08/unnamed11.png 290w" sizes="(max-width: 277px) 100vw, 277px" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">Bella Garbor</p></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-a50071c e-flex e-con-boxed e-con e-parent" data-id="a50071c" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-2fd043d elementor-widget elementor-widget-text-editor" data-id="2fd043d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400">Despite these obstacles, Garbor Bella remains optimistic about AI language translators. He believes language diversity can help overcome these challenges and promote equal opportunities. The researcher believes it can be implemented through data catalogs based on cross-lingual lexical semantics. Catalogs can be created by engaging professionals and native speakers worldwide. </span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-a327826 e-flex e-con-boxed e-con e-parent" data-id="a327826" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-3b9461e elementor-widget elementor-widget-text-editor" data-id="3b9461e" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Keywords:</strong> language, translation, AI-powered translators, artificial intelligence, linguistic diversity, catalog, culture, migration, cross-lingual lexical semantics, interview</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-3363e1a e-con-full e-flex e-con e-parent" data-id="3363e1a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:26098,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-2d24d22 e-con-full e-flex e-con e-child" data-id="2d24d22" data-element_type="container">
-				<div class="elementor-element elementor-element-e068d9f elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="e068d9f" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-a298b6d e-con-full e-flex e-con e-child" data-id="a298b6d" data-element_type="container">
-				<div class="elementor-element elementor-element-1ebf7ab elementor-widget elementor-widget-text-editor" data-id="1ebf7ab" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
-				</div>
-				</div>
-				</div>
-				</div>]]></content:encoded>
-					
+					<wfw:commentRss>/gitex-africa-2025-au-eu-innovation-networking-cafe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

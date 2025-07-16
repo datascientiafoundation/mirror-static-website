@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: AI IN EVERYDAY LIFE 1	</title>
+	<atom:link href="/courses/eai1/feed/" rel="self" type="application/rss+xml" />
+	<link>/courses/eai1/</link>
+	<description>DataScientia Initiative website</description>
+	<lastBuildDate>Wed, 25 Jun 2025 22:49:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		By: Ali Hamza		</title>
+		<link>/courses/eai1/#comment-94</link>
+
+		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
+		<pubDate>Fri, 12 Jul 2024 12:42:59 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=lp_course#038;p=21267#comment-94</guid>
+
+					<description><![CDATA[Well designed content easy enough for beginners but comprehensive at the same time.]]></description>
+			<content:encoded><![CDATA[<p>Well designed content easy enough for beginners but comprehensive at the same time.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

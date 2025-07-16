@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Computer Science - DataScientia</title>
+	<atom:link href="/course-category/cs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DataScientia Initiative website</description>
+	<lastBuildDate>Wed, 25 Jun 2025 22:47:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/03/DS-fav-icon-32x32.png</url>
+	<title>Computer Science - DataScientia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kowledge and Data Integration CN (KDI-CN) 2022</title>
+		<link>/courses/kdi-cn-2022/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 29 Aug 2024 11:57:42 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=lp_course#038;p=22988</guid>
+
+					<description><![CDATA[The Knowledge Graph Engineering (KGE) course aims to teach what are Knowledge Graphs, which are their possible usages and features, and what it means to build a KG. During the curse the students will discover the different issues to be addressed when a KG is built, learning which are the activities to be executed to that end, as per the current state of the art on Knowledge Graph Engineering.]]></description>
+										<content:encoded><![CDATA[<h4>GENERAL DESCRIPTION</h4>
+<p>This KDI course is the same course (<a href="/education/courses/kge-2022/">KGE-2022</a>) taught at the University of Trento in the academic year of 2021/2022. This course is taught in the presence in class of both lecturers and students, primarily as a hands-on lab course. Passing the exam amounts to developing a project, which ultimately will lead to generating a Knowledge Graph (and support documentation) starting from data that will have to be found on the Web. This goal will be reached under the continuous supervision of the lectures providing advice and support, and in collaboration, doing joint work with a colleague taking this course.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -11,11 +11,25 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Tue, 08 Apr 2025 19:34:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Jun 2025 22:49:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.5</generator>
-</channel>
+	<item>
+		<title>
+		Comment on AI IN EVERYDAY LIFE 1 by Ali Hamza		</title>
+		<link>/courses/eai1/#comment-94</link>
+
+		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
+		<pubDate>Fri, 12 Jul 2024 12:42:59 +0000</pubDate>
+		<guid isPermaLink="false">/?post_type=lp_course#038;p=21267#comment-94</guid>
+
+					<description><![CDATA[Well designed content easy enough for beginners but comprehensive at the same time.]]></description>
+			<content:encoded><![CDATA[<p>Well designed content easy enough for beginners but comprehensive at the same time.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

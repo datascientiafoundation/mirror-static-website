@@ -41,25 +41,25 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-094ee8a thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="094ee8a" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
-			<div class="sc_heading text-left"><h3 class="title">Description </h3><span class="line"></span></div>		</div>
+					<div class="sc_heading text-left"><h3 class="title">Description </h3><span class="line"></span></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-88e3361 elementor-widget elementor-widget-text-editor" data-id="88e3361" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><em>DiversityOne is one of the largest and most geographically diverse datasets for studying everyday life behavior of college students through smartphone sensors and self-reports.</em></p>						</div>
+									<p><em>DiversityOne is one of the largest and most geographically diverse datasets for studying everyday life behavior of college students through smartphone sensors and self-reports.</em></p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-b43df7f thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="b43df7f" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h3 class="title">Key statistics </h3><span class="line"></span></div>		</div>
+					<div class="sc_heading text-center"><h3 class="title">Key statistics </h3><span class="line"></span></div>				</div>
 				</div>
 		<div class="elementor-element elementor-element-5c8d868 e-con-full e-grid e-con e-child" data-id="5c8d868" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 		<div class="elementor-element elementor-element-592339d e-grid e-con-full e-con e-child" data-id="592339d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 		<div class="elementor-element elementor-element-1c52e00 e-con-full e-flex e-con e-child" data-id="1c52e00" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-f05a06a elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="f05a06a" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
+							<div class="elementor-icon-box-wrapper">
 
 						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
+				<span  class="elementor-icon">
 				<i aria-hidden="true" class="tk tk-users1"></i>				</span>
 			</div>
 			
@@ -72,16 +72,16 @@
 			</div>
 			
 		</div>
-				</div>
+						</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-a62d27e e-con-full e-flex e-con e-child" data-id="a62d27e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-6b5fe27 elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="6b5fe27" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
+							<div class="elementor-icon-box-wrapper">
 
 						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
+				<span  class="elementor-icon">
 				<svg aria-hidden="true" class="e-font-icon-svg e-fab-wpforms" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M448 75.2v361.7c0 24.3-19 43.2-43.2 43.2H43.2C19.3 480 0 461.4 0 436.8V75.2C0 51.1 18.8 32 43.2 32h361.7c24 0 43.1 18.8 43.1 43.2zm-37.3 361.6V75.2c0-3-2.6-5.8-5.8-5.8h-9.3L285.3 144 224 94.1 162.8 144 52.5 69.3h-9.3c-3.2 0-5.8 2.8-5.8 5.8v361.7c0 3 2.6 5.8 5.8 5.8h361.7c3.2.1 5.8-2.7 5.8-5.8zM150.2 186v37H76.7v-37h73.5zm0 74.4v37.3H76.7v-37.3h73.5zm11.1-147.3l54-43.7H96.8l64.5 43.7zm210 72.9v37h-196v-37h196zm0 74.4v37.3h-196v-37.3h196zm-84.6-147.3l64.5-43.7H232.8l53.9 43.7zM371.3 335v37.3h-99.4V335h99.4z"></path></svg>				</span>
 			</div>
 			
@@ -94,16 +94,16 @@
 			</div>
 			
 		</div>
-				</div>
+						</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-438c1b4 e-con-full e-flex e-con e-child" data-id="438c1b4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-1330d77 elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="1330d77" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
+							<div class="elementor-icon-box-wrapper">
 
 						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
+				<span  class="elementor-icon">
 				<i aria-hidden="true" class="tk tk-alternate-map-marked"></i>				</span>
 			</div>
 			
@@ -116,7 +116,7 @@
 			</div>
 			
 		</div>
-				</div>
+						</div>
 				</div>
 				</div>
 				</div>
@@ -124,10 +124,10 @@
 		<div class="elementor-element elementor-element-cbed2e4 e-con-full e-flex e-con e-child" data-id="cbed2e4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-e2ad2d9 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="e2ad2d9" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
+							<div class="elementor-icon-box-wrapper">
 
 						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
+				<span  class="elementor-icon">
 				<i aria-hidden="true" class="tk tk-world"></i>				</span>
 			</div>
 			
@@ -140,16 +140,16 @@
 			</div>
 			
 		</div>
-				</div>
+						</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-74d3945 e-con-full e-flex e-con e-child" data-id="74d3945" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-695bd48 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="695bd48" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
+							<div class="elementor-icon-box-wrapper">
 
 						<div class="elementor-icon-box-icon">
-				<span  class="elementor-icon elementor-animation-">
+				<span  class="elementor-icon">
 				<i aria-hidden="true" class="tk tk-phone1"></i>				</span>
 			</div>
 			
@@ -162,7 +162,7 @@
 			</div>
 			
 		</div>
-				</div>
+						</div>
 				</div>
 				</div>
 				</div>
@@ -173,13 +173,13 @@
 		<div class="elementor-element elementor-element-6e4f190 e-con-full e-grid e-con e-child" data-id="6e4f190" data-element_type="container">
 				<div class="elementor-element elementor-element-6f14e58 elementor-widget elementor-widget-text-editor" data-id="6f14e58" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<h4>Possible research directions, but not limited to:</h4><ul><li>developing machine learning models across multiple domains, such as behavior recognition</li><li>multimodal time-series modeling</li><li>model generalization and domain adaptation across countries</li><li>social practices understanding</li><li>explore the diversity of daily activities in various cultural contexts</li><li>cross-cultural studies</li></ul>						</div>
+									<h4>Possible research directions, but not limited to:</h4><ul><li>developing machine learning models across multiple domains, such as behavior recognition</li><li>multimodal time-series modeling</li><li>model generalization and domain adaptation across countries</li><li>social practices understanding</li><li>explore the diversity of daily activities in various cultural contexts</li><li>cross-cultural studies</li></ul>								</div>
 				</div>
 		<div class="elementor-element elementor-element-3115670 e-grid e-con-full e-con e-child" data-id="3115670" data-element_type="container">
 		<div class="elementor-element elementor-element-459bf7e e-con-full e-flex e-con e-child" data-id="459bf7e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-676a021 elementor-button-success elementor-widget elementor-widget-button" data-id="676a021" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
-							<div class="elementor-button-wrapper">
+									<div class="elementor-button-wrapper">
 					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="http://arxiv.org/abs/2502.03347">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
@@ -188,13 +188,13 @@
 					</span>
 					</a>
 				</div>
-						</div>
+								</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-cff64d3 e-con-full e-flex e-con e-child" data-id="cff64d3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-6e66bc8 elementor-button-info elementor-widget elementor-widget-button" data-id="6e66bc8" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
-							<div class="elementor-button-wrapper">
+									<div class="elementor-button-wrapper">
 					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://ds.datascientia.eu/marketplace/welcome">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
@@ -203,13 +203,13 @@
 					</span>
 					</a>
 				</div>
-						</div>
+								</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-2abe63c e-con-full e-flex e-con e-child" data-id="2abe63c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-6eafed5 elementor-button-info elementor-widget elementor-widget-button" data-id="6eafed5" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
-							<div class="elementor-button-wrapper">
+									<div class="elementor-button-wrapper">
 					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://livepeople.disi.unitn.it/datasets/?collection_name=diversityone">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
@@ -218,7 +218,7 @@
 					</span>
 					</a>
 				</div>
-						</div>
+								</div>
 				</div>
 				</div>
 				</div>
@@ -228,44 +228,44 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-e2b498b thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="e2b498b" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
-			<div class="sc_heading text-left"><h3 class="title">Dataset Description </h3><span class="line"></span></div>		</div>
+					<div class="sc_heading text-left"><h3 class="title">Dataset Description </h3><span class="line"></span></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-8ee1579 elementor-widget elementor-widget-text-editor" data-id="8ee1579" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>The DiversityOne dataset was collected through a collaborative effort involving universities across eight different countries, encompassing both the Global North and Global South. This extensive data collection includes intensive longitudinal surveys and passive smartphone sensor data from diverse cultural contexts, providing a unique resource for cross-cultural studies and behavioral research.</p><p style="text-align: center;"><strong>Countries and Universities</strong></p>						</div>
+									<p>The DiversityOne dataset was collected through a collaborative effort involving universities across eight different countries, encompassing both the Global North and Global South. This extensive data collection includes intensive longitudinal surveys and passive smartphone sensor data from diverse cultural contexts, providing a unique resource for cross-cultural studies and behavioral research.</p><p style="text-align: center;"><strong>Countries and Universities</strong></p>								</div>
 				</div>
 		<div class="elementor-element elementor-element-39164a7 e-con-full e-grid e-con e-child" data-id="39164a7" data-element_type="container">
 				<div class="elementor-element elementor-element-6e2ac04 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="6e2ac04" data-element_type="widget" data-widget_type="thim-icon-box.default">
 				<div class="elementor-widget-container">
-			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img fetchpriority="high" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_China.png" alt="Flag_of_China" title="Flag_of_China"  width="1024" height="682"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">China</h3></div><div class="desc-icon-box"><div class="desc-content">Jilin University (JLU)</div></div></div></div></div></div>		</div>
+					<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img fetchpriority="high" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_China.png" alt="Flag_of_China" title="Flag_of_China"  width="1024" height="682"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">China</h3></div><div class="desc-icon-box"><div class="desc-content">Jilin University (JLU)</div></div></div></div></div></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-8765a47 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="8765a47" data-element_type="widget" data-widget_type="thim-icon-box.default">
 				<div class="elementor-widget-container">
-			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img decoding="async" src="/wp-content/uploads/2025/01/Flag_of_Denmark.svg.png" alt="Flag_of_Denmark.svg" title="Flag_of_Denmark.svg"  width="1280" height="969"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Denmark</h3></div><div class="desc-icon-box"><div class="desc-content">Aalborg University (AAU)</div></div></div></div></div></div>		</div>
+					<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img decoding="async" src="/wp-content/uploads/2025/01/Flag_of_Denmark.svg.png" alt="Flag_of_Denmark.svg" title="Flag_of_Denmark.svg"  width="1280" height="969"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Denmark</h3></div><div class="desc-icon-box"><div class="desc-content">Aalborg University (AAU)</div></div></div></div></div></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-7b44ccc iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="7b44ccc" data-element_type="widget" data-widget_type="thim-icon-box.default">
 				<div class="elementor-widget-container">
-			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img decoding="async" src="/wp-content/uploads/2025/01/Flag_of_India.png" alt="Flag_of_India" title="Flag_of_India"  width="2560" height="1707"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">India </h3></div><div class="desc-icon-box"><div class="desc-content">Amrita Vishwa Vidyapeetham (AMRITA)</div></div></div></div></div></div>		</div>
+					<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img decoding="async" src="/wp-content/uploads/2025/01/Flag_of_India.png" alt="Flag_of_India" title="Flag_of_India"  width="2560" height="1707"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">India </h3></div><div class="desc-icon-box"><div class="desc-content">Amrita Vishwa Vidyapeetham (AMRITA)</div></div></div></div></div></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-1f73b04 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="1f73b04" data-element_type="widget" data-widget_type="thim-icon-box.default">
 				<div class="elementor-widget-container">
-			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_Italy.png" alt="Flag_of_Italy" title="Flag_of_Italy"  width="1200" height="800"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Italy</h3></div><div class="desc-icon-box"><div class="desc-content">University of Trento (UNITN)</div></div></div></div></div></div>		</div>
+					<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_Italy.png" alt="Flag_of_Italy" title="Flag_of_Italy"  width="1200" height="800"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Italy</h3></div><div class="desc-icon-box"><div class="desc-content">University of Trento (UNITN)</div></div></div></div></div></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-62e1971 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="62e1971" data-element_type="widget" data-widget_type="thim-icon-box.default">
 				<div class="elementor-widget-container">
-			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_Mexico.png" alt="Flag_of_Mexico" title="Flag_of_Mexico"  width="1280" height="732"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Mexico</h3></div><div class="desc-icon-box"><div class="desc-content">Instituto Potosino de Investigación Científica y Tecnológica (IPICYT)</div></div></div></div></div></div>		</div>
+					<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_Mexico.png" alt="Flag_of_Mexico" title="Flag_of_Mexico"  width="1280" height="732"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Mexico</h3></div><div class="desc-icon-box"><div class="desc-content">Instituto Potosino de Investigación Científica y Tecnológica (IPICYT)</div></div></div></div></div></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-ffd17b7 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="ffd17b7" data-element_type="widget" data-widget_type="thim-icon-box.default">
 				<div class="elementor-widget-container">
-			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_Mongolia.svg.png" alt="Flag_of_Mongolia.svg" title="Flag_of_Mongolia.svg"  width="1280" height="640"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Mongolia</h3></div><div class="desc-icon-box"><div class="desc-content">National University of Mongolia (NUM)</div></div></div></div></div></div>		</div>
+					<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_Mongolia.svg.png" alt="Flag_of_Mongolia.svg" title="Flag_of_Mongolia.svg"  width="1280" height="640"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Mongolia</h3></div><div class="desc-icon-box"><div class="desc-content">National University of Mongolia (NUM)</div></div></div></div></div></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-8d1f0a4 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="8d1f0a4" data-element_type="widget" data-widget_type="thim-icon-box.default">
 				<div class="elementor-widget-container">
-			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Paraguay_flag.png" alt="Paraguay_flag" title="Paraguay_flag"  width="825" height="496"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Paraguay</h3></div><div class="desc-icon-box"><div class="desc-content">Universidad Católica “Nuestra Señora de la Asunción” (UC)</div></div></div></div></div></div>		</div>
+					<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Paraguay_flag.png" alt="Paraguay_flag" title="Paraguay_flag"  width="825" height="496"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">Paraguay</h3></div><div class="desc-icon-box"><div class="desc-content">Universidad Católica “Nuestra Señora de la Asunción” (UC)</div></div></div></div></div></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-ad26118 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="ad26118" data-element_type="widget" data-widget_type="thim-icon-box.default">
 				<div class="elementor-widget-container">
-			<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_the_United_Kingdom.png" alt="Flag_of_the_United_Kingdom" title="Flag_of_the_United_Kingdom"  width="1500" height="750"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">United Kingdom</h3></div><div class="desc-icon-box"><div class="desc-content">London School of Economics and Political Science (LSE)</div></div></div></div></div></div>		</div>
+					<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2025/01/Flag_of_the_United_Kingdom.png" alt="Flag_of_the_United_Kingdom" title="Flag_of_the_United_Kingdom"  width="1500" height="750"></span></span></div><div class="content-inner"><div class="sc-heading"><h3 class="heading__primary">United Kingdom</h3></div><div class="desc-icon-box"><div class="desc-content">London School of Economics and Political Science (LSE)</div></div></div></div></div></div>				</div>
 				</div>
 				</div>
 					</div>
@@ -274,15 +274,15 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-3b9e815 thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="3b9e815" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
-			<div class="sc_heading text-left"><h6 class="title">The overall <span class="thim-color">data collection protocol</span> is presented in the following figure: </h6></div>		</div>
+					<div class="sc_heading text-left"><h6 class="title">The overall <span class="thim-color">data collection protocol</span> is presented in the following figure: </h6></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-df551e9 elementor-widget elementor-widget-text-editor" data-id="df551e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p> </p><p style="text-align: center;"><img loading="lazy" decoding="async" class="aligncenter wp-image-27414" src="/wp-content/uploads/2025/01/protocol.svg" alt="" width="724" height="213" /></p><p style="text-align: center;"><em><b>Figure 1: Data collection protocol</b></em></p><p> </p><ul><li><strong>1st Questionnaire</strong>: it was sent to all students of the participating universities. It implements standard scales for measuring personality traits (Big Five Inventory) and attitudes toward values (Basic Values Survey). See the <a href="https://livepeople.disi.unitn.it/datasets/?collection_name=diversityone&amp;data_type_facet=synchronic-interactions">list</a> on the data catalog website.</li><li><strong>2nd Questionnaire</strong>: participants joining the smartphone data collection answered questions about social practices and from Jungian Scale for Personality Types and Human Values Survey scales.</li><li><strong>1st Data collection phase</strong>: the intensive longitudinal survey observes human behaviors over time. Participants installed the <a href="https://datascientia.disi.unitn.it/ilog/">ILog</a> app on their smartphone. The app collects self-reports (every 30 minutes and additional morning and evening questions) and passive sensor data.</li><li><strong>2nd Data collection phase</strong>: as in the 1st phase, but self-reports are asked every hour.</li><li><strong>3rd Questionnaire</strong>: it collects feedback about the data collection and the Multiple Intelligence Scale.</li></ul>						</div>
+									<p> </p><p style="text-align: center;"><img loading="lazy" decoding="async" class="aligncenter wp-image-27414" src="/wp-content/uploads/2025/01/protocol.svg" alt="" width="724" height="213" /></p><p style="text-align: center;"><em><b>Figure 1: Data collection protocol</b></em></p><p> </p><ul><li><strong>1st Questionnaire</strong>: it was sent to all students of the participating universities. It implements standard scales for measuring personality traits (Big Five Inventory) and attitudes toward values (Basic Values Survey). See the <a href="https://livepeople.disi.unitn.it/datasets/?collection_name=diversityone&amp;data_type_facet=synchronic-interactions">list</a> on the data catalog website.</li><li><strong>2nd Questionnaire</strong>: participants joining the smartphone data collection answered questions about social practices and from Jungian Scale for Personality Types and Human Values Survey scales.</li><li><strong>1st Data collection phase</strong>: the intensive longitudinal survey observes human behaviors over time. Participants installed the <a href="https://datascientia.disi.unitn.it/ilog/">ILog</a> app on their smartphone. The app collects self-reports (every 30 minutes and additional morning and evening questions) and passive sensor data.</li><li><strong>2nd Data collection phase</strong>: as in the 1st phase, but self-reports are asked every hour.</li><li><strong>3rd Questionnaire</strong>: it collects feedback about the data collection and the Multiple Intelligence Scale.</li></ul>								</div>
 				</div>
 				<div class="elementor-element elementor-element-f6d54be elementor-widget elementor-widget-text-editor" data-id="f6d54be" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>The collected sensors are repoted in the following table.</p>
+									<p>The collected sensors are repoted in the following table.</p>
 <table class="table-striped table-hover caption-top table">
 <caption>List of sensors. The type column reports HW for hardware sensors, and SW for software sensors. The dataset paper describes each sensor.</caption>
 <colgroup>
@@ -603,43 +603,43 @@
 <td></td>
 </tr>
 </tbody>
-</table>						</div>
+</table>								</div>
 				</div>
 				<div class="elementor-element elementor-element-32fd962 thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="32fd962" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
-			<div class="sc_heading text-left"><h2 class="title">How to <span class="thim-color">get the Dataset</span> </h2><span class="line"></span></div>		</div>
+					<div class="sc_heading text-left"><h2 class="title">How to <span class="thim-color">get the Dataset</span> </h2><span class="line"></span></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-29ad1c0 elementor-widget elementor-widget-text-editor" data-id="29ad1c0" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>1.<strong>&nbsp;</strong><strong>Explore the Data Catalog</strong>&nbsp;– Browse the&nbsp;<a href="https://livepeople.disi.unitn.it/datasets/?collection_name=diversityone" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://livepeople.disi.unitn.it/datasets/?collection_name%3Ddiversityone&amp;source=gmail&amp;ust=1739475349431000&amp;usg=AOvVaw1ICc7QHlKPH06xrkJF4gct">data catalog</a>&nbsp;to identify the datasets relevant to your research.<br>2.<strong>&nbsp;</strong><strong>Submit a Request</strong> – <strong><a href="https://ds.datascientia.eu/marketplace/welcome">Visit the DataScientia Marketplace</a></strong> to submit your research proposal and request access to datasets. Fill out the request form, specifying your research purpose and selecting the desired datasets.&nbsp;<br>3.&nbsp;<strong>Receive Approval &amp; Download</strong>&nbsp;– Once your request is approved, you will receive an email with instructions on how to download the dataset.</p>
-<p>Additional information can be found on the&nbsp;<a href="https://livepeople.disi.unitn.it/faq" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://livepeople.disi.unitn.it/faq&amp;source=gmail&amp;ust=1739475349431000&amp;usg=AOvVaw36OsG5cs-0raQqhp6vSWRl">catalog</a>. For any issue or question, please feel free to contact us at <a href="mailto:datadistribution.knowdive@unitn.it" target="_blank" rel="noopener">datadistribution.knowdive@unitn.it</a>.</p>						</div>
+									<p>1.<strong>&nbsp;</strong><strong>Explore the Data Catalog</strong>&nbsp;– Browse the&nbsp;<a href="https://livepeople.disi.unitn.it/datasets/?collection_name=diversityone" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://livepeople.disi.unitn.it/datasets/?collection_name%3Ddiversityone&amp;source=gmail&amp;ust=1739475349431000&amp;usg=AOvVaw1ICc7QHlKPH06xrkJF4gct">data catalog</a>&nbsp;to identify the datasets relevant to your research.<br>2.<strong>&nbsp;</strong><strong>Submit a Request</strong> – <strong><a href="https://ds.datascientia.eu/marketplace/welcome">Visit the DataScientia Marketplace</a></strong> to submit your research proposal and request access to datasets. Fill out the request form, specifying your research purpose and selecting the desired datasets.&nbsp;<br>3.&nbsp;<strong>Receive Approval &amp; Download</strong>&nbsp;– Once your request is approved, you will receive an email with instructions on how to download the dataset.</p>
+<p>Additional information can be found on the&nbsp;<a href="https://livepeople.disi.unitn.it/faq" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://livepeople.disi.unitn.it/faq&amp;source=gmail&amp;ust=1739475349431000&amp;usg=AOvVaw36OsG5cs-0raQqhp6vSWRl">catalog</a>. For any issue or question, please feel free to contact us at <a href="mailto:datadistribution.knowdive@unitn.it" target="_blank" rel="noopener">datadistribution.knowdive@unitn.it</a>.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-5f710c0 thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="5f710c0" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
-			<div class="sc_heading text-left"><h2 class="title">How to <span class="thim-color">cite</span> </h2><span class="line"></span></div>		</div>
+					<div class="sc_heading text-left"><h2 class="title">How to <span class="thim-color">cite</span> </h2><span class="line"></span></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-c70a4e9 elementor-widget elementor-widget-text-editor" data-id="c70a4e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><code>@article{<wbr />busso2025diversityone,<br />
+									<p><code>@article{<wbr />busso2025diversityone,<br />
 title = {{{DiversityOne}}: {{A Multi-Country Smartphone Sensor Dataset}} for {{Everyday Life Behavior Modeling}}},<br />
 author = {Busso, Matteo and Bontempelli, Andrea and Javier Malcotti, Leonardo and Meegahapola, Lakmal and Kun, Peter and Diwakar, Shyam and Nutakki, Chaitanya and Rodas Britez, Marcelo and Xu, Hao and Song, Donglei and Ruiz-Correa, Salvador and Mendoza-Lara, Andrea-Rebeca and Gaskell, George and Stares, Sally and Bidoglia, Miriam and Ganbold, Amarsanaa and Chagnaa, Altangerel and Cernuzzi, Luca and Hume, Alethia and Chenu-Abente, Ronald and Alia Asiku, Roy and Kayongo, Ivan and Gatica-Perez, Daniel and De Götzen, Amalia and Bison, Ivano and Giunchiglia, Fausto},<br />
 journal={Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies},<br />
 year={2025},<br />
 publisher={ACM New York, NY, USA}<br />
 }<br />
-</code></p><p>Matteo Busso, Andrea Bontempelli, Leonardo Javier Malcotti, Lakmal Meegahapola, Peter Kun, Shyam Diwakar, Chaitanya Nutakki, Marcelo Rodas Britez,Hao Xu, Donglei Song, Salvador Ruiz-Correa, Andrea-Rebeca Mendoza-Lara, George Gaskell, Sally Stares, Miriam Bidoglia, Amarsanaa Ganbold, Altangerel Chagnaa, Luca Cernuzzi, Alethia Hume, Ronald Chenu-Abente, Roy Alia Asiku, Ivan Kayongo, Daniel Gatica-Perez, Amalia De Götzen, Ivano Bison, and Fausto Giunchiglia. (2025). DiversityOne: A Multi-Country Smartphone Sensor Dataset for Everyday Life Behavior Modeling. Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies.</p>						</div>
+</code></p><p>Matteo Busso, Andrea Bontempelli, Leonardo Javier Malcotti, Lakmal Meegahapola, Peter Kun, Shyam Diwakar, Chaitanya Nutakki, Marcelo Rodas Britez,Hao Xu, Donglei Song, Salvador Ruiz-Correa, Andrea-Rebeca Mendoza-Lara, George Gaskell, Sally Stares, Miriam Bidoglia, Amarsanaa Ganbold, Altangerel Chagnaa, Luca Cernuzzi, Alethia Hume, Ronald Chenu-Abente, Roy Alia Asiku, Ivan Kayongo, Daniel Gatica-Perez, Amalia De Götzen, Ivano Bison, and Fausto Giunchiglia. (2025). DiversityOne: A Multi-Country Smartphone Sensor Dataset for Everyday Life Behavior Modeling. Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-4c00c03 thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="4c00c03" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
-			<div class="sc_heading text-left"><h3 class="title">Studies based on DiversityOne </h3><span class="line"></span></div>		</div>
+					<div class="sc_heading text-left"><h3 class="title">Studies based on DiversityOne </h3><span class="line"></span></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-649c91d elementor-widget elementor-widget-text-editor" data-id="649c91d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<section><section><h3 data-anchor-id="section">2024</h3><ul><li>Meegahapola et al. 2024. <strong>M3BAT: Unsupervised Domain Adaptation for Multimodal Mobile Sensing with Multi-Branch Adversarial Training</strong>. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. <i> <a href="https://doi.org/10.48550/arXiv.2404.17391">Paper accessible h<span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif;"><span style="font-weight: var( --e-global-typography-text-font-weight );">ere</span></span></a>. </i><br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> social context</span>, <span style="color: #ff6600;">mood</span></li><li>Mäder et al. 2024. <strong>Learning About Social Context from Smartphone Data: Generalization Across Countries and Daily Life Moments</strong>. In Proceedings of the CHI Conference on Human Factors in Computing Systems. <a style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); font-size: var(--thim-font-body-font-size);" href="https://doi.org/10.48550/arXiv.2306.00919"><i>Paper accessible here</i></a>. <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> social context</span></li></ul></section><section><h3 data-anchor-id="section-1">2023</h3><ul><li>Meegahapola et al. 2023. <strong>Generalization and personalization of mobile sensing-based mood inference models: an analysis of college students in eight countries</strong>. Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies. <i><a href="https://publications.idiap.ch/attachments/papers/2022/Meegahapola_IMWUT_2022.pdf">Paper accessible here</a>.</i> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> mood</span></li><li>Assi et al. 2023. <strong>Complex daily activities, country-level diversity, and smartphone sensing: A study in Denmark, Italy, Mongolia, Paraguay, and UK</strong>. In Proceedings of the 2023 CHI conference on human factors in computing systems. <a href="https://arxiv.org/abs/2302.08591"><i>Paper accessible here.</i></a> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> daily activities</span></li><li>Kammoun et al. 2023. <strong>Understanding the Social Context of Eating with Multimodal Smartphone Sensing: The Role of Country Diversity</strong>. In Proceedings of the 25th International Conference on Multimodal Interaction. <i><a href="https://arxiv.org/abs/2306.00709">Paper accessible here</a>.</i> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> social context</span></li><li>Girardini et al. 2023. <strong>Adaptation of student behavioural routines during Covid-19: a multimodal approach</strong>. EPJ Data Science. <i><a href="https://doi.org/10.1140/epjds/s13688-023-00429-y">Paper accessible here</a>.</i> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> daily routines</span></li></ul></section><section><h3 data-anchor-id="section-2">2022</h3><ul><li>Bouton-Bessac et al. 2022. <strong>Your Day in Your Pocket: Complex Activity Recognition from Smartphone Accelerometers</strong>. In International Conference on Pervasive Computing Technologies for Healthcare. <a href="https://arxiv.org/abs/2301.06993"><i>Paper accessible here.</i></a> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> daily activities</span></li></ul></section></section>						</div>
+									<section><section><h3 data-anchor-id="section">2024</h3><ul><li>Meegahapola et al. 2024. <strong>M3BAT: Unsupervised Domain Adaptation for Multimodal Mobile Sensing with Multi-Branch Adversarial Training</strong>. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. <i> <a href="https://doi.org/10.48550/arXiv.2404.17391">Paper accessible h<span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif;"><span style="font-weight: var( --e-global-typography-text-font-weight );">ere</span></span></a>. </i><br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> social context</span>, <span style="color: #ff6600;">mood</span></li><li>Mäder et al. 2024. <strong>Learning About Social Context from Smartphone Data: Generalization Across Countries and Daily Life Moments</strong>. In Proceedings of the CHI Conference on Human Factors in Computing Systems. <a style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); font-size: var(--thim-font-body-font-size);" href="https://doi.org/10.48550/arXiv.2306.00919"><i>Paper accessible here</i></a>. <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> social context</span></li></ul></section><section><h3 data-anchor-id="section-1">2023</h3><ul><li>Meegahapola et al. 2023. <strong>Generalization and personalization of mobile sensing-based mood inference models: an analysis of college students in eight countries</strong>. Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies. <i><a href="https://publications.idiap.ch/attachments/papers/2022/Meegahapola_IMWUT_2022.pdf">Paper accessible here</a>.</i> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> mood</span></li><li>Assi et al. 2023. <strong>Complex daily activities, country-level diversity, and smartphone sensing: A study in Denmark, Italy, Mongolia, Paraguay, and UK</strong>. In Proceedings of the 2023 CHI conference on human factors in computing systems. <a href="https://arxiv.org/abs/2302.08591"><i>Paper accessible here.</i></a> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> daily activities</span></li><li>Kammoun et al. 2023. <strong>Understanding the Social Context of Eating with Multimodal Smartphone Sensing: The Role of Country Diversity</strong>. In Proceedings of the 25th International Conference on Multimodal Interaction. <i><a href="https://arxiv.org/abs/2306.00709">Paper accessible here</a>.</i> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> social context</span></li><li>Girardini et al. 2023. <strong>Adaptation of student behavioural routines during Covid-19: a multimodal approach</strong>. EPJ Data Science. <i><a href="https://doi.org/10.1140/epjds/s13688-023-00429-y">Paper accessible here</a>.</i> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> daily routines</span></li></ul></section><section><h3 data-anchor-id="section-2">2022</h3><ul><li>Bouton-Bessac et al. 2022. <strong>Your Day in Your Pocket: Complex Activity Recognition from Smartphone Accelerometers</strong>. In International Conference on Pervasive Computing Technologies for Healthcare. <a href="https://arxiv.org/abs/2301.06993"><i>Paper accessible here.</i></a> <br /><span style="color: #ff6600;"><span style="text-decoration: underline;"><span style="color: #333300; text-decoration: underline;">Keywords:</span></span> daily activities</span></li></ul></section></section>								</div>
 				</div>
 				<div class="elementor-element elementor-element-bf95429 thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="bf95429" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
-			<div class="sc_heading text-left"><h3 class="title">Related links </h3><span class="line"></span></div>		</div>
+					<div class="sc_heading text-left"><h3 class="title">Related links </h3><span class="line"></span></div>				</div>
 				</div>
 					</div>
 				</div>
@@ -647,15 +647,15 @@ publisher={ACM New York, NY, USA}<br />
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-9b344b0 elementor-widget elementor-widget-text-editor" data-id="9b344b0" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<ul><li>The dataset is the result of the European project ‘<em>Wenet &#8211; The internet of US</em>’. <a href="https://doi.org/10.3030/823783">See the project on Cordis</a>, <a href="https://internetofus.eu/">Project website</a></li><li>Datascientia projects: <a href="https://ds.datascientia.eu/community/public/projects/923b2c1c-166c-4f53-a274-c9d6eaa5ad4f">China</a>, <a href="https://ds.datascientia.eu/community/public/projects/3720e313-356e-4b7c-830e-be5cc7dbb3b3">Denmark</a>, <a href="https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c">India</a>, <a href="https://ds.datascientia.eu/community/public/projects/e464583f-32eb-44c1-a455-91503b02b303">Italy</a>, <a href="https://ds.datascientia.eu/community/public/projects/0dcf26af-cb8f-4f61-b0c5-802a1a1febbd">Mexico</a>, <a href="https://ds.datascientia.eu/community/public/projects/f6bfbca4-fbe7-488f-bcf1-a66ac1f5a93a">Mongolia</a>, <a href="https://ds.datascientia.eu/community/public/projects/6b8e2fb9-30d9-4fdb-9116-0cc7cc00ba3e">Paraguay</a>, <a href="https://ds.datascientia.eu/community/public/projects/ff8fb8d9-ecfd-4c39-bc09-c80eb4d90399">UK</a></li></ul><section><h3 data-anchor-id="news">News</h3><ul><li><strong>2025-02-05</strong>: We are organizing an open challenge on the DiversityOne dataset at UbiComp 2025. Visit the <a href="https://datascientiafoundation.github.io/diversityone-2025/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://datascientiafoundation.github.io/diversityone-2025/&amp;source=gmail&amp;ust=1742576974579000&amp;usg=AOvVaw0idG7iRHDnDHpXdtjBo3QL">workshop webpage</a> for more details.</li><li><strong>2025-02-03</strong>: The dataset paper has been accepted on UbiComp/Imwut.</li></ul></section><section><h3 data-anchor-id="contacts">Contacts</h3><p><a href="https://datascientia.eu/contact/">Contact us</a> for any questions or issues related to the datasets.</p></section>						</div>
+									<ul><li>The dataset is the result of the European project ‘<em>Wenet &#8211; The internet of US</em>’. <a href="https://doi.org/10.3030/823783">See the project on Cordis</a>, <a href="https://internetofus.eu/">Project website</a></li><li>Datascientia projects: <a href="https://ds.datascientia.eu/community/public/projects/923b2c1c-166c-4f53-a274-c9d6eaa5ad4f">China</a>, <a href="https://ds.datascientia.eu/community/public/projects/3720e313-356e-4b7c-830e-be5cc7dbb3b3">Denmark</a>, <a href="https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c">India</a>, <a href="https://ds.datascientia.eu/community/public/projects/e464583f-32eb-44c1-a455-91503b02b303">Italy</a>, <a href="https://ds.datascientia.eu/community/public/projects/0dcf26af-cb8f-4f61-b0c5-802a1a1febbd">Mexico</a>, <a href="https://ds.datascientia.eu/community/public/projects/f6bfbca4-fbe7-488f-bcf1-a66ac1f5a93a">Mongolia</a>, <a href="https://ds.datascientia.eu/community/public/projects/6b8e2fb9-30d9-4fdb-9116-0cc7cc00ba3e">Paraguay</a>, <a href="https://ds.datascientia.eu/community/public/projects/ff8fb8d9-ecfd-4c39-bc09-c80eb4d90399">UK</a></li></ul><section><h3 data-anchor-id="news">News</h3><ul><li><strong>2025-02-05</strong>: We are organizing an open challenge on the DiversityOne dataset at UbiComp 2025. Visit the <a href="https://datascientiafoundation.github.io/diversityone-2025/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://datascientiafoundation.github.io/diversityone-2025/&amp;source=gmail&amp;ust=1742576974579000&amp;usg=AOvVaw0idG7iRHDnDHpXdtjBo3QL">workshop webpage</a> for more details.</li><li><strong>2025-02-03</strong>: The dataset paper has been accepted on UbiComp/Imwut.</li></ul></section><section><h3 data-anchor-id="contacts">Contacts</h3><p><a href="https://datascientia.eu/contact/">Contact us</a> for any questions or issues related to the datasets.</p></section>								</div>
 				</div>
 				<div class="elementor-element elementor-element-ca66e53 thim-ekits-heading-text-left elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="ca66e53" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
-			<div class="sc_heading text-left"><h3 class="title">Acknowledgments </h3><span class="line"></span></div>		</div>
+					<div class="sc_heading text-left"><h3 class="title">Acknowledgments </h3><span class="line"></span></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-82d2b85 elementor-widget elementor-widget-text-editor" data-id="82d2b85" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>This research has received funding from the European Union’s Horizon 2020 FET Proactive project <a href="https://doi.org/10.3030/823783">“WeNet &#8211; The Internet of us”, grant agreement No. 823783</a>. We deeply thank all the volunteers across the world for their participation in the study. We thank the anonymous reviewers for their valuable feedback. We acknowledge the use of ChatGPT and Grammarly as tools for grammar refinement. University of Trento, Jilin University, National University of Mongolia and Universidad Católica “Nuestra Señora de la Asunción” have participated to the work described in this paper as part of the <a href="https://datascientia.eu/">DataScientia initiative</a>.</p>						</div>
+									<p>This research has received funding from the European Union’s Horizon 2020 FET Proactive project <a href="https://doi.org/10.3030/823783">“WeNet &#8211; The Internet of us”, grant agreement No. 823783</a>. We deeply thank all the volunteers across the world for their participation in the study. We thank the anonymous reviewers for their valuable feedback. We acknowledge the use of ChatGPT and Grammarly as tools for grammar refinement. University of Trento, Jilin University, National University of Mongolia and Universidad Católica “Nuestra Señora de la Asunción” have participated to the work described in this paper as part of the <a href="https://datascientia.eu/">DataScientia initiative</a>.</p>								</div>
 				</div>
 					</div>
 				</div>
@@ -663,678 +663,11 @@ publisher={ACM New York, NY, USA}<br />
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-25906f8 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="25906f8" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cpath d=&#039;M0,6c6,0,6,13,12,13S18,6,24,6&#039;/%3E%3C/svg%3E&quot;);">
+							<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cpath d=&#039;M0,6c6,0,6,13,12,13S18,6,24,6&#039;/%3E%3C/svg%3E&quot;);">
 			<span class="elementor-divider-separator">
 						</span>
 		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Expert-sourcing lexical diversity</title>
-		<link>/projects/expert-sourcing-lexical-diversity/</link>
-		
-		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
-		<pubDate>Wed, 25 Dec 2024 20:44:26 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=portfolio#038;p=26788</guid>
-
-					<description><![CDATA[Project Description Motivation The rise of deep learning, particularly large language models, has gained significant attention in NLP, but lexical-semantic resources (LSRs) remain crucial for tasks like machine translation and word sense disambiguation. However, many LSRs, such as wordnets, are &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="26788" class="elementor elementor-26788">
-				<div class="elementor-element elementor-element-795d3001 e-flex e-con-boxed e-con e-parent" data-id="795d3001" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-d938976 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="d938976" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h3 class="title">Project Description </h3><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-60d02ece elementor-widget elementor-widget-text-editor" data-id="60d02ece" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="size-medium wp-image-26790 alignleft" src="/wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity-300x300.jpeg" alt="" width="300" height="300" srcset="/wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity-300x300.jpeg 300w, /wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity-150x150.jpeg 150w, /wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity-100x100.jpeg 100w, /wp-content/uploads/2024/12/Expert-sourcing-lexical-diversity.jpeg 500w" sizes="(max-width: 300px) 100vw, 300px" /></p><h3><span style="font-weight: 400;"><strong>Motivation</strong></span></h3><p><span style="font-weight: 400;">The rise of deep learning, particularly large language models, has gained significant attention in NLP, but lexical-semantic resources (LSRs) remain crucial for tasks like machine translation and word sense disambiguation. However, many LSRs, such as wordnets, are heavily biased toward English due to reliance on the Princeton WordNet for translations. This bias results in incomplete or inaccurate resources for non-English languages, underrepresenting culture-specific concepts without direct English equivalents. Consequently, NLP systems face limitations in fully capturing linguistic diversity and the richness of human language.</span></p><p><span style="font-weight: 400;">Lexical untranslatability, or cross-lingual lexical gaps, represents a significant challenge in NLP, as certain words lack direct equivalents in other languages. For instance, Google Translate has erroneously rendered the phrase “do not give cider to your child” into Arabic as لا تعطي عصير التفاح لطفلك, which translates back to “do not give apple juice to your child”. This mistranslation arises from the absence of a precise term for “cider” in Arabic, exposing a lexical gap. Similarly, the Arabic term الاحمران, meaning “bread and meat”, has been mistranslated into English as “red wine”, illustrating another instance of untranslatability caused by the lack of a corresponding term in English. This issue is especially pronounced in low-resource languages, which are often underrepresented in multilingual lexical databases, exacerbating linguistic inequities.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-2e38e9b e-flex e-con-boxed e-con e-parent" data-id="2e38e9b" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-23666d9 e-grid e-con-full e-con e-child" data-id="23666d9" data-element_type="container">
-				<div class="elementor-element elementor-element-f5591a3 elementor-widget elementor-widget-text-editor" data-id="f5591a3" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<h3>The Problem</h3><p><span style="font-weight: 400;">The development of diversity-aware datasets for multilingual lexical resources in NLP continues to face persistent challenges. Despite the critical need to address cross-lingual lexical gaps, no systematic method exists for identifying these gaps, leading to a scarcity of large-scale resources for lexical untranslatability. While some progress has been made in specific domains such as kinship and color terminology, most fields remain underexplored, particularly for low-resource languages. These languages often lack comprehensive lexical databases, and automated approaches frequently fail to capture their complexity, further widening the digital divide in NLP applications. Additionally, most efforts in this area are unidirectional, focusing predominantly on translations from English to other languages. This approach not only limits cross-linguistic understanding but also reinforces English-centric biases, prioritizing English frameworks while overlooking the unique linguistic and cultural concepts of non-English languages.</span></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-71f5da8 elementor-widget elementor-widget-image" data-id="71f5da8" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-										<figure class="wp-caption">
-										<img decoding="async" src="/wp-content/uploads/2024/12/expert-lang-diversity-f1-400x413.jpg" title="expert-lang-diversity-f1" alt="expert-lang-diversity-f1" loading="lazy" />											<figcaption class="widget-image-caption wp-caption-text">Figure 1: The overlap for Arabic dialects and Indonesian languages.</figcaption>
-										</figure>
-							</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-6f7bfcd e-flex e-con-boxed e-con e-parent" data-id="6f7bfcd" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-62149d6 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="62149d6" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h3 class="title">The Solution </h3><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-c7fd419 elementor-widget elementor-widget-text-editor" data-id="c7fd419" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">This project introduces a systematic approach for creating diversity-aware datasets through an expert-driven method—a top-down method that draws on the expertise of language specialists.</span><span style="font-weight: 400;"> T</span><span style="font-weight: 400;">he expert-driven method, widely used for creating small-scale datasets of lexical gaps in domains such as kinship and color, is extended in this study to cover a wider range of languages, enabling the generation of large-scale, diversity-aware datasets. This approach employs two human translators working from a source language (SL) to a target language (TL) to systematically identify lexical gaps, followed by validation from a target language specialist. Inputs for this method include an SL word list with definitions and a linguistic resource, such as a dictionary. </span><span style="font-weight: 400;">A</span><span style="font-weight: 400;">n overview of the expert-driven method is depicted in</span><span style="font-weight: 400;"> Figure 2</span><span style="font-weight: 400;">.</span></p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26812 size-full" src="/wp-content/uploads/2024/12/expert-lang-diversity-f2.png" alt="" width="777" height="384" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f2.png 777w, /wp-content/uploads/2024/12/expert-lang-diversity-f2-300x148.png 300w, /wp-content/uploads/2024/12/expert-lang-diversity-f2-768x380.png 768w, /wp-content/uploads/2024/12/expert-lang-diversity-f2-600x297.png 600w" sizes="(max-width: 777px) 100vw, 777px" /></p><p style="text-align: center;">Figure 2: Methodology macro-steps and data sources</p><p><span style="font-weight: 400;">The process consists of four main steps:</span></p><ol><li><b> Contribution task generation:</b><span style="font-weight: 400;"> This step involves collecting SL data from the Universal Knowledge Core (UKC), a high-quality, diversity-aware multilingual lexicon that encompasses millions of words and meanings from over 2,300 languages. The data is then prepared in a spreadsheet file to be provided for translation into the TL. Each SL entry comprises a tuple (word, gloss), representing a term and its definition. Additionally, the data is formalized based on the UKC concept hierarchy.</span></li><li><b> Contribution collection:</b><span style="font-weight: 400;"> The actual contribution effort is carried out by a native speaker in the TL language. For each SL word in the spreadsheet, the translator determines whether it has an equivalent meaning in the TL or constitutes a lexical gap.</span></li><li><b> Lexicon-level validation:</b><span style="font-weight: 400;"> Provided words and gaps are evaluated and corrected by a language expert.</span></li><li><b>Concept-level validation:</b> New concepts and unclear contributions (i.e., words on the borderline) are verified by a lexico-semantic expert.</li></ol>						</div>
-				</div>
-				<div class="elementor-element elementor-element-be47b00 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="be47b00" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-20e239b e-flex e-con-boxed e-con e-parent" data-id="20e239b" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-f70e1d6 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="f70e1d6" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h3 class="title">Case Studies </h3><span class="line"></span></div>		</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-57bf0f4 e-flex e-con-boxed e-con e-parent" data-id="57bf0f4" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-52976d9 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="52976d9" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h4 class="title">Case Study 1:  <span class="thim-color"> Lexical diversity in kinship across Arabic dialects</span></h4></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-686c25c elementor-widget elementor-widget-text-editor" data-id="686c25c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Arabic, the official language of over 400 million people across 22 countries in the Middle East and North Africa, exhibits remarkable lexical diversity among its dialects. While Modern Standard Arabic (MSA) serves as the formal standard for academic writing and official communication, regional dialects display considerable variation. This study examines seven major Arabic dialects—Egyptian, Moroccan, Tunisian, Algerian, Gulf, and South Levantine (including Palestinian and Syrian)—to analyze their lexical diversity in the kinship domain. For instance, the Gulf dialect differentiates &#8220;mother’s elder brother&#8221; using the term الخال العود, whereas South Levantine and Moroccan dialects employ the general term الخال to refer to &#8220;mother’s brother,&#8221; regardless of age. This project investigates such distinctions to provide deeper insights into dialectal variation.</p><p>The UKC resource was the data source for developing the input dataset of kinship-independent language concepts and formalizing new word meanings identified in this experiment. For example, the top layer of the UKC, depicted in Figure 3, illustrates the brotherhood hierarchy. This study involved contributions from seven native speakers, each representing a distinct Arabic dialect. All contributors hold at least a master’s degree and were born and educated, at least through high school, within their respective native-speaking communities.</p><p>Seven experiments, one for each dialect, were conducted on 184 kinship concepts to identify lexical units and gaps using the expert-driven method. Native speakers provided lexical units or identified gaps for each concept. Linguistic resources such as the Almaany dictionary, Wiktionary, and the Fiqh AlArabiyya typology book were employed sequentially, supplemented by Google Search to ensure precise judgments. For instance, the high Google search count for ابن العمة (&#8220;son of father’s sister&#8221;, with 131.5 million hits) confirms its status as a lexical unit in Syrian, while the low count for الخؤولة (&#8220;maternal cousin&#8221;, with 158,000 hits) indicates a lexical gap.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-a9b7f0a elementor-widget elementor-widget-text-editor" data-id="a9b7f0a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="aligncenter wp-image-26811 size-large" src="/wp-content/uploads/2024/12/expert-lang-diversity-f3-1024x846.jpg" alt="" width="640" height="529" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f3-1024x846.jpg 1024w, /wp-content/uploads/2024/12/expert-lang-diversity-f3-300x248.jpg 300w, /wp-content/uploads/2024/12/expert-lang-diversity-f3-768x634.jpg 768w, /wp-content/uploads/2024/12/expert-lang-diversity-f3-600x496.jpg 600w, /wp-content/uploads/2024/12/expert-lang-diversity-f3.jpg 1500w" sizes="(max-width: 640px) 100vw, 640px" /></p><p style="text-align: center;">Figure 3: Structural elements in the UKC lexical database</p><p>This study led to the collection of 180 words, 1,108 lexical gaps, and 16 new concepts identified in the Arabic dialects. Detailed statistics on the collected words and gaps are presented in the following table. The new kinship concepts were integrated into the UKC by restructuring the supra-lingual concept layer within the domain hierarchy. For instance, the sibling hierarchy was expanded to include five new concepts related to brotherhood and five related to sisterhood. In the Arabic-Egyptian lexicon, as depicted in Figure 4, terms such as أخ في الرضاعة “breastfeeding brother” were added under a newly established concept for a brother. Additionally, أخ لأب “paternal brother” and أخ لأم “maternal brother” were linked to the half-brother concept. The newly introduced concepts and lexicalizations are represented as white nodes connected by blue lines.</p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26809" src="/wp-content/uploads/2024/12/expert-lang-diversity-t1.png" alt="" width="400" height="167" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-t1.png 594w, /wp-content/uploads/2024/12/expert-lang-diversity-t1-300x125.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26810 size-large" src="/wp-content/uploads/2024/12/expert-lang-diversity-f4-843x1024.jpg" alt="" width="640" height="777" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f4-843x1024.jpg 843w, /wp-content/uploads/2024/12/expert-lang-diversity-f4-247x300.jpg 247w, /wp-content/uploads/2024/12/expert-lang-diversity-f4-768x933.jpg 768w, /wp-content/uploads/2024/12/expert-lang-diversity-f4-600x729.jpg 600w, /wp-content/uploads/2024/12/expert-lang-diversity-f4.jpg 967w" sizes="(max-width: 640px) 100vw, 640px" /></p><p style="text-align: center;">Figure 4: Structural elements in the UKC database after merging new concepts.</p><p>The resulting lexical units and gaps were incorporated into the UKC lexicons and made accessible through the UKC website, which provides system users with online browsing, source materials, and data visualization tools. This data was also integrated into the Arabic UKC, an ongoing project focused on developing a UKC instance for Arabic dialects. Figure 5 illustrates the concept exploration functionality with an example of the term أبله “elder sister”.</p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26807 size-full" src="/wp-content/uploads/2024/12/expert-lang-diversity-f5.png" alt="" width="1600" height="493" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f5.png 1600w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-300x92.png 300w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-1024x316.png 1024w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-768x237.png 768w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-1536x473.png 1536w, /wp-content/uploads/2024/12/expert-lang-diversity-f5-600x185.png 600w" sizes="(max-width: 1600px) 100vw, 1600px" /></p><p style="text-align: center;">Figure 5: Homepage of the Arabic UKC ongoing project.</p><p>Figure 6 shows the overlaps between pairs of Arabic dialects over the kinship domain.</p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26808" src="/wp-content/uploads/2024/12/expert-lang-diversity-f6.jpg" alt="" width="400" height="380" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f6.jpg 451w, /wp-content/uploads/2024/12/expert-lang-diversity-f6-300x285.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p><p style="text-align: center;">Figure 6: The overlap (percentage of shared lexicalizations) for Arabic dialects.</p><p><span style="font-weight: 400;">Further details about the collected data are provided in this link: (</span><a href="https://github.com/HadiPTUK/kinship_dialect"><span style="font-weight: 400;">https://github.com/HadiPTUK/kinship_dialect</span></a><span style="font-weight: 400;">).</span></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/f402520c-aaf2-40cc-9736-93a1b1ff02c8">Lexical Diversity in Kinship: Arabic Dialects</a></li></ul>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-d2b0769 e-flex e-con-boxed e-con e-parent" data-id="d2b0769" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-b0b6bb9 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="b0b6bb9" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h4 class="title">Case Study 2:   <span class="thim-color">Lexical diversity in kinship across Indonesian languages</span></h4></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-b07891a elementor-widget elementor-widget-text-editor" data-id="b07891a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">Indonesia, the world&#8217;s fourth most populous country, is home to over 700 living languages, with Bahasa Indonesia serving as the national language. This study examines the linguistic diversity in kinship terms across three Indonesian languages: Standard Indonesian, Banjarese, and Javanese. The findings reveal unique lexical gaps among these languages. For example, Javanese has the term </span><i><span style="font-weight: 400;">ponakan jaler</span></i><span style="font-weight: 400;">, meaning </span><i><span style="font-weight: 400;">“</span></i><span style="font-weight: 400;">nephew</span><i><span style="font-weight: 400;">”</span></i><span style="font-weight: 400;">, which is absent in Banjarese, while Banjarese includes </span><i><span style="font-weight: 400;">gulu</span></i><span style="font-weight: 400;">, meaning “a parent’s second eldest sibling”, a term not found in Javanese.</span></p><p><span style="font-weight: 400;">Using the expert-driven methodology, this study utilized the UKC lexicon to formalize 184 kinship concepts in the input dataset, and new concepts explored in three Indonesian languages. Native speakers—one per language—were recruited from their respective communities to identify relevant terms and lexical gaps. In Banjarese, resources such as the </span><i><span style="font-weight: 400;">Kamus Bahasa Banjar Dialek Hulu-Indonesia</span></i><span style="font-weight: 400;"> and Google searches were employed to validate terms, particularly within the uncle/aunt subdomain. For instance, the Banjarese term </span><i><span style="font-weight: 400;">gulu</span></i><span style="font-weight: 400;">, meaning “a parent’s second eldest sibling”, was identified and verified through this process, marking its first documentation (a new concept) in the UKC.</span></p><p><span style="font-weight: 400;">The overall contribution effort resulted in the identification of 41 words and 517 lexical gaps across Indonesian, Javanese, and Banjarese. Furthermore, three previously unattested word meanings were identified and formalized as new concepts in this study. The table below provides a summary of the diversity items collected and identified in the Indonesian languages. </span></p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26804" src="/wp-content/uploads/2024/12/expert-lang-diversity-t2.png" alt="" width="501" height="131" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-t2.png 834w, /wp-content/uploads/2024/12/expert-lang-diversity-t2-300x78.png 300w, /wp-content/uploads/2024/12/expert-lang-diversity-t2-768x201.png 768w, /wp-content/uploads/2024/12/expert-lang-diversity-t2-600x157.png 600w" sizes="(max-width: 501px) 100vw, 501px" /></p><p><span style="font-weight: 400;">The new kinship concepts were integrated into the UKC by restructuring the supra-lingual concept layer within the domain hierarchy. Additionally, the resulting lexical units and gaps were incorporated into the UKC lexicons and made accessible through the UKC website, which provides system users with online browsing, source materials, and data visualization tools. This data was also integrated into the Indonesian UKC, an ongoing project focused on developing a UKC instance for Indonesian languages. </span><span style="font-weight: 400;">Figure 7</span><span style="font-weight: 400;"> illustrates the concept exploration functionality with an example of the Indonesian term </span><i><span style="font-weight: 400;">kaka</span></i><span style="font-weight: 400;">” meaning “elder sibling”.</span></p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26806 size-full" src="/wp-content/uploads/2024/12/expert-lang-diversity-f7.png" alt="" width="1600" height="456" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f7.png 1600w, /wp-content/uploads/2024/12/expert-lang-diversity-f7-300x86.png 300w, /wp-content/uploads/2024/12/expert-lang-diversity-f7-1024x292.png 1024w, /wp-content/uploads/2024/12/expert-lang-diversity-f7-768x219.png 768w, /wp-content/uploads/2024/12/expert-lang-diversity-f7-1536x438.png 1536w, /wp-content/uploads/2024/12/expert-lang-diversity-f7-600x171.png 600w" sizes="(max-width: 1600px) 100vw, 1600px" /></p><p style="text-align: center;">Figure 7: Homepage of the Indonesian UKC ongoing project.</p><p><span style="font-weight: 400;">Figure 8</span><span style="font-weight: 400;"> shows the overlaps between pairs of Indonesian languages over the kinship domain.</span></p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26805" src="/wp-content/uploads/2024/12/expert-lang-diversity-f8.jpg" alt="" width="400" height="374" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-f8.jpg 479w, /wp-content/uploads/2024/12/expert-lang-diversity-f8-300x281.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p><p style="text-align: center;">Figure 8: The overlap (percentage of shared lexicalizations) for Indonesian languages.</p><p><span style="font-weight: 400;">Further details about the collected data are provided in this link: (</span><a href="https://github.com/HadiPTUK/kinship_dialect"><span style="font-weight: 400;">https://github.com/HadiPTUK/kinship_dialect</span></a><span style="font-weight: 400;">).</span></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/a131c694-4b75-409d-937c-f1560c2c7de5">Lexical Diversity in Kinship: Indonesian Languages</a></li></ul>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-5b7168a e-flex e-con-boxed e-con e-parent" data-id="5b7168a" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-dcdc81b thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="dcdc81b" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h4 class="title">Case Study 3:   <span class="thim-color">Enrichment of KinDiv: A multilingual lexicon for kinship</span></h4></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-8000e80 elementor-widget elementor-widget-text-editor" data-id="8000e80" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">Our efforts in this experiment were part of the construction of the KinDiv lexicon project. This lexicon encompasses 1,911 words and identifies 37,370 gaps within the domain of kinship across 699 languages. A hybrid approach was employed in its construction, relying on three sources of evidence for lexicalization: Murdock&#8217;s lexicalization patterns, Wiktionary entries, and direct input from native speakers. The latter source represents our primary contribution to this study.</span></p><p><span style="font-weight: 400;">Using the expert-driven methodology, we utilized the UKC lexicon to enrich ten languages: Arabic, English, French, Hindi, Hungarian, Italian, Kannada, Malayalam, Mongolian, and Spanish. The UKC formalizes 184 kinship concepts in the input dataset, along with additional concepts explored in these languages. Native speakers—two per language (at least one of whom is a university instructor or a PhD student specializing in linguistics)—were recruited from their respective communities to provide lexicalization and gap information for all kinship concepts. This information served both as a basis for evaluating our approach and as a gold-standard reference for terms and gaps in languages where Murdock’s dataset or Wiktionary provided incorrect or incomplete data.</span></p><p><span style="font-weight: 400;">Our contribution to the development of the KinDiv lexicon includes 396 words and 1,503 lexical gaps, provided by native speakers of the ten languages. The table below provides a summary of the diversity items collected and identified in these languages. </span></p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26803" src="/wp-content/uploads/2024/12/expert-lang-diversity-t3.png" alt="" width="250" height="295" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-t3.png 325w, /wp-content/uploads/2024/12/expert-lang-diversity-t3-254x300.png 254w" sizes="(max-width: 250px) 100vw, 250px" /></p><p><span style="font-weight: 400;">Moreover, 107 new words and collocations were collected. Notably, many missing terms were expressed through restricted collocations in Spanish, Mongolian, and Hungarian. For example, Mongolian speakers contributed 23 new entries, including restricted collocations such as </span><i><span style="font-weight: 400;">ач хүү</span></i><span style="font-weight: 400;"> “son’s son” and </span><i><span style="font-weight: 400;">нагац ах</span></i><span style="font-weight: 400;"> “maternal uncle”. Similarly, Spanish examples include </span><i><span style="font-weight: 400;">hermano menor</span></i><span style="font-weight: 400;"> “younger brother” and </span><i><span style="font-weight: 400;">tío materno</span></i><span style="font-weight: 400;"> “maternal uncle”, while Hungarian contributions featured </span><i><span style="font-weight: 400;">fiúunoka</span></i><span style="font-weight: 400;"> “grandson” and </span><i><span style="font-weight: 400;">nagytestvér</span></i><span style="font-weight: 400;"> “elder sibling”. Additionally, French contributors identified certain colloquial terms and morphological alternations, such as </span><i><span style="font-weight: 400;">tata</span></i><span style="font-weight: 400;"> “aunt”, </span><i><span style="font-weight: 400;">papi</span></i><span style="font-weight: 400;"> “grandfather”, and </span><i><span style="font-weight: 400;">aîné</span></i><span style="font-weight: 400;"> “elder brother”.</span></p><p><span style="font-weight: 400;">For further details on the gathered contributions, refer to the dataset uploaded and integrated with the KinDiv resource (accessible by this link: (</span><a href="http://ukc.disi.unitn.it/index.php/kinship/"><span style="font-weight: 400;">http://ukc.disi.unitn.it/index.php/kinship/</span></a><span style="font-weight: 400;">), which is also available for direct download (accessible by this link: </span><a href="https://github.com/kbatsuren/KinDiv"><span style="font-weight: 400;">https://github.com/kbatsuren/KinDiv</span></a><span style="font-weight: 400;">)</span></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/130c9396-c939-406d-bb7b-79f9b7d4ae3c">Enrichment of KinDiv: A multilingual lexicon for kinship</a></li></ul>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-402bb30 e-flex e-con-boxed e-con e-parent" data-id="402bb30" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-069c4d6 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="069c4d6" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h4 class="title">Case Study 4:   <span class="thim-color">Lexical diversity in the basic-level category across six languages</span></h4></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-146b73a elementor-widget elementor-widget-text-editor" data-id="146b73a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">The basic-level category, such as common everyday concepts, is a central notion in cognitive psychology, referring to the level of categorization that achieves an optimal balance between informativeness and cognitive efficiency. Basic-level categories, such as </span><i><span style="font-weight: 400;">&#8220;chair&#8221;</span></i><span style="font-weight: 400;"> (as opposed to the superordinate </span><i><span style="font-weight: 400;">&#8220;furniture&#8221;</span></i><span style="font-weight: 400;"> or the subordinate </span><i><span style="font-weight: 400;">&#8220;rocking chair&#8221;</span></i><span style="font-weight: 400;">), are the most cognitively salient, frequently used, and often the first categories learned by children. They encapsulate a rich set of shared attributes while remaining broad enough to encompass diverse examples. Research indicates that objects at the basic level are recognized, named, and remembered more quickly than those at superordinate or subordinate levels. Consequently, basic-level categories play a fundamental role in structuring human knowledge and facilitating efficient communication.</span></p><p><span style="font-weight: 400;">Using the expert-driven methodology, this study utilized the UKC lexicon to formalize 968 common concepts from the input dataset, along with new concepts explored in six languages: Arabic, Turkish, Persian, Indonesian, Javanese, and Banjarese. Native speakers—one per language—were recruited from their respective communities to identify equivalent terms and lexical gaps. Linguistic resources, such as the Almaany dictionary and Wiktionary, were employed sequentially, with Google Search used to ensure precise judgments in Arabic. In Indonesian and Banjarese, resources such as the Kamus Bahasa Banjar Dialek Hulu-Indonesia and Google Search were similarly employed.</span></p><p><span style="font-weight: 400;">The overall contribution effort led to the identification of 5,649 words and 159 lexical gaps across the six languages. For example, the concept </span><i><span style="font-weight: 400;">“lair, den: the habitation of wild animals”</span></i><span style="font-weight: 400;"> represents a lexical gap in Arabic, where more specific terms exist, such as </span><i><span style="font-weight: 400;">(جُحْر)</span></i><span style="font-weight: 400;"> (</span><i><span style="font-weight: 400;">&#8220;a burrow, usually referring to the underground home of smaller animals like foxes, rabbits, or snakes&#8221;</span></i><span style="font-weight: 400;">) and </span><i><span style="font-weight: 400;">(عَرِين)</span></i><span style="font-weight: 400;"> (</span><i><span style="font-weight: 400;">&#8220;a den of a lion or other large wild cats&#8221;</span></i><span style="font-weight: 400;">). Another example is the concept </span><i><span style="font-weight: 400;">“campfire: a small outdoor fire for warmth or cooking (as at a camp)”</span></i><span style="font-weight: 400;">, which constitutes a lexical gap in both Turkish and Persian. The table below summarizes the diverse items collected and identified across these languages.&#8221;</span></p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26802 size-full" src="/wp-content/uploads/2024/12/expert-lang-diversity-t4.png" alt="" width="231" height="198" /></p><p><span style="font-weight: 400;">Further details about the collected data are provided in this link: </span><a href="https://github.com/HadiPTUK/generated_datasets"><span style="font-weight: 400;">https://github.com/HadiPTUK/generated_datasets</span></a></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/4ea0a2de-caf0-4d82-b27b-7243f4146f9f">Lexical diversity in the basic-level category across six languages</a></li></ul>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-e1052e0 e-flex e-con-boxed e-con e-parent" data-id="e1052e0" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-f591e82 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="f591e82" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h4 class="title">Case Study 5:   <span class="thim-color">Advancing the Arabic WordNet: Elevating Content Quality</span></h4></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-919ec90 elementor-widget elementor-widget-text-editor" data-id="919ec90" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">High-quality WordNets are essential for achieving accurate results in NLP applications that depend on such resources. However, the WordNets of many languages face significant challenges regarding correctness and completeness in their lexical and semantic representations. These challenges include incorrect lemmas, missing glosses and example sentences, and an often inadequate, Western-centric portrayal of linguistic semantics. Previous efforts have primarily focused on expanding lexical coverage while overlooking other critical qualitative aspects. In this study, we focus on the Arabic language and present a substantial revision of the Arabic WordNet, addressing multiple dimensions of lexico-semantic resource quality. Through the expert-driven methodology, we achieved significant improvements in correctness, completeness, and linguistic diversity, tackling key challenges in the Arabic WordNet. </span></p><p><span style="font-weight: 400;">Our efforts led to the enhancement of over 58% of synsets by supplementing missing components and correcting errors. Additionally, we introduced innovative features such as </span><i><span style="font-weight: 400;">phrasets</span></i><span style="font-weight: 400;">—combinations of words used to express synset meanings when no direct equivalent lemmas exist—and </span><i><span style="font-weight: 400;">lexical gaps</span></i><span style="font-weight: 400;">, enabling the explicit representation of untranslatable concepts. These additions enrich the resource&#8217;s ability to capture linguistic diversity. This work culminated in the release of AWN V3, a significantly more accurate, complete, and accessible version of the Arabic WordNet, optimized for both human and NLP applications.</span></p><p><span style="font-weight: 400;">The overall effort to collect contributions resulted in updating 5,554 synsets from AWN V1. Specifically, we added 2,726 new lemmas, 9,322 new glosses, and 12,204 new example sentences. Additionally, we identified 236 lexical gaps and introduced 701 phrasets. Furthermore, 8,751 incorrect lemmas were removed. A detailed breakdown of these contributions is presented in the table below, and additional information about the dataset can be accessed through the following link: </span><a href="https://github.com/HadiPTUK/AWN3.0"><span style="font-weight: 400;">https://github.com/HadiPTUK/AWN3.0</span></a></p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26801" src="/wp-content/uploads/2024/12/expert-lang-diversity-t5.png" alt="" width="400" height="175" srcset="/wp-content/uploads/2024/12/expert-lang-diversity-t5.png 589w, /wp-content/uploads/2024/12/expert-lang-diversity-t5-300x131.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/7f152487-df1b-409d-830a-73b531e2cee3">Advancing the Arabic WordNet: Elevating Content Quality</a></li></ul>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-d659f9b e-flex e-con-boxed e-con e-parent" data-id="d659f9b" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-eddafb9 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="eddafb9" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Acknowledgements </h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-d5d307d elementor-widget elementor-widget-text-editor" data-id="d5d307d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><i>We express our heartfelt gratitude to Prof. Rusma Noortyani and Shandy Darma for their exceptional coordination of the Indonesian experiments. Our sincere appreciation also goes to Kubra Korkmaz and Arya Torabi for their dedicated oversight of the Turkish and Persian experiments. Their commitment and efforts were instrumental to the success of this project.</i></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-fdf50aa e-flex e-con-boxed e-con e-parent" data-id="fdf50aa" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-7cbc9d9 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="7cbc9d9" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Publications and Research </h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-a2c1aa4 elementor-widget elementor-widget-text-editor" data-id="a2c1aa4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p style="text-align: left;"><strong>Key Paper(s):</strong><br /><b></b></p><ol><li aria-level="1"><span style="font-weight: 400;">Hadi Khalilia, Gábor Bella, Abed Alhakim Freihat, Shandy Darma and Fausto Giunchiglia. 2023. “Lexical diversity in kinship across languages and dialects”. </span><i><span style="font-weight: 400;">Frontiers in Psychology, 14</span></i><span style="font-weight: 400;">.</span><span style="font-weight: 400;"><br /></span><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1229697/full"><span style="font-weight: 400;">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1229697/full</span></a></li><li aria-level="1"><span style="font-weight: 400;">Abed Alhakim Freihat, Hadi Khalilia, Gábor Bella, and Fausto Giunchiglia. 2024. “Advancing the Arabic WordNet: Elevating Content Quality”. In Proceedings of the 6th Workshop on Open-Source Arabic Corpora and Processing Tools (OSACT) with Shared Tasks on Arabic LLMs Hallucination and Dialect to MSA Machine Translation co-located LREC-COLING 2024. </span><a href="https://aclanthology.org/2024.osact-1.9/"><span style="font-weight: 400;">https://aclanthology.org/2024.osact-1.9/</span></a></li></ol>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-72bd489 e-flex e-con-boxed e-con e-parent" data-id="72bd489" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-3d23a81 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="3d23a81" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Project Team </h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-f361520 elementor-widget thim-widget-gallery-images" data-id="f361520" data-element_type="widget" data-widget_type="thim-gallery-images.default">
-				<div class="elementor-widget-container">
-			<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/12/hadi-e1734786922843-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/12/hadi-e1734786922843-150x150.jpg 150w, /wp-content/uploads/2024/12/hadi-e1734786922843-300x300.jpg 300w, /wp-content/uploads/2024/12/hadi-e1734786922843-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Hadi Mahmoud Yousef Khalilia<br><small>Ph.D Student<br>University of Trento</small></h4></div><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/12/gabor-bella-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/12/gabor-bella-150x150.jpg 150w, /wp-content/uploads/2024/12/gabor-bella-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Gabor Bella<br><small>Associate Professor <br>IMT Atlantique</small></h4></div><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/12/Abed-Freihat-1.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/12/Abed-Freihat-1.png 150w, /wp-content/uploads/2024/12/Abed-Freihat-1-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Abed Alhakim Freihat<br><small>Assistant Professor<br>University of Trento</small></h4></div><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-150x150.jpg 150w, /wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-300x300.jpg 300w, /wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Fausto Giunchiglia<br><small>Professor<br>University of Trento</small></h4></div></div>		</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-84602cc e-flex e-con-boxed e-con e-parent" data-id="84602cc" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-bf2ee34 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="bf2ee34" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cpath d=&#039;M0,6c6,0,6,13,12,13S18,6,24,6&#039;/%3E%3C/svg%3E&quot;);">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>LingoGap</title>
-		<link>/projects/lingogap/</link>
-		
-		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
-		<pubDate>Thu, 19 Dec 2024 13:07:54 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=portfolio#038;p=26510</guid>
-
-					<description><![CDATA[Project Description Motivation The rise of deep learning, particularly large language models, has gained significant attention in NLP, but lexical-semantic resources (LSRs) remain crucial for tasks like machine translation and word sense disambiguation. However, many LSRs, such as wordnets, are &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="26510" class="elementor elementor-26510">
-				<div class="elementor-element elementor-element-795d3001 e-flex e-con-boxed e-con e-parent" data-id="795d3001" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-d938976 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="d938976" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h3 class="title">Project Description </h3><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-60d02ece elementor-widget elementor-widget-text-editor" data-id="60d02ece" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="size-medium wp-image-26511 alignleft" src="/wp-content/uploads/2024/12/LingoGap-300x300.jpg" alt="" width="300" height="300" srcset="/wp-content/uploads/2024/12/LingoGap-300x300.jpg 300w, /wp-content/uploads/2024/12/LingoGap-150x150.jpg 150w, /wp-content/uploads/2024/12/LingoGap-100x100.jpg 100w, /wp-content/uploads/2024/12/LingoGap.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></p><h3><span style="font-weight: 400;"><strong>Motivation</strong></span></h3><p><span style="font-weight: 400;">The rise of deep learning, particularly large language models, has gained significant attention in NLP, but lexical-semantic resources (LSRs) remain crucial for tasks like machine translation and word sense disambiguation. However, many LSRs, such as wordnets, are heavily biased toward English due to reliance on the Princeton WordNet for translations. This bias results in incomplete or inaccurate resources for non-English languages, underrepresenting culture-specific concepts without direct English equivalents. Consequently, NLP systems face limitations in fully capturing linguistic diversity and the richness of human language.</span></p><p><span style="font-weight: 400;">Lexical untranslatability, or cross-lingual lexical gaps, poses a significant challenge in NLP as some words lack direct equivalents across languages. For example, the Arabic word خالة (&#8220;mother&#8217;s sister&#8221;) has no English counterpart, while &#8220;sibling&#8221; has no precise equivalent in Arabic or other languages like Italian. These gaps affect machine translation and lexical resource quality, as seen in Google Translate&#8217;s flawed Arabic أنجب ابن عمه توأما rendering of &#8220;</span><i><span style="font-weight: 400;">his cousin gave birth to a twin</span></i><span style="font-weight: 400;">&#8220;, where it incorrectly implies a male giving birth due to the lack of an Arabic equivalent for &#8220;cousin&#8221;. The issue is more pronounced in low-resource languages, which are often underrepresented in multilingual lexical resources, further deepening linguistic disparities.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-2e38e9b e-flex e-con-boxed e-con e-parent" data-id="2e38e9b" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-77712fd e-grid e-con-full e-con e-child" data-id="77712fd" data-element_type="container">
-				<div class="elementor-element elementor-element-a344a94 elementor-widget elementor-widget-text-editor" data-id="a344a94" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<h3>The Problem</h3><p><span style="font-weight: 400;">The development of diversity-aware datasets for multilingual lexical resources in NLP faces persistent challenges. Despite the critical need to address cross-lingual lexical gaps, there remains no systematic method for identifying these gaps, resulting in a scarcity of large-scale resources for lexical untranslatability. While progress has been achieved in specific domains such as kinship and color terminology, most fields remain underexplored, particularly for low-resource languages. These languages often lack comprehensive lexical databases, and automated approaches fail to capture their complexity, further exacerbating the digital divide in NLP applications. Moreover, most efforts are unidirectional, focusing predominantly on translations from English to other languages. This approach not only limits cross-linguistic understanding but also perpetuates English-centric biases, prioritizing English frameworks and neglecting the unique linguistic and cultural concepts of non-English languages.</span></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-7b95ef1 elementor-widget elementor-widget-text-editor" data-id="7b95ef1" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="aligncenter wp-image-26528" src="/wp-content/uploads/2024/12/lingo-gap-illustration-245x300.png" alt="" width="400" height="489" srcset="/wp-content/uploads/2024/12/lingo-gap-illustration-245x300.png 245w, /wp-content/uploads/2024/12/lingo-gap-illustration-600x734.png 600w, /wp-content/uploads/2024/12/lingo-gap-illustration-500x612.png 500w, /wp-content/uploads/2024/12/lingo-gap-illustration-300x367.png 300w, /wp-content/uploads/2024/12/lingo-gap-illustration-400x489.png 400w, /wp-content/uploads/2024/12/lingo-gap-illustration.png 632w" sizes="(max-width: 400px) 100vw, 400px" /></p><p style="text-align: center;">Figure 1</p>						</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-6f7bfcd e-flex e-con-boxed e-con e-parent" data-id="6f7bfcd" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-62149d6 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="62149d6" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h3 class="title">The Solution </h3><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-c7fd419 elementor-widget elementor-widget-text-editor" data-id="c7fd419" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">This project introduces a systematic approach for creating diversity-aware datasets through a novel crowdsourcing method—a bottom-up approach that engages native speakers from the general public. Crowd workers compare lexemes between two languages, focusing on domains rich in lexical diversity, such as kinship and food. The LingoGap crowdsourcing website facilitates these comparisons via microtasks that identify equivalent terms, language-specific terms, and lexical gaps across languages.</span></p><p><span style="font-weight: 400;">This methodology enables bidirectional exploration of lexical diversity between any two languages—from the source language (SL) to the target language (TL) and vice versa. Unlike traditional methods, it does not rely on English as an intermediate (pivot) language, thereby avoiding biases that can distort linguistic diversity. By capturing lexical gaps and equivalent terms across languages, including low-resource ones, this scalable method provides a viable alternative to conventional approaches. It generates high-quality, diversity-rich data and supports application across diverse language pairs, contingent on the availability of bilingual native speakers.</span></p><p><img loading="lazy" decoding="async" class="aligncenter wp-image-26575" src="/wp-content/uploads/2024/12/lingo-gap-solution-img-300x152.png" alt="" width="700" height="354" srcset="/wp-content/uploads/2024/12/lingo-gap-solution-img-300x152.png 300w, /wp-content/uploads/2024/12/lingo-gap-solution-img-768x389.png 768w, /wp-content/uploads/2024/12/lingo-gap-solution-img-600x304.png 600w, /wp-content/uploads/2024/12/lingo-gap-solution-img.png 1020w" sizes="(max-width: 700px) 100vw, 700px" /></p><p style="text-align: center;">Figure 2</p><p><span style="font-weight: 400;">The initial inputs to our crowdsourcing methodology are an ordered source–target language pair and a specified semantic field. An overview of the crowdsourcing method is depicted in Figure 2. It includes three main steps:</span></p><ol><li><strong><i>Task generation:</i></strong><span style="font-weight: 400;"> A semi-automated process that generates two lists of lexical entries, one for each language, where each entry is a tuple (word, gloss), i.e., a term and its definition.</span></li><li><strong><i> Crowdsourcing:</i></strong><span style="font-weight: 400;"> This step utilizes the LingoGap crowdsourcing website to compare lexical entries from the SL with corresponding TL entries. Native speakers assess these entries to determine translation equivalence or identify lexical gaps. </span>LingoGap involves two primary roles: the task requester and the crowd worker. The task requester is responsible for the following critical functions: (1) constructing input datasets for both the SL and TL within the SF, (2) designing and creating crowdsourcing tasks, (3) overseeing task execution to ensure the quality of contributions, and (4) validating and exporting the finalized crowdsourced data. Additionally, the crowd worker’s role involves contributing to these tasks by identifying equivalent terms and lexical gaps in the TL.</li><li><strong><i>Validation:</i></strong> Lexical entries and gaps are evaluated automatically, followed by expert-based verification.</li></ol><h3>LingoGap Tool</h3><p><span style="font-weight: 400;">Researchers can access the LingoGap website using the following links:</span></p><ol><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Task Creation:</strong> Researchers (requesters) can create crowdsourcing tasks using this link: </span><a href="http://lingogap.disi.unitn.it/admin.jsp"><span style="font-weight: 400;">http://lingogap.disi.unitn.it/admin.jsp</span></a><span style="font-weight: 400;">.</span></li><li style="font-weight: 400;" aria-level="1"><strong>Task Participation:</strong> Crowdworkers can complete crowdsourcing tasks via this link: <a href="http://lingogap.disi.unitn.it/">http://lingogap.disi.unitn.it/</a>.</li></ol><h4>How it works?</h4><p><span style="font-weight: 400;">Step-by-step guidelines for using LingoGap are provided in this document, accessible via the following link: </span><a href="https://github.com/HadiPTUK/lingogap_instruction"><span style="font-weight: 400;">https://github.com/HadiPTUK/lingogap_instruction</span></a></p><p><em><span style="font-weight: 400;">Note: For assistance with importing source and target lists, uploading guidelines, or exporting the resulting data, please contact Hadi Khalilia, the project manager, via email at: </span><a href="mailto:hadi.khalilia@unitn.it"><span style="font-weight: 400;">hadi.khalilia@unitn.it</span></a><span style="font-weight: 400;">.</span></em></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-be47b00 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="be47b00" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-20e239b e-flex e-con-boxed e-con e-parent" data-id="20e239b" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-f70e1d6 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="f70e1d6" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h3 class="title">Case Studies </h3><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-327367c elementor-widget elementor-widget-text-editor" data-id="327367c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Case studies are mainly divided into two categories: </p><ol><li><span style="font-weight: 400;"><strong><em>Bilingual Experiments:</em></strong> We conducted these experiments between language pairs in two semantic domains: kinship and food terminology.  </span></li><li><b>Monolingual Experiments: </b>These experiments explore linguistic diversity by comparing language-independent concepts, such as kinship terms, with domain-specific words from a particular language.</li></ol>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-57bf0f4 e-flex e-con-boxed e-con e-parent" data-id="57bf0f4" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-dc643d3 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="dc643d3" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h3 class="title">Bilingual Experiments </h3><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-52976d9 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="52976d9" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h4 class="title">Case Study 1:   <span class="thim-color">English vs Arabic ( Food )</span></h4></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-686c25c elementor-widget elementor-widget-text-editor" data-id="686c25c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">This study focused on the food domain and involved two experiments, each representing a different direction. The first experiment involved crowdsourcing lexical diversity from English to Arabic, identifying gaps and equivalent words in Arabic. The second experiment explored the reverse direction, from Arabic to English, identifying lexical gaps and equivalent terms in English.</span></p>						</div>
-				</div>
-		<div class="elementor-element elementor-element-f6d7611 e-grid e-con-full e-con e-child" data-id="f6d7611" data-element_type="container">
-				<div class="elementor-element elementor-element-724908b elementor-widget elementor-widget-image" data-id="724908b" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-										<figure class="wp-caption">
-										<img loading="lazy" decoding="async" width="472" height="632" src="/wp-content/uploads/2024/12/lingogap-3a.png" class="attachment-full size-full wp-image-26760" alt="" srcset="/wp-content/uploads/2024/12/lingogap-3a.png 472w, /wp-content/uploads/2024/12/lingogap-3a-224x300.png 224w" sizes="(max-width: 472px) 100vw, 472px" />											<figcaption class="widget-image-caption wp-caption-text">(a) Matching of SL English words with TL</figcaption>
-										</figure>
-							</div>
-				</div>
-				<div class="elementor-element elementor-element-c570fa9 elementor-widget elementor-widget-image" data-id="c570fa9" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-										<figure class="wp-caption">
-										<img loading="lazy" decoding="async" width="472" height="632" src="/wp-content/uploads/2024/12/lingogap-3b.png" class="attachment-full size-full wp-image-26761" alt="" srcset="/wp-content/uploads/2024/12/lingogap-3b.png 472w, /wp-content/uploads/2024/12/lingogap-3b-224x300.png 224w" sizes="(max-width: 472px) 100vw, 472px" />											<figcaption class="widget-image-caption wp-caption-text">(b) Matching of SL Arabic words with TL</figcaption>
-										</figure>
-							</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-a9b7f0a elementor-widget elementor-widget-text-editor" data-id="a9b7f0a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p style="text-align: center;">Figure 3: Crowdsourcing experiments between SL and TL in two directions</p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/aef86b5b-5742-4529-9c46-71b5142f91bd">English to Arabic</a></li><li><a href="https://ds.datascientia.eu/community/public/projects/db9ec453-4775-43d6-a89a-85a9600b9781">Arabic to English</a></li></ul>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-d2b0769 e-flex e-con-boxed e-con e-parent" data-id="d2b0769" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-b0b6bb9 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="b0b6bb9" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h4 class="title">Case Study 2:   <span class="thim-color">Indonesian vs Banjarese ( Food )</span></h4></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-b07891a elementor-widget elementor-widget-text-editor" data-id="b07891a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">This study focused on the food domain and involved two experiments, each representing a different direction. The first experiment involved crowdsourcing lexical diversity from Indonesian to Banjarese, identifying gaps and equivalent words in Banjarese. The second experiment explored the reverse direction, from Banjarese to Indonesian, identifying lexical gaps and equivalent terms in Indonesian.</span></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/c3d242b7-4ddc-419f-bffd-38d9f9760a05">Indonesian to Banjarese</a></li><li><a href="https://ds.datascientia.eu/community/public/projects/eacdb797-f8bf-45d4-8909-a4fd50ae8910">Banjarese to Indonesian</a></li></ul>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-5b7168a e-flex e-con-boxed e-con e-parent" data-id="5b7168a" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-dcdc81b thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="dcdc81b" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h4 class="title">Case Study 3:   <span class="thim-color">English vs Persian ( Kinship )</span></h4></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-8000e80 elementor-widget elementor-widget-text-editor" data-id="8000e80" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">This study focused on the kinship domain and involved two experiments, each representing a different direction. The first experiment involved crowdsourcing lexical diversity from English to Persian, identifying gaps and equivalent words in Persian. The second experiment explored the reverse direction, from Persian to English, identifying lexical gaps and equivalent terms in English.</span></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/bedff19e-40ec-42d0-9600-1cd1014cf09b">English to Persian</a></li><li><a href="https://ds.datascientia.eu/community/public/projects/34e04eb6-c776-4e54-a0e6-465a72f6031f">Persian to English</a></li></ul>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-402bb30 e-flex e-con-boxed e-con e-parent" data-id="402bb30" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-069c4d6 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="069c4d6" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h4 class="title">Case Study 4:   <span class="thim-color">Arabic vs Persian ( Kinship )</span></h4></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-146b73a elementor-widget elementor-widget-text-editor" data-id="146b73a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">This study focused on the kinship domain and involved two experiments, each representing a different direction. The first experiment involved crowdsourcing lexical diversity from Arabic to Persian, identifying gaps and equivalent words in Persian. The second experiment explored the reverse direction, from Persian to Arabic, identifying lexical gaps and equivalent terms in Arabic.</span></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/65467d7d-35fa-4756-a840-83c1eb6abad6">Arabic to Persian</a></li><li><a href="https://ds.datascientia.eu/community/public/projects/44cb6bef-54f0-47cd-80b5-86e25a86f4ab">Persian to Arabic</a></li></ul>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-e1052e0 e-flex e-con-boxed e-con e-parent" data-id="e1052e0" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-f591e82 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="f591e82" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h4 class="title">Case Study 5:   <span class="thim-color">English vs Turkish ( Kinship )</span></h4></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-919ec90 elementor-widget elementor-widget-text-editor" data-id="919ec90" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">This study focused on the kinship domain and involved two experiments, each representing a different direction. The first experiment involved crowdsourcing lexical diversity from English to Turkish, identifying gaps and equivalent words in Turkish. The second experiment explored the reverse direction, from Turkish to English, identifying lexical gaps and equivalent terms in English.</span></p><h5>Related Experiments</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/c9d0a079-56de-4878-a164-ebe75c61910f">English to Turkish</a></li><li><a href="https://ds.datascientia.eu/community/public/projects/74f2f22a-ef58-4a8a-ae19-6aa7e55c5da0">Turkish to English</a></li></ul>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-c6629f3 e-flex e-con-boxed e-con e-parent" data-id="c6629f3" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-c3e6802 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="c3e6802" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h3 class="title">Monolingual Experiments </h3><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-0339680 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="0339680" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h4 class="title">Case Study 1:   <span class="thim-color">Kinship concepts vs. Turkish</span></h4></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-37c45fe elementor-widget elementor-widget-text-editor" data-id="37c45fe" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">This experiment is a monolingual study that explores lexicalisations and lexical gaps by comparing language-independent kinship concepts with Turkish kinship terms. First, the kinship concepts were formalized using the UKC’s concept hierarchy, which includes the following subdomains: grandparents, grandchildren, siblings, uncles and aunts, nephews and nieces, and cousins. Second, a dataset of kinship concepts, comprising 197 kinship concepts defined in English, was collected from the UKC using the Exporter tool, a built-in UKC management service designed to extract data efficiently. For the Turkish dataset, which contains 38 terms, we employed a semantic filtering method based on a Python script to extract kinship terms from KeNet (the Turkish WordNet).</span></p><p><span style="font-weight: 400;">Four native Turkish speakers, proficient in English and selected through high-quality crowd selection criteria, participated as volunteers. They were assigned seven crowdsourcing tasks, each focusing on the kinship concepts of a specific subdomain, except for the “cousins” subdomain. For the “cousins” subdomain, two tasks were conducted due to its large number of concepts (56 concepts) included in this subdomain. The overall results of this experiment include the identification of 164 lexical gaps, 33 equivalent words, and four new kinship concepts in Turkish, with an average Alpha score of 0.88.</span></p><h5>Related Experiment</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/95718721-14dd-4c6e-a3c3-ab7a3e2cf4bc"><span style="font-weight: 400;">Kinship concepts vs. Turkish</span></a></li></ul>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-5d8c066 e-flex e-con-boxed e-con e-parent" data-id="5d8c066" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-23826db thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="23826db" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h4 class="title">Case Study 2:   <span class="thim-color">Kinship concepts vs. Persian</span></h4></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-b512206 elementor-widget elementor-widget-text-editor" data-id="b512206" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">This experiment is a monolingual study that explores lexicalisations and lexical gaps by comparing language-independent kinship concepts with Persian kinship terms. First, the kinship concepts were formalized using the UKC’s concept hierarchy, which includes the following subdomains: grandparents, grandchildren, siblings, uncles and aunts, nephews and nieces, and cousins. Second, a dataset of kinship concepts, comprising 197 kinship concepts defined in English, was collected from the UKC using the Exporter tool, a built-in UKC management service designed to extract data efficiently. For the Persian dataset, which contains 38 terms, we employed a semantic filtering method based on a Python script to extract kinship terms from FarsNet (the Persian WordNet).</span></p><p><span style="font-weight: 400;">Three native Persian speakers, proficient in English and selected through high-quality crowd selection criteria, participated as volunteers. They were assigned seven crowdsourcing tasks, each focusing on the kinship concepts of a specific subdomain, except for the “cousins” subdomain. For the “cousins” subdomain, two tasks were conducted due to its large number of concepts (56 concepts) included in this subdomain. The overall results of this experiment include the identification of 163 lexical gaps and 34 equivalent words in Persian, with an average Alpha score of 0.85.</span></p><h5>Related Experiment</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/6ca5612a-1bd8-4b1d-b69e-2a4e32ce3521"><span style="font-weight: 400;">Kinship concepts vs. Persian</span></a></li></ul>						</div>
-				</div>
-				<div class="elementor-element elementor-element-ff91ab0 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="ff91ab0" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h4 class="title">Case Study 3:   <span class="thim-color">Kinship concepts vs. Maba</span></h4></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-5b3369c elementor-widget elementor-widget-text-editor" data-id="5b3369c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>This experiment is a monolingual study that explores lexicalisations and lexical gaps by comparing language-independent kinship concepts with Maba kinship terms. First, the kinship concepts were formalized using the UKC’s concept hierarchy, which includes the following subdomains: grandparents, grandchildren, siblings, uncles and aunts, nephews and nieces, and cousins. Second, a dataset of kinship concepts, comprising 197 kinship concepts defined in English, was collected from the UKC using the Exporter tool, a built-in UKC management service designed to extract data efficiently. For the Maba dataset, which comprises 20 kinship terms, we employed a fieldwork-based data collection method, gathering terms directly from native Maba speakers.</p>
-<p>Three native Maba speakers, proficient in English and selected through high-quality crowd selection criteria, participated as volunteers. They were assigned seven crowdsourcing tasks, each focusing on the kinship concepts of a specific subdomain, except for the “cousins” subdomain. For the “cousins” subdomain, two tasks were conducted due to its large number of concepts (56 concepts) included in this subdomain. The overall results of this experiment include the identification of 177 lexical gaps and 20 equivalent words in Maba, with an average Alpha score of 0.90. Further details about the crowdsourced lexicalisations and lexical gaps in Maba are provided in the link below.</p>
-<p><a href="https://github.com/HadiPTUK/generated_datasets/blob/main/Crowdsourced%20Maba%20kinship%20with%20a%20comparison%20with%20kinship%20concepts.csv">https://github.com/HadiPTUK/generated_datasets/blob/main/Crowdsourced%20Maba%20kinship%20with%20a%20comparison%20with%20kinship%20concepts.csv</a></p>
-<h5><strong>Related Experiment</strong></h5>
-<ul>
-<li><a href="https://ds.datascientia.eu/community/public/projects/c0fce09e-86e0-4d28-80eb-a823097d7a37"><span style="font-weight: 400;">Kinship concepts vs. Maba</span></a></li>
-</ul>						</div>
-				</div>
-				<div class="elementor-element elementor-element-172c8d5 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="172c8d5" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-d659f9b e-flex e-con-boxed e-con e-parent" data-id="d659f9b" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-eddafb9 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="eddafb9" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Acknowledgements </h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-d5d307d elementor-widget elementor-widget-text-editor" data-id="d5d307d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">We sincerely thank Prof. Rusma Noortyani and Shandy Darma for coordinating the Indonesian-Banjarese experiments, Kubra Korkmaz for coordinating the Turkish experiments, and Arya Torabi for overseeing the Persian experiments. Their dedication and efforts were essential to the success of this project.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-fdf50aa e-flex e-con-boxed e-con e-parent" data-id="fdf50aa" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-7cbc9d9 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="7cbc9d9" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Publications and Research </h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-a2c1aa4 elementor-widget elementor-widget-text-editor" data-id="a2c1aa4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p style="text-align: left;"><strong>Key Paper:</strong><br /><span style="font-weight: 400;">Hadi Khalilia, Jahna Otterbacher, et al. Crowdsourcing Lexical Diversity. 2024. arXiv: 2410.23133 [cs.CL]. url: </span><a href="https://arxiv.org/abs/2410.23133"><span style="font-weight: 400;">https://arxiv.org/abs/2410.23133</span></a><span style="font-weight: 400;"> (cit. on pp. 1–3, 6, 29, 30).</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-72bd489 e-flex e-con-boxed e-con e-parent" data-id="72bd489" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-3d23a81 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="3d23a81" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Project Team </h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-f361520 elementor-widget thim-widget-gallery-images" data-id="f361520" data-element_type="widget" data-widget_type="thim-gallery-images.default">
-				<div class="elementor-widget-container">
-			<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/12/hadi-e1734786922843-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/12/hadi-e1734786922843-150x150.jpg 150w, /wp-content/uploads/2024/12/hadi-e1734786922843-300x300.jpg 300w, /wp-content/uploads/2024/12/hadi-e1734786922843-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Hadi Mahmoud Yousef Khalilia<br><small>Ph.D Student<br>University of Trento</small></h4></div><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/12/JahnaOtterbacher-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/12/JahnaOtterbacher-150x150.jpg 150w, /wp-content/uploads/2024/12/JahnaOtterbacher-300x300.jpg 300w, /wp-content/uploads/2024/12/JahnaOtterbacher-100x100.jpg 100w, /wp-content/uploads/2024/12/JahnaOtterbacher.jpg 480w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Jahna Otterbacher<br><small>Associate Professor<br>Open University of Cyprus</small></h4></div><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/12/gabor-bella-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/12/gabor-bella-150x150.jpg 150w, /wp-content/uploads/2024/12/gabor-bella-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Gabor Bella<br><small>Associate Professor <br>IMT Atlantique</small></h4></div><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-150x150.jpg 150w, /wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-300x300.jpg 300w, /wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Fausto Giunchiglia<br><small>Professor<br>University of Trento</small></h4></div></div>		</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-84602cc e-flex e-con-boxed e-con e-parent" data-id="84602cc" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-bf2ee34 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="bf2ee34" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cpath d=&#039;M0,6c6,0,6,13,12,13S18,6,24,6&#039;/%3E%3C/svg%3E&quot;);">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>SmartUnitn 2</title>
-		<link>/projects/su2/</link>
-		
-		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
-		<pubDate>Mon, 21 Oct 2024 10:43:18 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=portfolio#038;p=23905</guid>
-
-					<description><![CDATA[Project Description In the Italian university system, academic performance is an important issue that influences students&#8217; drop-out, the time length of acquiring a degree, and the chance of finding a (good) job. Empirical research has shown that student time management between academics and other &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="23905" class="elementor elementor-23905">
-				<div class="elementor-element elementor-element-8e0ed52 e-flex e-con-boxed e-con e-parent" data-id="8e0ed52" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-68ca3f6 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="68ca3f6" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h3 class="title">Project Description </h3><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-ba6fe4b elementor-widget elementor-widget-text-editor" data-id="ba6fe4b" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="alignleft" src="/wp-content/uploads/2024/10/su2-300x300.png" alt="" width="300" height="300" /><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">In the Italian university system, academic performance is an </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">important issue that influences students&#8217; drop-out, the time </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">length of acquiring a degree, and the chance of finding a </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">(good) job. Empirical research has shown that student time </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">management between academics and other daily activities is </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">an important aspect that impacts students&#8217; performance. </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">However, students&#8217; time allocation received little interest in </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">sociological research, partially due to surveys usually asking </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">students to report the total amount of time they spend on any </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">given activity. These tools suffer from different problems that </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">may affect the quality of time use data, e.g., data availability </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">and reliability.  </span></p><p>With the rise of the people-centric sensing paradigm, wherein <span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">sensors embedded in smart devices are used to collect </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">massive continuous data streams involving the behavior of </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">humans and social networks. These datasets offer unique </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">opportunities to investigate university students&#8217; diversity and </span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight ); color: var(--thim-font-body-color); font-size: var(--thim-font-body-font-size);">daily routines from a multi-layered perspective.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-72ef1ba e-flex e-con-boxed e-con e-parent" data-id="72ef1ba" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-92f9a69 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="92f9a69" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h3 class="title">Project Goal </h3><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-d6105e1 elementor-widget elementor-widget-text-editor" data-id="d6105e1" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The SmartUnitn2 (SU2) project is the first iteration of the Smart University (SU) project (was carried out at the University of Trento (Italy) in late 2016). The final goal of the SU2 project (as well as the SU project) is to collect everyday life data from students of different degrees to understand how their spatio-temporal organization affects their academic performances.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-2e69347 e-flex e-con-boxed e-con e-parent" data-id="2e69347" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-cbd4342 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="cbd4342" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h3 class="title">The Solution </h3><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-8f05a8d elementor-widget elementor-widget-text-editor" data-id="8f05a8d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="size-medium wp-image-23925 alignright" src="/wp-content/uploads/2024/10/su2solution-300x145.jpg" alt="" width="300" height="145" srcset="/wp-content/uploads/2024/10/su2solution-300x145.jpg 300w, /wp-content/uploads/2024/10/su2solution.jpg 485w" sizes="(max-width: 300px) 100vw, 300px" /></p><p>The dataset collection experiments were conducted based on an ontological representation of the situational context and a set of reference standards, e.g., HETUS and the Big Five. The overall data collection process includes two stages. The first was to collect synchronic data through a set of three standard close-ended questionnaires, which allowed the collection of self-reported general data on material on social practices. The second was to collect diachronic data via a smartphone app called iLog, which allowed us to observe the students’ daily routines.</p><p>The first two weeks were dedicated to the sample recruitment. This was performed by sending two initial questionnaires, i.e., an invitation and an assessment of habits. The remaining month was dedicated to collecting data through the iLog app installed on the student smartphones. A help-desk was active during the data collection period to solve students&#8217; problems.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-24d283b e-flex e-con-boxed e-con e-parent" data-id="24d283b" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-6a794c7 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="6a794c7" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Case Study:   <span class="thim-color">SmartUnitn2 data collection experiments at University of Trento</span></h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-d62cd13 elementor-widget elementor-widget-text-editor" data-id="d62cd13" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The case study SU2 project (as well as the SU project) is to collect everyday life data from students of different degrees to understand how their spatio-temporal organization affects their academic performances.</p><h5>Project Community Webpage:</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/56b68b9f-dd48-4f1b-9faa-195d7f66f1c3">SU2 Case Study Webpage &#8211;  DataScientia Community</a></li></ul><h5>Output Datasets:</h5><ul><li><a href="http://livepeople.datascientia.eu/datasets/?collection_name=smartunitn2">2018-Smart Unitn 2-Trento</a></li></ul>						</div>
-				</div>
-				<div class="elementor-element elementor-element-6dff101 elementor-widget elementor-widget-text-editor" data-id="6dff101" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<h4><img loading="lazy" decoding="async" class="size-medium wp-image-23947 alignright" src="/wp-content/uploads/2024/10/su2statistics-300x289.jpg" alt="" width="300" height="289" srcset="/wp-content/uploads/2024/10/su2statistics-300x289.jpg 300w, /wp-content/uploads/2024/10/su2statistics.jpg 485w" sizes="(max-width: 300px) 100vw, 300px" /></h4><h4>Statistics about Output Dataset</h4><p>The SU2 project collect the personal data about the everyday life from 318 students at University of Trento by i-Log applications installed on their smartphones. Then the SU2 dataset filtered out the personal data from 158 university students.</p><p>The SU2 Dataset contains:</p><ul><li>synchronic data about profile, e.g., demographics, routines, personality.</li><li>diachronic data over a period of four weeks, including data from 34 sensors, both hardware and software, e.g., Accelerometer Event, Battery Charge Event, Cellular Network, which are associated to around 100+ thousand self-reported annotations from participants.</li></ul>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-2bd8194 e-flex e-con-boxed e-con e-parent" data-id="2bd8194" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-4206ae6 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="4206ae6" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Acknowledgements </h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-4fc3224 elementor-widget elementor-widget-text-editor" data-id="4fc3224" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>This research has received funding from “DELPhi &#8211; DiscovEring Life Patterns” funded by the MIUR (PRIN) 2017.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-fcce631 e-flex e-con-boxed e-con e-parent" data-id="fcce631" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-ae49b5f elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="ae49b5f" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Publications and Research </h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-de93271 elementor-widget elementor-widget-text-editor" data-id="de93271" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Key Paper:</strong><br />Fausto Giunchiglia, Matteo Busso, Mattia Zeni, Ivano Bison. (2022). A survey on students&#8217; daily routines and academic performance at the University of Trento.</p><p>Available at: <a href="https://iris.unitn.it/retrieve/e3835199-ed48-72ef-e053-3705fe0ad821/2022_DataScientia_LivePeople_SmartUnitn2.pdf" target="_new" rel="noopener">https://iris.unitn.it/retrieve/e3835199-ed48-72ef-e053-3705fe0ad821/2022_DataScientia_LivePeople_SmartUnitn2.pdf</a></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-ec8ac07 e-flex e-con-boxed e-con e-parent" data-id="ec8ac07" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-3cff35b elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="3cff35b" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Project Team </h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-9f8d0c9 elementor-widget thim-widget-gallery-images" data-id="9f8d0c9" data-element_type="widget" data-widget_type="thim-gallery-images.default">
-				<div class="elementor-widget-container">
-			<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><a target=_self href="http://fausto.disi.unitn.it/"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-150x150.jpg 150w, /wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-300x300.jpg 300w, /wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Fausto Giunchiglia<br><small>Professor<br>University of Trento</small></h4></a></div><div class="item"><a target=_self href="https://webapps.unitn.it/du/it/Persona/PER0003991/Didattica"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/10/ivano-bison-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/10/ivano-bison-150x150.png 150w, /wp-content/uploads/2024/10/ivano-bison-300x300.png 300w, /wp-content/uploads/2024/10/ivano-bison-100x100.png 100w, /wp-content/uploads/2024/10/ivano-bison.png 600w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Ivano Bison<br><small>Professor<br>University of Trento</small></h4></a></div><div class="item"><a target=_self href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX1%252FZhSwg%252FDHoyrXx8IQx3B1ox2m8zZsncOzZdGGxUshamMtvM2a7mHN4"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/download-2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/download-2-150x150.jpg 150w, /wp-content/uploads/2024/07/download-2-100x100.jpg 100w, /wp-content/uploads/2024/07/download-2.jpg 288w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Matteo Busso<br><small>Postdoctoral researcher<br>University of Trento</small></h4></a></div><div class="item"><a target=_self href="http://knowdive.disi.unitn.it/ph-d-mattia-zeni/"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/10/mattia.zeni_-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/10/mattia.zeni_-150x150.jpg 150w, /wp-content/uploads/2024/10/mattia.zeni_-300x300.jpg 300w, /wp-content/uploads/2024/10/mattia.zeni_-100x100.jpg 100w, /wp-content/uploads/2024/10/mattia.zeni_.jpg 512w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Mattia Zeni<br><small>University of Trento</small></h4></a></div></div>		</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-81e0c80 e-flex e-con-boxed e-con e-parent" data-id="81e0c80" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-d2a8b09 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="d2a8b09" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cpath d=&#039;M0,6c6,0,6,13,12,13S18,6,24,6&#039;/%3E%3C/svg%3E&quot;);">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Big-Thick Data</title>
-		<link>/projects/su2osm/</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 01 Mar 2016 04:46:23 +0000</pubDate>
-				<guid isPermaLink="false">http://educationwp.thimpress.com/thim-2/?post_type=portfolio&#038;p=4430</guid>
-
-					<description><![CDATA[Project Description Smart devices, such as smartphones and smartwatches, collect vast amounts of big data, including GPS, Bluetooth, Wi-Fi, and accelerometer data, mainly in the form of sensor data. This type of data is often categorized as a specific kind &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="4430" class="elementor elementor-4430">
-				<div class="elementor-element elementor-element-795d3001 e-flex e-con-boxed e-con e-parent" data-id="795d3001" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-d938976 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="d938976" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading text-center"><h3 class="title">Project Description </h3><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-60d02ece elementor-widget elementor-widget-text-editor" data-id="60d02ece" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<h2><img loading="lazy" decoding="async" class="size-medium wp-image-23906 alignleft" src="/wp-content/uploads/2024/10/su2osm-300x300.jpg" alt="" width="300" height="300" srcset="/wp-content/uploads/2024/10/su2osm-300x300.jpg 300w, /wp-content/uploads/2024/10/su2osm-150x150.jpg 150w, /wp-content/uploads/2024/10/su2osm-100x100.jpg 100w, /wp-content/uploads/2024/10/su2osm.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></h2><p>Smart devices, such as smartphones and smartwatches, collect vast amounts of big data, including GPS, Bluetooth, Wi-Fi, and accelerometer data, mainly in the form of sensor data. This type of data is often categorized as a specific kind of big data. While big data has been extensively utilized in predicting various aspects of human behavior, such as in the fields of Human Activity Recognition, Health Monitoring, and Autonomous Vehicles, it has a major limitation in that it it is not thick, that is, it does not carry information about the context within which it was generated, hence often used with ambiguous meanings.</p><p>To ensure data is self-explanatory and meaningful, it is necessary to explicitly represent the context, encompassing what was accomplished by a person, how and why, and in which overall situation. Context becomes necessary when using the same dataset for multiple prediction tasks, as the same sensor value may convey different meanings in varying contextual scenarios. Furthermore, context is crucial for understanding human behaviour, particularly in social or personal life, which is always context-sensitive. To address the problem of big data de-contextualization, we turn to the notion of Big-Thick Data. Big-Thick Data is big data complemented with thick data, that is, observational data about context.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-2e38e9b e-flex e-con-boxed e-con e-parent" data-id="2e38e9b" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-77712fd e-grid e-con-full e-con e-child" data-id="77712fd" data-element_type="container">
-				<div class="elementor-element elementor-element-a344a94 elementor-widget elementor-widget-text-editor" data-id="a344a94" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<h3>Project Goal</h3><p>This project aims to integrate various data, e.g., sensors, answers to machine questions, and self-reports, into Big-Thick Data as highly contextualized data by modeling Observation Contexts. We first define the two main components of Observation Contexts, Personal Context and Reference Context, which encode the world from a person&#8217;s subjective view and an objective all-encompassing view of a third-party observer. Then the observation context is built by composing (a part of) the objective reference context and with (parts of) one or more subjective personal contexts based on shared identifying information, e.g., names, identifiers, spatio-temporal coordinates. The unification process is flexible depending on the specific purpose, thus allowing for different types of questions about the users’ behavior and the surrounding world, also for multiple different answers to the same question.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-4014329 elementor-widget elementor-widget-thim-single-images" data-id="4014329" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2 svg-hover"><img loading="lazy" decoding="async" width="1836" height="865" src="/wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569.jpeg" class="attachment-full size-full" alt="" srcset="/wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569.jpeg 1836w, /wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569-300x141.jpeg 300w, /wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569-1024x482.jpeg 1024w, /wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569-768x362.jpeg 768w, /wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569-1536x724.jpeg 1536w, /wp-content/uploads/2016/03/conheca-os-4-maiores-desafios-do-uso-do-big-data-analytics-em-uma-empresa-e1726837390569-600x283.jpeg 600w" sizes="(max-width: 1836px) 100vw, 1836px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info">Image Credits: <a href="http://eduardomagrani.com/">Eduardo Magrani</a></span></div></div>		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-6f7bfcd e-flex e-con-boxed e-con e-parent" data-id="6f7bfcd" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-62149d6 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="62149d6" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h3 class="title">The Solution </h3><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-c7fd419 elementor-widget elementor-widget-text-editor" data-id="c7fd419" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>We integrate Big-Thick Data as highly contextualized data by modeling Observation Contexts. Observation Contexts are based on two main components: one or more users’ Personal Contexts and a Reference Context. A personal context encodes a person&#8217;s subjective view of the world, e.g., where she is, what she is doing, who she is with, and her mood. We model personal contexts, in time, as Personal Big-Thick Data obtained by integrating Personal Big-Data, e.g., sensor or social media data, with user provided descriptions of the current situation, e.g., human answers to machine questions and human self-reports. A reference context provides a user-independent objective all-encompassing view of a third-party observer. It keeps track of the environment within which users are operating, defined in terms of a reference observation period and a reference location, e.g., one day and the city of Trento. The reference context can be built out of any type of spatio-temporal (big) data, e.g., OpenStreetMap (OSM) or the Italian Spatial Data portal.</p><p>The observation context is built by composing (a part of) the objective reference context and with (parts of) one or more subjective personal contexts based on shared identifying information, e.g., names, identifiers, spatio-temporal coordinates. We call this process Context Unification. Context unification is a flexible process depending on the specific purpose, thus allowing for different types of questions about the users’ behaviour and the world around them and, also, for multiple different answers to the same question.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-20e239b e-flex e-con-boxed e-con e-parent" data-id="20e239b" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-f70e1d6 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="f70e1d6" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Case Study:   <span class="thim-color">SmartUnitn-2 and OpenStreetMap Integration</span></h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-327367c elementor-widget elementor-widget-text-editor" data-id="327367c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The case study is to integrate SmartUnitn-Two (SU2) dataset and OpenStreetMap (OSM) dataset from Geofabrik, as SU2OSM Big-Thick Data. The SU2 dataset describes sequences of personal contexts from 158 students of University of Trento over four weeks. The OSM dataset represents a reference context in Trentino. The integrated SU2OSM dataset unifies the personal contexts with the reference context, which represents the personal daily lives of these students.</p><h5>Project Community Webpage:</h5><ul><li><a href="https://ds.datascientia.eu/community/public/projects/8b227ff7-803e-4f7b-8765-75ea2b7a8113">SU2OSM Case Study Webpage &#8211;  DataScientia Community</a></li></ul><h5>Datasets Used:</h5><ul><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SmartUnitn2-Trento-Time%20Diaries/">2018-SU2-Trento-Time Diaries</a></li><li><a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SmartUnitn2-Trento-Location%20RD/">2018-SU2-Trento-Location Event</a></li><li><a href="https://download.geofabrik.de/europe/italy/nord-est.html">OpenStreetMap (OSM) dataset</a> in North-East of Italy from Geofabrik, ( nord-est-latest-free.shp.zip )</li></ul><h5>Output Datasets:</h5><ul><li><a href="http://livepeople.datascientia.eu/datasets/?collection_name=smartunitn2osm">2024-SU2OSM-Trento-Big Thick Data</a></li></ul>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-d659f9b e-flex e-con-boxed e-con e-parent" data-id="d659f9b" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-eddafb9 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="eddafb9" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Acknowledgements </h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-d5d307d elementor-widget elementor-widget-text-editor" data-id="d5d307d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The first and most important thanks goes to <a href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX1%252BDcXIyZtw79M5coIPrOahzxcVvxuYXb3B6q1bbWqLQSqeOGncqVEOy">Matteo Busso</a> for inventing the term big-thick data. The work described in this project could be done thanks to the amazing group of colleagues in the <a href="http://knowdive.disi.unitn.it/">KnowDive</a> Group: Mayukh Bagchi, Simone Bocca, <a href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX187wMKjvvJmLqSmYY8eX5Q3gM3r%252B75ZKu4iWGpl2glX2HjL9QRFz0Ri">Andrea Bontempelli</a>, <a href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX18cXQdG0cmoMJgSOEzc8%252BHOTi5YtB60OWNQBcCp7zWbEFYcn4X8f9xb">Ali Hamza</a>, Leonardo Havier Malcotti, Ivan Kayongo, Alessio Zamboni, Haonan Zhao, etc. This research has received funding from the European Union’s Horizon 2020 FET Proactive project “<a href="https://www.internetofus.eu/">WeNet – The Internet of us</a>”, grant agreement No 823783.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-fdf50aa e-flex e-con-boxed e-con e-parent" data-id="fdf50aa" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-7cbc9d9 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="7cbc9d9" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Publications and Research </h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-a2c1aa4 elementor-widget elementor-widget-text-editor" data-id="a2c1aa4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Key Paper:</strong><br />Giunchiglia, F., &amp; Li, X. (2024). Big-Thick Data generation via reference and personal context unification. <em>ECAI 2024: 26th European Conference on Artificial Intelligence</em>.<br />Available at: <a href="https://arxiv.org/abs/2409.05883" target="_new" rel="noopener">https://arxiv.org/abs/2409.05883</a></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-72bd489 e-flex e-con-boxed e-con e-parent" data-id="72bd489" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-3d23a81 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="3d23a81" data-element_type="widget" data-widget_type="thim-heading.default">
-				<div class="elementor-widget-container">
-			<div class="sc_heading"><h4 class="title">Project Team </h4><span class="line"></span></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-3893d18 elementor-widget thim-widget-gallery-images" data-id="3893d18" data-element_type="widget" data-widget_type="thim-gallery-images.default">
-				<div class="elementor-widget-container">
-			<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-150x150.jpg 150w, /wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-300x300.jpg 300w, /wp-content/uploads/2024/07/trento_-_il_prof._fausto_giunchiglia_presidente_di_trento_rise._-_05_03_2013_-_panato_imagefull-727x1024-1-e1726842233997-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Fausto Giunchiglia<br><small>Professor<br>University of Trento</small></h4></div><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2024/09/Xiaoyue-Li-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/09/Xiaoyue-Li-150x150.jpg 150w, /wp-content/uploads/2024/09/Xiaoyue-Li-300x300.jpg 300w, /wp-content/uploads/2024/09/Xiaoyue-Li-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Xiaoyue Li<br><small>Researcher <br>University of Trento</small></h4></div></div>		</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-84602cc e-flex e-con-boxed e-con e-parent" data-id="84602cc" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-bf2ee34 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="bf2ee34" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;1&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cpath d=&#039;M0,6c6,0,6,13,12,13S18,6,24,6&#039;/%3E%3C/svg%3E&quot;);">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
+						</div>
 				</div>
 					</div>
 				</div>

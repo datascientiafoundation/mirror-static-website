@@ -12,7 +12,7 @@
 	<atom:link href="/category/ds-news/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Tue, 08 Apr 2025 17:10:45 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Jun 2025 14:59:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,890 +28,185 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>The Role of Education in Shaping AI&#8217;s Future</title>
-		<link>/the-role-of-education-in-shaping-ais-future/</link>
-					<comments>/the-role-of-education-in-shaping-ais-future/#respond</comments>
+		<title>Conversation on Advanced KGE Teaching</title>
+		<link>/conversation-on-advanced-knowledge-engineering-teaching/</link>
+					<comments>/conversation-on-advanced-knowledge-engineering-teaching/#respond</comments>
 		
 		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 16:55:53 +0000</pubDate>
+		<pubDate>Mon, 12 May 2025 15:31:27 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[Education]]></category>
-		<guid isPermaLink="false">/?p=27787</guid>
+		<category><![CDATA[LiveData]]></category>
+		<guid isPermaLink="false">/?p=27838</guid>
 
-					<description><![CDATA[Matteo Busso, who teaches DataScientia&#8217;s course on AI in Everyday Life at the University of Trento, shared his insights in a recent interview for the Master in Communication of Science and Innovation (Scicomm) program there. He highlighted the crucial role &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="27787" class="elementor elementor-27787">
-				<div class="elementor-element elementor-element-a089f3a e-flex e-con-boxed e-con e-parent" data-id="a089f3a" data-element_type="container">
+					<description><![CDATA[At DataScientia, we aim to promote and facilitate the advancement of AI that is transparent, reusable, person-centred, ethical, diversity-aware, and truly useful for humanity. One of our key initiatives in this direction is the Knowledge Graph Engineering (KGE) course. This &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="27838" class="elementor elementor-27838">
+				<div class="elementor-element elementor-element-16fd9c79 e-flex e-con-boxed e-con e-parent" data-id="16fd9c79" data-element_type="container">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-cf64525 elementor-widget elementor-widget-text-editor" data-id="cf64525" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-23f82517 elementor-widget elementor-widget-text-editor" data-id="23f82517" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-27789" src="/wp-content/uploads/2025/04/Matteo-header.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2025/04/Matteo-header.png 1584w, /wp-content/uploads/2025/04/Matteo-header-300x75.png 300w, /wp-content/uploads/2025/04/Matteo-header-1024x256.png 1024w, /wp-content/uploads/2025/04/Matteo-header-768x192.png 768w, /wp-content/uploads/2025/04/Matteo-header-1536x384.png 1536w, /wp-content/uploads/2025/04/Matteo-header-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>						</div>
+									<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-27842" src="/wp-content/uploads/2025/05/Simone.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2025/05/Simone.png 1584w, /wp-content/uploads/2025/05/Simone-300x75.png 300w, /wp-content/uploads/2025/05/Simone-1024x256.png 1024w, /wp-content/uploads/2025/05/Simone-768x192.png 768w, /wp-content/uploads/2025/05/Simone-1536x384.png 1536w, /wp-content/uploads/2025/05/Simone-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-20665e79 elementor-widget elementor-widget-text-editor" data-id="20665e79" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span style="font-weight: 400">At DataScientia, we aim to promote and facilitate the advancement of AI that is transparent, reusable, person-centred, ethical, diversity-aware, and truly useful for humanity. One of our key initiatives in this direction is the Knowledge Graph Engineering (KGE) course. This course not only teaches students how to transform fragmented data into structured and meaningful knowledge but also empowers them with the capacity to innovate in AI while staying true to ethical and human values.</span></p><p><span style="font-weight: 400">Today, we decided to talk to Simone Bocca, LiveData Coordinator at DataScientia, and ask him about the Master’s course in KGE, where he has been a Teaching Assistant at the University of Trento since 2021. Besides, Simone has vast expertise in knowledge graphs, a PhD in Information Engineering and Computer science, and academic experience in Mozambique and Mongolia with local universities. Today, he will share insights on the approach to knowledge engineering for DataScientia and tell us more about what makes the Master’s course on KGE so special. </span></p>								</div>
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-175919b8 e-flex e-con-boxed e-con e-parent" data-id="175919b8" data-element_type="container">
+		<div class="elementor-element elementor-element-6db0b714 e-flex e-con-boxed e-con e-parent" data-id="6db0b714" data-element_type="container">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-3f24a526 elementor-widget elementor-widget-text-editor" data-id="3f24a526" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-23d6b433 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="23d6b433" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
-							<p>Matteo Busso, who teaches DataScientia&#8217;s course on AI in Everyday Life at the University of Trento, shared his insights in a recent interview for the Master in Communication of Science and Innovation (Scicomm) program there. He highlighted the crucial role of education in navigating AI&#8217;s transformative impacts on science, research, and society. Through his work at DataScientia, Matteo advocates for the importance of education in shaping AI&#8217;s future and ensuring its responsible application in science and communication.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-461bc401 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="461bc401" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
+							<div class="elementor-divider">
 			<span class="elementor-divider-separator">
 						</span>
 		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-763c1190 elementor-widget elementor-widget-text-editor" data-id="763c1190" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<ul><li><strong>Tetiana</strong>:<em><em><em><em> <span style="font-weight: 400">Hello Simone! Could you briefly tell our readers about the core idea of this course?</span></em></em></em></em><p> </p></li><li><strong>Simone</strong>: Hello Tetiana, sure, KGE is an advanced course initially designed as a 58-hour curriculum, but it is also offered in a 48-hour format. It&#8217;s a master &#8216;s-level course, so students should already have a background in data management, including databases, logical models, ontologies, and even Python programming for handling data. The course focuses on the principles of data reuse and the creation of Knowledge Graphs (KGs). The course aims to teach how to create data for data services, using a methodology called iTelos, which is constantly being revised for better use, thanks to the feedback of the students of this course. It aims to equip participants with the skills to construct KGs for data services using this methodology.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2151e12a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="2151e12a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-65ff2bec elementor-widget elementor-widget-text-editor" data-id="65ff2bec" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<ul><li><strong><strong>Tetiana: </strong></strong><em>That sounds intriguing. Could you explain a bit more about what the iTelos methodology involves?<br /><br /></em></li><li><strong>Simone</strong>: <span style="font-weight: 400">Certainly. iTelos is a methodology designed to help students learn how to reuse data more effectively. It teaches them how to reduce the cost of creating and combining data, while also supporting a circular data economy that facilitates sharing and reusing data among different users. Furthermore, iTelos is continuously updated based on feedback from students of the course.</span></li></ul>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-7af814a2 e-flex e-con-boxed e-con e-parent" data-id="7af814a2" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-462614a0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="462614a0" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-600310f7 elementor-widget elementor-widget-text-editor" data-id="600310f7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="flex-shrink-0 flex flex-col relative items-end"><div class="pt-0"><div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full"><div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"><ul><li><strong>Tetiana</strong>: <em><span style="font-weight: 400">Thank you for the explanation. Could you also tell us how this course has been shared beyond your university with DataScientia’s partner universities in other countries?</span></em><p> </p></li><li><strong>Simone</strong>: This course has been held for many years here, in Trento, Italy, and more recently expanded to China about four years ago, and Mongolia just last year.</li></ul></div></div></div></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-437bbcbd elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="437bbcbd" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-34bcb7af elementor-widget elementor-widget-text-editor" data-id="34bcb7af" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="flex-shrink-0 flex flex-col relative items-end"><div class="pt-0"><div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full"><div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"><ul><li><strong>Tetiana</strong>: <em>That’s impressive! So, do you travel to these places to teach?<br /><br /></em></li><li><strong>Simone</strong>: I had the opportunity to teach this course in Mongolia. In China, however, local professors taught independently and used the same materials.</li></ul></div></div></div></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-19648861 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="19648861" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4f82e86a elementor-widget elementor-widget-text-editor" data-id="4f82e86a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="flex-shrink-0 flex flex-col relative items-end"><div class="pt-0"><div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full"><div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"><ul><li><strong>Tetiana</strong>: <em>But apart from China, Mongolia, and Italy, are there possibilities for expanding the course to other regions?<br /><br /></em></li><li><strong>Simone</strong>: Absolutely, there are possibilities. The course is designed to be adaptable for different universities and countries. The main challenge for future expansion is ensuring institutions have the necessary technical prerequisites. Not every university may currently offer the foundational courses or tools that support the KGE curriculum. However, we will be exploring opportunities for expansion into other regions in the future.</li></ul></div></div></div></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3e3f1c27 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3e3f1c27" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d302647 elementor-widget elementor-widget-text-editor" data-id="d302647" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="flex-shrink-0 flex flex-col relative items-end"><div class="pt-0"><div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full"><div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"><ul><li><strong>Tetiana</strong>: <em>Are there plans to make the course more accessible for those with less advanced understanding of knowledge graphs? <br /><br /></em></li><li><strong>Simone</strong>: Yes, we may develop a version of the course that’s more accessible for individuals with a less technical background. This project has the potential to impact the learning experience of non-experts significantly. We plan to introduce semi-automatic tools that allow them to work efficiently with and apply data, enabling students with limited technical expertise to engage with the content effectively. We are working towards this goal and making some progress.</li></ul></div></div></div></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-52581f5e elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="52581f5e" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6571ad28 elementor-widget elementor-widget-text-editor" data-id="6571ad28" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="flex-shrink-0 flex flex-col relative items-end"><div class="pt-0"><div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full"><div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"><ul><li><strong>Tetiana</strong>: <em>How would you explain knowledge graphs to people unfamiliar with them?</em><p> </p></li><li><div class="flex max-w-full flex-col flex-grow"><div class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="1d8c6224-0056-4260-9961-a577760b1291" data-message-model-slug="gpt-4o-mini"><div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]"><div class="markdown prose w-full break-words dark:prose-invert light"><p><b>Simone</b>: I’ve never really thought about it this way before, but if I were explaining it to my young daughter, who has no background in research, I’d say a knowledge graph is just data that’s all around us, like the air. If you take data seriously, it’s a graph. For example, your connections with friends form a graph in a social network. A knowledge graph represents those relationships. I try to keep it simple so people don’t feel overwhelmed, even if they’re new to the concept.</p></div></div></div></div></li></ul></div></div></div></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-5f5215ac elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="5f5215ac" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4bc1bf63 elementor-widget elementor-widget-text-editor" data-id="4bc1bf63" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="flex-shrink-0 flex flex-col relative items-end"><div class="pt-0"><div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full"><div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"><ul><li><strong>Tetiana</strong>: It’s a great and ambitious initiative. Thanks so much, Simone. This has been really insightful. I’m confident many people will be excited to learn about this course. Wishing you all the best in your continued teaching and future endeavours.<br /><br /></li><li><strong>Simone</strong>: Thank you, Tetiana.</li></ul></div></div></div></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-1facfa27 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1facfa27" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-af1d34c elementor-widget elementor-widget-text-editor" data-id="af1d34c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Through our partnerships with institutions in Italy, China, and Mongolia, we are not just teaching advanced technical skills — we’re building a community of forward-thinking data engineers who will shape the future of ethical AI. We’re excited to expand our DataScientia network, engaging more students and institutions in our mission to create transparent, reusable, and human-centred AI solutions.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-48f9d5a0 elementor-widget elementor-widget-text-editor" data-id="48f9d5a0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><a href="https://unitn-knowledge-graph-engineering.github.io/KGE2024-website/"><span style="font-weight: 400">Learn more about KGE Course from syllabus</span></a></p>
+<p><b>Keywords: </b><span style="font-weight: 400">Knowledge Graph Engineering, KGE, iTelos, data reuse, iTelos methodology, knowledge graphs, KG,&nbsp; Master&#8217;s course, data services, data management, global education, China, Mongolia, data science, AI innovation, international collaboration.</span></p>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-1afb1d3 e-flex e-con-boxed e-con e-parent" data-id="1afb1d3" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-1338acff e-con-full e-flex e-con e-child" data-id="1338acff" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-156e9c0a e-con-full e-flex e-con e-child" data-id="156e9c0a" data-element_type="container">
+				<div class="elementor-element elementor-element-13392375 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="13392375" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-widget-container">
+					<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-624f60af e-con-full e-flex e-con e-child" data-id="624f60af" data-element_type="container">
+				<div class="elementor-element elementor-element-1d2cd06 elementor-widget elementor-widget-text-editor" data-id="1d2cd06" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>								</div>
+				</div>
 				</div>
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-3c4a8e70 e-flex e-con-boxed e-con e-parent" data-id="3c4a8e70" data-element_type="container">
+		<div class="elementor-element elementor-element-50ffddf3 e-flex e-con-boxed e-con e-parent" data-id="50ffddf3" data-element_type="container">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-5123e894 elementor-widget elementor-widget-text-editor" data-id="5123e894" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-437fd065 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="437fd065" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
-							<p>&nbsp;In the interview, Matteo explored how AI is reshaping the landscape of science communication and research. He discussed how AI enhances the accessibility of scientific content, supports data-driven insights, which enables more dynamic engagement. However, Matteo also stressed that AI’s potential can only be realized through proper education. He highlighted how critical it is to understand AI’s limitations, avoid misinformation, and address the growing “AI divide” among nations thta lead tech and that lack resources. He stresses that unequal access to computational resources hinders global participation. As someone who works for <span data-start="958" data-end="974">DataScientia</span>, Matteo is committed to ensuring that education is at the heart of AI development, preparing future generations to not only use AI effectively but also to think critically about its applications.</p>						</div>
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
 				</div>
-				<div class="elementor-element elementor-element-172ea55c elementor-widget elementor-widget-text-editor" data-id="172ea55c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Matteo’s insights are part of a broader global conversation about AI’s influence on scientific fields such as climate science, healthcare, and data-driven research. His role at <span data-start="1360" data-end="1376">DataScientia</span> is directly tied to this conversation, as the organization is dedicated to advancing AI education. By fostering an understanding of AI across all levels, <span data-start="1531" data-end="1547">DataScientia</span> helps ensure that AI is used responsibly and that diverse communities are included in the development and application of this transformative technology.</p><p>AI is revolutionizing scientific work, but with these advancements come significant challenges. Matteo emphasizes the importance of education to prepare future AI professionals to understand AI’s nuances, its ethical implications, and its potential to address global challenges. Education is key to ensuring that AI serves diverse communities equitably and responsibly. At <span data-start="2099" data-end="2115">DataScientia</span>, the belief is that empowering individuals with the knowledge and skills to create, manage, and apply AI in an informed way is essential for overcoming these challenges and ensuring AI’s benefits are accessible to everyone.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-6e409d3 elementor-widget elementor-widget-text-editor" data-id="6e409d3" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<article class="w-full text-token-text-primary" dir="auto" data-testid="conversation-turn-14" data-scroll-anchor="true"><div class="text-base my-auto mx-auto py-5 px-6"><div class="mx-auto flex flex-1 text-base gap-4 md:gap-5 lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group/turn-messages focus-visible:outline-none"><div class="group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn @xs/thread:px-0 @sm/thread:px-1.5 @md/thread:px-4"><div class="relative flex-col gap-1 md:gap-3"><div class="flex max-w-full flex-col flex-grow"><div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="315b8676-29f0-45e9-bbe0-07a231244b98" data-message-model-slug="gpt-4o-mini"><div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]"><div class="markdown prose w-full break-words dark:prose-invert light"><p class="" data-start="2341" data-end="2533">Stay tuned for more updates from DataScientia, as we continue to lead the way in AI education and data science, preparing individuals to shape the future of this transformative technology.</p></div></div></div></div></div></div></div></div></article>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-248d466e e-flex e-con-boxed e-con e-parent" data-id="248d466e" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-74868d98 elementor-widget elementor-widget-text-editor" data-id="74868d98" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><b style="font-family: var( --e-global-typography-text-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">Keywords: </b>Generative AI, Education,, Science Communication, Data Science, Artificial Intelligence, Responsibility, Global Participation, Inclusive Education, AI Applications.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-64707aa6 e-flex e-con-boxed e-con e-parent" data-id="64707aa6" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-689f7841 e-con-full e-flex e-con e-child" data-id="689f7841" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-3379ae2 e-con-full e-flex e-con e-child" data-id="3379ae2" data-element_type="container">
-				<div class="elementor-element elementor-element-6b1e2ef elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="6b1e2ef" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-52d9905e e-con-full e-flex e-con e-child" data-id="52d9905e" data-element_type="container">
-				<div class="elementor-element elementor-element-518a4556 elementor-widget elementor-widget-text-editor" data-id="518a4556" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
-				</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-43bd2883 e-flex e-con-boxed e-con e-parent" data-id="43bd2883" data-element_type="container">
-					<div class="e-con-inner">
 					</div>
 				</div>
 				</div>]]></content:encoded>
 					
-					<wfw:commentRss>/the-role-of-education-in-shaping-ais-future/feed/</wfw:commentRss>
+					<wfw:commentRss>/conversation-on-advanced-knowledge-engineering-teaching/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Collaboration Over Competition: Our Vision for AI Future</title>
-		<link>/collaboration-over-competition-our-vision-for-ai-future/</link>
-					<comments>/collaboration-over-competition-our-vision-for-ai-future/#respond</comments>
-		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 15:40:11 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">/?p=27717</guid>
-
-					<description><![CDATA[Fausto Giunchiglia, the founder of DataScientia, gave an interview to China News Service (CNS), discussing trends in the AI sector, Generative AI (GenAI), the balance between competition and cooperation, the risks AI poses, and the future challenges in understanding this rapidly &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="27717" class="elementor elementor-27717">
-				<div class="elementor-element elementor-element-57bb7586 e-flex e-con-boxed e-con e-parent" data-id="57bb7586" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-3f2ef0e0 elementor-widget elementor-widget-text-editor" data-id="3f2ef0e0" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<div data-id="3f2ef0e0" data-element_type="widget" data-widget_type="text-editor.default"><div><p data-start="124" data-end="413"><strong>Fausto Giunchiglia, the founder of DataScientia, gave an interview to <a href="https://www.chinanews.com.cn/">China News Service (CNS)</a>, discussing trends in the AI sector, Generative AI (GenAI), </strong><strong>the balance between competition and cooperation, the risks AI poses, and the future challenges in understanding this rapidly advancing technology.</strong></p></div></div>						</div>
-				</div>
-				<div class="elementor-element elementor-element-38c80c8b elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="38c80c8b" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-625ea2b1 e-flex e-con-boxed e-con e-parent" data-id="625ea2b1" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-7ad4880 elementor-widget elementor-widget-text-editor" data-id="7ad4880" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p class="" data-start="819" data-end="1179"><span style="font-weight: var( --e-global-typography-text-font-weight )">He shared DataScientia’s vision for AI, emphasizing that its future lies in collaboration and addressing arrising challenges with AI development such as safety, quality and privacy. While acknowledging the rapid advancements in AI, particularly the energy-efficient DeepSeek-R1 model, he stressed that technological progress must be paired with global cooperation to ensure AI is developed responsibly, with a strong focus on ethical standards.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-23e073b7 e-flex e-con-boxed e-con e-parent" data-id="23e073b7" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-4569786 elementor-widget elementor-widget-text-editor" data-id="4569786" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img decoding="async" class="alignnone size-full wp-image-27722" src="/wp-content/uploads/2025/03/F1.png" alt="" width="2560" height="1440" srcset="/wp-content/uploads/2025/03/F1.png 2560w, /wp-content/uploads/2025/03/F1-300x169.png 300w, /wp-content/uploads/2025/03/F1-1024x576.png 1024w, /wp-content/uploads/2025/03/F1-768x432.png 768w, /wp-content/uploads/2025/03/F1-1536x864.png 1536w, /wp-content/uploads/2025/03/F1-2048x1152.png 2048w, /wp-content/uploads/2025/03/F1-600x338.png 600w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-8fde80e e-flex e-con-boxed e-con e-parent" data-id="8fde80e" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-7e4bb80 elementor-widget elementor-widget-text-editor" data-id="7e4bb80" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p class="" data-start="819" data-end="1179">The conversation occurred amid global discussions surrounding AI’s impact on society and the growing competition between leading AI companies, such as xAI, DeepSeek, and Open AI. Fausto called for more cooperation, echoing DataScientia’s commitment to fostering academic collaboration to improve human life through AI.<br /><br />This discussion occurred shortly after the release of DeepSeek-R1 and the announcement of OpenAI’s upcoming GPT-4.5 and GPT-5 models, highlighting the rapid advancements and intensifying competition in the AI industry.<br /><span style="font-weight: var( --e-global-typography-text-font-weight )"><br />Fausto Giunchiglia’s remarks emphasized the importance of responsible AI development, a core principle at the heart of DataScientia’s mission. Specifically, values such as ethics, collaboration, diversity, and inclusivity are essential for ensuring the sustainability of the tech industry and achieving a positive societal impact.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-6d65ecf e-flex e-con-boxed e-con e-parent" data-id="6d65ecf" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-f002228 elementor-widget elementor-widget-text-editor" data-id="f002228" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Join the DataScientia community of academics and innovators to advance responsible AI, collaborate on impactful development, and shape a better future for all. Follow us on social media to stay updated on our latest news.</strong></p>
-<p class="" data-start="74" data-end="134"><strong>You can access the article in <a href="https://www.chinanews.com.cn/gn/2025/03-05/10378246.shtml">Chinese</a> and <a href="https://www.ecns.cn/news/cns-wire/2025-03-05/detail-ihepiwyi1893704.shtml">English</a>.</strong></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-49e31864 elementor-widget elementor-widget-text-editor" data-id="49e31864" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Keywords:</strong> AI impact, competition, xAI, DeepSeek, OpenAI, cooperation, academic collaboration, DeepSeek-R1, GPT-4.5, GPT-5, responsible AI, DataScientia, ethics, diversity, inclusivity, sustainability, societal impact.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-4a6d32d6 e-flex e-con-boxed e-con e-parent" data-id="4a6d32d6" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-4c26f8db e-con-full e-flex e-con e-child" data-id="4c26f8db" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-38374eb7 e-con-full e-flex e-con e-child" data-id="38374eb7" data-element_type="container">
-				<div class="elementor-element elementor-element-617ef1f0 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="617ef1f0" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-6e8781e0 e-con-full e-flex e-con e-child" data-id="6e8781e0" data-element_type="container">
-				<div class="elementor-element elementor-element-4c4ab7cd elementor-widget elementor-widget-text-editor" data-id="4c4ab7cd" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
-				</div>
-				</div>
-				</div>
-					</div>
-				</div>
-				</div>]]></content:encoded>
-					
-					<wfw:commentRss>/collaboration-over-competition-our-vision-for-ai-future/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>LiveLanguage Kinship Study Featured in Frontiers</title>
-		<link>/livelanguage-kinship-study-featured-in-frontiers/</link>
-		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 11:31:30 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[LiveLanguage]]></category>
-		<guid isPermaLink="false">/?p=26184</guid>
-
-					<description><![CDATA[On November 20, 2023, the journal Frontiers in Psychology published an article titled “Lexical Diversity in Kinship Across Languages and Dialects” by members of DataScientia who specialize in creating high-quality, diversity-aware lexical databases for natural language processing and machine translation. &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="26184" class="elementor elementor-26184">
-				<div class="elementor-element elementor-element-d2f3edf e-grid e-con-full e-con e-parent" data-id="d2f3edf" data-element_type="container">
-				<div class="elementor-element elementor-element-2b33e11 elementor-widget elementor-widget-thim-ekits-site-logo" data-id="2b33e11" data-element_type="widget" data-widget_type="thim-ekits-site-logo.default">
-				<div class="elementor-widget-container">
-			
-		<div class="thim-ekit-site-logo">
-							<a href="/" rel="home">
-					<img loading="lazy" decoding="async" width="400" height="163" src="/wp-content/uploads/2024/09/H_logo-DS-17.png" class="attachment-full size-full wp-image-23262" alt="" srcset="/wp-content/uploads/2024/09/H_logo-DS-17.png 400w, /wp-content/uploads/2024/09/H_logo-DS-17-300x122.png 300w" sizes="(max-width: 400px) 100vw, 400px" />				</a>
-					</div>
-
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-c61d562 elementor-widget elementor-widget-image" data-id="c61d562" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="640" height="361" src="/wp-content/uploads/2024/12/frontiers-in-psychology-logo-733x414-1.png" class="attachment-medium_large size-medium_large wp-image-26186" alt="" srcset="/wp-content/uploads/2024/12/frontiers-in-psychology-logo-733x414-1.png 733w, /wp-content/uploads/2024/12/frontiers-in-psychology-logo-733x414-1-300x169.png 300w, /wp-content/uploads/2024/12/frontiers-in-psychology-logo-733x414-1-600x339.png 600w" sizes="(max-width: 640px) 100vw, 640px" />													</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-5d07a9e e-con-full e-flex e-con e-parent" data-id="5d07a9e" data-element_type="container">
-				<div class="elementor-element elementor-element-c6ba248 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="c6ba248" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-9e59463 elementor-widget elementor-widget-text-editor" data-id="9e59463" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<div><p>On November 20, 2023, the journal <em>Frontiers in Psychology</em> published an article titled<strong> “Lexical Diversity in Kinship Across Languages and Dialects”</strong> by members of DataScientia who specialize in creating high-quality, diversity-aware lexical databases for natural language processing and machine translation. The article’s authors are Hadi Khalilia, Gábor Bella, Fausto Giunchiglia, Abed Alhakim Freihat, and Shandy Darma.</p><p>The research work is <span style="color: var( --e-global-color-primary )"><span style="margin: 0px;padding: 0px">part of <u>DataScientia&#8217;s initiative,</u></span> </span><strong style="color: var( --e-global-color-primary )">LiveLanguage</strong><span style="color: var( --e-global-color-primary )">, which prioritises the role of human contributors from </span><span style="color: var( --e-global-color-primary )">various communities, including linguists, AI engineers, and educators to manage diversity-aware data. Using this method, DataScientia memebers expanded </span><span style="color: var( --e-global-color-primary )">an </span><strong style="color: var( --e-global-color-primary )" data-start="261" data-end="277">open dataset</strong><span style="color: var( --e-global-color-primary )"> integrated into <b>our </b></span><strong style="color: var( --e-global-color-primary )" data-start="298" data-end="326">Universal Knowledge Core with</strong><span style="color: var( --e-global-color-primary )"> </span><strong style="color: var( --e-global-color-primary )" data-start="107" data-end="147">223 kin terms and 1,619 lexical gaps</strong><span style="color: var( --e-global-color-primary )"> across seven Arabic dialects and three Indonesian languages. </span></p></div>						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-34922a23 e-flex e-con-boxed e-con e-parent" data-id="34922a23" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-38908871 elementor-widget elementor-widget-text-editor" data-id="38908871" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The paper was published as part of the research on <i>The Adaptive Value of Languages: Non-Linguistic Causes of Language Diversity.</i> The goal was to explore how natural environments or human-made influences might shape some features of language structure. Due to the tasks&#8217; complexity, researchers from various fields, including linguistics, psychology, biology, sociology, and anthropology, were invited to contribute.</p><p>The paper was dedicated to finding specific concepts and gaps across various languages and dialects. The scholars proposed a unique method to capture linguistic diversity based on systematic data collection of specific narrowed areas rather than the general topic.</p><p>This method is designed to represent concepts specific to different languages and dialects while also addressing gaps in vocabulary. It has already been tested in two studies on kinship terms in Arabic dialects and the Indonesian language.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-c8de190 e-con-full e-flex e-con e-parent" data-id="c8de190" data-element_type="container">
-				<div class="elementor-element elementor-element-517adae8 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="517adae8" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-62b30896 elementor-widget elementor-widget-text-editor" data-id="62b30896" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><b>Here below the paper’s abstract:</b></p><p><i><span style="font-weight: 400">Languages are known to describe the world in diverse ways. Across lexicons, diversity is pervasive, appearing through phenomena such as lexical gaps and untranslatability. However, in computational resources, such as multilingual lexical databases, diversity is hardly ever represented. In this paper, we introduce a method to enrich computational lexicons with content relating to linguistic diversity. </span></i></p><p><i><span style="font-weight: 400">The method is verified through two large-scale case studies on kinship terminology, a domain known to be diverse across languages and cultures: one case study deals with seven Arabic dialects, while the other one with three Indonesian languages. Our results, made available as browseable and downloadable computational resources, extend prior linguistics research on kinship terminology, and provide insight into the extent of diversity even within linguistically and culturally close communities.</span></i></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-2810011a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="2810011a" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-55375d5d e-flex e-con-boxed e-con e-parent" data-id="55375d5d" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-541d3e3d elementor-widget elementor-widget-text-editor" data-id="541d3e3d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400">Read the full paper on Frontiers in </span><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1229697/full"><span style="font-weight: 400">Psychology</span></a>.<br />The<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1229697/full"> link </a>to download the <b>PDF </b>of the article.</p><p><span style="font-weight: 400"><strong>Keywords:</strong> linguistic diversity, lexical gaps, untranslatability, computational lexicons, multilingual lexical databases, kinship terminology, Arabic dialects,  semantic diversity, cross-cultural analysis, terminology databases.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-7fecbd7d e-flex e-con-boxed e-con e-parent" data-id="7fecbd7d" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-4136e1ed e-con-full e-flex e-con e-child" data-id="4136e1ed" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-3c859bea e-con-full e-flex e-con e-child" data-id="3c859bea" data-element_type="container">
-				<div class="elementor-element elementor-element-3a91f858 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="3a91f858" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-afbcd8f e-con-full e-flex e-con e-child" data-id="afbcd8f" data-element_type="container">
-				<div class="elementor-element elementor-element-5672837b elementor-widget elementor-widget-text-editor" data-id="5672837b" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
-				</div>
-				</div>
-				</div>
-					</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>CS2 Italy Conference 2025</title>
-		<link>/cs2-italy-conference-2025/</link>
-		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 15:06:28 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[LiveData]]></category>
-		<guid isPermaLink="false">/?p=27002</guid>
-
-					<description><![CDATA[The CS2 Italy Conference 2025 was held from January 15-18, 2025, at the Department of Sociology and Social Research, Trento, Italy. This event aimed to bring together researchers from diverse fields such as sociology, economics, political science, and computer science, &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="27002" class="elementor elementor-27002">
-				<div class="elementor-element elementor-element-c0da8d3 e-flex e-con-boxed e-con e-parent" data-id="c0da8d3" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-1cc5256 elementor-widget elementor-widget-text-editor" data-id="1cc5256" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-27005" src="/wp-content/uploads/2025/01/DS-QUOTES-19.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2025/01/DS-QUOTES-19.png 1584w, /wp-content/uploads/2025/01/DS-QUOTES-19-300x75.png 300w, /wp-content/uploads/2025/01/DS-QUOTES-19-1024x256.png 1024w, /wp-content/uploads/2025/01/DS-QUOTES-19-768x192.png 768w, /wp-content/uploads/2025/01/DS-QUOTES-19-1536x384.png 1536w, /wp-content/uploads/2025/01/DS-QUOTES-19-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-7a0368b1 e-flex e-con-boxed e-con e-parent" data-id="7a0368b1" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-2ab0a5a4 elementor-widget elementor-widget-text-editor" data-id="2ab0a5a4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The<a href="https://cs2italy.org/"> <strong>CS2 Italy Conference 2025</strong> </a>was held from <strong>January 15-18, 2025</strong>, at the <strong>Department of Sociology and Social Research, Trento, Italy</strong>. This event aimed to bring together researchers from diverse fields such as sociology, economics, political science, and computer science, focusing on the intersection of social phenomena and computational methods.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-38742947 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="38742947" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-4e1a7068 e-flex e-con-boxed e-con e-parent" data-id="4e1a7068" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-722d0716 elementor-widget elementor-widget-text-editor" data-id="722d0716" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The conference featured groundbreaking research presentations, insightful discussions, and networking opportunities. Key topics included computational social science theory, data-driven social science, and method exploration, emphasizing data privacy, algorithmic accountability, and reproducibility. The conference will also marked the creation of the Society Computational Social Science Italy (CS2 Italy).</p><p>Data Scientia took this opportunity to present <a href="https://datascientia.disi.unitn.it/ds-tutorial-cs2italy/">a hands-on tutorial</a> about tools for real-time behavioral data collection through smartphones. </p><p>During the event, participants explored the DS Community by creating profiles, managing projects, and joining a data collection initiative. They registered, downloaded the GDPR-compliant iLog app, and collected smartphone data while testing its features. A live demo showed how researchers monitor data in real time. They also learned about the data preparation pipeline, including data transformation and privacy considerations, and explored the LivePeople catalog. At the end, they could download their collected data.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-b51756d elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="b51756d" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-857f727 e-con-full e-flex e-con e-parent" data-id="857f727" data-element_type="container">
-				<div class="elementor-element elementor-element-ea71780 elementor-widget elementor-widget-text-editor" data-id="ea71780" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><b>Here is the tutorial’s abstract:</b></p><p>Big Data is increasingly recognized for its substantial potential to enhance research on human behavior. Data from diverse sources, such as social media platforms, telecommunications companies, and mapping services like OpenStreetMap (OSM), provide a wealth of information. However, merely having this data is insufficient to fully grasp individuals’ socio-economic and personal contexts. While Big Data is effective for in-depth studies of specific aspects of human behavior, it often falls short of capturing the overall complexity of daily life.</p><p>For example, social media data facilitates sophisticated analyses of interactions within a platform but doesn’t adequately reflect the intricacies of real-world activities. Conversely, traditional social science methods—such as questionnaires, interviews, and participant observation—capture the nuances of daily routines and individual perspectives but have a different, more limited scale compared to Big Data.</p><p>In this context, the DataScientia (DS) initiative provides tools for gathering real-time behavioral data, combining insights from both individual interactions and sensor streams from personal devices, particularly smartphones. This approach is beneficial for researchers across various fields, from social sciences to computer science. The impact of this data is further amplified by integrating it with other secondary data, such as merging GPS data from smartphones with location descriptions and Points of Interest obtained from OSM.</p><p>However, collecting this type of data presents several challenges, including technological issues and privacy concerns, particularly regarding GDPR compliance. Researchers must also navigate potential errors due to participant interactions, such as response bias and participant burden, as well as prepare the data for distribution, addressing issues like data loss and lack of anonymization.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-3e20cd7 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3e20cd7" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-6efc313 e-flex e-con-boxed e-con e-parent" data-id="6efc313" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-f2e8606 elementor-widget elementor-widget-text-editor" data-id="f2e8606" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>By presenting this tutorial, DataScientia aims to foster curiosity among researchers interested in AI and data, deepen their understanding of its societal relevance, and empower them to innovate by applying these technologies to people-centric solutions.</strong></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-e0f26cf elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="e0f26cf" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-19749244 e-flex e-con-boxed e-con e-parent" data-id="19749244" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-75ff0ba6 elementor-widget elementor-widget-text-editor" data-id="75ff0ba6" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>You can find more information about the event <a href="https://cs2italy.org/">here</a>!</p><p><strong>Keywords:</strong> computational social science, Big Data, human behavior, social media, OpenStreetMap (OSM), smartphones, GPS data, real-time data, data privacy, GDPR compliance, iLog app, data monitoring, data transformation, LivePeople Catalog, metadata, data distribution, social science research.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-4e0cc82e e-flex e-con-boxed e-con e-parent" data-id="4e0cc82e" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-76d78e9f e-con-full e-flex e-con e-child" data-id="76d78e9f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-215d852f e-con-full e-flex e-con e-child" data-id="215d852f" data-element_type="container">
-				<div class="elementor-element elementor-element-1769877f elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="1769877f" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-3d3eb8ee e-con-full e-flex e-con e-child" data-id="3d3eb8ee" data-element_type="container">
-				<div class="elementor-element elementor-element-319acfb5 elementor-widget elementor-widget-text-editor" data-id="319acfb5" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
-				</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-6d41caca e-flex e-con-boxed e-con e-parent" data-id="6d41caca" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-57e3e04f elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="57e3e04f" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>DataScientia Event 2024: Reflections from Partners</title>
-		<link>/datascientia-event-2024-reflections-from-partners/</link>
-		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Fri, 20 Dec 2024 09:50:18 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">/?p=26237</guid>
-
-					<description><![CDATA[The DataScientia Event: Community, Projects, and Education 2024 was successfully held in Trento from September 27 to 29, bringing together participants for three days of collaboration, innovation, and learning. The program featured a dynamic lineup of presentations, including innovative AI &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="26237" class="elementor elementor-26237">
-				<div class="elementor-element elementor-element-50e2cf7 e-flex e-con-boxed e-con e-parent" data-id="50e2cf7" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-d2fb772 elementor-widget elementor-widget-text-editor" data-id="d2fb772" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-27679" src="/wp-content/uploads/2025/02/IMG_5065-—-копия-2.jpg" alt="" width="2135" height="1323" srcset="/wp-content/uploads/2025/02/IMG_5065-—-копия-2.jpg 2135w, /wp-content/uploads/2025/02/IMG_5065-—-копия-2-300x186.jpg 300w, /wp-content/uploads/2025/02/IMG_5065-—-копия-2-1024x635.jpg 1024w, /wp-content/uploads/2025/02/IMG_5065-—-копия-2-768x476.jpg 768w, /wp-content/uploads/2025/02/IMG_5065-—-копия-2-1536x952.jpg 1536w, /wp-content/uploads/2025/02/IMG_5065-—-копия-2-2048x1269.jpg 2048w, /wp-content/uploads/2025/02/IMG_5065-—-копия-2-600x372.jpg 600w" sizes="(max-width: 2135px) 100vw, 2135px" /></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-2782812 e-flex e-con-boxed e-con e-parent" data-id="2782812" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-911b717 elementor-widget elementor-widget-text-editor" data-id="911b717" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The DataScientia Event: Community, Projects, and Education 2024 was successfully held in Trento from September 27 to 29, bringing together participants for three days of collaboration, innovation, and learning. The program featured a dynamic lineup of presentations, including innovative AI projects, inspiring keynote speeches, interactive discussions, and hands-on workshops. </p><p>The goal of the DataScientia event was to unite scholars and experts from partner universities while also welcoming researchers and professionals eager to explore potential collaborations. We are proud to highlight our success in achieving this goal, as we brought together 65 participants from around the world who actively engaged in the event and became part of our growing community.</p><p>DataScientia aims to expand our reach even further next year, encouraging more collaborations and bringing together an even more diverse group of participants. </p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-a5045c5 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a5045c5" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-4f04a906 e-flex e-con-boxed e-con e-parent" data-id="4f04a906" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-06470dd elementor-widget elementor-widget-text-editor" data-id="06470dd" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p data-pm-slice="1 1 []"><strong>Reflecting on our commitment to diversity, we decided to ask attendees about their impressions and thoughts on the event to identify key highlights and gather insights for organizing next year’s event.</strong></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-106302e4 elementor-widget elementor-widget-text-editor" data-id="106302e4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-size: var(--thim-font-body-font-size)">We had the chance to speak with Professor </span><b style="font-size: var(--thim-font-body-font-size)">O. Olugbara</b><span style="font-size: var(--thim-font-body-font-size)">, the Executive Dean and Professor of Computer Science at Durban University of Technology, after the event’s third day. He expressed his appreciation for the event and shared his inspiration for hosting a similar event in 2026 in South Africa to present the projects they are working on.</span></p><p><span style="font-weight: 400">Professor Olugbara shared his enjoyment of the event, stating that it was well-organized and engaging, with full of commitment. He emphasized the importance of academics and researchers staying updated with field trends. </span><i><span style="font-weight: 400">&#8220;In my area of computer science, particularly in shared intelligence, this program aligns perfectly with my interests,”</span></i><span style="font-weight: 400"> Olugbara remarked.</span></p><p><span style="font-weight: 400">He enthusiastically shared their exciting data science, AI, and big data projects, facilitated by collaborating with the University of Toronto. “There are also plans to launch an innovative ICT program focused on data science,” says Olugbara.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-9a7ccc6 e-flex e-con-boxed e-con e-parent" data-id="9a7ccc6" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-36158c7 elementor-widget elementor-widget-text-editor" data-id="36158c7" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-26704" src="/wp-content/uploads/2024/12/5.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2024/12/5.png 1584w, /wp-content/uploads/2024/12/5-300x75.png 300w, /wp-content/uploads/2024/12/5-1024x256.png 1024w, /wp-content/uploads/2024/12/5-768x192.png 768w, /wp-content/uploads/2024/12/5-1536x384.png 1536w, /wp-content/uploads/2024/12/5-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-6e18ae6c e-flex e-con-boxed e-con e-parent" data-id="6e18ae6c" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-1c2d8b7c elementor-widget elementor-widget-text-editor" data-id="1c2d8b7c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400">In a post-event interview about Knowledge Graph Embedding, </span><b>Amarsanaa Ganbold</b><span style="font-weight: 400">, an Associate Professor in the Department of Information and Computer Sciences at the National University of Mongolia (NUM), and Rui Zhang, an Associate Professor at the College of Computer Science and Technology at Jilin University, mentioned their participiation in this year&#8217;s DataScientia event.  </span></p><p><span style="font-weight: 400">Professor Ganbold mentioned that he had the opportunity to meet with Fausto Giunchiglia, the founder of Data Scientia, after the event to discuss various collaborations, including education and research. Besides, he commented that learning about other partners&#8217; work over the past few years was enlightening.<br /></span></p><p><span style="font-weight: 400">Professor Jahna Otterbacher delivered the speech that had the greatest impact on Amarsanaa Garnbold. He stated, </span><i><span style="font-weight: 400">“I learned about integrating research with teaching and considered the full potential of research in AI education. It presents a valuable opportunity to collect data through the iLog.”</span></i><span style="font-weight: 400"> He also mentioned that he found the language component of the sessions particularly appealing.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-20af5eb e-flex e-con-boxed e-con e-parent" data-id="20af5eb" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-68639b6 elementor-widget elementor-widget-text-editor" data-id="68639b6" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-26710" src="/wp-content/uploads/2024/12/DS-QUOTES-2-1.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2024/12/DS-QUOTES-2-1.png 1584w, /wp-content/uploads/2024/12/DS-QUOTES-2-1-300x75.png 300w, /wp-content/uploads/2024/12/DS-QUOTES-2-1-1024x256.png 1024w, /wp-content/uploads/2024/12/DS-QUOTES-2-1-768x192.png 768w, /wp-content/uploads/2024/12/DS-QUOTES-2-1-1536x384.png 1536w, /wp-content/uploads/2024/12/DS-QUOTES-2-1-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-537de5c9 e-flex e-con-boxed e-con e-parent" data-id="537de5c9" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-c82d6dd elementor-widget elementor-widget-text-editor" data-id="c82d6dd" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><b>Rui Zhang </b>says that his <span style="font-weight: 400">interest includes knowledge representation related to neural networks, utilizing machine learning and deep learning techniques. The professor aspires to work with Data Scientia in both research and education.</span></p><p><span style="font-weight: 400">He finds The DataScientia Event: Community, Projects, and Education 2024 an ideal platform for establishing new partnerships. He particularly appreciates Simone&#8217;s efforts in fostering collaboration in teaching, especially in Knowledge Graph Embedding (KGE) courses, which are organized into various  categories that present opportunities for potential collaborations. </span></p><p><span style="font-weight: 400">Rui Zhang also acknowledges the significant contributions of Fausto Guinchiglia, who consistently brings original and expansive ideas to the data-sharing domain. He remarked that he has already discussed a collaboration proposal in DataScientia. </span><span style="font-weight: 400">Besides, he noted Mongolian universities’ interest during the teaching presentations and expressed a desire for future collaborations. Rui Zhang also demonstrated his enthusiasm about the growing involvement of African universities in the project</span><span style="font-weight: 400">.</span></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-f68ccba elementor-widget elementor-widget-text-editor" data-id="f68ccba" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-26706" src="/wp-content/uploads/2024/12/1.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2024/12/1.png 1584w, /wp-content/uploads/2024/12/1-300x75.png 300w, /wp-content/uploads/2024/12/1-1024x256.png 1024w, /wp-content/uploads/2024/12/1-768x192.png 768w, /wp-content/uploads/2024/12/1-1536x384.png 1536w, /wp-content/uploads/2024/12/1-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-30c0f40 elementor-widget elementor-widget-text-editor" data-id="30c0f40" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400">Bringing together all the insights expressed, the interviewers had a positive impression of the event and arrived with various goals and expectations. It underscores the value of bringing together academics and researchers to exchange ideas and promote diversity. Feedback from participants reveals a strong desire to unite as a community and work toward shared objectives.</span> DataScientia wholeheartedly embraces this vision, and we are committed to advancing it further.<b><br /><br />We sincerely appreciate all the valuable insights and feedback our partners share, which help us improve and grow. We always welcome new participants and strive to make the event even more enriching. Stay tuned for updates on DataScientia 2025!<br /></b></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-59332c84 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="59332c84" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-64ace92e e-flex e-con-boxed e-con e-parent" data-id="64ace92e" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-40ee300e elementor-widget elementor-widget-text-editor" data-id="40ee300e" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><b style="font-family: var( --e-global-typography-text-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">Keywords: </b><span style="font-weight: 400">collaboration, partnership, interview, diversity.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-3785291f e-flex e-con-boxed e-con e-parent" data-id="3785291f" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-6b042353 e-con-full e-flex e-con e-child" data-id="6b042353" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-6e9be54c e-con-full e-flex e-con e-child" data-id="6e9be54c" data-element_type="container">
-				<div class="elementor-element elementor-element-5e1eb1bf elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="5e1eb1bf" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-12cc5e02 e-con-full e-flex e-con e-child" data-id="12cc5e02" data-element_type="container">
-				<div class="elementor-element elementor-element-438b71c4 elementor-widget elementor-widget-text-editor" data-id="438b71c4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
-				</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-bf2e9a7 e-flex e-con-boxed e-con e-parent" data-id="bf2e9a7" data-element_type="container">
-					<div class="e-con-inner">
-					</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The Best Paper Award at the UBICOMP</title>
-		<link>/news/the-best-paper-reward-and-the-ubicomp/</link>
-		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Mon, 02 Dec 2024 12:35:47 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">/?p=23894</guid>
-
-					<description><![CDATA[We are proud to share that the DataScientia scholars from the WeNet research team received a notable award at ACM UbiComp/ISWC 2023 in Cancún, Mexico! Their paper, &#8220;Generalization and Personalization of Mobile Sensing-Based Mood Interference Models: An Analysis of College &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="23894" class="elementor elementor-23894">
-				<div class="elementor-element elementor-element-b7f7eac e-flex e-con-boxed e-con e-parent" data-id="b7f7eac" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-6b666b4 elementor-widget elementor-widget-text-editor" data-id="6b666b4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-26939" src="/wp-content/uploads/2025/01/DS-QUOTES-3.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2025/01/DS-QUOTES-3.png 1584w, /wp-content/uploads/2025/01/DS-QUOTES-3-300x75.png 300w, /wp-content/uploads/2025/01/DS-QUOTES-3-1024x256.png 1024w, /wp-content/uploads/2025/01/DS-QUOTES-3-768x192.png 768w, /wp-content/uploads/2025/01/DS-QUOTES-3-1536x384.png 1536w, /wp-content/uploads/2025/01/DS-QUOTES-3-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-7ef9c189 e-flex e-con-boxed e-con e-parent" data-id="7ef9c189" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-3669ade2 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3669ade2" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-7e59b2ca elementor-widget elementor-widget-text-editor" data-id="7e59b2ca" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>We are proud to share that the <strong>DataScientia scholars</strong> from the <b>WeNet research</b> team received a notable award at <strong>ACM UbiComp/ISWC 2023</strong> in Cancún, Mexico! Their paper,<b> <em>&#8220;Generalization and Personalization of Mobile Sensing-Based Mood Interference Models: An Analysis of College Students in Eight Countries,&#8221;</em></b> was honored with the <strong>“Distinguished Paper Award,”</strong> recognizing DataScientia’s outstanding contributions to mobile sensing research and data science. <span style="color: var( --e-global-color-primary )">The article was also published in </span><span style="color: var( --e-global-color-primary )">the Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Technologies (IMWUT).</span></p><p>The work was presented by <b style="color: var( --e-global-color-primary )"><b>Lakmal Meegahapola</b></b>, the first author and Postdoc Researcher at ETH Zürich.  Besides, he became <b>one of</b><b style="color: var( --e-global-color-primary )"><b> the finalists in the top 4 </b></b>in the rank<b style="color: var( --e-global-color-primary )"><b> of the <strong>ACM UbiComp Outstanding Student Award </strong></b></b>for his prominent academic input in persuasive computing. He demonstrated outstanding research performance in model personalization, generalization, and distribution shift. We congratulate Lakmal for being recognised for his exceptional contributions to persuasive computing and mobile health sensing!<b style="color: var( --e-global-color-primary )"><b><br /></b></b></p><p><b> </b></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-7bfab8af e-con-full e-flex e-con e-parent" data-id="7bfab8af" data-element_type="container">
-				<div class="elementor-element elementor-element-48588fd7 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="48588fd7" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-1587b597 elementor-widget elementor-widget-text-editor" data-id="1587b597" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><b>Here is the paper’s abstract:</b></p><p><em><span style="font-weight: 400">Mood inference with mobile sensing data has been studied in ubicomp literature over the last decade. This inference enables context-aware and personalized user experiences in general mobile apps and valuable feedback and interventions in mobile health apps. However, even though model generalization issues have been highlighted in many studies, the focus has always been on improving the accuracies of models using different sensing modalities and machine learning techniques, with datasets collected in homogeneous populations. In contrast, less attention has been given to studying the performance of mood inference models to assess whether models generalize to new countries. </span></em></p><p><em><span style="font-weight: 400">In this study, we collected a mobile sensing dataset with 329K self-reports from 678 participants in eight countries (China, Denmark, India, Italy, Mexico, Mongolia, Paraguay, UK) to assess the effect of geographical diversity on mood inference models. We define and evaluate country-specific (trained and tested within a country), continent-specific (trained and tested within a continent), country-agnostic (tested on a country not seen on training data), and multi-country (trained and tested with multiple countries) approaches trained on sensor data for two mood inference tasks with population-level (non-personalized) and hybrid (partially personalized) models. </span></em></p><p><em><span style="font-weight: 400">We show that partially personalized country-specific models perform the best yielding area under the receiver operating characteristic curve (AUROC) scores of the range 0.78&#8211;0.98 for two-class (negative vs. positive valence) and 0.76&#8211;0.94 for three-class (negative vs. neutral vs. positive valence) inference. Further, with the country-agnostic approach, we show that models do not perform well compared to country-specific settings, even when models are partially personalized. We also show that continent-specific models outperform multi-country models in the case of Europe. Overall, we uncover generalization issues of mood inference models to new countries and how the geographical similarity of countries might impact mood inference.</span></em></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-1044130a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1044130a" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-39af2371 e-flex e-con-boxed e-con e-parent" data-id="39af2371" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-5c44348b elementor-widget elementor-widget-text-editor" data-id="5c44348b" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400">Read the full paper and download pdf&nbsp;<a href="https://arxiv.org/abs/2211.03009">here</a></span>.</p>
-<p><span style="font-weight: 400"><strong>Keywords: </strong>mood inference, mobile sensing, model generalization, geographical diversity, context-aware applications, personalized user experiences, mobile health apps, sensor data, self-reports, machine learning, country-specific models, continent-specific models, country-agnostic models, multi-country models, non-personalized models, hybrid models, negative valence, positive valence, AUROC (Area Under Receiver Operating Characteristic curve), population-level inference, partially personalized models.</span></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-1dcaae12 e-flex e-con-boxed e-con e-parent" data-id="1dcaae12" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-5c768087 e-con-full e-flex e-con e-child" data-id="5c768087" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-24e8ae34 e-con-full e-flex e-con e-child" data-id="24e8ae34" data-element_type="container">
-				<div class="elementor-element elementor-element-2b329090 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="2b329090" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-40bf5638 e-con-full e-flex e-con e-child" data-id="40bf5638" data-element_type="container">
-				<div class="elementor-element elementor-element-4778beb9 elementor-widget elementor-widget-text-editor" data-id="4778beb9" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
-				</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-2645b0e4 e-flex e-con-boxed e-con e-parent" data-id="2645b0e4" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-434403 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="434403" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>LivePeople Insights at the NSA</title>
-		<link>/news/livepeople-insights-at-the-nsa/</link>
-		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Thu, 28 Nov 2024 13:11:00 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[LivePeople]]></category>
-		<guid isPermaLink="false">/?p=23003</guid>
-
-					<description><![CDATA[The pilot project LivePeople was featured as a case study in the ‘National School of Administration Course of Experts in Data Science for Public Administration,’ led by Professor Nereo Zamaro, Research Director of ISTAT.  The project was chosen due to &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="23003" class="elementor elementor-23003">
-				<div class="elementor-element elementor-element-7cfdf0fe e-flex e-con-boxed e-con e-parent" data-id="7cfdf0fe" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-67006a15 elementor-widget elementor-widget-text-editor" data-id="67006a15" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The pilot project LivePeople was featured as a case study in the <strong>‘National School of Administration Course of Experts in Data Science for Public Administration,’</strong> led by Professor Nereo Zamaro, Research Director of ISTAT. </p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-24b4e7f7 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="24b4e7f7" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-15d74a88 e-flex e-con-boxed e-con e-parent" data-id="15d74a88" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-e305338 elementor-widget elementor-widget-text-editor" data-id="e305338" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-26948" src="/wp-content/uploads/2025/01/DS-QUOTES-6.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2025/01/DS-QUOTES-6.png 1584w, /wp-content/uploads/2025/01/DS-QUOTES-6-300x75.png 300w, /wp-content/uploads/2025/01/DS-QUOTES-6-1024x256.png 1024w, /wp-content/uploads/2025/01/DS-QUOTES-6-768x192.png 768w, /wp-content/uploads/2025/01/DS-QUOTES-6-1536x384.png 1536w, /wp-content/uploads/2025/01/DS-QUOTES-6-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-a9b0a75 elementor-widget elementor-widget-text-editor" data-id="a9b0a75" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The project was chosen due to its exceptional strategy in gathering and analyzing behavior data. Matteo Busso, the project’s coordinator, was invited to share his knowledge.</p><p>During a two-hour testimony, Matteo Busso presented the DataScientia LivePeople Catalog and innovative methods that the research team develops and uses. He elaborated on how LivePeople Catalog represents a large amount of data in the field of human behavior and social interactions. Matteo Busso explained the catalog’s features and services designed to collect, manage, and disseminate complex data on individuals’ behaviors and lifestyles.</p><p>The testimony offered useful insights on using complex data for public policy. It highlighted the importance of data science in improving public administration. Lastly, it proved the relevance of LivePeople research for social impact initiatives.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-6ad74d8 e-flex e-con-boxed e-con e-parent" data-id="6ad74d8" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-34db27db elementor-widget elementor-widget-text-editor" data-id="34db27db" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Learn more about <a href="https://livepeople.datascientia.eu/home">LivePeople Catalog.</a></p><p><strong><b>Keywords:</b></strong> data reuse, diversity, knowledge graphs, research, circular data economy, diversity-aware data.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-20a514c e-flex e-con-boxed e-con e-parent" data-id="20a514c" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-4cba1043 e-con-full e-flex e-con e-child" data-id="4cba1043" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-26ef1ddf e-con-full e-flex e-con e-child" data-id="26ef1ddf" data-element_type="container">
-				<div class="elementor-element elementor-element-6932c9be elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="6932c9be" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-7197f878 e-con-full e-flex e-con e-child" data-id="7197f878" data-element_type="container">
-				<div class="elementor-element elementor-element-238fb12 elementor-widget elementor-widget-text-editor" data-id="238fb12" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
-				</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-168cb012 e-flex e-con-boxed e-con e-parent" data-id="168cb012" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-1d7087ee elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1d7087ee" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Talk on LiveData at the Сonference in Mongolia</title>
-		<link>/news/talk-on-livedata-mongolia/</link>
-		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Thu, 23 May 2024 00:00:18 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[LiveData]]></category>
-		<guid isPermaLink="false">/?p=23048</guid>
-
-					<description><![CDATA[On May 23, 2024, Simone Bocca from a DataScientia took part in the the 11th Mongolian Information Technology Conference MMT-2024 that took place in Ulaanbaatar.  The conference aimed to engage scholars and stakeholders to exchange knowledge in cyber security and &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="23048" class="elementor elementor-23048">
-				<div class="elementor-element elementor-element-2feee4c e-flex e-con-boxed e-con e-parent" data-id="2feee4c" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-4d082c1 elementor-widget elementor-widget-text-editor" data-id="4d082c1" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><b>On May 23, 2024, Simone Bocca from a DataScientia took part in the the 11th Mongolian Information Technology Conference MMT-2024 that took place in Ulaanbaatar. </b></p><p><span style="font-weight: 400;">The conference aimed to engage scholars and stakeholders to exchange knowledge in cyber security and data protection. It opened a call for scientific papers which were presented during the event. The conference aimed to discuss the challenges and perspectives of digital transformation in the information and communication fields in Mongolia.</span></p><figure id="attachment_23049" aria-describedby="caption-attachment-23049" style="width: 320px" class="wp-caption alignright"><img loading="lazy" decoding="async" class="wp-image-23049" src="/wp-content/uploads/2024/09/GOqUQEMXAAA5at0-1024x576.jpeg" alt="" width="320" height="180" srcset="/wp-content/uploads/2024/09/GOqUQEMXAAA5at0-1024x576.jpeg 1024w, /wp-content/uploads/2024/09/GOqUQEMXAAA5at0-300x169.jpeg 300w, /wp-content/uploads/2024/09/GOqUQEMXAAA5at0-768x432.jpeg 768w, /wp-content/uploads/2024/09/GOqUQEMXAAA5at0-600x338.jpeg 600w, /wp-content/uploads/2024/09/GOqUQEMXAAA5at0.jpeg 1280w" sizes="(max-width: 320px) 100vw, 320px" /><figcaption id="caption-attachment-23049" class="wp-caption-text">Illustration: Data Scientia; Simone Bocca during his talk</figcaption></figure><p><span style="font-weight: 400;">Simone Bocca along with Amarsanaa Ganbold and Tsolmon Zundui were invited to participate and present their research paper</span><b> ‘LiveData &#8211; A Worldwide Data Mesh for Stratified Data. A data distribution network architecture for high</b> <b>quality and interoperable data’</b><span style="font-weight: 400;"> at the </span><span style="font-weight: 400;">National University of Mongolia. </span></p><p><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">During the presentation, the researchers emphasised that data has multiple layers of diversity that can represent the wide range of knowledge in the world. However, its heterogeneity also makes it challenging to fully capture this diversity. To address this, they proposed using Diversity Aware Knowledge Graphs, which structure data into distinct layers.<br /></span><span style="font-family: var( --e-global-typography-text-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);"><br />Additionally, the researchers developed the iTelos methodology for creating these graphs, which reuses existing resources to reduce costs and promote a circular data economy. Lastly, Simone Bocca and Tsolmon Zundui encouraged the knowledge community to cooperate and use a diversity aware approach.</span></p><p><strong>Abstract of the paper:</strong></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-c893bf5 e-con-full e-flex e-con e-parent" data-id="c893bf5" data-element_type="container">
-				<div class="elementor-element elementor-element-64077d9 elementor-widget elementor-widget-text-editor" data-id="64077d9" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><em>Data reuse is beneficial for integrating information into new applications, especially when data are scarce. However, it is limited by the data distribution infrastructures for producing and sharing high-quality, interoperable data. However, data reuse requires dealing with data heterogeneity, which is always present in data coming from different sources. This heterogeneity can occur in many contexts, such as differences in the languages used for the data, how the information is organised, and the types and formats of the datasets. </em></p><p><em>Another issue is the reuse of data across countries, where geographical and cultural differences are more distinct.  In this paper, we propose LiveData, a cross-country data distribution network handling high-quality and diversity-aware data. It consists of different nodes that work together to create and share new types of data. Here, diversity in data serves as a useful feature to meet users&#8217; needs. This paper explains how LiveData architecture and nodes of data types work. The system is being used in a project to share and integrate data between the University of Trento in Italy and the National University of Mongolia.</em></p>						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-d14a24b e-flex e-con-boxed e-con e-parent" data-id="d14a24b" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-0862eed elementor-widget elementor-widget-text-editor" data-id="0862eed" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-weight: 400;">The research paper can be accessed through </span><a href="https://ictfocus.org/index.php/focuse"><span style="font-weight: 400;">ICTFOCUS </span></a></p><p><strong>Keywords:</strong> data reuse, diversity, knowledge graphs, research, circular data economy, diversity-aware data</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-fdc01c8 e-con-full e-flex e-con e-parent" data-id="fdc01c8" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:26098,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-8e88861 e-con-full e-flex e-con e-child" data-id="8e88861" data-element_type="container">
-				<div class="elementor-element elementor-element-4617e66 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="4617e66" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-98aafca e-con-full e-flex e-con e-child" data-id="98aafca" data-element_type="container">
-				<div class="elementor-element elementor-element-7fddbb4 elementor-widget elementor-widget-text-editor" data-id="7fddbb4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
-				</div>
-				</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Hackum Students Club: Hackathon</title>
-		<link>/news/hackum-students-club-hackathon/</link>
-		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Mon, 13 May 2024 00:00:31 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[LiveData]]></category>
-		<guid isPermaLink="false">/?p=23013</guid>
-
-					<description><![CDATA[Our partners, the National University in Mongolia (NUM) and Hackum Students Club, organized the Hackathon ‘Coding for Humanity.’ The Hackathon allowed data enthusiasts to use their creativity skills for data-driven projects.  Throughout the Hackathon, participants used data provided by NUM &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="23013" class="elementor elementor-23013">
-				<div class="elementor-element elementor-element-d1509e1 e-flex e-con-boxed e-con e-parent" data-id="d1509e1" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-4e922958 elementor-widget elementor-widget-text-editor" data-id="4e922958" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Our partners, the National University in Mongolia (NUM) and Hackum Students Club, organized the Hackathon <strong>‘Coding for Humanity.’</strong> The Hackathon allowed data enthusiasts to use their creativity skills for data-driven projects. </p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-cdffb10 elementor-widget elementor-widget-text-editor" data-id="cdffb10" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-27077" src="/wp-content/uploads/2025/01/DS-QUOTES.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2025/01/DS-QUOTES.png 1584w, /wp-content/uploads/2025/01/DS-QUOTES-300x75.png 300w, /wp-content/uploads/2025/01/DS-QUOTES-1024x256.png 1024w, /wp-content/uploads/2025/01/DS-QUOTES-768x192.png 768w, /wp-content/uploads/2025/01/DS-QUOTES-1536x384.png 1536w, /wp-content/uploads/2025/01/DS-QUOTES-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-45dc75b6 e-flex e-con-boxed e-con e-parent" data-id="45dc75b6" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-276820a8 elementor-widget elementor-widget-text-editor" data-id="276820a8" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Throughout the Hackathon, participants used data provided by NUM and DataScientia to develop open-data applications.Their enthusiasm for data science was evident in their innovative solutions and demonstration of their skills. The Hackathon also served as a platform for students to collaborate with peers and work on projects with the potential for real-world impact.</p>
-<p><strong>We look forward to seeing how these applications evolve and contribute to the broader data science community!</strong></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-5ad8418e elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="5ad8418e" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-54c1bba3 e-flex e-con-boxed e-con e-parent" data-id="54c1bba3" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-3ea5581c elementor-widget elementor-widget-text-editor" data-id="3ea5581c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Keywords:</strong> hackathon, community, data science, innovation, solutions, team work, creativity, coding.</p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-587a6228 e-flex e-con-boxed e-con e-parent" data-id="587a6228" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-2306f4ea e-con-full e-flex e-con e-child" data-id="2306f4ea" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-4f98354 e-con-full e-flex e-con e-child" data-id="4f98354" data-element_type="container">
-				<div class="elementor-element elementor-element-5fea22fd elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="5fea22fd" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-5e316906 e-con-full e-flex e-con e-child" data-id="5e316906" data-element_type="container">
-				<div class="elementor-element elementor-element-74110c13 elementor-widget elementor-widget-text-editor" data-id="74110c13" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
-				</div>
-				</div>
-				</div>
-					</div>
-				</div>
-				</div>]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Data Quality &#038; Interoperability Talk at Data Club</title>
-		<link>/news/data-quality-interoperability-talk-at-data-club/</link>
-		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Tue, 30 Apr 2024 08:00:33 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<category><![CDATA[LiveData]]></category>
-		<category><![CDATA[LivePeople]]></category>
-		<guid isPermaLink="false">/?p=23005</guid>
-
-					<description><![CDATA[On Tuesday 30h April 2024, Simone Bocca from the Data Scentia Community gave a presentation as a guest speaker to Data Club’s Meetups in Ulaanbaatar, Mongolia. Data for digital and other services has gained significant attention in Mongolia, which has &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="23005" class="elementor elementor-23005">
-				<div class="elementor-element elementor-element-3e53569 e-flex e-con-boxed e-con e-parent" data-id="3e53569" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-0daaaad elementor-widget elementor-widget-text-editor" data-id="0daaaad" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><b>On Tuesday 30h April 2024, Simone Bocca from the Data Scentia Community gave a presentation as a guest speaker to Data Club’s Meetups in Ulaanbaatar, Mongolia.</b></p><p>Data for digital and other services has gained significant attention in Mongolia, which has prioritised digital transformation as a key development area since 2020. Simone Bocca shared his extensive expertise with a presentation on ‘<strong><em>Data Quality and Interoperability: Methodology for Knowledge Graph Construction’</em></strong> during the 15th series of Meetups. The presentation attracted data enthusiasts and was followed by a lively discussion. </p><figure id="attachment_23009" aria-describedby="caption-attachment-23009" style="width: 300px" class="wp-caption alignright"><img loading="lazy" decoding="async" class="wp-image-23009 size-medium" src="/wp-content/uploads/2024/09/1714572170234-1-300x189.jpg" alt="" width="300" height="189" srcset="/wp-content/uploads/2024/09/1714572170234-1-300x189.jpg 300w, /wp-content/uploads/2024/09/1714572170234-1-1024x646.jpg 1024w, /wp-content/uploads/2024/09/1714572170234-1-768x484.jpg 768w, /wp-content/uploads/2024/09/1714572170234-1-600x378.jpg 600w, /wp-content/uploads/2024/09/1714572170234-1.jpg 1499w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-23009" class="wp-caption-text">Illustration: DataScientia</figcaption></figure><p> <span style="color: var( --e-global-color-text ); font-size: var(--thim-font-body-font-size);">The testimony offered useful insights on using complex data for public policy, highlighted the importance of data science in improving public administration, and proved the relevance of LivePeople research for social impact initiatives. </span></p><p>During the meetup, Simone Bocca addressed the pressing issue of creating new data by reusing existing data to reduce the cost of the data creation process. He proposes using existing data to create Knowledge Graphs, representing the local information diversity related to real-world persons, objects, or events.</p><p>It stores this information in a graph format, making it easy to see relationships between them. According to him, diversity offers an opportunity to save relevant data and expand it for better efficiency. The Knowledge Graph, in turn, helps to organise and link information between itself, which makes it easier to integrate and reuse. </p><p><strong>Keywords:</strong> digital transformation, knowledge graphs, data reuse, data quality, data interoperability, presentation </p>						</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-e33ca32 e-con-full e-flex e-con e-parent" data-id="e33ca32" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:26098,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-2054060 e-con-full e-flex e-con e-child" data-id="2054060" data-element_type="container">
-				<div class="elementor-element elementor-element-80a2c08 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="80a2c08" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-			<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>		</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-c24550c e-con-full e-flex e-con e-child" data-id="c24550c" data-element_type="container">
-				<div class="elementor-element elementor-element-ff15d97 elementor-widget elementor-widget-text-editor" data-id="ff15d97" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; text-align: var(--text-align); font-size: var(--thim-font-body-font-size);">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>						</div>
-				</div>
-				</div>
-				</div>
-				</div>]]></content:encoded>
-					
 		
 		
 			</item>

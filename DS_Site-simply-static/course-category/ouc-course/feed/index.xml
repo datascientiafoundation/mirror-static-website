@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Open University of Cyprus - DataScientia</title>
+	<atom:link href="/course-category/ouc-course/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DataScientia Initiative website</description>
+	<lastBuildDate>Wed, 25 Jun 2025 22:49:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/03/DS-fav-icon-32x32.png</url>
+	<title>Open University of Cyprus - DataScientia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>AI IN EVERYDAY LIFE 3</title>
+		<link>/courses/eai3/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2024 09:00:51 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=lp_course#038;p=21269</guid>
+
+					<description><![CDATA[COURSE OBJECTIVES AND OUTCOMES The course participants will learn how to collect and manage data about their everyday life to become researchers of themselves. The general objective is to allow the participants to gain a practical understanding of how data &#8230; ]]></description>
+										<content:encoded><![CDATA[<h4><b>COURSE OBJECTIVES AND OUTCOMES</b></h4>
+<p>The course participants will learn how to collect and manage data about their everyday life to become researchers of themselves. The general objective is to allow the participants to gain a practical understanding of how data about their everyday life are related to AI. The participants have the opportunity to explore both technical questions about data quality and data generation, and ethical and privacy aspects. The course covers all the phases of the data life cycle: collection, preparation, documentation and distribution. After a brief theoretical introduction, the participants will collect behavioural data about themselves using a mobile application (available for Android and iOS) called iLog and developed by the Knowdive group at the University of Trento. The app collects phone sensor data and sends questions to the participants at regular intervals. Then, they will prepare and document their data. The course is data-intensive and hands on. The participants are free to decide whether to collect their own data or to work on data collected from previous studies. However, the collection and management of one’s own data is strongly suggested to fully understand and become aware of the challenges and the potential of handling one’s own personal data. The overall objective of this course is to familiarise with the management of personal data and to raise awareness about the value and the impact of one own’s data.</p>
+<h4>COURSE DESCRIPTION</h4>
+<p>This course will cover the following topics:</p>
+<ul>
+<li>Why and how to collect personal data</li>
+<li>What type of data can be collected with mobile devices</li>
+<li>How to prepare the data to reduce the cost of data use and reuse 3</li>
+<li>How to document and distribute data</li>
+</ul>
+<h4><b>COURSE MODALITY</b></h4>
+<p>The Fall 2024 Edition of the course is delivered in the classrooms. The idea behind this course is that the students do most of the work during the course duration because this should yield considerably better results.</p>
+<p>Learning how to handle one’s own data involves working on real personal data. Data collection is then a crucial part of the whole process. For this reason, the students of the course will be taught and asked to collect data from their own smartphones via an application developed by the Knowdive group, ideally over around one month. The calendar shows the dates of the data collection and when the data will be made available (dates can still change). Participants unwilling to collect their personal data will work on data collected in past data collections. More details will be provided by the professors during the first lessons.</p>
+<p><strong>Theory</strong>:</p>
+<ul>
+<li>The lessons will cover the basic aspects of data collection, data management and data distribution, mainly from a computer science perspective but also with some notions from social science.</li>
+</ul>
+<p><strong>Practice</strong>:</p>
+<ul>
+<li>Participants will collect and process their own data. During the course, they will be guided through the various phases and asked to work on their data at home. Multiple lessons are allocated to answer questions and address issues about the project.</li>
+</ul>
+<p><strong>Modality</strong>:</p>
+<ul>
+<li>The project work will run in parallel with the theory lessons. After the completion of a theory module, there is a practical application to one own’s data. During each theory lesson, there will be Q&amp;A sessions about its content, and some lessons will be fully allocated to Q&amp;A related to previous content and project progress.</li>
+</ul>
+<h4>EXAM</h4>
+<p>The exam will consist of presenting the results of the study in a short presentation during the last lesson. The required deliverables (templates to be provided) are:</p>
+<ul>
+<li>pseudonymized, cleaned and prepared dataset (only for evaluation purposes and removed from the course storage after the evaluation process);</li>
+<li>metadata catalog with the metadata of the pseudonymized dataset (<a href="https://datascientiafoundation.github.io/LiveDataSimoneBocca/">catalog example</a>). The catalog is a static webpage hosted by the participant and can be private or public. If the visualization is set to private, remember to give permission to the professor to access the webpage.</li>
+<li>static website describing the data collection and the data preparation</li>
+</ul>
+<div class="row">
+<div class="col-lg-12 text-center">
+<h2>CALENDAR AND MATERIAL</h2>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12">
+<p>The course runs from September 9 2024 till November 26, 2024 with the following schedule</p>
+<ul>
+<li>Monday, 10:30-13:30, Room A216 Povo 1</li>
+<li>Tuesday, 14:30-16:30, Room A216 Povo 1</li>
+</ul>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
