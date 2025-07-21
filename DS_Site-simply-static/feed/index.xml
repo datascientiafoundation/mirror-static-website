@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Fri, 20 Jun 2025 14:59:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Jul 2025 10:41:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Conversation on Advanced KGE Teaching</title>
 		<link>/conversation-on-advanced-knowledge-engineering-teaching/</link>
-					<comments>/conversation-on-advanced-knowledge-engineering-teaching/#respond</comments>
 		
 		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
 		<pubDate>Mon, 12 May 2025 15:31:27 +0000</pubDate>
@@ -205,8 +204,6 @@
 				</div>
 				</div>]]></content:encoded>
 					
-					<wfw:commentRss>/conversation-on-advanced-knowledge-engineering-teaching/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

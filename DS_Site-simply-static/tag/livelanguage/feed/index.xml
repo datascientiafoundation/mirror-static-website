@@ -12,7 +12,7 @@
 	<atom:link href="/tag/livelanguage/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Fri, 20 Jun 2025 15:05:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Jul 2025 10:41:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Gitex Africa 2025: AU-EU Innovation Networking Café</title>
 		<link>/gitex-africa-2025-au-eu-innovation-networking-cafe/</link>
-					<comments>/gitex-africa-2025-au-eu-innovation-networking-cafe/#respond</comments>
 		
 		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
 		<pubDate>Mon, 14 Apr 2025 13:21:41 +0000</pubDate>
@@ -104,8 +103,6 @@
 				</div>
 				</div>]]></content:encoded>
 					
-					<wfw:commentRss>/gitex-africa-2025-au-eu-innovation-networking-cafe/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

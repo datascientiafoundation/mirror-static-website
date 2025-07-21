@@ -12,7 +12,7 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Fri, 20 Jun 2025 15:10:07 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Jul 2025 10:41:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>The Role of Education in Shaping AI&#8217;s Future</title>
 		<link>/the-role-of-education-in-shaping-ais-future/</link>
-					<comments>/the-role-of-education-in-shaping-ais-future/#respond</comments>
 		
 		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
 		<pubDate>Tue, 08 Apr 2025 16:55:53 +0000</pubDate>
@@ -113,8 +112,6 @@
 				</div>
 				</div>]]></content:encoded>
 					
-					<wfw:commentRss>/the-role-of-education-in-shaping-ais-future/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
