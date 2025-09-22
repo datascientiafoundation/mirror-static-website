@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Mon, 21 Jul 2025 10:41:27 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Sep 2025 11:14:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,165 +28,57 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Conversation on Advanced KGE Teaching</title>
-		<link>/conversation-on-advanced-knowledge-engineering-teaching/</link>
+		<title>Everyday AI Course Completion Ceremony Held in Zhuhai, China</title>
+		<link>/everyday-ai-course-completion-ceremony-held-in-zhuhai-china/</link>
 		
-		<dc:creator><![CDATA[Tetiana Bihun]]></dc:creator>
-		<pubDate>Mon, 12 May 2025 15:31:27 +0000</pubDate>
+		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 10:01:59 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<category><![CDATA[LiveData]]></category>
-		<guid isPermaLink="false">/?p=27838</guid>
+		<category><![CDATA[DataScientia]]></category>
+		<category><![CDATA[EAI]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Everyday AI]]></category>
+		<category><![CDATA[ZCST]]></category>
+		<guid isPermaLink="false">/?p=30387</guid>
 
-					<description><![CDATA[At DataScientia, we aim to promote and facilitate the advancement of AI that is transparent, reusable, person-centred, ethical, diversity-aware, and truly useful for humanity. One of our key initiatives in this direction is the Knowledge Graph Engineering (KGE) course. This &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="27838" class="elementor elementor-27838">
+					<description><![CDATA[On the evening of September 18, 2025, the completion ceremony of the Everyday AI (EAI) course was successfully held in Zhuhai, China. The course, jointly offered by the University of Trento (Italy) and the School of Computer Science at Zhuhai &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="30387" class="elementor elementor-30387">
 				<div class="elementor-element elementor-element-16fd9c79 e-flex e-con-boxed e-con e-parent" data-id="16fd9c79" data-element_type="container">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-23f82517 elementor-widget elementor-widget-text-editor" data-id="23f82517" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-27842" src="/wp-content/uploads/2025/05/Simone.png" alt="" width="1584" height="396" srcset="/wp-content/uploads/2025/05/Simone.png 1584w, /wp-content/uploads/2025/05/Simone-300x75.png 300w, /wp-content/uploads/2025/05/Simone-1024x256.png 1024w, /wp-content/uploads/2025/05/Simone-768x192.png 768w, /wp-content/uploads/2025/05/Simone-1536x384.png 1536w, /wp-content/uploads/2025/05/Simone-600x150.png 600w" sizes="(max-width: 1584px) 100vw, 1584px" /></p>								</div>
+									<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-30409 size-full" src="/wp-content/uploads/2025/09/Everyday-AI-course.png" alt="" width="1548" height="396" srcset="/wp-content/uploads/2025/09/Everyday-AI-course.png 1548w, /wp-content/uploads/2025/09/Everyday-AI-course-300x77.png 300w, /wp-content/uploads/2025/09/Everyday-AI-course-1024x262.png 1024w, /wp-content/uploads/2025/09/Everyday-AI-course-768x196.png 768w, /wp-content/uploads/2025/09/Everyday-AI-course-1536x393.png 1536w, /wp-content/uploads/2025/09/Everyday-AI-course-600x153.png 600w" sizes="(max-width: 1548px) 100vw, 1548px" /></p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-20665e79 elementor-widget elementor-widget-text-editor" data-id="20665e79" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p><span style="font-weight: 400">At DataScientia, we aim to promote and facilitate the advancement of AI that is transparent, reusable, person-centred, ethical, diversity-aware, and truly useful for humanity. One of our key initiatives in this direction is the Knowledge Graph Engineering (KGE) course. This course not only teaches students how to transform fragmented data into structured and meaningful knowledge but also empowers them with the capacity to innovate in AI while staying true to ethical and human values.</span></p><p><span style="font-weight: 400">Today, we decided to talk to Simone Bocca, LiveData Coordinator at DataScientia, and ask him about the Master’s course in KGE, where he has been a Teaching Assistant at the University of Trento since 2021. Besides, Simone has vast expertise in knowledge graphs, a PhD in Information Engineering and Computer science, and academic experience in Mozambique and Mongolia with local universities. Today, he will share insights on the approach to knowledge engineering for DataScientia and tell us more about what makes the Master’s course on KGE so special. </span></p>								</div>
+									<p>On the evening of <strong>September 18, 2025</strong>, the completion ceremony of the Everyday AI (EAI) course was successfully held in<strong> Zhuhai, China</strong>.</p><p>The course, jointly offered by the <strong>University of Trento (Italy)</strong> and the <strong>School of Computer Science at Zhuhai College of Science and Technology (China),</strong> represents the first achievement in teaching collaboration under the framework of the International Joint Laboratory of Artificial Intelligence and Society.</p><p><img decoding="async" class="alignleft wp-image-30428 size-full" src="/wp-content/uploads/2025/09/EAI-students-took-a-group-photo-with-guests.jpg" alt="" width="638" height="243" srcset="/wp-content/uploads/2025/09/EAI-students-took-a-group-photo-with-guests.jpg 638w, /wp-content/uploads/2025/09/EAI-students-took-a-group-photo-with-guests-300x114.jpg 300w, /wp-content/uploads/2025/09/EAI-students-took-a-group-photo-with-guests-600x229.jpg 600w" sizes="(max-width: 638px) 100vw, 638px" /></p><p>The EAI course is part of our initiative to make high-quality AI education accessible worldwide. Thanks to the dedication of partners like ZCST, students can learn in their local languages while connecting to a global network of learners and educators. With the theme “Data is the core of AI”, the course guided students to explore not only the technical aspects of artificial intelligence but also its ethical boundaries and social impact. Altogether, <strong>58 students successfully completed the program</strong> and were awarded certificates of credit jointly issued by DataScientia and the two universities.</p>								</div>
 				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-6db0b714 e-flex e-con-boxed e-con e-parent" data-id="6db0b714" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-23d6b433 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="23d6b433" data-element_type="widget" data-widget_type="divider.default">
+		<div class="elementor-element elementor-element-9ae8a5f e-grid e-con-full e-con e-child" data-id="9ae8a5f" data-element_type="container">
+				<div class="elementor-element elementor-element-e27e0da elementor-widget elementor-widget-image" data-id="e27e0da" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-							<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-						</div>
+												<figure class="wp-caption">
+										<img decoding="async" width="638" height="374" src="/wp-content/uploads/2025/09/Fausto-Giunchiglia-a-member-of-the-European-Academy-of-Sciences-gave-a-speech.jpg" class="attachment-large size-large wp-image-30397" alt="" srcset="/wp-content/uploads/2025/09/Fausto-Giunchiglia-a-member-of-the-European-Academy-of-Sciences-gave-a-speech.jpg 638w, /wp-content/uploads/2025/09/Fausto-Giunchiglia-a-member-of-the-European-Academy-of-Sciences-gave-a-speech-300x176.jpg 300w, /wp-content/uploads/2025/09/Fausto-Giunchiglia-a-member-of-the-European-Academy-of-Sciences-gave-a-speech-600x352.jpg 600w" sizes="(max-width: 638px) 100vw, 638px" />											<figcaption class="widget-image-caption wp-caption-text">Prof. Fausto Giunchiglia (University of Trento, Coordinator DataScientia)</figcaption>
+										</figure>
+									</div>
 				</div>
-				<div class="elementor-element elementor-element-763c1190 elementor-widget elementor-widget-text-editor" data-id="763c1190" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-129191c elementor-widget elementor-widget-image" data-id="129191c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-									<ul><li><strong>Tetiana</strong>:<em><em><em><em> <span style="font-weight: 400">Hello Simone! Could you briefly tell our readers about the core idea of this course?</span></em></em></em></em><p> </p></li><li><strong>Simone</strong>: Hello Tetiana, sure, KGE is an advanced course initially designed as a 58-hour curriculum, but it is also offered in a 48-hour format. It&#8217;s a master &#8216;s-level course, so students should already have a background in data management, including databases, logical models, ontologies, and even Python programming for handling data. The course focuses on the principles of data reuse and the creation of Knowledge Graphs (KGs). The course aims to teach how to create data for data services, using a methodology called iTelos, which is constantly being revised for better use, thanks to the feedback of the students of this course. It aims to equip participants with the skills to construct KGs for data services using this methodology.</li></ul>								</div>
+												<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="526" height="300" src="/wp-content/uploads/2025/09/Professor-Liang-Yanchun-head-of-the-Joint-Laboratory-of-Artificial-Intelligence-and-Social-Applications-delivered-a-speech-e1758539206919.jpg" class="attachment-large size-large wp-image-30398" alt="" srcset="/wp-content/uploads/2025/09/Professor-Liang-Yanchun-head-of-the-Joint-Laboratory-of-Artificial-Intelligence-and-Social-Applications-delivered-a-speech-e1758539206919.jpg 526w, /wp-content/uploads/2025/09/Professor-Liang-Yanchun-head-of-the-Joint-Laboratory-of-Artificial-Intelligence-and-Social-Applications-delivered-a-speech-e1758539206919-300x171.jpg 300w" sizes="(max-width: 526px) 100vw, 526px" />											<figcaption class="widget-image-caption wp-caption-text">Prof. Liang Yanchun (Dean of the School of Computer Science, ZCST)</figcaption>
+										</figure>
+									</div>
 				</div>
-				<div class="elementor-element elementor-element-2151e12a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="2151e12a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-element elementor-element-9487f0e elementor-widget elementor-widget-image" data-id="9487f0e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-							<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-						</div>
+												<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="638" height="370" src="/wp-content/uploads/2025/09/Matteo-Busso-a-postdoctoral-fellow-at-the-University-of-Trento-Italy-gave-a-speech.jpg" class="attachment-large size-large wp-image-30396" alt="" srcset="/wp-content/uploads/2025/09/Matteo-Busso-a-postdoctoral-fellow-at-the-University-of-Trento-Italy-gave-a-speech.jpg 638w, /wp-content/uploads/2025/09/Matteo-Busso-a-postdoctoral-fellow-at-the-University-of-Trento-Italy-gave-a-speech-300x174.jpg 300w, /wp-content/uploads/2025/09/Matteo-Busso-a-postdoctoral-fellow-at-the-University-of-Trento-Italy-gave-a-speech-600x348.jpg 600w" sizes="(max-width: 638px) 100vw, 638px" />											<figcaption class="widget-image-caption wp-caption-text">Dr. Matteo Busso (University of Trento)</figcaption>
+										</figure>
+									</div>
 				</div>
-				<div class="elementor-element elementor-element-65ff2bec elementor-widget elementor-widget-text-editor" data-id="65ff2bec" data-element_type="widget" data-widget_type="text-editor.default">
+				</div>
+				<div class="elementor-element elementor-element-f5d3aef elementor-widget elementor-widget-text-editor" data-id="f5d3aef" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<ul><li><strong><strong>Tetiana: </strong></strong><em>That sounds intriguing. Could you explain a bit more about what the iTelos methodology involves?<br /><br /></em></li><li><strong>Simone</strong>: <span style="font-weight: 400">Certainly. iTelos is a methodology designed to help students learn how to reuse data more effectively. It teaches them how to reduce the cost of creating and combining data, while also supporting a circular data economy that facilitates sharing and reusing data among different users. Furthermore, iTelos is continuously updated based on feedback from students of the course.</span></li></ul>								</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-7af814a2 e-flex e-con-boxed e-con e-parent" data-id="7af814a2" data-element_type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-462614a0 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="462614a0" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-600310f7 elementor-widget elementor-widget-text-editor" data-id="600310f7" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<div class="flex-shrink-0 flex flex-col relative items-end"><div class="pt-0"><div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full"><div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"><ul><li><strong>Tetiana</strong>: <em><span style="font-weight: 400">Thank you for the explanation. Could you also tell us how this course has been shared beyond your university with DataScientia’s partner universities in other countries?</span></em><p> </p></li><li><strong>Simone</strong>: This course has been held for many years here, in Trento, Italy, and more recently expanded to China about four years ago, and Mongolia just last year.</li></ul></div></div></div></div>								</div>
-				</div>
-				<div class="elementor-element elementor-element-437bbcbd elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="437bbcbd" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-34bcb7af elementor-widget elementor-widget-text-editor" data-id="34bcb7af" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<div class="flex-shrink-0 flex flex-col relative items-end"><div class="pt-0"><div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full"><div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"><ul><li><strong>Tetiana</strong>: <em>That’s impressive! So, do you travel to these places to teach?<br /><br /></em></li><li><strong>Simone</strong>: I had the opportunity to teach this course in Mongolia. In China, however, local professors taught independently and used the same materials.</li></ul></div></div></div></div>								</div>
-				</div>
-				<div class="elementor-element elementor-element-19648861 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="19648861" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-4f82e86a elementor-widget elementor-widget-text-editor" data-id="4f82e86a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<div class="flex-shrink-0 flex flex-col relative items-end"><div class="pt-0"><div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full"><div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"><ul><li><strong>Tetiana</strong>: <em>But apart from China, Mongolia, and Italy, are there possibilities for expanding the course to other regions?<br /><br /></em></li><li><strong>Simone</strong>: Absolutely, there are possibilities. The course is designed to be adaptable for different universities and countries. The main challenge for future expansion is ensuring institutions have the necessary technical prerequisites. Not every university may currently offer the foundational courses or tools that support the KGE curriculum. However, we will be exploring opportunities for expansion into other regions in the future.</li></ul></div></div></div></div>								</div>
-				</div>
-				<div class="elementor-element elementor-element-3e3f1c27 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3e3f1c27" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-d302647 elementor-widget elementor-widget-text-editor" data-id="d302647" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<div class="flex-shrink-0 flex flex-col relative items-end"><div class="pt-0"><div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full"><div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"><ul><li><strong>Tetiana</strong>: <em>Are there plans to make the course more accessible for those with less advanced understanding of knowledge graphs? <br /><br /></em></li><li><strong>Simone</strong>: Yes, we may develop a version of the course that’s more accessible for individuals with a less technical background. This project has the potential to impact the learning experience of non-experts significantly. We plan to introduce semi-automatic tools that allow them to work efficiently with and apply data, enabling students with limited technical expertise to engage with the content effectively. We are working towards this goal and making some progress.</li></ul></div></div></div></div>								</div>
-				</div>
-				<div class="elementor-element elementor-element-52581f5e elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="52581f5e" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-6571ad28 elementor-widget elementor-widget-text-editor" data-id="6571ad28" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<div class="flex-shrink-0 flex flex-col relative items-end"><div class="pt-0"><div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full"><div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"><ul><li><strong>Tetiana</strong>: <em>How would you explain knowledge graphs to people unfamiliar with them?</em><p> </p></li><li><div class="flex max-w-full flex-col flex-grow"><div class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="1d8c6224-0056-4260-9961-a577760b1291" data-message-model-slug="gpt-4o-mini"><div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]"><div class="markdown prose w-full break-words dark:prose-invert light"><p><b>Simone</b>: I’ve never really thought about it this way before, but if I were explaining it to my young daughter, who has no background in research, I’d say a knowledge graph is just data that’s all around us, like the air. If you take data seriously, it’s a graph. For example, your connections with friends form a graph in a social network. A knowledge graph represents those relationships. I try to keep it simple so people don’t feel overwhelmed, even if they’re new to the concept.</p></div></div></div></div></li></ul></div></div></div></div>								</div>
-				</div>
-				<div class="elementor-element elementor-element-5f5215ac elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="5f5215ac" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-4bc1bf63 elementor-widget elementor-widget-text-editor" data-id="4bc1bf63" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<div class="flex-shrink-0 flex flex-col relative items-end"><div class="pt-0"><div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full"><div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"><ul><li><strong>Tetiana</strong>: It’s a great and ambitious initiative. Thanks so much, Simone. This has been really insightful. I’m confident many people will be excited to learn about this course. Wishing you all the best in your continued teaching and future endeavours.<br /><br /></li><li><strong>Simone</strong>: Thank you, Tetiana.</li></ul></div></div></div></div>								</div>
-				</div>
-				<div class="elementor-element elementor-element-1facfa27 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1facfa27" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-af1d34c elementor-widget elementor-widget-text-editor" data-id="af1d34c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>Through our partnerships with institutions in Italy, China, and Mongolia, we are not just teaching advanced technical skills — we’re building a community of forward-thinking data engineers who will shape the future of ethical AI. We’re excited to expand our DataScientia network, engaging more students and institutions in our mission to create transparent, reusable, and human-centred AI solutions.</p>								</div>
-				</div>
-				<div class="elementor-element elementor-element-48f9d5a0 elementor-widget elementor-widget-text-editor" data-id="48f9d5a0" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p><a href="https://unitn-knowledge-graph-engineering.github.io/KGE2024-website/"><span style="font-weight: 400">Learn more about KGE Course from syllabus</span></a></p>
-<p><b>Keywords: </b><span style="font-weight: 400">Knowledge Graph Engineering, KGE, iTelos, data reuse, iTelos methodology, knowledge graphs, KG,&nbsp; Master&#8217;s course, data services, data management, global education, China, Mongolia, data science, AI innovation, international collaboration.</span></p>								</div>
-				</div>
-					</div>
-				</div>
-		<div class="elementor-element elementor-element-1afb1d3 e-flex e-con-boxed e-con e-parent" data-id="1afb1d3" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-1338acff e-con-full e-flex e-con e-child" data-id="1338acff" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-		<div class="elementor-element elementor-element-156e9c0a e-con-full e-flex e-con e-child" data-id="156e9c0a" data-element_type="container">
-				<div class="elementor-element elementor-element-13392375 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="13392375" data-element_type="widget" data-widget_type="thim-single-images.default">
-				<div class="elementor-widget-container">
-					<div class="single-image template-layout-2"><img decoding="async" width="100" height="100" src="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="/wp-content/uploads/2024/08/Tetiana-Bihun-100x100.jpg 100w, /wp-content/uploads/2024/08/Tetiana-Bihun-300x300.jpg 300w, /wp-content/uploads/2024/08/Tetiana-Bihun-1024x1024.jpg 1024w, /wp-content/uploads/2024/08/Tetiana-Bihun-150x150.jpg 150w, /wp-content/uploads/2024/08/Tetiana-Bihun-768x768.jpg 768w, /wp-content/uploads/2024/08/Tetiana-Bihun-600x600.jpg 600w, /wp-content/uploads/2024/08/Tetiana-Bihun.jpg 1283w" sizes="(max-width: 100px) 100vw, 100px" /><div class="single-image-hover"><i class="fas fa-expand"></i><span class="inner-info"></span></div></div>				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-624f60af e-con-full e-flex e-con e-child" data-id="624f60af" data-element_type="container">
-				<div class="elementor-element elementor-element-1d2cd06 elementor-widget elementor-widget-text-editor" data-id="1d2cd06" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;text-align: var(--text-align);font-size: var(--thim-font-body-font-size)">────────────────<br />Tetiana Bihun<br /></strong><em>Author, Content Creator</em></p>								</div>
-				</div>
-				</div>
+									<h4>Celebrating achievements together</h4><p>The closing ceremony, held in hybrid format, brought together voices from both continents.</p><ul><li><strong>Prof. Fausto Giunchiglia</strong> (University of Trento, Member of the European Academy of Sciences),</li><li><strong>Prof. Liang Yanchun</strong> (Dean of the School of Computer Science, ZCST), and</li><li><strong>Dr. Matteo Busso</strong> (University of Trento)</li></ul><p>Each emphasized the importance of this collaboration in shaping AI talent and strengthening Sino-Italian educational cooperation.</p><h4>What’s next?</h4><p>The successful delivery of the EAI course sets a solid foundation for:</p><ul><li>Joint curriculum development,</li><li>Talent training,</li><li>Scientific research, and</li><li>Industrial innovation collaborations within the DataScientia community.</li></ul><p dir="ltr">Building on this success, ZCST and the University of Trento are already preparing three additional joint courses and expanding opportunities for international exchange and industry engagement.</p><p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;">At DataScientia, we are proud to see this initiative growing worldwide. By co-creating with universities and partners, we aim to build a future where responsible and inclusive AI education is within reach for everyone</p><p>Find out more about the it <a href="https://www.zcst.edu.cn/2025/0919/c89a186250/page.htm">[here]</a></p>								</div>
 				</div>
 					</div>
 				</div>

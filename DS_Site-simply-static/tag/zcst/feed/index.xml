@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ZCST &#8211; DataScientia</title>
+	<atom:link href="/tag/zcst/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DataScientia Initiative website</description>
+	<lastBuildDate>Mon, 22 Sep 2025 11:14:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/03/DS-fav-icon-32x32.png</url>
+	<title>ZCST &#8211; DataScientia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Everyday AI Course Completion Ceremony Held in Zhuhai, China</title>
+		<link>/everyday-ai-course-completion-ceremony-held-in-zhuhai-china/</link>
+		
+		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 10:01:59 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[DataScientia]]></category>
+		<category><![CDATA[EAI]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Everyday AI]]></category>
+		<category><![CDATA[ZCST]]></category>
+		<guid isPermaLink="false">/?p=30387</guid>
+
+					<description><![CDATA[On the evening of September 18, 2025, the completion ceremony of the Everyday AI (EAI) course was successfully held in Zhuhai, China. The course, jointly offered by the University of Trento (Italy) and the School of Computer Science at Zhuhai &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="30387" class="elementor elementor-30387">
+				<div class="elementor-element elementor-element-16fd9c79 e-flex e-con-boxed e-con e-parent" data-id="16fd9c79" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-23f82517 elementor-widget elementor-widget-text-editor" data-id="23f82517" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-30409 size-full" src="/wp-content/uploads/2025/09/Everyday-AI-course.png" alt="" width="1548" height="396" srcset="/wp-content/uploads/2025/09/Everyday-AI-course.png 1548w, /wp-content/uploads/2025/09/Everyday-AI-course-300x77.png 300w, /wp-content/uploads/2025/09/Everyday-AI-course-1024x262.png 1024w, /wp-content/uploads/2025/09/Everyday-AI-course-768x196.png 768w, /wp-content/uploads/2025/09/Everyday-AI-course-1536x393.png 1536w, /wp-content/uploads/2025/09/Everyday-AI-course-600x153.png 600w" sizes="(max-width: 1548px) 100vw, 1548px" /></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-20665e79 elementor-widget elementor-widget-text-editor" data-id="20665e79" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>On the evening of <strong>September 18, 2025</strong>, the completion ceremony of the Everyday AI (EAI) course was successfully held in<strong> Zhuhai, China</strong>.</p><p>The course, jointly offered by the <strong>University of Trento (Italy)</strong> and the <strong>School of Computer Science at Zhuhai College of Science and Technology (China),</strong> represents the first achievement in teaching collaboration under the framework of the International Joint Laboratory of Artificial Intelligence and Society.</p><p><img decoding="async" class="alignleft wp-image-30428 size-full" src="/wp-content/uploads/2025/09/EAI-students-took-a-group-photo-with-guests.jpg" alt="" width="638" height="243" srcset="/wp-content/uploads/2025/09/EAI-students-took-a-group-photo-with-guests.jpg 638w, /wp-content/uploads/2025/09/EAI-students-took-a-group-photo-with-guests-300x114.jpg 300w, /wp-content/uploads/2025/09/EAI-students-took-a-group-photo-with-guests-600x229.jpg 600w" sizes="(max-width: 638px) 100vw, 638px" /></p><p>The EAI course is part of our initiative to make high-quality AI education accessible worldwide. Thanks to the dedication of partners like ZCST, students can learn in their local languages while connecting to a global network of learners and educators. With the theme “Data is the core of AI”, the course guided students to explore not only the technical aspects of artificial intelligence but also its ethical boundaries and social impact. Altogether, <strong>58 students successfully completed the program</strong> and were awarded certificates of credit jointly issued by DataScientia and the two universities.</p>								</div>
+				</div>
+		<div class="elementor-element elementor-element-9ae8a5f e-grid e-con-full e-con e-child" data-id="9ae8a5f" data-element_type="container">
+				<div class="elementor-element elementor-element-e27e0da elementor-widget elementor-widget-image" data-id="e27e0da" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+										<img decoding="async" width="638" height="374" src="/wp-content/uploads/2025/09/Fausto-Giunchiglia-a-member-of-the-European-Academy-of-Sciences-gave-a-speech.jpg" class="attachment-large size-large wp-image-30397" alt="" srcset="/wp-content/uploads/2025/09/Fausto-Giunchiglia-a-member-of-the-European-Academy-of-Sciences-gave-a-speech.jpg 638w, /wp-content/uploads/2025/09/Fausto-Giunchiglia-a-member-of-the-European-Academy-of-Sciences-gave-a-speech-300x176.jpg 300w, /wp-content/uploads/2025/09/Fausto-Giunchiglia-a-member-of-the-European-Academy-of-Sciences-gave-a-speech-600x352.jpg 600w" sizes="(max-width: 638px) 100vw, 638px" />											<figcaption class="widget-image-caption wp-caption-text">Prof. Fausto Giunchiglia (University of Trento, Coordinator DataScientia)</figcaption>
+										</figure>
+									</div>
+				</div>
+				<div class="elementor-element elementor-element-129191c elementor-widget elementor-widget-image" data-id="129191c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="526" height="300" src="/wp-content/uploads/2025/09/Professor-Liang-Yanchun-head-of-the-Joint-Laboratory-of-Artificial-Intelligence-and-Social-Applications-delivered-a-speech-e1758539206919.jpg" class="attachment-large size-large wp-image-30398" alt="" srcset="/wp-content/uploads/2025/09/Professor-Liang-Yanchun-head-of-the-Joint-Laboratory-of-Artificial-Intelligence-and-Social-Applications-delivered-a-speech-e1758539206919.jpg 526w, /wp-content/uploads/2025/09/Professor-Liang-Yanchun-head-of-the-Joint-Laboratory-of-Artificial-Intelligence-and-Social-Applications-delivered-a-speech-e1758539206919-300x171.jpg 300w" sizes="(max-width: 526px) 100vw, 526px" />											<figcaption class="widget-image-caption wp-caption-text">Prof. Liang Yanchun (Dean of the School of Computer Science, ZCST)</figcaption>
+										</figure>
+									</div>
+				</div>
+				<div class="elementor-element elementor-element-9487f0e elementor-widget elementor-widget-image" data-id="9487f0e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="638" height="370" src="/wp-content/uploads/2025/09/Matteo-Busso-a-postdoctoral-fellow-at-the-University-of-Trento-Italy-gave-a-speech.jpg" class="attachment-large size-large wp-image-30396" alt="" srcset="/wp-content/uploads/2025/09/Matteo-Busso-a-postdoctoral-fellow-at-the-University-of-Trento-Italy-gave-a-speech.jpg 638w, /wp-content/uploads/2025/09/Matteo-Busso-a-postdoctoral-fellow-at-the-University-of-Trento-Italy-gave-a-speech-300x174.jpg 300w, /wp-content/uploads/2025/09/Matteo-Busso-a-postdoctoral-fellow-at-the-University-of-Trento-Italy-gave-a-speech-600x348.jpg 600w" sizes="(max-width: 638px) 100vw, 638px" />											<figcaption class="widget-image-caption wp-caption-text">Dr. Matteo Busso (University of Trento)</figcaption>
+										</figure>
+									</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f5d3aef elementor-widget elementor-widget-text-editor" data-id="f5d3aef" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h4>Celebrating achievements together</h4><p>The closing ceremony, held in hybrid format, brought together voices from both continents.</p><ul><li><strong>Prof. Fausto Giunchiglia</strong> (University of Trento, Member of the European Academy of Sciences),</li><li><strong>Prof. Liang Yanchun</strong> (Dean of the School of Computer Science, ZCST), and</li><li><strong>Dr. Matteo Busso</strong> (University of Trento)</li></ul><p>Each emphasized the importance of this collaboration in shaping AI talent and strengthening Sino-Italian educational cooperation.</p><h4>What’s next?</h4><p>The successful delivery of the EAI course sets a solid foundation for:</p><ul><li>Joint curriculum development,</li><li>Talent training,</li><li>Scientific research, and</li><li>Industrial innovation collaborations within the DataScientia community.</li></ul><p dir="ltr">Building on this success, ZCST and the University of Trento are already preparing three additional joint courses and expanding opportunities for international exchange and industry engagement.</p><p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;">At DataScientia, we are proud to see this initiative growing worldwide. By co-creating with universities and partners, we aim to build a future where responsible and inclusive AI education is within reach for everyone</p><p>Find out more about the it <a href="https://www.zcst.edu.cn/2025/0919/c89a186250/page.htm">[here]</a></p>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-50ffddf3 e-flex e-con-boxed e-con e-parent" data-id="50ffddf3" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-437fd065 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="437fd065" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
