@@ -12,7 +12,7 @@
 	<atom:link href="/portfolio_category/livepeople/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Tue, 08 Apr 2025 19:34:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Oct 2025 11:30:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,7 +35,7 @@
 		<pubDate>Wed, 15 Jan 2025 12:46:45 +0000</pubDate>
 				<guid isPermaLink="false">/?post_type=portfolio#038;p=27199</guid>
 
-					<description><![CDATA[Description DiversityOne is one of the largest and most geographically diverse datasets for studying everyday life behavior of college students through smartphone sensors and self-reports. Key statistics Questionnaires from 18K+ participants Intensive longitudinal survey of 4 weeks Data from both &#8230; ]]></description>
+					<description><![CDATA[Description DiversityOne is one of the largest and most geographically diverse datasets for studying everyday life behavior of college students through smartphone sensors and self-reports. https://www.youtube.com/watch?v=xURRxFyj_X8 Key statistics Questionnaires from 18K+ participants Intensive longitudinal survey of 4 weeks Data from &#8230; ]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="27199" class="elementor elementor-27199">
 				<div class="elementor-element elementor-element-f8532ed e-flex e-con-boxed e-con e-parent" data-id="f8532ed" data-element_type="container">
 					<div class="e-con-inner">
@@ -46,6 +46,12 @@
 				<div class="elementor-element elementor-element-88e3361 elementor-widget elementor-widget-text-editor" data-id="88e3361" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 									<p><em>DiversityOne is one of the largest and most geographically diverse datasets for studying everyday life behavior of college students through smartphone sensors and self-reports.</em></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-9dceb3c elementor-widget elementor-widget-video" data-id="9dceb3c" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=xURRxFyj_X8&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+						</div>
 				</div>
 				<div class="elementor-element elementor-element-b43df7f thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="b43df7f" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
