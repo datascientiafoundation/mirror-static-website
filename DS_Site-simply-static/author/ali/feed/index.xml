@@ -12,7 +12,7 @@
 	<atom:link href="/author/ali/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Mon, 16 Mar 2026 15:45:29 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Mar 2026 10:53:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,31 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>What can Computer Vision learn from Ranganathan?</title>
-		<link>/what-can-computer-vision-learn-from-ranganathan/</link>
+		<title>International Seminar on Generative AI in Education</title>
+		<link>/international-seminar-on-generative-ai-in-education/</link>
 		
 		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 15:16:04 +0000</pubDate>
+		<pubDate>Tue, 24 Mar 2026 10:21:41 +0000</pubDate>
 				<category><![CDATA[News]]></category>
+		<category><![CDATA[abai university]]></category>
+		<category><![CDATA[Ai]]></category>
+		<category><![CDATA[ai education]]></category>
 		<category><![CDATA[DataScientia]]></category>
-		<category><![CDATA[DRTC]]></category>
-		<category><![CDATA[Indian Statistical Institute]]></category>
-		<category><![CDATA[LiveKnowledge]]></category>
 		<category><![CDATA[Partners]]></category>
-		<category><![CDATA[uniTrento]]></category>
-		<guid isPermaLink="false">/?p=31450</guid>
+		<category><![CDATA[seminar]]></category>
+		<guid isPermaLink="false">/?p=31588</guid>
 
-					<description><![CDATA[Mayukh Bagchi, a researcher at the University of Trento, Italy, recently presented a novel approach (joint work with Professor Fausto Giunchiglia, University of Trento, Italy) to solving the Semantic Gap Problem (SGP) in Computer Vision (CV). Speaking at the Documentation Research and &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="31450" class="elementor elementor-31450">
+					<description><![CDATA[DataScientia is pleased to announce its participation in the Annual International Scientific and Practical Seminar “Trends and Innovations in Education in the Era of Generative Artificial Intelligence”, hosted by Abai Kazakh National Pedagogical University in Almaty, Kazakhstan. The seminar brings together researchers, &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="31588" class="elementor elementor-31588">
 				<div class="elementor-element elementor-element-16fd9c79 e-flex e-con-boxed e-con e-parent" data-id="16fd9c79" data-element_type="container">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-23f82517 elementor-widget elementor-widget-text-editor" data-id="23f82517" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-31554 size-full" src="/wp-content/uploads/2026/03/DS-News-2026-03-news3-featureimage.png" alt="" width="1548" height="396" srcset="/wp-content/uploads/2026/03/DS-News-2026-03-news3-featureimage.png 1548w, /wp-content/uploads/2026/03/DS-News-2026-03-news3-featureimage-300x77.png 300w, /wp-content/uploads/2026/03/DS-News-2026-03-news3-featureimage-1024x262.png 1024w, /wp-content/uploads/2026/03/DS-News-2026-03-news3-featureimage-768x196.png 768w, /wp-content/uploads/2026/03/DS-News-2026-03-news3-featureimage-1536x393.png 1536w, /wp-content/uploads/2026/03/DS-News-2026-03-news3-featureimage-600x153.png 600w" sizes="(max-width: 1548px) 100vw, 1548px" /></p>								</div>
+									<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-31625 size-full" src="/wp-content/uploads/2026/03/DS-News-2026-03-news4-banner.png" alt="" width="1548" height="396" srcset="/wp-content/uploads/2026/03/DS-News-2026-03-news4-banner.png 1548w, /wp-content/uploads/2026/03/DS-News-2026-03-news4-banner-300x77.png 300w, /wp-content/uploads/2026/03/DS-News-2026-03-news4-banner-1024x262.png 1024w, /wp-content/uploads/2026/03/DS-News-2026-03-news4-banner-768x196.png 768w, /wp-content/uploads/2026/03/DS-News-2026-03-news4-banner-1536x393.png 1536w, /wp-content/uploads/2026/03/DS-News-2026-03-news4-banner-600x153.png 600w" sizes="(max-width: 1548px) 100vw, 1548px" /></p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-20665e79 elementor-widget elementor-widget-text-editor" data-id="20665e79" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p data-start="37" data-end="507"><a style="background-color: #ffffff;" href="http://knowdive.disi.unitn.it/mayukh-bagchi/" target="_blank" rel="noopener">Mayukh Bagchi</a>, a researcher at the University of Trento, Italy, recently presented a novel approach (joint work with Professor <a style="background-color: #ffffff;" href="http://fausto.disi.unitn.it/" target="_blank" rel="noopener">Fausto Giunchiglia</a>, University of Trento, Italy) to solving the Semantic Gap Problem (SGP) in Computer Vision (CV). Speaking at the <span data-start="160" data-end="208"><a style="background-color: #ffffff;" href="https://drtc.isibang.ac.in/" target="_blank" rel="noopener">Documentation Research and Training Centre</a> (DRTC)</span>,  <span data-start="513" data-end="551"><a style="background-color: #ffffff;" href="https://www.isical.ac.in/" target="_blank" rel="noopener">Indian Statistical Institute</a></span>, Bangalore &#8211; a key partner in the DataScientia initiative &#8211; Bagchi explored how the classification principles of S.R. Ranganathan, suitably adapted, can transform modern CV dataset design and construction. The presentation focused on the critical intersection of Knowledge Organization (KO) and Knowledge Representation (KR), arguing that the flaws in current CV benchmarks like ImageNet stem from an underlying unprincipled annotation process.</p><p data-start="1704" data-end="1962" data-is-last-node="" data-is-only-node="">By adapting traditional KO principles to digital KR, the proposed vTelos methodology provides a systematic framework for image annotation and CV dataset design. This approach reduces subjective classification errors and ensures a more precise alignment between visual data and linguistic labels. The talk demonstrated that returning to the foundations of information science and faceted classification is essential for building the next generation of robust, high-accuracy CV datasets and systems.</p><p data-start="1704" data-end="1962" data-is-last-node="" data-is-only-node=""><b>Useful links</b></p><ul><li data-start="1704" data-end="1962">Research Paper: <a href="https://arxiv.org/pdf/2601.22634" target="_blank" rel="noopener">https://arxiv.org/pdf/2601.22634</a></li></ul>								</div>
+									<p>DataScientia is pleased to announce its participation in the <span data-start="275" data-end="419">Annual International Scientific and Practical Seminar</span><strong data-start="275" data-end="419"> “Trends and Innovations in Education in the Era of Generative Artificial Intelligence”</strong>, hosted by <a href="https://abai.university/en/2/page/" target="_blank" rel="noopener">Abai Kazakh National Pedagogical University</a> in Almaty, Kazakhstan.</p><p data-start="491" data-end="714">The seminar brings together researchers, educators, and practitioners to explore the transformative impact of generative AI on education, fostering dialogue on innovation, collaboration, and emerging practices in the field.</p><p data-start="747" data-end="939">As part of the seminar program, <a href="http://fausto.disi.unitn.it/" target="_blank" rel="noopener">Prof. Fausto Giunchiglia</a>, Coordinator of the DataScientia and Professor of Computer Science at the <a href="https://www.unitn.it/en" target="_blank" rel="noopener">University of Trento</a>, will deliver a talk on <span data-start="941" data-end="973">The DataScientia Community<b>, </b></span>introducing the vision, activities, and impact of the DataScientia community, highlighting its role in advancing interdisciplinary data science education and research at a global scale.</p><h3 data-section-id="f466pp" data-start="1204" data-end="1225">About the Seminar</h3><p data-start="1227" data-end="1250">The seminar focuses on:</p><ul><li>Creation of a communication for studying trends and innovations in education in  the era of generative artificial intelligence;</li><li>Activating the participation of students, master&#8217;s degree students, doctoral students, as well  as young scientists and specialists in research and innovation activities;</li><li>Presentation of scientific results of the dissertation research of master&#8217;s degree students and  doctoral students, innovative ideas and projects of IT communities, and educational organizations;</li><li>Organization of professional communication of the Seminar participants to study the world experience of scientific collaborations in the field of AI and related areas.</li><li>Consultation and assistance to the authors of the best scientific presentations at the Seminar for preparing the publication.</li></ul><h3 data-section-id="14hhftd" data-start="1637" data-end="1659">Program Highlights</h3><p data-start="1661" data-end="1710">The seminar features an expert session including:</p><ul data-start="1711" data-end="2004"><li data-section-id="1b2v6u5" data-start="1711" data-end="1790">Opening remarks by the Faculty of Mathematics, Physics and Computer Science</li><li data-section-id="mubjf0" data-start="1791" data-end="1853">Talks on AI in education, cybersecurity, and IT governance</li><li data-section-id="1sb1w97" data-start="1854" data-end="1921">Presentations by international researchers and young scientists</li><li data-section-id="1yv8s02" data-start="1922" data-end="2004">Discussions on data-driven decision-making and intelligent educational systems</li></ul><p><u>Date and time:</u> 08 April 2026, 15:00<br /><u>Venue:</u> г. Алматы, ул. Толе би, 86, ауд. 306<br /><u>Working language:</u> Kazakh, Russian, English. </p><p data-section-id="1w9i1je" data-start="2011" data-end="2044"><b>Learn More &amp; Join the Even</b></p><ul><li data-start="1704" data-end="1962"><a href="/wp-content/uploads/2026/03/Seminar-poster-Almaty-2026.jpg" target="_blank" rel="noopener">View the seminar poster</a></li></ul>								</div>
 				</div>
 					</div>
 				</div>

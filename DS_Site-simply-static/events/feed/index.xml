@@ -12,7 +12,7 @@
 	<atom:link href="/events/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Wed, 10 Sep 2025 11:33:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Mar 2026 12:09:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,23 +28,38 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>AI4Everyone Inauguration Event</title>
-		<link>/events/ai4everyone-inauguration-event/</link>
+		<title>The DataScientia Event 2026: Strengthening Global Collaborations – South Africa Edition</title>
+		<link>/events/the-datascientia-event-2026-community-projects-and-education/</link>
 		
 		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
-		<pubDate>Wed, 10 Sep 2025 11:00:53 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=tp_event#038;p=30284</guid>
+		<pubDate>Tue, 24 Mar 2026 11:05:43 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=tp_event#038;p=31630</guid>
 
-					<description><![CDATA[About this event 📢 Join us at our upcoming inauguration event to meet the AI4Everyone team, find out how you can get involved and benefit, discover the resources, and see how AI4Everyone is making AI knowledge accessible to all. AI4Everyone &#8230; ]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="30284" class="elementor elementor-30284">
+					<description><![CDATA[DataScientia will host its 2026 annual workshop at Durban University of Technology in Durban, bringing together partner universities from across Europe, Asia, Africa, and South America, along with new collaborators from South Africa. DataScientia aims to become a citizen science &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="31630" class="elementor elementor-31630">
 				<div class="elementor-element elementor-element-7ca1b80a e-con-full e-flex e-con e-parent" data-id="7ca1b80a" data-element_type="container">
 				<div class="elementor-element elementor-element-10b515da elementor-widget elementor-widget-text-editor" data-id="10b515da" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<h2>About this event</h2><p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4e2.png" alt="📢" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Join us at our upcoming inauguration event to meet the AI4Everyone team, find out how you can get involved and benefit, discover the resources, and see how AI4Everyone is making AI knowledge accessible to all.</p><p>AI4Everyone is an Erasmus+ funded project that will:</p><ul><li>Develop instruments to measure AI awareness in all five EU countries involved, and track progress.</li><li>Create an adaptable curriculum with online and blended courses aimed at different audiences.</li><li>Launch a Massive Open Online Course (MOOC) for wider outreach.</li><li>Offer hands-on activities to explore how AI impacts daily life and society.</li></ul><p>All materials will be developed in <strong>six languages</strong> – English, Greek, German, Polish, Italian, and Danish – and are tailored for <strong>students, teachers at all levels, and staff in both public and private organizations</strong>.</p><p><strong>Event Date:</strong> 19th of September 2025</p><p><strong>Time:</strong> 10:00 EEST.</p>								</div>
+									<h4><span data-start="144" data-end="216">DataScientia will host its 2026 annual workshop at Durban University of Technology in Durban, bringing together partner universities from across Europe, Asia, Africa, and South America, along with new collaborators from South Africa.</span></h4><div><p data-start="218" data-end="488">DataScientia aims to become a citizen science community of practice devoted to person-centric general AI (PCAGI). Rather than treating individuals as passive data sources, we focus on empowering people with tools and technologies to understand, manage, and use their data—supporting the development of AI systems that are transparent, inclusive, and beneficial to society.</p><p data-start="864" data-end="981">Our long-term vision is to build a fully operational global citizen science ecosystem where partners collaboratively:</p><ul data-start="983" data-end="1260"><li data-section-id="1xq6gjz" data-start="983" data-end="1020">Design, offer, and localize MOOCs</li><li data-section-id="y9yxx" data-start="1021" data-end="1102">Collect and analyze personal data through shared infrastructures such as iLog</li><li data-section-id="vn461g" data-start="1103" data-end="1177">Contribute linguistic and cultural resources to improve AI inclusivity</li><li data-section-id="145mdlk" data-start="1178" data-end="1260">Disseminate knowledge through open platforms, media, and community initiatives</li></ul><h3 data-section-id="bbfiqx" data-start="1267" data-end="1289"><span role="text"><strong data-start="1271" data-end="1289">Event Overview</strong></span></h3><p data-start="1291" data-end="1426">The 2026 event will follow a multi-day format combining scientific exchange, collaboration planning, and community-building activities.</p><p data-start="1428" data-end="1646"><strong data-start="1428" data-end="1474">22 July 2026 (Afternoon) – Pre-Workshop Session</strong><br data-start="1474" data-end="1477" />A half-day session dedicated to <strong data-start="1509" data-end="1541">Large Language Models (LLMs)</strong> and <strong data-start="1546" data-end="1565">AI applications</strong>, featuring focused talks and discussions to set the stage for the main workshop.</p><p data-start="1648" data-end="1757"><strong data-start="1648" data-end="1678">23–24 July 2026 – Main Workshop</strong><br data-start="1678" data-end="1681" />These two days will follow a format similar to previous editions, including:</p><ul data-start="1758" data-end="2011"><li data-section-id="1djw5w2" data-start="1758" data-end="1801">Presentations from partner institutions</li><li data-section-id="5bb44i" data-start="1802" data-end="1856">Review of progress and outcomes from the past year</li><li data-section-id="h77sxr" data-start="1857" data-end="1941">Discussions on ongoing research areas (Citizen Science, LiveKnowledge, LiveData)</li><li data-section-id="137c28c" data-start="1942" data-end="2011">Planning of future collaborations, joint labs, and pilot projects</li></ul><p data-start="2013" data-end="2167"><strong data-start="2013" data-end="2040">24 July 2026 – Social Dinner</strong><br data-start="2040" data-end="2043" />A social gathering for all participants (venue to be confirmed), fostering informal exchange and strengthening partnerships.</p><p data-start="2169" data-end="2342"><strong data-start="2169" data-end="2193">25 July 2026 – Safari Day</strong><br data-start="2193" data-end="2196" />A dedicated cultural and networking experience, offering participants the opportunity to explore the natural environment of South Africa together.</p><h3 data-section-id="1x0dj6w" data-start="2621" data-end="2654"><span role="text"><strong data-start="2625" data-end="2654">Focus of the 2026 Edition</strong></span></h3><p data-start="2656" data-end="2720">Building on previous workshops, the 2026 edition will emphasize:</p><ul data-start="2722" data-end="3040"><li data-section-id="glv0n9" data-start="2722" data-end="2791">Advancing <strong data-start="2734" data-end="2755">person-centric AI</strong> through real-world pilot projects</li><li data-section-id="146dbre" data-start="2792" data-end="2880">Strengthening <strong data-start="2808" data-end="2832">global collaboration </strong><span data-start="2808" data-end="2832">and</span> exploring potential partnership opportunities with new South African universities participating.</li><li data-section-id="vu35vv" data-start="2881" data-end="2968">Scaling <strong data-start="2891" data-end="2920">citizen science practices</strong> across education, language, and personal data</li><li data-section-id="542ck7" data-start="2969" data-end="3040">Exploring <strong data-start="2981" data-end="3009">LLMs and AI applications</strong> in community-driven contexts</li></ul><p data-start="3042" data-end="3207">Participants will be encouraged not only to share insights but also to actively contribute to shaping and leading DataScientia initiatives in their local ecosystems.</p></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-b9dc015 elementor-widget elementor-widget-text-editor" data-id="b9dc015" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h2>Program Details</h2><p data-start="3239" data-end="3305">The <strong data-start="3243" data-end="3304">full program and detailed schedule will be announced soon</strong>.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-141769a elementor-widget elementor-widget-text-editor" data-id="141769a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<h2>Practical information</h2><h4>✦ Event Location</h4><p>Online &#8211; <span style="text-align: justify;">Zoom Link will be provided.</span></p><h4>✦ Event Registration</h4><p>Register here: <a style="background-color: #ffffff;" href="https://www.eventbrite.com/e/ai4everyone-inauguration-event-tickets-1606576606879?aff=oddtdtcreator" target="_blank" rel="noopener">https://www.eventbrite.com/e/ai4everyone-inauguration-event-tickets-1606576606879?aff=oddtdtcreator</a></p><h4 style="font-family: 'Roboto Slab'; font-weight: 600; line-height: 28.8px; color: #000000; font-size: 18px; text-transform: none;">✦ Organized by</h4><div><img decoding="async" class="alignleft wp-image-30323" src="/wp-content/uploads/2025/09/thumbnail_logo2_6_landscape-300x139.png" alt="" width="200" height="92" srcset="/wp-content/uploads/2025/09/thumbnail_logo2_6_landscape-300x139.png 300w, /wp-content/uploads/2025/09/thumbnail_logo2_6_landscape-1024x473.png 1024w, /wp-content/uploads/2025/09/thumbnail_logo2_6_landscape-768x355.png 768w, /wp-content/uploads/2025/09/thumbnail_logo2_6_landscape-600x277.png 600w, /wp-content/uploads/2025/09/thumbnail_logo2_6_landscape.png 1192w" sizes="(max-width: 200px) 100vw, 200px" /><img decoding="async" class="alignleft wp-image-20669" src="/wp-content/uploads/2024/07/ouc-logo-300x128.png" alt="" width="200" height="85" srcset="/wp-content/uploads/2024/07/ouc-logo-300x128.png 300w, /wp-content/uploads/2024/07/ouc-logo-1024x436.png 1024w, /wp-content/uploads/2024/07/ouc-logo-768x327.png 768w, /wp-content/uploads/2024/07/ouc-logo-600x255.png 600w, /wp-content/uploads/2024/07/ouc-logo.png 1182w" sizes="(max-width: 200px) 100vw, 200px" /></div>								</div>
+									<h2>Practical information</h2><h4>✦ Venue</h4><p>The meeting will take place at the <a href="https://www.dut.ac.za/" target="_blank" rel="noopener">Durban University of Technology</a> in <span style="text-align: justify;">Durban, South Africa.<br /></span><span style="text-align: justify;">Tentative Dates: 22-25 July 2026</span></p><h4>✦ Event Format</h4><p>The event will be held in a <b>hybrid format</b>, allowing both in-person participation in Durban and online attendance for partners who are unable to travel.<br /><b><u>Online Meeting Link:</u> </b>Meeting link will be published on this page right before the event and will also be shared through email with event participant.<b> </b></p><h4>✦ Additional Information:</h4><p><span style="text-align: justify;">Details regarding accommodation, Zoom access, and the social dinner venue will be shared closer to the event.</span></p><h2>Event Location:</h2><p>The meeting will take place at <a style="transition-property: all; background-color: #ffffff;" href="https://www.dut.ac.za/" target="_blank" rel="noopener">Durban University of Technology</a> in <span style="text-align: justify;">Durban, South Africa</span>. </p><p><strong>Address:</strong> <a style="background-color: #ffffff;" href="https://maps.app.goo.gl/xDkn27foVdHoAbKy5" target="_blank" rel="noopener">41/43 M L Sultan Rd, Greyville, Durban, 4001, South Africa</a></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2b48f8a elementor-widget elementor-widget-google_maps" data-id="2b48f8a" data-element_type="widget" data-widget_type="google_maps.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-custom-embed">
+			<iframe loading="lazy"
+					src="https://maps.google.com/maps?q=41%2F43%20M%20L%20Sultan%20Rd%2C%20Greyville%2C%20Durban%2C%204001%2C%20South%20Africa&#038;t=m&#038;z=13&#038;output=embed&#038;iwloc=near"
+					title="41/43 M L Sultan Rd, Greyville, Durban, 4001, South Africa"
+					aria-label="41/43 M L Sultan Rd, Greyville, Durban, 4001, South Africa"
+			></iframe>
+		</div>
+						</div>
 				</div>
 				<div class="elementor-element elementor-element-1bdc19c elementor-widget elementor-widget-spacer" data-id="1bdc19c" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -54,6 +69,30 @@
 						</div>
 				</div>
 				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6739e4a elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6739e4a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-424301d" data-id="424301d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-782fa1d elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="782fa1d" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+					<div class="sc_heading"><h3 class="title">Event Organizers </h3><span class="line"></span></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ebf93e5 elementor-widget thim-widget-gallery-images" data-id="ebf93e5" data-element_type="widget" data-widget_type="thim-gallery-images.default">
+				<div class="elementor-widget-container">
+					<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><a target=_self href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX1%252BDcXIyZtw79M5coIPrOahzxcVvxuYXb3B6q1bbWqLQSqeOGncqVEOy"><img decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/download-3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/download-3-150x150.jpg 150w, /wp-content/uploads/2024/07/download-3-300x300.jpg 300w, /wp-content/uploads/2024/07/download-3-100x100.jpg 100w, /wp-content/uploads/2024/07/download-3.jpg 312w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Ali Hamza <br> <small>Community Event Coordinator</small></h4></a></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-899298e elementor-widget elementor-widget-spacer" data-id="899298e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
 		<div class="elementor-element elementor-element-997f8a3 e-flex e-con-boxed e-con e-parent" data-id="997f8a3" data-element_type="container">
 					<div class="e-con-inner">
 					</div>
