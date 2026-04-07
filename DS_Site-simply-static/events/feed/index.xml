@@ -12,7 +12,7 @@
 	<atom:link href="/events/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>DataScientia Initiative website</description>
-	<lastBuildDate>Tue, 24 Mar 2026 12:09:59 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Apr 2026 10:47:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -40,17 +40,36 @@
 				<div class="elementor-element elementor-element-7ca1b80a e-con-full e-flex e-con e-parent" data-id="7ca1b80a" data-element_type="container">
 				<div class="elementor-element elementor-element-10b515da elementor-widget elementor-widget-text-editor" data-id="10b515da" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<h4><span data-start="144" data-end="216">DataScientia will host its 2026 annual workshop at Durban University of Technology in Durban, bringing together partner universities from across Europe, Asia, Africa, and South America, along with new collaborators from South Africa.</span></h4><div><p data-start="218" data-end="488">DataScientia aims to become a citizen science community of practice devoted to person-centric general AI (PCAGI). Rather than treating individuals as passive data sources, we focus on empowering people with tools and technologies to understand, manage, and use their data—supporting the development of AI systems that are transparent, inclusive, and beneficial to society.</p><p data-start="864" data-end="981">Our long-term vision is to build a fully operational global citizen science ecosystem where partners collaboratively:</p><ul data-start="983" data-end="1260"><li data-section-id="1xq6gjz" data-start="983" data-end="1020">Design, offer, and localize MOOCs</li><li data-section-id="y9yxx" data-start="1021" data-end="1102">Collect and analyze personal data through shared infrastructures such as iLog</li><li data-section-id="vn461g" data-start="1103" data-end="1177">Contribute linguistic and cultural resources to improve AI inclusivity</li><li data-section-id="145mdlk" data-start="1178" data-end="1260">Disseminate knowledge through open platforms, media, and community initiatives</li></ul><h3 data-section-id="bbfiqx" data-start="1267" data-end="1289"><span role="text"><strong data-start="1271" data-end="1289">Event Overview</strong></span></h3><p data-start="1291" data-end="1426">The 2026 event will follow a multi-day format combining scientific exchange, collaboration planning, and community-building activities.</p><p data-start="1428" data-end="1646"><strong data-start="1428" data-end="1474">22 July 2026 (Afternoon) – Pre-Workshop Session</strong><br data-start="1474" data-end="1477" />A half-day session dedicated to <strong data-start="1509" data-end="1541">Large Language Models (LLMs)</strong> and <strong data-start="1546" data-end="1565">AI applications</strong>, featuring focused talks and discussions to set the stage for the main workshop.</p><p data-start="1648" data-end="1757"><strong data-start="1648" data-end="1678">23–24 July 2026 – Main Workshop</strong><br data-start="1678" data-end="1681" />These two days will follow a format similar to previous editions, including:</p><ul data-start="1758" data-end="2011"><li data-section-id="1djw5w2" data-start="1758" data-end="1801">Presentations from partner institutions</li><li data-section-id="5bb44i" data-start="1802" data-end="1856">Review of progress and outcomes from the past year</li><li data-section-id="h77sxr" data-start="1857" data-end="1941">Discussions on ongoing research areas (Citizen Science, LiveKnowledge, LiveData)</li><li data-section-id="137c28c" data-start="1942" data-end="2011">Planning of future collaborations, joint labs, and pilot projects</li></ul><p data-start="2013" data-end="2167"><strong data-start="2013" data-end="2040">24 July 2026 – Social Dinner</strong><br data-start="2040" data-end="2043" />A social gathering for all participants (venue to be confirmed), fostering informal exchange and strengthening partnerships.</p><p data-start="2169" data-end="2342"><strong data-start="2169" data-end="2193">25 July 2026 – Safari Day</strong><br data-start="2193" data-end="2196" />A dedicated cultural and networking experience, offering participants the opportunity to explore the natural environment of South Africa together.</p><h3 data-section-id="1x0dj6w" data-start="2621" data-end="2654"><span role="text"><strong data-start="2625" data-end="2654">Focus of the 2026 Edition</strong></span></h3><p data-start="2656" data-end="2720">Building on previous workshops, the 2026 edition will emphasize:</p><ul data-start="2722" data-end="3040"><li data-section-id="glv0n9" data-start="2722" data-end="2791">Advancing <strong data-start="2734" data-end="2755">person-centric AI</strong> through real-world pilot projects</li><li data-section-id="146dbre" data-start="2792" data-end="2880">Strengthening <strong data-start="2808" data-end="2832">global collaboration </strong><span data-start="2808" data-end="2832">and</span> exploring potential partnership opportunities with new South African universities participating.</li><li data-section-id="vu35vv" data-start="2881" data-end="2968">Scaling <strong data-start="2891" data-end="2920">citizen science practices</strong> across education, language, and personal data</li><li data-section-id="542ck7" data-start="2969" data-end="3040">Exploring <strong data-start="2981" data-end="3009">LLMs and AI applications</strong> in community-driven contexts</li></ul><p data-start="3042" data-end="3207">Participants will be encouraged not only to share insights but also to actively contribute to shaping and leading DataScientia initiatives in their local ecosystems.</p></div>								</div>
+									<h4><span data-start="144" data-end="216">DataScientia will host its 2026 annual workshop at Durban University of Technology in Durban, bringing together partner universities from across Europe, Asia, Africa, and South America, along with new collaborators from South Africa.</span></h4><div><p data-start="218" data-end="488">DataScientia aims to become a citizen science community of practice devoted to person-centric general AI (PCAGI). Rather than treating individuals as passive data sources, we focus on empowering people with tools and technologies to understand, manage, and use their data—supporting the development of AI systems that are transparent, inclusive, and beneficial to society.</p><p data-start="864" data-end="981">Our long-term vision is to build a fully operational global citizen science ecosystem where partners collaboratively:</p><ul data-start="983" data-end="1260"><li data-section-id="1xq6gjz" data-start="983" data-end="1020">Design, offer, and localize MOOCs</li><li data-section-id="y9yxx" data-start="1021" data-end="1102">Collect and analyze personal data through shared infrastructures such as iLog</li><li data-section-id="vn461g" data-start="1103" data-end="1177">Contribute linguistic and cultural resources to improve AI inclusivity</li><li data-section-id="145mdlk" data-start="1178" data-end="1260">Disseminate knowledge through open platforms, media, and community initiatives</li></ul></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-6c4b24b thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="6c4b24b" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+					<div class="sc_heading text-center"><h3 class="title">Event Overview </h3><span class="line"></span></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d761444 elementor-widget elementor-widget-text-editor" data-id="d761444" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h4><span style="font-family: Roboto, sans-serif; font-weight: 400; color: #676767; font-size: 15px;">The 2026 event will follow a multi-day format combining scientific exchange, collaboration planning, and community-building activities.</span></h4><div><p data-start="1428" data-end="1646"><strong data-start="1428" data-end="1474">22 July 2026 – </strong><b>Workshop Opening</b></p><p data-start="1428" data-end="1646">A full day dedicated to <strong data-start="1509" data-end="1541">Large Language Models (LLMs)</strong> and <strong data-start="1546" data-end="1565">AI applications</strong>, featuring focused talks and discussions to set the stage for the main workshop.</p><p data-start="1648" data-end="1757"><strong data-start="1648" data-end="1678">23–24 July 2026 – Main Workshop</strong><br data-start="1678" data-end="1681" />These two days will follow a format similar to previous editions, including:</p><ul data-start="1758" data-end="2011"><li data-section-id="1djw5w2" data-start="1758" data-end="1801">Presentations from partner institutions</li><li data-section-id="5bb44i" data-start="1802" data-end="1856">Review of progress and outcomes from the past year</li><li data-section-id="h77sxr" data-start="1857" data-end="1941">Discussions on ongoing research areas (Citizen Science, LiveKnowledge, LiveData)</li><li data-section-id="137c28c" data-start="1942" data-end="2011">Planning of future collaborations, joint labs, and pilot projects</li></ul><p data-start="2013" data-end="2167"><strong data-start="2013" data-end="2040">24 July 2026 – Social Dinner</strong><br data-start="2040" data-end="2043" />A social gathering for all participants (venue to be confirmed), fostering informal exchange and strengthening partnerships.</p><p data-start="2169" data-end="2342"><strong data-start="2169" data-end="2193">25 July 2026 – Cultural Experience Tours</strong><br data-start="2193" data-end="2196" />A dedicated cultural and networking experience, offering participants the opportunity to explore the natural environment of South Africa together. Please refer to the travel &amp; tours section for more information about available options and activities.</p><h3 data-section-id="1x0dj6w" data-start="2621" data-end="2654"><span role="text"><strong data-start="2625" data-end="2654">Focus of the 2026 Edition</strong></span></h3><p data-start="2656" data-end="2720">Building on previous workshops, the 2026 edition will emphasize:</p><ul data-start="2722" data-end="3040"><li data-section-id="glv0n9" data-start="2722" data-end="2791">Advancing <strong data-start="2734" data-end="2755">person-centric AI</strong> through real-world pilot projects</li><li data-section-id="146dbre" data-start="2792" data-end="2880">Strengthening <strong data-start="2808" data-end="2832">global collaboration </strong><span data-start="2808" data-end="2832">and</span> exploring potential partnership opportunities with new South African universities participating.</li><li data-section-id="vu35vv" data-start="2881" data-end="2968">Scaling <strong data-start="2891" data-end="2920">citizen science practices</strong> across education, language, and personal data</li><li data-section-id="542ck7" data-start="2969" data-end="3040">Exploring <strong data-start="2981" data-end="3009">LLMs and AI applications</strong> in community-driven contexts</li></ul><p data-start="3042" data-end="3207">Participants will be encouraged not only to share insights but also to actively contribute to shaping and leading DataScientia initiatives in their local ecosystems.</p></div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-e5071ee thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="e5071ee" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+					<div class="sc_heading text-center"><h3 class="title">Program Details </h3><span class="line"></span></div>				</div>
 				</div>
 				<div class="elementor-element elementor-element-b9dc015 elementor-widget elementor-widget-text-editor" data-id="b9dc015" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<h2>Program Details</h2><p data-start="3239" data-end="3305">The <strong data-start="3243" data-end="3304">full program and detailed schedule will be announced soon</strong>.</p>								</div>
+									<h2><span style="font-family: Roboto, sans-serif; font-weight: 400; color: #676767; font-size: 15px;">The </span><strong style="font-family: Roboto, sans-serif; color: #676767; font-size: 15px;" data-start="3243" data-end="3304">full program and detailed schedule will be announced soon</strong><span style="font-family: Roboto, sans-serif; font-weight: 400; color: #676767; font-size: 15px;">.</span></h2>								</div>
 				</div>
-				<div class="elementor-element elementor-element-141769a elementor-widget elementor-widget-text-editor" data-id="141769a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-362b48a thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="362b48a" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
-									<h2>Practical information</h2><h4>✦ Venue</h4><p>The meeting will take place at the <a href="https://www.dut.ac.za/" target="_blank" rel="noopener">Durban University of Technology</a> in <span style="text-align: justify;">Durban, South Africa.<br /></span><span style="text-align: justify;">Tentative Dates: 22-25 July 2026</span></p><h4>✦ Event Format</h4><p>The event will be held in a <b>hybrid format</b>, allowing both in-person participation in Durban and online attendance for partners who are unable to travel.<br /><b><u>Online Meeting Link:</u> </b>Meeting link will be published on this page right before the event and will also be shared through email with event participant.<b> </b></p><h4>✦ Additional Information:</h4><p><span style="text-align: justify;">Details regarding accommodation, Zoom access, and the social dinner venue will be shared closer to the event.</span></p><h2>Event Location:</h2><p>The meeting will take place at <a style="transition-property: all; background-color: #ffffff;" href="https://www.dut.ac.za/" target="_blank" rel="noopener">Durban University of Technology</a> in <span style="text-align: justify;">Durban, South Africa</span>. </p><p><strong>Address:</strong> <a style="background-color: #ffffff;" href="https://maps.app.goo.gl/xDkn27foVdHoAbKy5" target="_blank" rel="noopener">41/43 M L Sultan Rd, Greyville, Durban, 4001, South Africa</a></p>								</div>
+					<div class="sc_heading text-center"><h3 class="title">Practical information </h3><span class="line"></span></div>				</div>
 				</div>
-				<div class="elementor-element elementor-element-2b48f8a elementor-widget elementor-widget-google_maps" data-id="2b48f8a" data-element_type="widget" data-widget_type="google_maps.default">
+		<div class="elementor-element elementor-element-d9866dd e-con-full e-flex e-con e-child" data-id="d9866dd" data-element_type="container">
+		<div class="elementor-element elementor-element-d7491be e-con-full e-grid e-con e-child" data-id="d7491be" data-element_type="container">
+		<div class="elementor-element elementor-element-42f5797 e-grid e-con-full e-con e-child" data-id="42f5797" data-element_type="container">
+				<div class="elementor-element elementor-element-47a7e62 elementor-widget elementor-widget-text-editor" data-id="47a7e62" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h4>Event Location</h4><p>The event will take place at the <a href="https://www.dut.ac.za/faculty/accounting_and_informatics/"><span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline"><span class="whitespace-normal">Faculty of Accounting and Informatics</span></span></a> at the the <a href="https://www.dut.ac.za/" target="_blank" rel="noopener">Durban University of Technology (DUT)</a> in Durban, South Africa.</p><p><strong>Address:</strong> <a href="https://maps.app.goo.gl/xDkn27foVdHoAbKy5" target="_blank" rel="noopener">41/43 M L Sultan Rd, Greyville, Durban, 4001, South Africa</a></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-5f36fd7 elementor-widget elementor-widget-google_maps" data-id="5f36fd7" data-element_type="widget" data-widget_type="google_maps.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-custom-embed">
 			<iframe loading="lazy"
@@ -61,13 +80,72 @@
 		</div>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-1bdc19c elementor-widget elementor-widget-spacer" data-id="1bdc19c" data-element_type="widget" data-widget_type="spacer.default">
+				</div>
+		<div class="elementor-element elementor-element-8061e89 e-grid e-con-full e-con e-child" data-id="8061e89" data-element_type="container">
+		<div class="elementor-element elementor-element-e19c7f2 e-con-full e-flex e-con e-child" data-id="e19c7f2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-541b1be elementor-widget elementor-widget-text-editor" data-id="541b1be" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
+									<h4 style="text-align: center;"><span style="color: #ffffff;"><strong>Dates</strong></span></h4>
+<p style="text-align: center;">22-25 July 2026</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b305d17 e-con-full e-flex e-con e-child" data-id="b305d17" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-5b5649f elementor-widget elementor-widget-text-editor" data-id="5b5649f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h4 style="text-align: center;"><span style="color: #ffffff;"><strong>Fromat</strong></span></h4><p style="text-align: center;">hybrid ( In-person &amp; Online )</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9aa409d e-con-full e-flex e-con e-child" data-id="9aa409d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-b75778f elementor-widget elementor-widget-text-editor" data-id="b75778f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h4 style="text-align: center;"><span style="color: #ffffff;"><strong>Participation Cost</strong></span></h4><p style="text-align: center;">Participation to the event is free of charge.</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-141769a elementor-widget elementor-widget-text-editor" data-id="141769a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h2><span style="font-size: 18px;">✦ How to Join Online?</span></h2><p><b><u>Online Meeting Link:</u> </b>Meeting link will be published on this page right before the event and will also be shared through email with event participant.<b> </b></p><h4 style="font-family: 'Roboto Slab'; font-weight: 600; line-height: 28.8px; color: #000000; font-size: 18px; text-transform: none;">✦ Additional Information:</h4><div>Participants wishing to join physically at Durban, South Africa need to notify the local organizing committee for logistics purposes. Please refer to the contact details in the end of the page.</div><div> </div><p><span style="text-align: justify;">Details regarding accommodation, Zoom access, and the social dinner venue will be shared closer to the event.</span></p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e76b6b5 e-flex e-con-boxed e-con e-parent" data-id="e76b6b5" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-b5e6da3 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="b5e6da3" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+					<div class="sc_heading text-center"><h3 class="title">About the  <span class="thim-color">host institution</span></h3><span class="line"></span></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d6e77c2 elementor-widget elementor-widget-text-editor" data-id="d6e77c2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><img decoding="async" class="size-medium wp-image-31794 alignleft" src="/wp-content/uploads/2026/03/FAI-LOGO-300x149.jpg" alt="" width="300" height="149" srcset="/wp-content/uploads/2026/03/FAI-LOGO-300x149.jpg 300w, /wp-content/uploads/2026/03/FAI-LOGO-1024x508.jpg 1024w, /wp-content/uploads/2026/03/FAI-LOGO-768x381.jpg 768w, /wp-content/uploads/2026/03/FAI-LOGO-1536x761.jpg 1536w, /wp-content/uploads/2026/03/FAI-LOGO-2048x1015.jpg 2048w, /wp-content/uploads/2026/03/FAI-LOGO-600x297.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />The <a href="https://www.dut.ac.za/faculty/accounting_and_informatics/">Faculty of Accounting and Informatics</a> at the <a href="https://www.dut.ac.za/">Durban University of Technology (DUT)</a> is a forward-looking academic faculty dedicated to excellence in accounting, information technology, and business informatics education. ​</p><p>The faculty offers a range of undergraduate and postgraduate programs that integrate theoretical knowledge with practical, real-world application. Key disciplines include accounting, auditing, taxation, information systems, and computer science, with a strong emphasis on digital transformation and data-driven innovation.</p><p>Through close collaboration with industry partners and a commitment to applied research, the faculty contributes to addressing regional and global challenges—particularly in areas such as data analytics, information management, and emerging technologies.</p><p>As part of DUT’s mission, the faculty promotes innovation, entrepreneurship, and community engagement, making it an ideal host for international initiatives such as the DataScientia Event 2026, which aligns with its focus on advancing data science, artificial intelligence, and global collaboration.</p>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4bf739d e-flex e-con-boxed e-con e-parent" data-id="4bf739d" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-af5c257 thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="af5c257" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+					<div class="sc_heading text-center"><h4 class="title">Discover Durban – Why Attend in Person? </h4><span class="line"></span></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-78ad721 elementor-widget elementor-widget-video" data-id="78ad721" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=qP4GaGF-lp0&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
 						</div>
 				</div>
+				<div class="elementor-element elementor-element-ec5498d elementor-widget elementor-widget-text-editor" data-id="ec5498d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<blockquote class="italic text-primary-light mb-4"><p>“I believe that South Africa is the most beautiful place on earth&#8230;” — Nelson Mandela</p></blockquote><p class="text-lg leading-8 text-[#474747]">South Africa’s beauty is unmatched, from magnificent mountains to amazing coastlines, vibrant communities, and a rich tapestry of cultures. Durban offer stunning sandy beaches perfect for year-round swimming and surfing, lush parks like the renowned Durban Botanic Gardens, and a welcoming atmosphere.</p><p class="text-lg leading-8 text-[#474747] mt-4">For an immersive local experience, <a class="text-primary-light underline ml-1" href="https://kimburi.com/" target="_blank" rel="noopener noreferrer">Kimburi Tours</a> offers half-day city tours, full-day adventures, and multi-day trips exploring the KwaZulu-Natal region’s wildlife and culture.</p>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4386a22 e-flex e-con-boxed e-con e-parent" data-id="4386a22" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8c9bfcb thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="8c9bfcb" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+					<div class="sc_heading text-center"><h3 class="title">Organising Committee </h3><span class="line"></span></div>				</div>
+				</div>
+					</div>
 				</div>
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-6739e4a elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6739e4a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
@@ -76,23 +154,53 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-782fa1d elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="782fa1d" data-element_type="widget" data-widget_type="thim-heading.default">
 				<div class="elementor-widget-container">
-					<div class="sc_heading"><h3 class="title">Event Organizers </h3><span class="line"></span></div>				</div>
+					<div class="sc_heading"><h4 class="title">DataScientia Members </h4><span class="line"></span></div>				</div>
 				</div>
-				<div class="elementor-element elementor-element-ebf93e5 elementor-widget thim-widget-gallery-images" data-id="ebf93e5" data-element_type="widget" data-widget_type="thim-gallery-images.default">
+				<div class="elementor-element elementor-element-2819b08 elementor-widget thim-widget-gallery-images" data-id="2819b08" data-element_type="widget" data-widget_type="thim-gallery-images.default">
 				<div class="elementor-widget-container">
-					<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><a target=_self href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX1%252BDcXIyZtw79M5coIPrOahzxcVvxuYXb3B6q1bbWqLQSqeOGncqVEOy"><img decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/download-3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/download-3-150x150.jpg 150w, /wp-content/uploads/2024/07/download-3-300x300.jpg 300w, /wp-content/uploads/2024/07/download-3-100x100.jpg 100w, /wp-content/uploads/2024/07/download-3.jpg 312w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Ali Hamza <br> <small>Community Event Coordinator</small></h4></a></div></div>				</div>
-				</div>
-				<div class="elementor-element elementor-element-899298e elementor-widget elementor-widget-spacer" data-id="899298e" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-						</div>
+					<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><a target=_self href="http://fausto.disi.unitn.it/"><img decoding="async" width="150" height="150" src="/wp-content/uploads/2026/03/pro-fausto-orgcomt-e1775555619441-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2026/03/pro-fausto-orgcomt-e1775555619441-150x150.jpg 150w, /wp-content/uploads/2026/03/pro-fausto-orgcomt-e1775555619441-100x100.jpg 100w, /wp-content/uploads/2026/03/pro-fausto-orgcomt-e1775555619441.jpg 280w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Fausto Giunchiglia<br><small>Coordinator DataScientia</small><br><small>University of Trento</small></h4></a></div><div class="item"><a target=_self href="https://ds.datascientia.eu/community/public/profile/U2FsdGVkX18cXQdG0cmoMJgSOEzc8%252BHOTi5YtB60OWNQBcCp7zWbEFYcn4X8f9xb"><img decoding="async" width="150" height="150" src="/wp-content/uploads/2024/07/download-3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2024/07/download-3-150x150.jpg 150w, /wp-content/uploads/2024/07/download-3-300x300.jpg 300w, /wp-content/uploads/2024/07/download-3-100x100.jpg 100w, /wp-content/uploads/2024/07/download-3.jpg 312w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Ali Hamza <br><small>DS Event Coordinator</small><br><small>University of Trento</small></h4></a></div></div>				</div>
 				</div>
 					</div>
 		</div>
 					</div>
 		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9e991cb elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9e991cb" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e913857" data-id="e913857" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-841d468 elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="841d468" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+					<div class="sc_heading"><h4 class="title">Local Organizing Committee Members </h4><span class="line"></span></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2036c71 elementor-widget thim-widget-gallery-images" data-id="2036c71" data-element_type="widget" data-widget_type="thim-gallery-images.default">
+				<div class="elementor-widget-container">
+					<div class="thim-carousel-wrapper gallery-img" data-visible="5" data-autoplay="0" data-navigation="0" data-pagination="0" data-loop="true"><div class="item"><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2026/03/pro-ojo-orgcomt-e1775555641535-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2026/03/pro-ojo-orgcomt-e1775555641535-150x150.jpg 150w, /wp-content/uploads/2026/03/pro-ojo-orgcomt-e1775555641535-300x300.jpg 300w, /wp-content/uploads/2026/03/pro-ojo-orgcomt-e1775555641535-100x100.jpg 100w, /wp-content/uploads/2026/03/pro-ojo-orgcomt-e1775555641535.jpg 433w" sizes="(max-width: 150px) 100vw, 150px" /><h4>Sunday Ojo <br><small>Durban University of Technology</small></h4></div></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+		<div class="elementor-element elementor-element-cb30b0b e-flex e-con-boxed e-con e-parent" data-id="cb30b0b" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-eaa45ae thim-ekits-heading-text-center elementor-widget thim-ekits-heading elementor-widget-thim-heading" data-id="eaa45ae" data-element_type="widget" data-widget_type="thim-heading.default">
+				<div class="elementor-widget-container">
+					<div class="sc_heading text-center"><h3 class="title">Event Sponsors </h3><span class="line"></span></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-46bef02 e-con-full e-grid e-con e-child" data-id="46bef02" data-element_type="container">
+				<div class="elementor-element elementor-element-b153258 iconbox-text-center elementor-widget elementor-widget-thim-icon-box" data-id="b153258" data-element_type="widget" data-widget_type="thim-icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image text-center contact_info"><div class="smicon-box iconbox-top"><div class="boxes-icon"><a class="icon-box-link" href="https://visitkzn-sa.com/" target="_blank" rel="nofollow"><span class="inner-icon"><span class="icon icon-images"><img loading="lazy" decoding="async" src="/wp-content/uploads/2026/03/KZN-Splash-logo-Yellow.png" alt="KZN-Splash-logo-Yellow" title="KZN-Splash-logo-Yellow"  width="2732" height="963"></span></span></a></div><div class="content-inner"></div></div></div></div>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e6c68ae e-con-full e-flex e-con e-child" data-id="e6c68ae" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-a75cb90 elementor-widget elementor-widget-text-editor" data-id="a75cb90" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h3 class="text-lg font-bold text-primary-light mb-4">Disclaimer</h3><ul class="list-disc ml-6 text-[#474747] leading-8"><li>We strongly advise participants to personally check entry and visa requirements before making travel arrangements, as there might be country-specific conditions you are not aware of. Please contact the South African embassy/consulate in your home country for the most accurate information.</li><li>DataScientia will NOT issue any Letter of Sponsorship or Letter of Guarantee if required by immigration authorities.</li><li>DataScientia will not refund participants for cancellations due to visa rejections or inability to enter South Africa.</li><li>DataScientia cannot influence the decision of the South African embassy/consulate or appeal on behalf of applicants.</li><li>No liability is accepted for any loss, damage, or inconvenience arising from reliance on the information provided.</li></ul>								</div>
+				</div>
+				</div>
 		<div class="elementor-element elementor-element-997f8a3 e-flex e-con-boxed e-con e-parent" data-id="997f8a3" data-element_type="container">
 					<div class="e-con-inner">
 					</div>
