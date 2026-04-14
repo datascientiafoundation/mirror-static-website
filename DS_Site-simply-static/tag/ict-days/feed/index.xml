@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ICT days &#8211; DataScientia</title>
+	<atom:link href="/tag/ict-days/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DataScientia Initiative website</description>
+	<lastBuildDate>Mon, 13 Apr 2026 09:49:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.8</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/03/DS-fav-icon-32x32.png</url>
+	<title>ICT days &#8211; DataScientia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Al for All: AI for All: Initiatives, Pathways, and Training Opportunities</title>
+		<link>/ai-for-all-seminar-at-ictdays-2026/</link>
+		
+		<dc:creator><![CDATA[Ali Hamza]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 09:01:47 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[DataScientia]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[ICT days]]></category>
+		<category><![CDATA[knowdive]]></category>
+		<category><![CDATA[Partners]]></category>
+		<category><![CDATA[uniTrento]]></category>
+		<guid isPermaLink="false">/?p=31893</guid>
+
+					<description><![CDATA[DataScientia is pleased to announce the participation of our member Matteo Busso in the upcoming ICT Days 2026, a leading initiative dedicated to Information and Communication Technologies organized by the University of Trento. As part of the program, the event &#8230; ]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="31893" class="elementor elementor-31893">
+				<div class="elementor-element elementor-element-16fd9c79 e-flex e-con-boxed e-con e-parent" data-id="16fd9c79" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-23f82517 elementor-widget elementor-widget-text-editor" data-id="23f82517" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-31941 size-full" src="/wp-content/uploads/2026/04/DS-News-2026-04-news5-banner-1.png" alt="" width="1548" height="396" srcset="/wp-content/uploads/2026/04/DS-News-2026-04-news5-banner-1.png 1548w, /wp-content/uploads/2026/04/DS-News-2026-04-news5-banner-1-300x77.png 300w, /wp-content/uploads/2026/04/DS-News-2026-04-news5-banner-1-1024x262.png 1024w, /wp-content/uploads/2026/04/DS-News-2026-04-news5-banner-1-768x196.png 768w, /wp-content/uploads/2026/04/DS-News-2026-04-news5-banner-1-1536x393.png 1536w, /wp-content/uploads/2026/04/DS-News-2026-04-news5-banner-1-600x153.png 600w" sizes="(max-width: 1548px) 100vw, 1548px" /></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-20665e79 elementor-widget elementor-widget-text-editor" data-id="20665e79" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p data-start="37" data-end="507">DataScientia is pleased to announce the participation of our member <span data-start="398" data-end="414">Matteo Busso</span> in the upcoming <a href="https://www.ictdays.it/">ICT Days 2026</a>, a leading initiative dedicated to Information and Communication Technologies organized by the University of Trento.</p><p data-start="587" data-end="824">As part of the program, the event will feature a <span data-start="636" data-end="748">Seminar with Matteo Busso </span><span data-start="636" data-end="748">(<a style="font-weight: 400; transition-property: all; background-color: #ffffff;" href="https://www.unitn.it/en" target="_blank" rel="noopener">University of Trento</a><b>, </b><a href="https://www.disi.unitn.it/" target="_blank" rel="noopener">Department of Information Engineering and Computer Science</a>)</span> titled <span data-start="756" data-end="823"><b>“AI for All: Initiatives, Pathways, and Training Opportunities”</b></span>.</p><p data-start="826" data-end="1109">In a historical moment in which artificial intelligence is redefining processes, skills, and decision-making methods, the seminar will explore the central role of education in enabling individuals to understand AI, interpret its impact, and contribute consciously to its development.</p><p data-start="1111" data-end="1414">The session will present initiatives promoted by the Department of Information Engineering and Computer Science in collaboration with the Knowdive group and DataScientia, aimed at advancing <strong data-start="1301" data-end="1350">human-centered, inclusive, and common-good AI</strong> through the integration of education, research, and innovation.</p><p data-start="1416" data-end="1678">This vision is reflected in the development of <strong data-start="1463" data-end="1519">accessible, modular, and adaptable training pathways</strong>, designed to meet the needs of diverse audiences, from beginners to professionals, and to foster a critical, practical, and market-relevant understanding of AI.</p><p data-start="1680" data-end="1761">Within this framework, the seminar will highlight two major European initiatives:</p><ul data-start="1762" data-end="1923"><li data-section-id="gvfo05" data-start="1762" data-end="1839"><a href="https://www.edvance.it/edvance/app/home" target="_blank" rel="noopener">PNRR EDVANCE EAI</a>, focused on strengthening advanced digital education</li><li data-section-id="1vop2p6" data-start="1840" data-end="1923"><a href="https://www.cycat.io/projects/ai4everyone/" target="_blank" rel="noopener">Erasmus+ AI4EVERYONE</a>, aimed at expanding access to high-quality AI training</li></ul><p data-start="1925" data-end="2025">The talk will also provide an overview of current and upcoming educational opportunities, including:</p><ul data-start="2026" data-end="2158"><li data-section-id="39uq5r" data-start="2026" data-end="2069">courses for students and academic staff</li><li data-section-id="1flb8z9" data-start="2070" data-end="2107">online learning formats and MOOCs</li><li data-section-id="160eyf3" data-start="2108" data-end="2158">specialized initiatives such as Winter Schools</li></ul><p data-start="2160" data-end="2350">The ICT Days continues to serve as a key platform connecting academia, industry, and students, fostering dialogue around emerging technologies and future skills.</p><p data-start="2160" data-end="2350">Through its participation, DataScientia reinforces its commitment to promoting AI literacy and supporting the development of inclusive and responsible approaches to artificial intelligence across Europe.</p><p><span style="font-weight: bold;">About the Seminar</span></p><ul><li><strong>Location:</strong> CLab – School of Innovation, Trento</li><li><strong>Date &amp; Time:</strong> 23 April, 15:30 – 16:30</li></ul><p data-start="1704" data-end="1962" data-is-last-node="" data-is-only-node=""><b>Useful links</b></p><ul><li data-start="1704" data-end="1962"><a href="https://www.ictdays.it/programma/seminario-ai-per-tutti/" target="_blank" rel="noopener">Read more</a> about the seminar. </li><li data-start="1704" data-end="1962"><a href="https://www.ictdays.it/" target="_blank" rel="noopener">Read more</a> about ICT Days 2026</li></ul>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-380b5cd e-flex e-con-boxed e-con e-parent" data-id="380b5cd" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-25a45eb e-con-full e-flex e-con e-child" data-id="25a45eb" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:&quot;26098&quot;,&quot;url&quot;:&quot;\/wp-content\/uploads\/2024\/12\/ds-cover-2560x1440px-white.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+		<div class="elementor-element elementor-element-db823bc e-con-full e-flex e-con e-child" data-id="db823bc" data-element_type="container">
+				<div class="elementor-element elementor-element-c6f7122 elementor-widget__width-initial elementor-widget elementor-widget-thim-single-images" data-id="c6f7122" data-element_type="widget" data-widget_type="thim-single-images.default">
+				<div class="elementor-widget-container">
+					<div class="single-image template-base"><img decoding="async" width="150" height="150" src="/wp-content/uploads/2026/04/matteo-unitn-pp-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/wp-content/uploads/2026/04/matteo-unitn-pp-150x150.jpg 150w, /wp-content/uploads/2026/04/matteo-unitn-pp-300x300.jpg 300w, /wp-content/uploads/2026/04/matteo-unitn-pp-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ed3c4df e-con-full e-flex e-con e-child" data-id="ed3c4df" data-element_type="container">
+				<div class="elementor-element elementor-element-de07e14 elementor-widget elementor-widget-text-editor" data-id="de07e14" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span style="color: #7d0404;"><strong>Speaker</strong></span></p><p><strong style="font-family: var( --e-global-typography-secondary-font-family ), Sans-serif; font-size: var(--thim-font-body-font-size); text-align: var(--text-align);">Matteo Busso<br /></strong>Postdoctoral Researcher <br /><i>University of Trento</i><br /><br /></p>								</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
